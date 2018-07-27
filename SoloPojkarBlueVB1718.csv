@@ -1,359 +1,1266 @@
-"","Referee","Arena","CountPerArena","TotalCount"
-"1","Adam Andersson","Midgårdshallen",1,2
-"2","Adam Andersson","Täftehallen",1,2
-"3","Agnes Persson","Midgårdshallen",1,4
-"4","Agnes Persson","Ersängshallen",1,4
-"5","Agnes Persson","Vildmannahallen",2,4
-"6","Albin Berglund","Täftehallen",1,1
-"7","Albin Carlsten","Anderstorpshallen",2,8
-"8","Albin Carlsten","Eddahallen",2,8
-"9","Albin Carlsten","Balderhallen B",4,8
-"10","Alex Levander","Örjanshallen",2,2
-"11","Alexander Holmgren","Sjöfruhallen",1,4
-"12","Alexander Holmgren","Sporthallen Musköten",1,4
-"13","Alexander Holmgren","Täftehallen",1,4
-"14","Alexander Holmgren","Sävaråhallen",1,4
-"15","Alexandra Nimrodsson","Vildmannahallen",1,2
-"16","Alexandra Nimrodsson","Storsjöhallen",1,2
-"17","Alva Bergström","Midgårdshallen",2,4
-"18","Alva Bergström","Olasjöhallen",2,4
-"19","Alva Forss","Ersängshallen",1,16
-"20","Alva Forss","Midgårdshallen",2,16
-"21","Alva Forss","Sporthallen Musköten",1,16
-"22","Alva Forss","Ålidhemshallen",1,16
-"23","Alva Forss","Vildmannahallen",9,16
-"24","Alva Forss","Sporthushallen",2,16
-"25","Alvin Gustavsson","Lejonströmshallen",1,4
-"26","Alvin Gustavsson","Eddahallen",1,4
-"27","Alvin Gustavsson","Balderhallen B",2,4
-"28","Alvina Mukkala","Elofssonhallen",3,8
-"29","Alvina Mukkala","Hammarhallen Vännäs",4,8
-"30","Alvina Mukkala","Sporthallen Musköten",1,8
-"31","Amelia Forsgren","Elofssonhallen",1,9
-"32","Amelia Forsgren","Sjöfruhallen",2,9
-"33","Amelia Forsgren","Sporthallen Musköten",1,9
-"34","Amelia Forsgren","Ålidhemshallen",1,9
-"35","Amelia Forsgren","Midgårdshallen",4,9
-"36","Andre Williams","Elofssonhallen",2,12
-"37","Andre Williams","Sporthallen Musköten",1,12
-"38","Andre Williams","Umeå Energi Arena Öst",2,12
-"39","Andre Williams","Vildmannahallen",3,12
-"40","Andre Williams","Sjöfruhallen",2,12
-"41","Andre Williams","Sävaråhallen",2,12
-"42","Andreas Eriksson","Hammarhallen Vännäs",1,1
-"43","Andreas Åström","Balderhallen A",2,6
-"44","Andreas Åström","Örjanshallen",1,6
-"45","Andreas Åström","Balderhallen B",3,6
-"46","Anna Andersson","Midgårdshallen",1,9
-"47","Anna Andersson","Bråvallahallen",5,9
-"48","Anna Andersson","Elofssonhallen",2,9
-"49","Anna Andersson","Sporthallen Musköten",1,9
-"50","Annika Kimmel","Midgårdshallen",1,1
-"51","Anton Sundström","Eddahallen",1,2
-"52","Anton Sundström","Balderhallen B",1,2
-"53","Arvid Oscarsson","Bråvallahallen",1,1
-"54","Björn Glad","Bråvallahallen",1,6
-"55","Björn Glad","Sporthallen Musköten",2,6
-"56","Björn Glad","Sävaråhallen",1,6
-"57","Björn Glad","Storsjöhallen",1,6
-"58","Björn Glad","Elofssonhallen",1,6
-"59","Bobby Hjelte","Örjanshallen",1,3
-"60","Bobby Hjelte","Eddahallen",1,3
-"61","Bobby Hjelte","Balderhallen A",1,3
-"62","Cajsa Alm","Sjöfruhallen",1,1
-"63","Cajsa Lundkvist","Täftehallen",1,6
-"64","Cajsa Lundkvist","Sporthallen Musköten",5,6
-"65","Carl Holmlund","Sporthallen Musköten",1,4
-"66","Carl Holmlund","Vildmannahallen",3,4
-"67","Carl Rosenberg","Balderhallen A",1,4
-"68","Carl Rosenberg","Eddahallen",3,4
-"69","Casper Hjelte","Campushallen",1,13
-"70","Casper Hjelte","Balderhallen A",3,13
-"71","Casper Hjelte","Eddahallen",3,13
-"72","Casper Hjelte","Balderhallen B",6,13
-"73","Christoffer Lind","Ersängshallen",1,5
-"74","Christoffer Lind","Bråvallahallen",3,5
-"75","Christoffer Lind","Hammarhallen Vännäs",1,5
-"76","Clara Thunell","Vildmannahallen",4,14
-"77","Clara Thunell","Sjöfruhallen",3,14
-"78","Clara Thunell","Midgårdshallen",1,14
-"79","Clara Thunell","Sporthallen Musköten",3,14
-"80","Clara Thunell","Sporthushallen",3,14
-"81","Daniel Degerman","Balderhallen A",2,3
-"82","Daniel Degerman","Balderhallen B",1,3
-"83","Daniel Johannesson","Elofssonhallen",1,1
-"84","David Karlsson","Midgårdshallen",1,5
-"85","David Karlsson","Umeå Energi Arena Vatten",1,5
-"86","David Karlsson","FC Vindeln",1,5
-"87","David Karlsson","Vildmannahallen",2,5
-"88","David Morén","Eddahallen",2,4
-"89","David Morén","Balderhallen B",2,4
-"90","Edvin Bonn","Storsjöhallen",2,5
-"91","Edvin Bonn","Täftehallen",1,5
-"92","Edvin Bonn","Ersängshallen",1,5
-"93","Edvin Bonn","Midgårdshallen",1,5
-"94","Elias Bark Pettersson","Balderhallen B",1,5
-"95","Elias Bark Pettersson","Balderhallen A",4,5
-"96","Elias Norden","Balderhallen B",1,4
-"97","Elias Norden","Eddahallen",1,4
-"98","Elias Norden","Balderhallen A",2,4
-"99","Elin Lustig","Ersängshallen",1,12
-"100","Elin Lustig","Sporthallen Musköten",4,12
-"101","Elin Lustig","Täftehallen",1,12
-"102","Elin Lustig","Midgårdshallen",2,12
-"103","Elin Lustig","Elofssonhallen",2,12
-"104","Elin Lustig","Vildmannahallen",2,12
-"105","Elin Wirtala","Olasjöhallen",3,14
-"106","Elin Wirtala","Midgårdshallen",3,14
-"107","Elin Wirtala","Vildmannahallen",4,14
-"108","Elin Wirtala","Sjöfruhallen",1,14
-"109","Elin Wirtala","Storsjöhallen",2,14
-"110","Elin Wirtala","Sporthallen Musköten",1,14
-"111","Elina Snickars","Midgårdshallen",2,2
-"112","Ella Swanemar","Vildmannahallen",3,11
-"113","Ella Swanemar","Midgårdshallen",2,11
-"114","Ella Swanemar","Sjöfruhallen",1,11
-"115","Ella Swanemar","Täftehallen",1,11
-"116","Ella Swanemar","Ersängshallen",1,11
-"117","Ella Swanemar","Elofssonhallen",1,11
-"118","Ella Swanemar","Ålidhemshallen",2,11
-"119","Elliot Johansson","Örjanshallen",2,2
-"120","Elliot Sigården","Eddahallen",1,1
-"121","Elsa Lustig","Midgårdshallen",1,18
-"122","Elsa Lustig","Vildmannahallen",7,18
-"123","Elsa Lustig","Täftehallen",2,18
-"124","Elsa Lustig","Sävaråhallen",2,18
-"125","Elsa Lustig","Umeå Energi Arena Väst",1,18
-"126","Elsa Lustig","Ålidhemshallen",3,18
-"127","Elsa Lustig","Sjöfruhallen",2,18
-"128","Elsa Wiklund","Elofssonhallen",1,11
-"129","Elsa Wiklund","Ålidhemshallen",1,11
-"130","Elsa Wiklund","Midgårdshallen",4,11
-"131","Elsa Wiklund","Sporthallen Musköten",1,11
-"132","Elsa Wiklund","Vildmannahallen",2,11
-"133","Elsa Wiklund","Sjöfruhallen",2,11
-"134","Emelie Eriksson","Sävaråhallen",3,3
-"135","Erik Hörnros","Olasjöhallen",1,4
-"136","Erik Hörnros","FC Vindeln",2,4
-"137","Erik Hörnros","Sporthallen Musköten",1,4
-"138","Frida Nilsson-Wihlbäck","Midgårdshallen",2,6
-"139","Frida Nilsson-Wihlbäck","Sävaråhallen",1,6
-"140","Frida Nilsson-Wihlbäck","Täftehallen",3,6
-"141","Frida Thunell","Sporthushallen",3,14
-"142","Frida Thunell","Midgårdshallen",1,14
-"143","Frida Thunell","Vildmannahallen",4,14
-"144","Frida Thunell","Sjöfruhallen",3,14
-"145","Frida Thunell","Sporthallen Musköten",3,14
-"146","Gustav Granström","FC Vindeln",3,3
-"147","Hanna Edholm","Olasjöhallen",4,18
-"148","Hanna Edholm","Midgårdshallen",1,18
-"149","Hanna Edholm","Storsjöhallen",8,18
-"150","Hanna Edholm","Vildmannahallen",3,18
-"151","Hanna Edholm","Sporthallen Musköten",2,18
-"152","Hanna Nilsson","Vildmannahallen",4,5
-"153","Hanna Nilsson","Sjöfruhallen",1,5
-"154","Hanna Wendén","Storsjöhallen",2,9
-"155","Hanna Wendén","Elofssonhallen",5,9
-"156","Hanna Wendén","Vildmannahallen",1,9
-"157","Hanna Wendén","Täftehallen",1,9
-"158","Henning Löfgren","Ålidhemshallen",1,7
-"159","Henning Löfgren","Vildmannahallen",1,7
-"160","Henning Löfgren","Ersängshallen",1,7
-"161","Henning Löfgren","Sporthallen Musköten",3,7
-"162","Henning Löfgren","Storsjöhallen",1,7
-"163","Hugo Hellqvist","Sporthallen Musköten",1,4
-"164","Hugo Hellqvist","Vildmannahallen",3,4
-"165","Ida Edström","Täftehallen",2,8
-"166","Ida Edström","Sävaråhallen",2,8
-"167","Ida Edström","Sporthallen Musköten",2,8
-"168","Ida Edström","Sjöfruhallen",2,8
-"169","Ida Nilsson","Vildmannahallen",1,6
-"170","Ida Nilsson","Täftehallen",1,6
-"171","Ida Nilsson","Ålidhemshallen",4,6
-"172","Ida Reian","Vildmannahallen",5,12
-"173","Ida Reian","Midgårdshallen",2,12
-"174","Ida Reian","Sävaråhallen",2,12
-"175","Ida Reian","Ålidhemshallen",1,12
-"176","Ida Reian","Elofssonhallen",1,12
-"177","Ida Reian","Sjöfruhallen",1,12
-"178","Isaac Sjunnesson","Balderhallen A",2,8
-"179","Isaac Sjunnesson","Anderstorpshallen",2,8
-"180","Isaac Sjunnesson","Balderhallen B",2,8
-"181","Isaac Sjunnesson","Eddahallen",2,8
-"182","Isak Lindeberg Svensson","Vildmannahallen",2,3
-"183","Isak Lindeberg Svensson","Umeå Energi Arena Vatten",1,3
-"184","Jens Marklund","Eddahallen",1,1
-"185","Jimmy Norlund","Sporthallen Musköten",1,2
-"186","Jimmy Norlund","Olasjöhallen",1,2
-"187","Joakim Broman","Örjanshallen",1,11
-"188","Joakim Broman","Balderhallen A",2,11
-"189","Joakim Broman","Balderhallen B",5,11
-"190","Joakim Broman","Lejonströmshallen",2,11
-"191","Joakim Broman","Eddahallen",1,11
-"192","Joel Långström","Midgårdshallen",1,6
-"193","Joel Långström","Ersängshallen",2,6
-"194","Joel Långström","Täftehallen",1,6
-"195","Joel Långström","Storsjöhallen",2,6
-"196","Joel Nylund","FC Vindeln",2,2
-"197","Johan Rönnberg","Balderhallen B",1,1
-"198","Jon Trädgårdh","Midgårdshallen",2,4
-"199","Jon Trädgårdh","Storsjöhallen",2,4
-"200","Jonatan Vallin","Täftehallen",1,1
-"201","Julia Fältén","Vildmannahallen",2,4
-"202","Julia Fältén","Sporthallen Musköten",1,4
-"203","Julia Fältén","Elofssonhallen",1,4
-"204","Julian Amya","Eddahallen",1,2
-"205","Julian Amya","Balderhallen A",1,2
-"206","Kim Fallbjörk","FC Vindeln",1,2
-"207","Kim Fallbjörk","Midgårdshallen",1,2
-"208","Klara-Marie Laggar","Vännäsby Sporthall",1,1
-"209","Klas Höglund","Ersängshallen",2,15
-"210","Klas Höglund","Storsjöhallen",1,15
-"211","Klas Höglund","Midgårdshallen",2,15
-"212","Klas Höglund","Sporthushallen",4,15
-"213","Klas Höglund","Bråvallahallen",1,15
-"214","Klas Höglund","Sjöfruhallen",2,15
-"215","Klas Höglund","Hammarhallen Vännäs",3,15
-"216","Lasse Ekesryd","Lejonströmshallen",3,5
-"217","Lasse Ekesryd","Balderhallen B",2,5
-"218","Lina Holmgren","Vildmannahallen",1,3
-"219","Lina Holmgren","Storsjöhallen",1,3
-"220","Lina Holmgren","Sporthushallen",1,3
-"221","Lina Norman","Sporthallen Musköten",2,19
-"222","Lina Norman","Olasjöhallen",5,19
-"223","Lina Norman","Storsjöhallen",8,19
-"224","Lina Norman","Midgårdshallen",1,19
-"225","Lina Norman","Vildmannahallen",3,19
-"226","Lina Näsström","Midgårdshallen",3,5
-"227","Lina Näsström","Vildmannahallen",2,5
-"228","Linus Berglund","Täftehallen",1,1
-"229","Lisa Bergström","Sävaråhallen",2,3
-"230","Lisa Bergström","Sjöfruhallen",1,3
-"231","Lisa Larsson","Midgårdshallen",1,1
-"232","Lisa Vestman","Sporthallen Musköten",1,4
-"233","Lisa Vestman","Elofssonhallen",1,4
-"234","Lisa Vestman","Vildmannahallen",2,4
-"235","Louise Ramebäck","Sjöfruhallen",1,3
-"236","Louise Ramebäck","Elofssonhallen",2,3
-"237","Lovisa Olofsson","Vildmannahallen",2,2
-"238","Lucas Arvidsson","Sporthallen Musköten",2,6
-"239","Lucas Arvidsson","Sävaråhallen",3,6
-"240","Lucas Arvidsson","Midgårdshallen",1,6
-"241","Lucas Holmlund","Eddahallen",1,2
-"242","Lucas Holmlund","Balderhallen A",1,2
-"243","Ludvig Andersson","Ålidhemshallen",1,6
-"244","Ludvig Andersson","Vildmannahallen",1,6
-"245","Ludvig Andersson","Sporthallen Musköten",1,6
-"246","Ludvig Andersson","Umeå Energi Arena Väst",1,6
-"247","Ludvig Andersson","Storsjöhallen",1,6
-"248","Ludvig Andersson","Ersängshallen",1,6
-"249","Lydia Elstig","Sporthallen Musköten",1,10
-"250","Lydia Elstig","Vildmannahallen",1,10
-"251","Lydia Elstig","Storsjöhallen",1,10
-"252","Lydia Elstig","Elofssonhallen",5,10
-"253","Lydia Elstig","Täftehallen",2,10
-"254","Magnus Fessé","Hammarhallen Vännäs",1,1
-"255","Maja Lindsjö","Sävaråhallen",1,1
-"256","Marcus Eliasson","Elofssonhallen",1,2
-"257","Marcus Eliasson","Umeå Energi Arena Väst",1,2
-"258","Marcus Gabrielsson","FC Vindeln",1,1
-"259","Marcus Glad","Storsjöhallen",1,3
-"260","Marcus Glad","Sävaråhallen",2,3
-"261","Mathias Bergsdorf","Bråvallahallen",1,1
-"262","Matilda Karlsson","Vildmannahallen",2,3
-"263","Matilda Karlsson","Ersängshallen",1,3
-"264","Mattias Glad","Sporthallen Musköten",5,14
-"265","Mattias Glad","Sävaråhallen",7,14
-"266","Mattias Glad","Täftehallen",1,14
-"267","Mattias Glad","Sjöfruhallen",1,14
-"268","Mattias Karlsson","Sporthushallen",1,1
-"269","Meja Fjällström","Sporthallen Musköten",1,4
-"270","Meja Fjällström","Ålidhemshallen",2,4
-"271","Meja Fjällström","Sjöfruhallen",1,4
-"272","Melker Westerberg","Eddahallen",1,4
-"273","Melker Westerberg","Örjanshallen",1,4
-"274","Melker Westerberg","Balderhallen B",2,4
-"275","Micael Holmbom","Balderhallen A",1,3
-"276","Micael Holmbom","Balderhallen B",2,3
-"277","Moa Stödberg","Sjöfruhallen",1,10
-"278","Moa Stödberg","Bråvallahallen",5,10
-"279","Moa Stödberg","Sporthallen Musköten",1,10
-"280","Moa Stödberg","Midgårdshallen",1,10
-"281","Moa Stödberg","Elofssonhallen",2,10
-"282","My Wikström","Elofssonhallen",1,1
-"283","Nelly Saari","Hammarhallen Vännäs",5,7
-"284","Nelly Saari","Bråvallahallen",1,7
-"285","Nelly Saari","Vännäsby Sporthall",1,7
-"286","Olle Hedman","Balderhallen B",6,14
-"287","Olle Hedman","Campushallen",1,14
-"288","Olle Hedman","Eddahallen",4,14
-"289","Olle Hedman","Balderhallen A",3,14
-"290","Oskar Carlsson","Balderhallen B",4,4
-"291","Patrik Häggström","Eddahallen",1,6
-"292","Patrik Häggström","Balderhallen B",2,6
-"293","Patrik Häggström","Anderstorpshallen",1,6
-"294","Patrik Häggström","Örjanshallen",2,6
-"295","Per Andersson","Eddahallen",9,14
-"296","Per Andersson","Balderhallen B",4,14
-"297","Per Andersson","Balderhallen A",1,14
-"298","Peter Saari","Hammarhallen Vännäs",4,5
-"299","Peter Saari","Bråvallahallen",1,5
-"300","Rasmus Säfvenberg","Hammarhallen Vännäs",1,4
-"301","Rasmus Säfvenberg","Elofssonhallen",1,4
-"302","Rasmus Säfvenberg","FC Vindeln",1,4
-"303","Rasmus Säfvenberg","Bråvallahallen",1,4
-"304","Robert Segerstedt","Elofssonhallen",2,18
-"305","Robert Segerstedt","Ålidhemshallen",1,18
-"306","Robert Segerstedt","Olasjöhallen",2,18
-"307","Robert Segerstedt","Hammarhallen Vännäs",1,18
-"308","Robert Segerstedt","Ersängshallen",1,18
-"309","Robert Segerstedt","Storsjöhallen",3,18
-"310","Robert Segerstedt","Vildmannahallen",5,18
-"311","Robert Segerstedt","Midgårdshallen",1,18
-"312","Robert Segerstedt","Täftehallen",2,18
-"313","Samuel Melin","Täftehallen",1,1
-"314","Samuel Sundqvist","Balderhallen B",1,7
-"315","Samuel Sundqvist","Örjanshallen",6,7
-"316","Sanna Åslin","Olasjöhallen",1,3
-"317","Sanna Åslin","Sporthallen Musköten",1,3
-"318","Sanna Åslin","Vildmannahallen",1,3
-"319","Simon Blom","Eddahallen",2,7
-"320","Simon Blom","Balderhallen B",5,7
-"321","Sofia Deijer","Elofssonhallen",2,3
-"322","Sofia Deijer","Midgårdshallen",1,3
-"323","Svenja Brandenstein Kimmel","Midgårdshallen",1,1
-"324","Thanasis Provatas","Elofssonhallen",1,4
-"325","Thanasis Provatas","Ålidhemshallen",1,4
-"326","Thanasis Provatas","FC Vindeln",1,4
-"327","Thanasis Provatas","Vännäsby Sporthall",1,4
-"328","Therese Jensen","Ersängshallen",1,1
-"329","Tilda Hamrén","Täftehallen",2,2
-"330","Tilde Wikström","Olasjöhallen",1,1
-"331","Tim Marklund","Balderhallen B",3,12
-"332","Tim Marklund","Eddahallen",8,12
-"333","Tim Marklund","Örjanshallen",1,12
-"334","Tuva Dahlin","Umeå Energi Arena Öst",2,3
-"335","Tuva Dahlin","Elofssonhallen",1,3
-"336","Ulf Stödberg","Elofssonhallen",1,5
-"337","Ulf Stödberg","Bråvallahallen",4,5
-"338","Viktoria Nordqvist","Sporthallen Musköten",2,5
-"339","Viktoria Nordqvist","Midgårdshallen",1,5
-"340","Viktoria Nordqvist","Vildmannahallen",1,5
-"341","Viktoria Nordqvist","Ersängshallen",1,5
-"342","Wilda Berglund","Midgårdshallen",2,5
-"343","Wilda Berglund","Umeå Energi Arena Väst",1,5
-"344","Wilda Berglund","Vildmannahallen",2,5
-"345","Ville Hedsberg","Eddahallen",1,5
-"346","Ville Hedsberg","Balderhallen B",4,5
-"347","William Johansson","Vildmannahallen",3,9
-"348","William Johansson","Sjöfruhallen",2,9
-"349","William Johansson","Elofssonhallen",2,9
-"350","William Johansson","Sävaråhallen",2,9
-"351","Wilma Norberg","Midgårdshallen",2,4
-"352","Wilma Norberg","Vildmannahallen",2,4
-"353","Yueshan Lidström","Sporthallen Musköten",2,12
-"354","Yueshan Lidström","Täftehallen",5,12
-"355","Yueshan Lidström","Midgårdshallen",2,12
-"356","Yueshan Lidström","Sävaråhallen",1,12
-"357","Yueshan Lidström","Sjöfruhallen",2,12
-"358","Örjan Arvidsson","Örjanshallen",2,2
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Adam Andersson","Midgårdshallen",1,2,"Umeå City IBF/Blå",1
+"2","Adam Andersson","Midgårdshallen",1,2,"IBF Dalen /P06",1
+"3","Adam Andersson","Täftehallen",1,2,"Holmsund City IBC",1
+"4","Adam Andersson","Täftehallen",1,2,"Täfteå IK",1
+"5","Agnes Persson","Ersängshallen",1,4,"Röbäcks IF P-06",1
+"6","Agnes Persson","Ersängshallen",1,4,"Ersboda SK",1
+"7","Agnes Persson","Midgårdshallen",1,4,"Umeå City IBF/Vit",1
+"8","Agnes Persson","Midgårdshallen",1,4,"Obbola IK",1
+"9","Agnes Persson","Vildmannahallen",2,4,"Tegs SK IBF",1
+"10","Agnes Persson","Vildmannahallen",2,4,"Röbäcks IF/Blå",1
+"11","Agnes Persson","Vildmannahallen",2,4,"Spöland Vännäs IF",1
+"12","Agnes Persson","Vildmannahallen",2,4,"Umeå City IBF/BlåNorr",1
+"13","Albin Berglund","Täftehallen",1,1,"Täfteå IK",1
+"14","Albin Berglund","Täftehallen",1,1,"Hörnefors IF",1
+"15","Albin Carlsten","Anderstorpshallen",2,8,"Skellefteå IBK P07/Svart",1
+"16","Albin Carlsten","Anderstorpshallen",2,8,"Gamla Stan IBK/Svart 06",1
+"17","Albin Carlsten","Anderstorpshallen",2,8,"Skellefteå IBK P07/Röd",1
+"18","Albin Carlsten","Anderstorpshallen",2,8,"Gamla Stan IBK/Gul 06",1
+"19","Albin Carlsten","Balderhallen B",4,8,"Skellefteå IBK P07/Svart",2
+"20","Albin Carlsten","Balderhallen B",4,8,"Skellefteå IBS P06",1
+"21","Albin Carlsten","Balderhallen B",4,8,"Gamla Stan IBK/Svart 06",2
+"22","Albin Carlsten","Balderhallen B",4,8,"Bureå Idrottsförening P06",1
+"23","Albin Carlsten","Balderhallen B",4,8,"Gamla Stan IBK /Svart 07",2
+"24","Albin Carlsten","Eddahallen",2,8,"Skellefteå IBK P07/Röd",1
+"25","Albin Carlsten","Eddahallen",2,8,"Gamla Stan IBK /Svart 07",1
+"26","Albin Carlsten","Eddahallen",2,8,"Skellefteå IBK P05/Vit",1
+"27","Albin Carlsten","Eddahallen",2,8,"Skellefteå IBS P07",1
+"28","Alex Levander","Örjanshallen",2,2,"Skellefteå IBK P07/Svart",1
+"29","Alex Levander","Örjanshallen",2,2,"Bureå Idrottsförening P06",1
+"30","Alex Levander","Örjanshallen",2,2,"Clemensnäs IF P07",1
+"31","Alex Levander","Örjanshallen",2,2,"Gamla Stan IBK/Gul 06",1
+"32","Alexander Holmgren","Sjöfruhallen",1,4,"Vindelns IF",1
+"33","Alexander Holmgren","Sjöfruhallen",1,4,"Gimonäs Umeå IF/Vit",1
+"34","Alexander Holmgren","Sporthallen Musköten",1,4,"IBF Dalen /P06",1
+"35","Alexander Holmgren","Sporthallen Musköten",1,4,"Hörnefors IF",1
+"36","Alexander Holmgren","Sävaråhallen",1,4,"Umeå City IBF/Blå",1
+"37","Alexander Holmgren","Sävaråhallen",1,4,"Sävar IK",1
+"38","Alexander Holmgren","Täftehallen",1,4,"Täfteå IK",1
+"39","Alexander Holmgren","Täftehallen",1,4,"Täfteå IK /P07",1
+"40","Alexandra Nimrodsson","Storsjöhallen",1,2,"Röbäcks IF /Röd",1
+"41","Alexandra Nimrodsson","Storsjöhallen",1,2,"Holmsund City IBC",1
+"42","Alexandra Nimrodsson","Vildmannahallen",1,2,"Umeå City IBF/P08",1
+"43","Alexandra Nimrodsson","Vildmannahallen",1,2,"Holmsund City IBC",1
+"44","Alva Bergström","Midgårdshallen",2,4,"Umeå City IBF/Vit",1
+"45","Alva Bergström","Midgårdshallen",2,4,"Sandåkerns SK",1
+"46","Alva Bergström","Midgårdshallen",2,4,"Umeå City IBF/BlåNorr",1
+"47","Alva Bergström","Midgårdshallen",2,4,"Röbäcks IF P-06",1
+"48","Alva Bergström","Olasjöhallen",2,4,"Obbola IK",1
+"49","Alva Bergström","Olasjöhallen",2,4,"Obbola IK /P08",1
+"50","Alva Bergström","Olasjöhallen",2,4,"Gimonäs Umeå IF/Vit",1
+"51","Alva Bergström","Olasjöhallen",2,4,"Holmsund City IBC",1
+"52","Alva Forss","Ersängshallen",1,16,"Umeå City IBF/BlåNorr",1
+"53","Alva Forss","Ersängshallen",1,16,"Ersboda SK",1
+"54","Alva Forss","Midgårdshallen",2,16,"Spöland Vännäs IF",1
+"55","Alva Forss","Midgårdshallen",2,16,"Gimonäs Umeå IF/To-Vit",1
+"56","Alva Forss","Midgårdshallen",2,16,"IBF Dalen /Södra",1
+"57","Alva Forss","Midgårdshallen",2,16,"Umeå City IBF/P08",1
+"58","Alva Forss","Sporthallen Musköten",1,16,"Umeå City IBF/Vit",1
+"59","Alva Forss","Sporthallen Musköten",1,16,"IBF Dalen",1
+"60","Alva Forss","Sporthushallen",2,16,"Sandåkerns SK",1
+"61","Alva Forss","Sporthushallen",2,16,"Ersboda SK",1
+"62","Alva Forss","Sporthushallen",2,16,"Umeå City IBF/Blå",1
+"63","Alva Forss","Sporthushallen",2,16,"Umeå City IBF/Vit",1
+"64","Alva Forss","Vildmannahallen",9,16,"Sandåkerns SK/1",1
+"65","Alva Forss","Vildmannahallen",9,16,"Tegs SK IBF",2
+"66","Alva Forss","Vildmannahallen",9,16,"Umeå City IBF/Vit",1
+"67","Alva Forss","Vildmannahallen",9,16,"Ersboda SK",2
+"68","Alva Forss","Vildmannahallen",9,16,"Spöland Vännäs IF",2
+"69","Alva Forss","Vildmannahallen",9,16,"Röbäcks IF P-06",1
+"70","Alva Forss","Vildmannahallen",9,16,"IBF Dalen",1
+"71","Alva Forss","Vildmannahallen",9,16,"Röbäcks IF/Blå",1
+"72","Alva Forss","Vildmannahallen",9,16,"Umeå City IBF/BlåNorr",3
+"73","Alva Forss","Vildmannahallen",9,16,"Sandåkerns SK",1
+"74","Alva Forss","Vildmannahallen",9,16,"IBF Dalen/P06",1
+"75","Alva Forss","Vildmannahallen",9,16,"Röbäcks IF/Röd",1
+"76","Alva Forss","Vildmannahallen",9,16,"Sandåkerns SK/2",1
+"77","Alva Forss","Ålidhemshallen",1,16,"Gimonäs Umeå IF/Svart",1
+"78","Alva Forss","Ålidhemshallen",1,16,"Obbola IK",1
+"79","Alvin Gustavsson","Balderhallen B",2,4,"Skellefteå IBS P06",1
+"80","Alvin Gustavsson","Balderhallen B",2,4,"Gamla Stan IBK/Svart 06",1
+"81","Alvin Gustavsson","Balderhallen B",2,4,"Gamla Stan IBK /Svart 07",1
+"82","Alvin Gustavsson","Balderhallen B",2,4,"Skellefteå IBK P07/Svart",1
+"83","Alvin Gustavsson","Eddahallen",1,4,"Gamla Stan IBK/Svart 08",1
+"84","Alvin Gustavsson","Eddahallen",1,4,"Skellefteå IBS P07",1
+"85","Alvin Gustavsson","Lejonströmshallen",1,4,"Boliden FFI P06-08",1
+"86","Alvin Gustavsson","Lejonströmshallen",1,4,"Skellefteå IBK P07/Röd",1
+"87","Alvina Mukkala","Elofssonhallen",3,8,"Röbäcks IF /Röd",1
+"88","Alvina Mukkala","Elofssonhallen",3,8,"IBF Dalen /P06",1
+"89","Alvina Mukkala","Elofssonhallen",3,8,"Sävar IK /Blå",1
+"90","Alvina Mukkala","Elofssonhallen",3,8,"Röbäcks IF P-06",1
+"91","Alvina Mukkala","Elofssonhallen",3,8,"Gimonäs Umeå IF/Svart",1
+"92","Alvina Mukkala","Elofssonhallen",3,8,"Sävar IK",1
+"93","Alvina Mukkala","Hammarhallen Vännäs",4,8,"Gimonäs Umeå IF /To-Svart",1
+"94","Alvina Mukkala","Hammarhallen Vännäs",4,8,"Umeå City IBF/BlåNorr",1
+"95","Alvina Mukkala","Hammarhallen Vännäs",4,8,"Spöland Vännäs IF",1
+"96","Alvina Mukkala","Hammarhallen Vännäs",4,8,"IBF Dalen /P06",1
+"97","Alvina Mukkala","Hammarhallen Vännäs",4,8,"Spöland Vännäs IF",3
+"98","Alvina Mukkala","Hammarhallen Vännäs",4,8,"Sandåkerns SK/P06",1
+"99","Alvina Mukkala","Sporthallen Musköten",1,8,"IBF Dalen",1
+"100","Alvina Mukkala","Sporthallen Musköten",1,8,"Umeå City IBF/Vit",1
+"101","Amelia Forsgren","Elofssonhallen",1,9,"IBF Dalen /Södra",1
+"102","Amelia Forsgren","Elofssonhallen",1,9,"Röbäcks IF P-06",1
+"103","Amelia Forsgren","Midgårdshallen",4,9,"Ersboda SK",1
+"104","Amelia Forsgren","Midgårdshallen",4,9,"Spöland Vännäs IF",1
+"105","Amelia Forsgren","Midgårdshallen",4,9,"IBF Dalen /P06",1
+"106","Amelia Forsgren","Midgårdshallen",4,9,"IBF Dalen /Södra",1
+"107","Amelia Forsgren","Midgårdshallen",4,9,"Umeå City IBF/Vit",1
+"108","Amelia Forsgren","Midgårdshallen",4,9,"Gimonäs Umeå IF/Svart",1
+"109","Amelia Forsgren","Midgårdshallen",4,9,"Sandåkerns SK/P06",1
+"110","Amelia Forsgren","Midgårdshallen",4,9,"Umeå City IBF/Blå",1
+"111","Amelia Forsgren","Sjöfruhallen",2,9,"Gimonäs Umeå IF /To-Svart",1
+"112","Amelia Forsgren","Sjöfruhallen",2,9,"Täfteå IK",1
+"113","Amelia Forsgren","Sjöfruhallen",2,9,"Obbola IK /P08",1
+"114","Amelia Forsgren","Sjöfruhallen",2,9,"Gimonäs Umeå IF/To-Vit",1
+"115","Amelia Forsgren","Sporthallen Musköten",1,9,"Umeå City IBF/BlåNorr",1
+"116","Amelia Forsgren","Sporthallen Musköten",1,9,"IBF Dalen /P06",1
+"117","Amelia Forsgren","Ålidhemshallen",1,9,"Gimonäs Umeå IF /To-Svart",1
+"118","Amelia Forsgren","Ålidhemshallen",1,9,"IBF Dalen /P07",1
+"119","Andre Williams","Elofssonhallen",2,12,"Sävar IK",1
+"120","Andre Williams","Elofssonhallen",2,12,"Röbäcks IF/Röd",1
+"121","Andre Williams","Elofssonhallen",2,12,"Täfteå IK",1
+"122","Andre Williams","Elofssonhallen",2,12,"Röbäcks IF/Blå",1
+"123","Andre Williams","Sjöfruhallen",2,12,"Umeå City IBF/Blå",1
+"124","Andre Williams","Sjöfruhallen",2,12,"Röbäcks IF/Blå",1
+"125","Andre Williams","Sjöfruhallen",2,12,"Gimonäs Umeå IF/Vit",1
+"126","Andre Williams","Sjöfruhallen",2,12,"Gimonäs Umeå IF/Svart",1
+"127","Andre Williams","Sporthallen Musköten",1,12,"Vindelns IF Gul",1
+"128","Andre Williams","Sporthallen Musköten",1,12,"IBF Dalen",1
+"129","Andre Williams","Sävaråhallen",2,12,"Sävar IK /Blå",1
+"130","Andre Williams","Sävaråhallen",2,12,"Sävar IK",1
+"131","Andre Williams","Sävaråhallen",2,12,"Holmsund City IBC",1
+"132","Andre Williams","Sävaråhallen",2,12,"Ersboda SK",1
+"133","Andre Williams","Umeå Energi Arena Öst",2,12,"Gimonäs Umeå IF/Svart",1
+"134","Andre Williams","Umeå Energi Arena Öst",2,12,"Umeå City IBF/Blå",1
+"135","Andre Williams","Umeå Energi Arena Öst",2,12,"Umeå City IBF/Vit",1
+"136","Andre Williams","Umeå Energi Arena Öst",2,12,"Sävar IK",1
+"137","Andre Williams","Vildmannahallen",3,12,"Gimonäs Umeå IF /To-Svart",1
+"138","Andre Williams","Vildmannahallen",3,12,"Sandåkerns SK",2
+"139","Andre Williams","Vildmannahallen",3,12,"Umeå City IBF/Vit",1
+"140","Andre Williams","Vildmannahallen",3,12,"Sandåkerns SK/1",1
+"141","Andre Williams","Vildmannahallen",3,12,"Hörnefors IF",1
+"142","Andreas Eriksson","Hammarhallen Vännäs",1,1,"Umeå City IBF/Blå",1
+"143","Andreas Eriksson","Hammarhallen Vännäs",1,1,"Spöland Vännäs IF",1
+"144","Andreas Åström","Balderhallen A",2,6,"Skellefteå IBK P07/Svart",1
+"145","Andreas Åström","Balderhallen A",2,6,"Boliden FFI P06-08",1
+"146","Andreas Åström","Balderhallen A",2,6,"Gamla Stan IBK/Gul 06",1
+"147","Andreas Åström","Balderhallen A",2,6,"Gamla Stan IBK /Gul 06",1
+"148","Andreas Åström","Balderhallen B",3,6,"Skellefteå IBS P07",1
+"149","Andreas Åström","Balderhallen B",3,6,"Skellefteå IBK P07/Röd",1
+"150","Andreas Åström","Balderhallen B",3,6,"Skellefteå IBK P05/Vit",1
+"151","Andreas Åström","Balderhallen B",3,6,"Boliden FFI P06-08",1
+"152","Andreas Åström","Balderhallen B",3,6,"Bureå Idrottsförening P06",1
+"153","Andreas Åström","Balderhallen B",3,6,"Clemensnäs IF P07",1
+"154","Andreas Åström","Örjanshallen",1,6,"Gamla Stan IBK /Gul 07",1
+"155","Andreas Åström","Örjanshallen",1,6,"Boliden FFI P06-08",1
+"156","Anna Andersson","Bråvallahallen",5,9,"IBF Dalen /P06",1
+"157","Anna Andersson","Bråvallahallen",5,9,"Sandåkerns SK",1
+"158","Anna Andersson","Bråvallahallen",5,9,"Gimonäs Umeå IF/To-Vit",1
+"159","Anna Andersson","Bråvallahallen",5,9,"Sandåkerns SK/1",1
+"160","Anna Andersson","Bråvallahallen",5,9,"Hörnefors IF",5
+"161","Anna Andersson","Bråvallahallen",5,9,"Gimonäs Umeå IF /To-Svart",1
+"162","Anna Andersson","Elofssonhallen",2,9,"Röbäcks IF/Röd",1
+"163","Anna Andersson","Elofssonhallen",2,9,"Röbäcks IF/Blå",1
+"164","Anna Andersson","Elofssonhallen",2,9,"Gimonäs Umeå IF/To-Svart",1
+"165","Anna Andersson","Elofssonhallen",2,9,"Gimonäs Umeå IF/Svart",1
+"166","Anna Andersson","Midgårdshallen",1,9,"Röbäcks IF/Blå",1
+"167","Anna Andersson","Midgårdshallen",1,9,"Umeå City IBF/Blå",1
+"168","Anna Andersson","Sporthallen Musköten",1,9,"IBF Dalen /P06",1
+"169","Anna Andersson","Sporthallen Musköten",1,9,"Holmsund City IBC",1
+"170","Annika Kimmel","Midgårdshallen",1,1,"Umeå City IBF/Blå",1
+"171","Annika Kimmel","Midgårdshallen",1,1,"Sandåkerns SK/P06",1
+"172","Anton Sundström","Balderhallen B",1,2,"Bureå Idrottsförening P06",1
+"173","Anton Sundström","Balderhallen B",1,2,"Gamla Stan IBK /Gul 06",1
+"174","Anton Sundström","Eddahallen",1,2,"Gamla Stan IBK/Svart 06",1
+"175","Anton Sundström","Eddahallen",1,2,"Gamla Stan IBK /Svart 07",1
+"176","Arvid Oscarsson","Bråvallahallen",1,1,"IBF Dalen /P07",1
+"177","Arvid Oscarsson","Bråvallahallen",1,1,"Hörnefors IF",1
+"178","Björn Glad","Bråvallahallen",1,6,"Spöland Vännäs IF",1
+"179","Björn Glad","Bråvallahallen",1,6,"Hörnefors IF",1
+"180","Björn Glad","Elofssonhallen",1,6,"Röbäcks IF/Blå",1
+"181","Björn Glad","Elofssonhallen",1,6,"Umeå City IBF/Vit",1
+"182","Björn Glad","Sporthallen Musköten",2,6,"Gimonäs Umeå IF/To-Vit",1
+"183","Björn Glad","Sporthallen Musköten",2,6,"IBF Dalen/P07",1
+"184","Björn Glad","Sporthallen Musköten",2,6,"Tegs SK IBF",1
+"185","Björn Glad","Sporthallen Musköten",2,6,"IBF Dalen",1
+"186","Björn Glad","Storsjöhallen",1,6,"Täfteå IK",1
+"187","Björn Glad","Storsjöhallen",1,6,"Holmsund City IBC",1
+"188","Björn Glad","Sävaråhallen",1,6,"Sävar IK /Blå",1
+"189","Björn Glad","Sävaråhallen",1,6,"Vindelns IF Gul",1
+"190","Bobby Hjelte","Balderhallen A",1,3,"Skellefteå IBK P07/Svart",1
+"191","Bobby Hjelte","Balderhallen A",1,3,"Gamla Stan IBK /Svart 07",1
+"192","Bobby Hjelte","Eddahallen",1,3,"Skellefteå IBS P07",1
+"193","Bobby Hjelte","Eddahallen",1,3,"Gamla Stan IBK/Svart 08",1
+"194","Bobby Hjelte","Örjanshallen",1,3,"Skellefteå IBS P07",1
+"195","Bobby Hjelte","Örjanshallen",1,3,"Clemensnäs IF P07",1
+"196","Cajsa Alm","Sjöfruhallen",1,1,"Gimonäs Umeå IF/To-Vit",1
+"197","Cajsa Alm","Sjöfruhallen",1,1,"IBF Dalen/P07",1
+"198","Cajsa Lundkvist","Sporthallen Musköten",5,6,"IBF Dalen/P07",1
+"199","Cajsa Lundkvist","Sporthallen Musköten",5,6,"IBF Dalen /Södra",1
+"200","Cajsa Lundkvist","Sporthallen Musköten",5,6,"Röbäcks IF P-06",1
+"201","Cajsa Lundkvist","Sporthallen Musköten",5,6,"IBF Dalen /P07",1
+"202","Cajsa Lundkvist","Sporthallen Musköten",5,6,"Täfteå IK",2
+"203","Cajsa Lundkvist","Sporthallen Musköten",5,6,"IBF Dalen/P06",1
+"204","Cajsa Lundkvist","Sporthallen Musköten",5,6,"Umeå City IBF/Vit",1
+"205","Cajsa Lundkvist","Sporthallen Musköten",5,6,"IBF Dalen",1
+"206","Cajsa Lundkvist","Sporthallen Musköten",5,6,"Holmsund City IBC",1
+"207","Cajsa Lundkvist","Täftehallen",1,6,"Täfteå IK",1
+"208","Cajsa Lundkvist","Täftehallen",1,6,"Spöland Vännäs IF",1
+"209","Carl Holmlund","Sporthallen Musköten",1,4,"IBF Dalen",1
+"210","Carl Holmlund","Sporthallen Musköten",1,4,"Röbäcks IF /Röd",1
+"211","Carl Holmlund","Vildmannahallen",3,4,"Holmsund City IBC",2
+"212","Carl Holmlund","Vildmannahallen",3,4,"Sandåkerns SK/2",1
+"213","Carl Holmlund","Vildmannahallen",3,4,"Sandåkerns SK",1
+"214","Carl Holmlund","Vildmannahallen",3,4,"Sandåkerns SK/P06",1
+"215","Carl Holmlund","Vildmannahallen",3,4,"Hörnefors IF",1
+"216","Carl Rosenberg","Balderhallen A",1,4,"Bureå Idrottsförening P06",1
+"217","Carl Rosenberg","Balderhallen A",1,4,"Gamla Stan IBK/Svart 06",1
+"218","Carl Rosenberg","Eddahallen",3,4,"Skellefteå IBK P05/Vit",1
+"219","Carl Rosenberg","Eddahallen",3,4,"Skellefteå IBK P07/Röd",1
+"220","Carl Rosenberg","Eddahallen",3,4,"Skellefteå IBS P08",1
+"221","Carl Rosenberg","Eddahallen",3,4,"Skellefteå IBK P08/Svart",1
+"222","Carl Rosenberg","Eddahallen",3,4,"Gamla Stan IBK /Svart 07",1
+"223","Carl Rosenberg","Eddahallen",3,4,"Gamla Stan IBK /Gul 07",1
+"224","Casper Hjelte","Balderhallen A",3,13,"Boliden FFI P06-08",1
+"225","Casper Hjelte","Balderhallen A",3,13,"Skellefteå IBS P08",1
+"226","Casper Hjelte","Balderhallen A",3,13,"Skellefteå IBS P07",1
+"227","Casper Hjelte","Balderhallen A",3,13,"Gamla Stan IBK /Svart 07",1
+"228","Casper Hjelte","Balderhallen A",3,13,"Bureå Idrottsförening P06",1
+"229","Casper Hjelte","Balderhallen A",3,13,"Gamla Stan IBK /Gul 06",1
+"230","Casper Hjelte","Balderhallen B",6,13,"Clemensnäs IF P07",1
+"231","Casper Hjelte","Balderhallen B",6,13,"Gamla Stan IBK /Svart 07",1
+"232","Casper Hjelte","Balderhallen B",6,13,"Bureå Idrottsförening P06",1
+"233","Casper Hjelte","Balderhallen B",6,13,"Skellefteå IBS P08",1
+"234","Casper Hjelte","Balderhallen B",6,13,"Skellefteå IBK P07/Röd",1
+"235","Casper Hjelte","Balderhallen B",6,13,"Skellefteå IBK P05/Vit",1
+"236","Casper Hjelte","Balderhallen B",6,13,"Boliden FFI P06-08",1
+"237","Casper Hjelte","Balderhallen B",6,13,"Gamla Stan IBK/Svart 06",1
+"238","Casper Hjelte","Balderhallen B",6,13,"Skellefteå IBS P06",2
+"239","Casper Hjelte","Balderhallen B",6,13,"Gamla Stan IBK /Gul 07",1
+"240","Casper Hjelte","Balderhallen B",6,13,"Gamla Stan IBK/Svart 08",1
+"241","Casper Hjelte","Campushallen",1,13,"Skellefteå IBK P08/Svart",1
+"242","Casper Hjelte","Campushallen",1,13,"Gamla Stan IBK /Gul 07",1
+"243","Casper Hjelte","Eddahallen",3,13,"Skellefteå IBK P07/Röd",2
+"244","Casper Hjelte","Eddahallen",3,13,"Gamla Stan IBK /Gul 07",1
+"245","Casper Hjelte","Eddahallen",3,13,"Skellefteå IBS P07",1
+"246","Casper Hjelte","Eddahallen",3,13,"Clemensnäs IF P07",1
+"247","Casper Hjelte","Eddahallen",3,13,"Skellefteå IBK P08/Svart",1
+"248","Christoffer Lind","Bråvallahallen",3,5,"Gimonäs Umeå IF /To-Svart",1
+"249","Christoffer Lind","Bråvallahallen",3,5,"Gimonäs Umeå IF/To-Vit",1
+"250","Christoffer Lind","Bråvallahallen",3,5,"Hörnefors IF",3
+"251","Christoffer Lind","Bråvallahallen",3,5,"IBF Dalen /P06",1
+"252","Christoffer Lind","Ersängshallen",1,5,"IBF Dalen/P06",1
+"253","Christoffer Lind","Ersängshallen",1,5,"Ersboda SK",1
+"254","Christoffer Lind","Hammarhallen Vännäs",1,5,"Spöland Vännäs IF",1
+"255","Christoffer Lind","Hammarhallen Vännäs",1,5,"Gimonäs Umeå IF/To-Vit",1
+"256","Clara Thunell","Midgårdshallen",1,14,"Tegs SK IBF",1
+"257","Clara Thunell","Midgårdshallen",1,14,"Vindelns IF",1
+"258","Clara Thunell","Sjöfruhallen",3,14,"Tegs SK IBF",1
+"259","Clara Thunell","Sjöfruhallen",3,14,"Gimonäs Umeå IF/Svart",1
+"260","Clara Thunell","Sjöfruhallen",3,14,"Ersboda SK",1
+"261","Clara Thunell","Sjöfruhallen",3,14,"Gimonäs Umeå IF/Vit",1
+"262","Clara Thunell","Sjöfruhallen",3,14,"Gimonäs Umeå IF/To-Vit",1
+"263","Clara Thunell","Sjöfruhallen",3,14,"Sandåkerns SK/2",1
+"264","Clara Thunell","Sporthallen Musköten",3,14,"IBF Dalen /P06",1
+"265","Clara Thunell","Sporthallen Musköten",3,14,"Sandåkerns SK/P06",1
+"266","Clara Thunell","Sporthallen Musköten",3,14,"Holmsund City IBC",1
+"267","Clara Thunell","Sporthallen Musköten",3,14,"IBF Dalen/P06",1
+"268","Clara Thunell","Sporthallen Musköten",3,14,"IBF Dalen",1
+"269","Clara Thunell","Sporthallen Musköten",3,14,"Sandåkerns SK",1
+"270","Clara Thunell","Sporthushallen",3,14,"Sävar IK /P08",1
+"271","Clara Thunell","Sporthushallen",3,14,"Sandåkerns SK",1
+"272","Clara Thunell","Sporthushallen",3,14,"Sandåkerns SK/2",1
+"273","Clara Thunell","Sporthushallen",3,14,"Umeå City IBF/Blå",1
+"274","Clara Thunell","Sporthushallen",3,14,"Sandåkerns SK/P06",1
+"275","Clara Thunell","Sporthushallen",3,14,"IBF Dalen /P06",1
+"276","Clara Thunell","Vildmannahallen",4,14,"Gimonäs Umeå IF/To-Vit",1
+"277","Clara Thunell","Vildmannahallen",4,14,"Sandåkerns SK/1",2
+"278","Clara Thunell","Vildmannahallen",4,14,"Sandåkerns SK/P06",1
+"279","Clara Thunell","Vildmannahallen",4,14,"IBF Dalen /P07",1
+"280","Clara Thunell","Vildmannahallen",4,14,"Umeå City IBF/P08",1
+"281","Clara Thunell","Vildmannahallen",4,14,"Hörnefors IF",1
+"282","Clara Thunell","Vildmannahallen",4,14,"Sandåkerns SK",1
+"283","Daniel Degerman","Balderhallen A",2,3,"Skellefteå IBS P06",1
+"284","Daniel Degerman","Balderhallen A",2,3,"Gamla Stan IBK/Gul 06",1
+"285","Daniel Degerman","Balderhallen A",2,3,"Gamla Stan IBK/Svart 06",1
+"286","Daniel Degerman","Balderhallen A",2,3,"Boliden FFI P06-08",1
+"287","Daniel Degerman","Balderhallen B",1,3,"Skellefteå IBK P07/Svart",1
+"288","Daniel Degerman","Balderhallen B",1,3,"Skellefteå IBK P05/Vit",1
+"289","Daniel Johannesson","Elofssonhallen",1,1,"IBF Dalen",1
+"290","Daniel Johannesson","Elofssonhallen",1,1,"Röbäcks IF /Röd",1
+"291","David Karlsson","FC Vindeln",1,5,"Gimonäs Umeå IF/Vit",1
+"292","David Karlsson","FC Vindeln",1,5,"Vindelns IF",1
+"293","David Karlsson","Midgårdshallen",1,5,"Umeå City IBF/Blå",1
+"294","David Karlsson","Midgårdshallen",1,5,"IBF Dalen /Södra",1
+"295","David Karlsson","Umeå Energi Arena Vatten",1,5,"IBF Dalen /Södra",1
+"296","David Karlsson","Umeå Energi Arena Vatten",1,5,"IBF Dalen /P06",1
+"297","David Karlsson","Vildmannahallen",2,5,"Hörnefors IF",1
+"298","David Karlsson","Vildmannahallen",2,5,"Obbola IK /P08",1
+"299","David Karlsson","Vildmannahallen",2,5,"Sandåkerns SK/2",1
+"300","David Karlsson","Vildmannahallen",2,5,"Umeå City IBF/Blå",1
+"301","David Morén","Balderhallen B",2,4,"Gamla Stan IBK /Gul 07",2
+"302","David Morén","Balderhallen B",2,4,"Gamla Stan IBK/Svart 08",1
+"303","David Morén","Balderhallen B",2,4,"Skellefteå IBK P07/Röd",1
+"304","David Morén","Eddahallen",2,4,"Skellefteå IBK P07/Svart",1
+"305","David Morén","Eddahallen",2,4,"Boliden FFI P06-08",1
+"306","David Morén","Eddahallen",2,4,"Bureå Idrottsförening P06",1
+"307","David Morén","Eddahallen",2,4,"Skellefteå IBK P05/Vit",1
+"308","Edvin Bonn","Ersängshallen",1,5,"Gimonäs Umeå IF/Svart",1
+"309","Edvin Bonn","Ersängshallen",1,5,"Ersboda SK",1
+"310","Edvin Bonn","Midgårdshallen",1,5,"Sävar IK",1
+"311","Edvin Bonn","Midgårdshallen",1,5,"Gimonäs Umeå IF/Svart",1
+"312","Edvin Bonn","Storsjöhallen",2,5,"Hörnefors IF",1
+"313","Edvin Bonn","Storsjöhallen",2,5,"Holmsund City IBC",2
+"314","Edvin Bonn","Storsjöhallen",2,5,"Täfteå IK",1
+"315","Edvin Bonn","Täftehallen",1,5,"Täfteå IK",1
+"316","Edvin Bonn","Täftehallen",1,5,"Holmsund City IBC",1
+"317","Elias Bark Pettersson","Balderhallen A",4,5,"Skellefteå IBS P08",1
+"318","Elias Bark Pettersson","Balderhallen A",4,5,"Gamla Stan IBK/Gul 06",2
+"319","Elias Bark Pettersson","Balderhallen A",4,5,"Skellefteå IBK P07/Röd",1
+"320","Elias Bark Pettersson","Balderhallen A",4,5,"Gamla Stan IBK/Gul 06",1
+"321","Elias Bark Pettersson","Balderhallen A",4,5,"Gamla Stan IBK /Gul 07",2
+"322","Elias Bark Pettersson","Balderhallen A",4,5,"Skellefteå IBS P07",1
+"323","Elias Bark Pettersson","Balderhallen B",1,5,"Boliden FFI P06-08",1
+"324","Elias Bark Pettersson","Balderhallen B",1,5,"Gamla Stan IBK /Svart 07",1
+"325","Elias Norden","Balderhallen A",2,4,"Gamla Stan IBK /Gul 07",2
+"326","Elias Norden","Balderhallen A",2,4,"Gamla Stan IBK/Gul 06",2
+"327","Elias Norden","Balderhallen B",1,4,"Gamla Stan IBK /Svart 07",1
+"328","Elias Norden","Balderhallen B",1,4,"Gamla Stan IBK /Gul 06",1
+"329","Elias Norden","Eddahallen",1,4,"Skellefteå IBS P07",1
+"330","Elias Norden","Eddahallen",1,4,"Gamla Stan IBK/Svart 08",1
+"331","Elin Lustig","Elofssonhallen",2,12,"Holmsund City IBC",1
+"332","Elin Lustig","Elofssonhallen",2,12,"Röbäcks IF /Röd",1
+"333","Elin Lustig","Elofssonhallen",2,12,"Röbäcks IF/Blå",1
+"334","Elin Lustig","Elofssonhallen",2,12,"Obbola IK",1
+"335","Elin Lustig","Ersängshallen",1,12,"Ersboda SK",1
+"336","Elin Lustig","Ersängshallen",1,12,"Umeå City IBF/Vit",1
+"337","Elin Lustig","Midgårdshallen",2,12,"Umeå City IBF/Blå",1
+"338","Elin Lustig","Midgårdshallen",2,12,"Umeå City IBF/Vit",1
+"339","Elin Lustig","Midgårdshallen",2,12,"Sandåkerns SK",1
+"340","Elin Lustig","Midgårdshallen",2,12,"Holmsund City IBC",1
+"341","Elin Lustig","Sporthallen Musköten",4,12,"Umeå City IBF/Vit",1
+"342","Elin Lustig","Sporthallen Musköten",4,12,"Holmsund City IBC",1
+"343","Elin Lustig","Sporthallen Musköten",4,12,"Täfteå IK",2
+"344","Elin Lustig","Sporthallen Musköten",4,12,"IBF Dalen",1
+"345","Elin Lustig","Sporthallen Musköten",4,12,"IBF Dalen/P06",1
+"346","Elin Lustig","Sporthallen Musköten",4,12,"IBF Dalen /P07",1
+"347","Elin Lustig","Sporthallen Musköten",4,12,"IBF Dalen/P07",1
+"348","Elin Lustig","Täftehallen",1,12,"Täfteå IK",1
+"349","Elin Lustig","Täftehallen",1,12,"Gimonäs Umeå IF /To-Svart",1
+"350","Elin Lustig","Vildmannahallen",2,12,"Umeå City IBF/Blå",1
+"351","Elin Lustig","Vildmannahallen",2,12,"Sandåkerns SK/P06",1
+"352","Elin Lustig","Vildmannahallen",2,12,"Holmsund City IBC",1
+"353","Elin Lustig","Vildmannahallen",2,12,"Sandåkerns SK",1
+"354","Elin Wirtala","Midgårdshallen",3,14,"Sandåkerns SK",1
+"355","Elin Wirtala","Midgårdshallen",3,14,"Umeå City IBF/Vit",1
+"356","Elin Wirtala","Midgårdshallen",3,14,"Röbäcks IF P-06",1
+"357","Elin Wirtala","Midgårdshallen",3,14,"Umeå City IBF/BlåNorr",1
+"358","Elin Wirtala","Midgårdshallen",3,14,"Gimonäs Umeå IF /To-Svart",1
+"359","Elin Wirtala","Midgårdshallen",3,14,"IBF Dalen /P07",1
+"360","Elin Wirtala","Olasjöhallen",3,14,"Obbola IK /P08",1
+"361","Elin Wirtala","Olasjöhallen",3,14,"Holmsund City IBC",1
+"362","Elin Wirtala","Olasjöhallen",3,14,"Gimonäs Umeå IF/Vit",1
+"363","Elin Wirtala","Olasjöhallen",3,14,"Obbola IK",2
+"364","Elin Wirtala","Olasjöhallen",3,14,"Röbäcks IF/Blå",1
+"365","Elin Wirtala","Sjöfruhallen",1,14,"Hörnefors IF",1
+"366","Elin Wirtala","Sjöfruhallen",1,14,"Gimonäs Umeå IF/To-Vit",1
+"367","Elin Wirtala","Sporthallen Musköten",1,14,"IBF Dalen /P06",1
+"368","Elin Wirtala","Sporthallen Musköten",1,14,"Röbäcks IF P-06",1
+"369","Elin Wirtala","Storsjöhallen",2,14,"Holmsund City IBC",2
+"370","Elin Wirtala","Storsjöhallen",2,14,"Sandåkerns SK",1
+"371","Elin Wirtala","Storsjöhallen",2,14,"Sandåkerns SK/2",1
+"372","Elin Wirtala","Vildmannahallen",4,14,"Umeå City IBF/BlåNorr",1
+"373","Elin Wirtala","Vildmannahallen",4,14,"Sandåkerns SK/2",1
+"374","Elin Wirtala","Vildmannahallen",4,14,"Sandåkerns SK",2
+"375","Elin Wirtala","Vildmannahallen",4,14,"Röbäcks IF P-06",1
+"376","Elin Wirtala","Vildmannahallen",4,14,"Spöland Vännäs IF",1
+"377","Elin Wirtala","Vildmannahallen",4,14,"Ersboda SK",2
+"378","Elina Snickars","Midgårdshallen",2,2,"Vindelns IF",1
+"379","Elina Snickars","Midgårdshallen",2,2,"Umeå City IBF/Vit",1
+"380","Elina Snickars","Midgårdshallen",2,2,"Sandåkerns SK",1
+"381","Elina Snickars","Midgårdshallen",2,2,"IBF Dalen/P06",1
+"382","Ella Swanemar","Elofssonhallen",1,11,"Holmsund City IBC",1
+"383","Ella Swanemar","Elofssonhallen",1,11,"Röbäcks IF /Röd",1
+"384","Ella Swanemar","Ersängshallen",1,11,"Umeå City IBF/Vit",1
+"385","Ella Swanemar","Ersängshallen",1,11,"Ersboda SK",1
+"386","Ella Swanemar","Midgårdshallen",2,11,"Umeå City IBF/Blå",1
+"387","Ella Swanemar","Midgårdshallen",2,11,"Sandåkerns SK",1
+"388","Ella Swanemar","Midgårdshallen",2,11,"Umeå City IBF/Vit",1
+"389","Ella Swanemar","Midgårdshallen",2,11,"Holmsund City IBC",1
+"390","Ella Swanemar","Sjöfruhallen",1,11,"Gimonäs Umeå IF/To-Svart",1
+"391","Ella Swanemar","Sjöfruhallen",1,11,"Holmsund City IBC",1
+"392","Ella Swanemar","Täftehallen",1,11,"Täfteå IK",1
+"393","Ella Swanemar","Täftehallen",1,11,"Gimonäs Umeå IF /To-Svart",1
+"394","Ella Swanemar","Vildmannahallen",3,11,"Umeå City IBF/Blå",1
+"395","Ella Swanemar","Vildmannahallen",3,11,"Holmsund City IBC",1
+"396","Ella Swanemar","Vildmannahallen",3,11,"Sandåkerns SK/2",1
+"397","Ella Swanemar","Vildmannahallen",3,11,"Umeå City IBF/P08",1
+"398","Ella Swanemar","Vildmannahallen",3,11,"Sandåkerns SK",1
+"399","Ella Swanemar","Vildmannahallen",3,11,"Sandåkerns SK/P06",1
+"400","Ella Swanemar","Ålidhemshallen",2,11,"Gimonäs Umeå IF/Svart",1
+"401","Ella Swanemar","Ålidhemshallen",2,11,"Röbäcks IF/Röd",1
+"402","Ella Swanemar","Ålidhemshallen",2,11,"Gimonäs Umeå IF/To-Svart",1
+"403","Ella Swanemar","Ålidhemshallen",2,11,"Röbäcks IF/Blå",1
+"404","Elliot Johansson","Örjanshallen",2,2,"Clemensnäs IF P07",2
+"405","Elliot Johansson","Örjanshallen",2,2,"Gamla Stan IBK /Gul 07",1
+"406","Elliot Johansson","Örjanshallen",2,2,"Gamla Stan IBK /Svart 07",1
+"407","Elliot Sigården","Eddahallen",1,1,"Skellefteå IBK P05/Vit",1
+"408","Elliot Sigården","Eddahallen",1,1,"Gamla Stan IBK /Svart 07",1
+"409","Elsa Lustig","Midgårdshallen",1,18,"Umeå City IBF/Vit",1
+"410","Elsa Lustig","Midgårdshallen",1,18,"Tegs SK IBF",1
+"411","Elsa Lustig","Sjöfruhallen",2,18,"Gimonäs Umeå IF /To-Svart",1
+"412","Elsa Lustig","Sjöfruhallen",2,18,"Gimonäs Umeå IF/Vit",1
+"413","Elsa Lustig","Sjöfruhallen",2,18,"Sävar IK /Blå",1
+"414","Elsa Lustig","Sjöfruhallen",2,18,"Hörnefors IF",1
+"415","Elsa Lustig","Sävaråhallen",2,18,"Sävar IK /Blå",1
+"416","Elsa Lustig","Sävaråhallen",2,18,"Sävar IK",1
+"417","Elsa Lustig","Sävaråhallen",2,18,"Tegs SK IBF",1
+"418","Elsa Lustig","Sävaråhallen",2,18,"Röbäcks IF/Blå",1
+"419","Elsa Lustig","Täftehallen",2,18,"Täfteå IK",1
+"420","Elsa Lustig","Täftehallen",2,18,"Täfteå IK /P07",1
+"421","Elsa Lustig","Täftehallen",2,18,"Gimonäs Umeå IF/To-Svart",1
+"422","Elsa Lustig","Täftehallen",2,18,"Spöland Vännäs IF",1
+"423","Elsa Lustig","Umeå Energi Arena Väst",1,18,"Umeå City IBF/Vit",1
+"424","Elsa Lustig","Umeå Energi Arena Väst",1,18,"IBF Dalen",1
+"425","Elsa Lustig","Vildmannahallen",7,18,"Umeå City IBF/Blå",1
+"426","Elsa Lustig","Vildmannahallen",7,18,"Spöland Vännäs IF",1
+"427","Elsa Lustig","Vildmannahallen",7,18,"Sävar IK",1
+"428","Elsa Lustig","Vildmannahallen",7,18,"Gimonäs Umeå IF/Vit",1
+"429","Elsa Lustig","Vildmannahallen",7,18,"Sandåkerns SK/P06",1
+"430","Elsa Lustig","Vildmannahallen",7,18,"Holmsund City IBC",1
+"431","Elsa Lustig","Vildmannahallen",7,18,"Sandåkerns SK/1",2
+"432","Elsa Lustig","Vildmannahallen",7,18,"Täfteå IK",1
+"433","Elsa Lustig","Vildmannahallen",7,18,"Tegs SK IBF",1
+"434","Elsa Lustig","Vildmannahallen",7,18,"Gimonäs Umeå IF/To-Vit",1
+"435","Elsa Lustig","Vildmannahallen",7,18,"Sandåkerns SK/2",2
+"436","Elsa Lustig","Vildmannahallen",7,18,"Umeå City IBF/P08",1
+"437","Elsa Lustig","Ålidhemshallen",3,18,"Obbola IK",1
+"438","Elsa Lustig","Ålidhemshallen",3,18,"Gimonäs Umeå IF/To-Vit",1
+"439","Elsa Lustig","Ålidhemshallen",3,18,"IBF Dalen",1
+"440","Elsa Lustig","Ålidhemshallen",3,18,"Gimonäs Umeå IF/Vit",2
+"441","Elsa Lustig","Ålidhemshallen",3,18,"Spöland Vännäs IF",1
+"442","Elsa Wiklund","Elofssonhallen",1,11,"IBF Dalen /Södra",1
+"443","Elsa Wiklund","Elofssonhallen",1,11,"Röbäcks IF P-06",1
+"444","Elsa Wiklund","Midgårdshallen",4,11,"IBF Dalen /Södra",1
+"445","Elsa Wiklund","Midgårdshallen",4,11,"IBF Dalen /P06",1
+"446","Elsa Wiklund","Midgårdshallen",4,11,"Spöland Vännäs IF",1
+"447","Elsa Wiklund","Midgårdshallen",4,11,"Sandåkerns SK/P06",1
+"448","Elsa Wiklund","Midgårdshallen",4,11,"Ersboda SK",1
+"449","Elsa Wiklund","Midgårdshallen",4,11,"Umeå City IBF/Vit",1
+"450","Elsa Wiklund","Midgårdshallen",4,11,"Gimonäs Umeå IF/Svart",1
+"451","Elsa Wiklund","Midgårdshallen",4,11,"Umeå City IBF/Blå",1
+"452","Elsa Wiklund","Sjöfruhallen",2,11,"Obbola IK /P08",1
+"453","Elsa Wiklund","Sjöfruhallen",2,11,"Gimonäs Umeå IF/To-Vit",1
+"454","Elsa Wiklund","Sjöfruhallen",2,11,"Täfteå IK",1
+"455","Elsa Wiklund","Sjöfruhallen",2,11,"Gimonäs Umeå IF /To-Svart",1
+"456","Elsa Wiklund","Sporthallen Musköten",1,11,"Umeå City IBF/BlåNorr",1
+"457","Elsa Wiklund","Sporthallen Musköten",1,11,"IBF Dalen /P06",1
+"458","Elsa Wiklund","Vildmannahallen",2,11,"Sandåkerns SK/2",1
+"459","Elsa Wiklund","Vildmannahallen",2,11,"Sandåkerns SK",1
+"460","Elsa Wiklund","Vildmannahallen",2,11,"Gimonäs Umeå IF/Svart",1
+"461","Elsa Wiklund","Vildmannahallen",2,11,"Umeå City IBF/P08",1
+"462","Elsa Wiklund","Ålidhemshallen",1,11,"Gimonäs Umeå IF /To-Svart",1
+"463","Elsa Wiklund","Ålidhemshallen",1,11,"IBF Dalen /P07",1
+"464","Emelie Eriksson","Sävaråhallen",3,3,"Gimonäs Umeå IF/Vit",1
+"465","Emelie Eriksson","Sävaråhallen",3,3,"Umeå City IBF/Vit",1
+"466","Emelie Eriksson","Sävaråhallen",3,3,"Sävar IK",1
+"467","Emelie Eriksson","Sävaråhallen",3,3,"IBF Dalen",1
+"468","Emelie Eriksson","Sävaråhallen",3,3,"Sävar IK /Blå",1
+"469","Emelie Eriksson","Sävaråhallen",3,3,"Sävar IK /Blå",1
+"470","Erik Hörnros","FC Vindeln",2,4,"Sävar IK /Blå",1
+"471","Erik Hörnros","FC Vindeln",2,4,"Holmsund City IBC",1
+"472","Erik Hörnros","FC Vindeln",2,4,"Vindelns IF Gul",2
+"473","Erik Hörnros","Olasjöhallen",1,4,"Umeå City IBF/Blå",1
+"474","Erik Hörnros","Olasjöhallen",1,4,"Obbola IK",1
+"475","Erik Hörnros","Sporthallen Musköten",1,4,"IBF Dalen/P07",1
+"476","Erik Hörnros","Sporthallen Musköten",1,4,"Sandåkerns SK/2",1
+"477","Frida Nilsson-Wihlbäck","Midgårdshallen",2,6,"Sandåkerns SK",1
+"478","Frida Nilsson-Wihlbäck","Midgårdshallen",2,6,"Umeå City IBF/Vit",1
+"479","Frida Nilsson-Wihlbäck","Midgårdshallen",2,6,"Umeå City IBF/Blå",2
+"480","Frida Nilsson-Wihlbäck","Sävaråhallen",1,6,"Sävar IK /Blå",1
+"481","Frida Nilsson-Wihlbäck","Sävaråhallen",1,6,"Umeå City IBF/Vit",1
+"482","Frida Nilsson-Wihlbäck","Täftehallen",3,6,"Täfteå IK",3
+"483","Frida Nilsson-Wihlbäck","Täftehallen",3,6,"Vindelns IF Gul",1
+"484","Frida Nilsson-Wihlbäck","Täftehallen",3,6,"IBF Dalen",1
+"485","Frida Nilsson-Wihlbäck","Täftehallen",3,6,"Sävar IK /Blå",1
+"486","Frida Thunell","Midgårdshallen",1,14,"Tegs SK IBF",1
+"487","Frida Thunell","Midgårdshallen",1,14,"Vindelns IF",1
+"488","Frida Thunell","Sjöfruhallen",3,14,"Sandåkerns SK/2",1
+"489","Frida Thunell","Sjöfruhallen",3,14,"Tegs SK IBF",1
+"490","Frida Thunell","Sjöfruhallen",3,14,"Ersboda SK",1
+"491","Frida Thunell","Sjöfruhallen",3,14,"Gimonäs Umeå IF/Svart",1
+"492","Frida Thunell","Sjöfruhallen",3,14,"Gimonäs Umeå IF/Vit",1
+"493","Frida Thunell","Sjöfruhallen",3,14,"Gimonäs Umeå IF/To-Vit",1
+"494","Frida Thunell","Sporthallen Musköten",3,14,"IBF Dalen",1
+"495","Frida Thunell","Sporthallen Musköten",3,14,"Holmsund City IBC",1
+"496","Frida Thunell","Sporthallen Musköten",3,14,"IBF Dalen /P06",1
+"497","Frida Thunell","Sporthallen Musköten",3,14,"Sandåkerns SK",1
+"498","Frida Thunell","Sporthallen Musköten",3,14,"Sandåkerns SK/P06",1
+"499","Frida Thunell","Sporthallen Musköten",3,14,"IBF Dalen/P06",1
+"500","Frida Thunell","Sporthushallen",3,14,"Sandåkerns SK/2",1
+"501","Frida Thunell","Sporthushallen",3,14,"Sävar IK /P08",1
+"502","Frida Thunell","Sporthushallen",3,14,"IBF Dalen /P06",1
+"503","Frida Thunell","Sporthushallen",3,14,"Umeå City IBF/Blå",1
+"504","Frida Thunell","Sporthushallen",3,14,"Sandåkerns SK",1
+"505","Frida Thunell","Sporthushallen",3,14,"Sandåkerns SK/P06",1
+"506","Frida Thunell","Vildmannahallen",4,14,"Sandåkerns SK",1
+"507","Frida Thunell","Vildmannahallen",4,14,"Gimonäs Umeå IF/To-Vit",1
+"508","Frida Thunell","Vildmannahallen",4,14,"Hörnefors IF",1
+"509","Frida Thunell","Vildmannahallen",4,14,"Sandåkerns SK/P06",1
+"510","Frida Thunell","Vildmannahallen",4,14,"Umeå City IBF/P08",1
+"511","Frida Thunell","Vildmannahallen",4,14,"IBF Dalen /P07",1
+"512","Frida Thunell","Vildmannahallen",4,14,"Sandåkerns SK/1",2
+"513","Gustav Granström","FC Vindeln",3,3,"Tegs SK IBF",1
+"514","Gustav Granström","FC Vindeln",3,3,"Umeå City IBF/Vit",1
+"515","Gustav Granström","FC Vindeln",3,3,"Vindelns IF",1
+"516","Gustav Granström","FC Vindeln",3,3,"Vindelns IF Gul",1
+"517","Gustav Granström","FC Vindeln",3,3,"IBF Dalen",1
+"518","Gustav Granström","FC Vindeln",3,3,"Vindelns IF",1
+"519","Hanna Edholm","Midgårdshallen",1,18,"Umeå City IBF/Blå",1
+"520","Hanna Edholm","Midgårdshallen",1,18,"Obbola IK",1
+"521","Hanna Edholm","Olasjöhallen",4,18,"Holmsund City IBC",1
+"522","Hanna Edholm","Olasjöhallen",4,18,"Sävar IK",1
+"523","Hanna Edholm","Olasjöhallen",4,18,"Gimonäs Umeå IF/Svart",1
+"524","Hanna Edholm","Olasjöhallen",4,18,"Umeå City IBF/Vit",1
+"525","Hanna Edholm","Olasjöhallen",4,18,"IBF Dalen",1
+"526","Hanna Edholm","Olasjöhallen",4,18,"Obbola IK",3
+"527","Hanna Edholm","Sporthallen Musköten",2,18,"IBF Dalen /P07",1
+"528","Hanna Edholm","Sporthallen Musköten",2,18,"IBF Dalen /Södra",1
+"529","Hanna Edholm","Sporthallen Musköten",2,18,"Spöland Vännäs IF",1
+"530","Hanna Edholm","Sporthallen Musköten",2,18,"IBF Dalen /P06",1
+"531","Hanna Edholm","Storsjöhallen",8,18,"Sandåkerns SK/P06",1
+"532","Hanna Edholm","Storsjöhallen",8,18,"Sävar IK /Blå",1
+"533","Hanna Edholm","Storsjöhallen",8,18,"Sävar IK /P08",1
+"534","Hanna Edholm","Storsjöhallen",8,18,"Umeå City IBF/P08",1
+"535","Hanna Edholm","Storsjöhallen",8,18,"Gimonäs Umeå IF/To-Svart",1
+"536","Hanna Edholm","Storsjöhallen",8,18,"Umeå City IBF/Blå",1
+"537","Hanna Edholm","Storsjöhallen",8,18,"Vindelns IF Gul",1
+"538","Hanna Edholm","Storsjöhallen",8,18,"IBF Dalen /P06",1
+"539","Hanna Edholm","Storsjöhallen",8,18,"Holmsund City IBC",8
+"540","Hanna Edholm","Vildmannahallen",3,18,"Spöland Vännäs IF",1
+"541","Hanna Edholm","Vildmannahallen",3,18,"Umeå City IBF/Blå",1
+"542","Hanna Edholm","Vildmannahallen",3,18,"Tegs SK IBF",1
+"543","Hanna Edholm","Vildmannahallen",3,18,"IBF Dalen /P06",1
+"544","Hanna Edholm","Vildmannahallen",3,18,"Obbola IK",1
+"545","Hanna Edholm","Vildmannahallen",3,18,"IBF Dalen /Södra",1
+"546","Hanna Nilsson","Sjöfruhallen",1,5,"Sävar IK /Blå",1
+"547","Hanna Nilsson","Sjöfruhallen",1,5,"Gimonäs Umeå IF/Vit",1
+"548","Hanna Nilsson","Vildmannahallen",4,5,"Sandåkerns SK/1",1
+"549","Hanna Nilsson","Vildmannahallen",4,5,"Täfteå IK /P07",1
+"550","Hanna Nilsson","Vildmannahallen",4,5,"Holmsund City IBC",1
+"551","Hanna Nilsson","Vildmannahallen",4,5,"IBF Dalen /P07",1
+"552","Hanna Nilsson","Vildmannahallen",4,5,"Sandåkerns SK/1",1
+"553","Hanna Nilsson","Vildmannahallen",4,5,"Spöland Vännäs IF",1
+"554","Hanna Nilsson","Vildmannahallen",4,5,"Hörnefors IF",1
+"555","Hanna Nilsson","Vildmannahallen",4,5,"Sandåkerns SK/P06",1
+"556","Hanna Wendén","Elofssonhallen",5,9,"Gimonäs Umeå IF/Vit",1
+"557","Hanna Wendén","Elofssonhallen",5,9,"Umeå City IBF/Blå",1
+"558","Hanna Wendén","Elofssonhallen",5,9,"Täfteå IK",1
+"559","Hanna Wendén","Elofssonhallen",5,9,"Tegs SK IBF",1
+"560","Hanna Wendén","Elofssonhallen",5,9,"Röbäcks IF /Röd",1
+"561","Hanna Wendén","Elofssonhallen",5,9,"Röbäcks IF/Blå",3
+"562","Hanna Wendén","Elofssonhallen",5,9,"Röbäcks IF P-06",1
+"563","Hanna Wendén","Elofssonhallen",5,9,"Umeå City IBF/BlåNorr",1
+"564","Hanna Wendén","Storsjöhallen",2,9,"Holmsund City IBC",2
+"565","Hanna Wendén","Storsjöhallen",2,9,"Röbäcks IF /Röd",1
+"566","Hanna Wendén","Storsjöhallen",2,9,"Spöland Vännäs IF",1
+"567","Hanna Wendén","Täftehallen",1,9,"Täfteå IK",1
+"568","Hanna Wendén","Täftehallen",1,9,"Täfteå IK /P07",1
+"569","Hanna Wendén","Vildmannahallen",1,9,"Umeå City IBF/Vit",1
+"570","Hanna Wendén","Vildmannahallen",1,9,"Umeå City IBF/BlåNorr",1
+"571","Henning Löfgren","Ersängshallen",1,7,"Sandåkerns SK",1
+"572","Henning Löfgren","Ersängshallen",1,7,"Ersboda SK",1
+"573","Henning Löfgren","Sporthallen Musköten",3,7,"Umeå City IBF/BlåNorr",1
+"574","Henning Löfgren","Sporthallen Musköten",3,7,"Sandåkerns SK",1
+"575","Henning Löfgren","Sporthallen Musköten",3,7,"IBF Dalen /P06",1
+"576","Henning Löfgren","Sporthallen Musköten",3,7,"IBF Dalen /P06",1
+"577","Henning Löfgren","Sporthallen Musköten",3,7,"Spöland Vännäs IF",1
+"578","Henning Löfgren","Sporthallen Musköten",3,7,"IBF Dalen /Södra",1
+"579","Henning Löfgren","Storsjöhallen",1,7,"Sandåkerns SK/1",1
+"580","Henning Löfgren","Storsjöhallen",1,7,"Holmsund City IBC",1
+"581","Henning Löfgren","Vildmannahallen",1,7,"Umeå City IBF/BlåNorr",1
+"582","Henning Löfgren","Vildmannahallen",1,7,"Sandåkerns SK",1
+"583","Henning Löfgren","Ålidhemshallen",1,7,"Spöland Vännäs IF",1
+"584","Henning Löfgren","Ålidhemshallen",1,7,"Gimonäs Umeå IF /To-Svart",1
+"585","Hugo Hellqvist","Sporthallen Musköten",1,4,"Röbäcks IF /Röd",1
+"586","Hugo Hellqvist","Sporthallen Musköten",1,4,"IBF Dalen",1
+"587","Hugo Hellqvist","Vildmannahallen",3,4,"Sandåkerns SK/P06",1
+"588","Hugo Hellqvist","Vildmannahallen",3,4,"Holmsund City IBC",2
+"589","Hugo Hellqvist","Vildmannahallen",3,4,"Hörnefors IF",1
+"590","Hugo Hellqvist","Vildmannahallen",3,4,"Sandåkerns SK/2",1
+"591","Hugo Hellqvist","Vildmannahallen",3,4,"Sandåkerns SK",1
+"592","Ida Edström","Sjöfruhallen",2,8,"Gimonäs Umeå IF/Vit",1
+"593","Ida Edström","Sjöfruhallen",2,8,"Gimonäs Umeå IF/To-Vit",1
+"594","Ida Edström","Sjöfruhallen",2,8,"Umeå City IBF/Vit",1
+"595","Ida Edström","Sjöfruhallen",2,8,"Holmsund City IBC",1
+"596","Ida Edström","Sporthallen Musköten",2,8,"Umeå City IBF/Blå",1
+"597","Ida Edström","Sporthallen Musköten",2,8,"IBF Dalen /P06",1
+"598","Ida Edström","Sporthallen Musköten",2,8,"Sävar IK /Blå",1
+"599","Ida Edström","Sporthallen Musköten",2,8,"IBF Dalen",1
+"600","Ida Edström","Sävaråhallen",2,8,"Täfteå IK",1
+"601","Ida Edström","Sävaråhallen",2,8,"Sävar IK /Blå",2
+"602","Ida Edström","Sävaråhallen",2,8,"Umeå City IBF/Vit",1
+"603","Ida Edström","Täftehallen",2,8,"Täfteå IK",2
+"604","Ida Edström","Täftehallen",2,8,"Röbäcks IF /Röd",1
+"605","Ida Edström","Täftehallen",2,8,"IBF Dalen /P07",1
+"606","Ida Nilsson","Täftehallen",1,6,"Täfteå IK /P07",1
+"607","Ida Nilsson","Täftehallen",1,6,"Gimonäs Umeå IF/To-Svart",1
+"608","Ida Nilsson","Vildmannahallen",1,6,"Täfteå IK",1
+"609","Ida Nilsson","Vildmannahallen",1,6,"Sandåkerns SK/1",1
+"610","Ida Nilsson","Ålidhemshallen",4,6,"IBF Dalen",1
+"611","Ida Nilsson","Ålidhemshallen",4,6,"Obbola IK",1
+"612","Ida Nilsson","Ålidhemshallen",4,6,"Gimonäs Umeå IF /To-Svart",1
+"613","Ida Nilsson","Ålidhemshallen",4,6,"Gimonäs Umeå IF/To-Vit",1
+"614","Ida Nilsson","Ålidhemshallen",4,6,"Sandåkerns SK/1",1
+"615","Ida Nilsson","Ålidhemshallen",4,6,"Spöland Vännäs IF",1
+"616","Ida Nilsson","Ålidhemshallen",4,6,"Gimonäs Umeå IF/Vit",2
+"617","Ida Reian","Elofssonhallen",1,12,"Röbäcks IF/Blå",1
+"618","Ida Reian","Elofssonhallen",1,12,"Obbola IK",1
+"619","Ida Reian","Midgårdshallen",2,12,"Obbola IK",1
+"620","Ida Reian","Midgårdshallen",2,12,"Umeå City IBF/Vit",2
+"621","Ida Reian","Midgårdshallen",2,12,"Tegs SK IBF",1
+"622","Ida Reian","Sjöfruhallen",1,12,"Hörnefors IF",1
+"623","Ida Reian","Sjöfruhallen",1,12,"Gimonäs Umeå IF /To-Svart",1
+"624","Ida Reian","Sävaråhallen",2,12,"Sävar IK /Blå",1
+"625","Ida Reian","Sävaråhallen",2,12,"Tegs SK IBF",1
+"626","Ida Reian","Sävaråhallen",2,12,"Sävar IK",1
+"627","Ida Reian","Sävaråhallen",2,12,"Röbäcks IF/Blå",1
+"628","Ida Reian","Vildmannahallen",5,12,"Gimonäs Umeå IF/To-Vit",1
+"629","Ida Reian","Vildmannahallen",5,12,"Gimonäs Umeå IF/Vit",1
+"630","Ida Reian","Vildmannahallen",5,12,"Umeå City IBF/BlåNorr",1
+"631","Ida Reian","Vildmannahallen",5,12,"Tegs SK IBF",1
+"632","Ida Reian","Vildmannahallen",5,12,"Röbäcks IF P-06",1
+"633","Ida Reian","Vildmannahallen",5,12,"Sandåkerns SK/2",1
+"634","Ida Reian","Vildmannahallen",5,12,"Umeå City IBF/Blå",1
+"635","Ida Reian","Vildmannahallen",5,12,"Umeå City IBF/Vit",1
+"636","Ida Reian","Vildmannahallen",5,12,"Sävar IK",1
+"637","Ida Reian","Vildmannahallen",5,12,"Tegs SK IBF",1
+"638","Ida Reian","Ålidhemshallen",1,12,"Gimonäs Umeå IF /To-Svart",1
+"639","Ida Reian","Ålidhemshallen",1,12,"Sandåkerns SK/1",1
+"640","Isaac Sjunnesson","Anderstorpshallen",2,8,"Skellefteå IBK P07/Röd",1
+"641","Isaac Sjunnesson","Anderstorpshallen",2,8,"Gamla Stan IBK/Gul 06",1
+"642","Isaac Sjunnesson","Anderstorpshallen",2,8,"Gamla Stan IBK/Svart 06",1
+"643","Isaac Sjunnesson","Anderstorpshallen",2,8,"Skellefteå IBK P07/Svart",1
+"644","Isaac Sjunnesson","Balderhallen A",2,8,"Gamla Stan IBK/Svart 06",1
+"645","Isaac Sjunnesson","Balderhallen A",2,8,"Bureå Idrottsförening P06",1
+"646","Isaac Sjunnesson","Balderhallen A",2,8,"Skellefteå IBK P07/Röd",1
+"647","Isaac Sjunnesson","Balderhallen A",2,8,"Skellefteå IBS P08",1
+"648","Isaac Sjunnesson","Balderhallen B",2,8,"Gamla Stan IBK /Svart 07",1
+"649","Isaac Sjunnesson","Balderhallen B",2,8,"Gamla Stan IBK/Svart 06",1
+"650","Isaac Sjunnesson","Balderhallen B",2,8,"Bureå Idrottsförening P06",1
+"651","Isaac Sjunnesson","Balderhallen B",2,8,"Skellefteå IBK P07/Svart",1
+"652","Isaac Sjunnesson","Eddahallen",2,8,"Skellefteå IBK P05/Vit",1
+"653","Isaac Sjunnesson","Eddahallen",2,8,"Skellefteå IBK P07/Röd",1
+"654","Isaac Sjunnesson","Eddahallen",2,8,"Skellefteå IBS P07",1
+"655","Isaac Sjunnesson","Eddahallen",2,8,"Gamla Stan IBK /Svart 07",1
+"656","Isak Lindeberg Svensson","Umeå Energi Arena Vatten",1,3,"IBF Dalen /Södra",1
+"657","Isak Lindeberg Svensson","Umeå Energi Arena Vatten",1,3,"IBF Dalen /P06",1
+"658","Isak Lindeberg Svensson","Vildmannahallen",2,3,"Röbäcks IF/Röd",1
+"659","Isak Lindeberg Svensson","Vildmannahallen",2,3,"Ersboda SK",1
+"660","Isak Lindeberg Svensson","Vildmannahallen",2,3,"IBF Dalen/P06",1
+"661","Isak Lindeberg Svensson","Vildmannahallen",2,3,"Sandåkerns SK/1",1
+"662","Jens Marklund","Eddahallen",1,1,"Gamla Stan IBK /Gul 06",1
+"663","Jens Marklund","Eddahallen",1,1,"Skellefteå IBK P07/Svart",1
+"664","Jimmy Norlund","Olasjöhallen",1,2,"Obbola IK",1
+"665","Jimmy Norlund","Olasjöhallen",1,2,"Umeå City IBF/Blå",1
+"666","Jimmy Norlund","Sporthallen Musköten",1,2,"Sandåkerns SK/2",1
+"667","Jimmy Norlund","Sporthallen Musköten",1,2,"IBF Dalen/P07",1
+"668","Joakim Broman","Balderhallen A",2,11,"Skellefteå IBK P07/Svart",1
+"669","Joakim Broman","Balderhallen A",2,11,"Gamla Stan IBK /Gul 07",1
+"670","Joakim Broman","Balderhallen A",2,11,"Skellefteå IBS P07",1
+"671","Joakim Broman","Balderhallen A",2,11,"Gamla Stan IBK /Gul 06",1
+"672","Joakim Broman","Balderhallen B",5,11,"Clemensnäs IF P07",1
+"673","Joakim Broman","Balderhallen B",5,11,"Gamla Stan IBK /Svart 07",1
+"674","Joakim Broman","Balderhallen B",5,11,"Gamla Stan IBK /Gul 07",2
+"675","Joakim Broman","Balderhallen B",5,11,"Bureå Idrottsförening P06",1
+"676","Joakim Broman","Balderhallen B",5,11,"Skellefteå IBK P07/Svart",1
+"677","Joakim Broman","Balderhallen B",5,11,"Boliden FFI P06-08",1
+"678","Joakim Broman","Balderhallen B",5,11,"Gamla Stan IBK/Svart 06",1
+"679","Joakim Broman","Balderhallen B",5,11,"Skellefteå IBK P05/Vit",1
+"680","Joakim Broman","Balderhallen B",5,11,"Skellefteå IBK P07/Röd",1
+"681","Joakim Broman","Eddahallen",1,11,"Gamla Stan IBK/Svart 08",1
+"682","Joakim Broman","Eddahallen",1,11,"Skellefteå IBK P07/Röd",1
+"683","Joakim Broman","Lejonströmshallen",2,11,"Clemensnäs IF P07",1
+"684","Joakim Broman","Lejonströmshallen",2,11,"Bureå Idrottsförening P06",1
+"685","Joakim Broman","Lejonströmshallen",2,11,"Gamla Stan IBK /Gul 07",1
+"686","Joakim Broman","Lejonströmshallen",2,11,"Skellefteå IBS P08",1
+"687","Joakim Broman","Örjanshallen",1,11,"Skellefteå IBK P07/Svart",1
+"688","Joakim Broman","Örjanshallen",1,11,"Clemensnäs IF P07",1
+"689","Joel Långström","Ersängshallen",2,6,"Umeå City IBF/Blå",1
+"690","Joel Långström","Ersängshallen",2,6,"Ersboda SK",1
+"691","Joel Långström","Ersängshallen",2,6,"Gimonäs Umeå IF/Svart",1
+"692","Joel Långström","Ersängshallen",2,6,"Ersboda SK",1
+"693","Joel Långström","Midgårdshallen",1,6,"Sävar IK",1
+"694","Joel Långström","Midgårdshallen",1,6,"Gimonäs Umeå IF/Svart",1
+"695","Joel Långström","Storsjöhallen",2,6,"Täfteå IK",1
+"696","Joel Långström","Storsjöhallen",2,6,"Hörnefors IF",1
+"697","Joel Långström","Storsjöhallen",2,6,"Holmsund City IBC",2
+"698","Joel Långström","Täftehallen",1,6,"Holmsund City IBC",1
+"699","Joel Långström","Täftehallen",1,6,"Täfteå IK",1
+"700","Joel Nylund","FC Vindeln",2,2,"Vindelns IF",1
+"701","Joel Nylund","FC Vindeln",2,2,"Vindelns IF Gul",1
+"702","Joel Nylund","FC Vindeln",2,2,"Umeå City IBF/Vit",1
+"703","Joel Nylund","FC Vindeln",2,2,"IBF Dalen",1
+"704","Johan Rönnberg","Balderhallen B",1,1,"Skellefteå IBS P06",1
+"705","Johan Rönnberg","Balderhallen B",1,1,"Gamla Stan IBK/Svart 06",1
+"706","Jon Trädgårdh","Midgårdshallen",2,4,"Umeå City IBF/Vit",1
+"707","Jon Trädgårdh","Midgårdshallen",2,4,"Sandåkerns SK",1
+"708","Jon Trädgårdh","Midgårdshallen",2,4,"Gimonäs Umeå IF/Vit",1
+"709","Jon Trädgårdh","Midgårdshallen",2,4,"Umeå City IBF/Blå",1
+"710","Jon Trädgårdh","Storsjöhallen",2,4,"Holmsund City IBC",2
+"711","Jon Trädgårdh","Storsjöhallen",2,4,"Sandåkerns SK",1
+"712","Jon Trädgårdh","Storsjöhallen",2,4,"Sandåkerns SK/2",1
+"713","Jonatan Vallin","Täftehallen",1,1,"Täfteå IK",1
+"714","Jonatan Vallin","Täftehallen",1,1,"Holmsund City IBC",1
+"715","Julia Fältén","Elofssonhallen",1,4,"Röbäcks IF P-06",1
+"716","Julia Fältén","Elofssonhallen",1,4,"Sandåkerns SK",1
+"717","Julia Fältén","Sporthallen Musköten",1,4,"IBF Dalen /Södra",1
+"718","Julia Fältén","Sporthallen Musköten",1,4,"Umeå City IBF/Blå",1
+"719","Julia Fältén","Vildmannahallen",2,4,"Sandåkerns SK/P06",1
+"720","Julia Fältén","Vildmannahallen",2,4,"Sävar IK",1
+"721","Julia Fältén","Vildmannahallen",2,4,"Sandåkerns SK",2
+"722","Julian Amya","Balderhallen A",1,2,"Gamla Stan IBK /Svart 07",1
+"723","Julian Amya","Balderhallen A",1,2,"Bureå Idrottsförening P06",1
+"724","Julian Amya","Eddahallen",1,2,"Gamla Stan IBK/Svart 06",1
+"725","Julian Amya","Eddahallen",1,2,"Gamla Stan IBK /Svart 07",1
+"726","Kim Fallbjörk","FC Vindeln",1,2,"Täfteå IK",1
+"727","Kim Fallbjörk","FC Vindeln",1,2,"Vindelns IF Gul",1
+"728","Kim Fallbjörk","Midgårdshallen",1,2,"IBF Dalen /Södra",1
+"729","Kim Fallbjörk","Midgårdshallen",1,2,"Umeå City IBF/Blå",1
+"730","Klara-Marie Laggar","Vännäsby Sporthall",1,1,"Spöland Vännäs IF",1
+"731","Klara-Marie Laggar","Vännäsby Sporthall",1,1,"Sandåkerns SK/2",1
+"732","Klas Höglund","Bråvallahallen",1,15,"Holmsund City IBC",1
+"733","Klas Höglund","Bråvallahallen",1,15,"Hörnefors IF",1
+"734","Klas Höglund","Ersängshallen",2,15,"Ersboda SK",2
+"735","Klas Höglund","Ersängshallen",2,15,"IBF Dalen/P06",1
+"736","Klas Höglund","Ersängshallen",2,15,"Sävar IK",1
+"737","Klas Höglund","Hammarhallen Vännäs",3,15,"IBF Dalen /P06",1
+"738","Klas Höglund","Hammarhallen Vännäs",3,15,"Gimonäs Umeå IF/To-Vit",1
+"739","Klas Höglund","Hammarhallen Vännäs",3,15,"Röbäcks IF P-06",1
+"740","Klas Höglund","Hammarhallen Vännäs",3,15,"Spöland Vännäs IF",3
+"741","Klas Höglund","Midgårdshallen",2,15,"Sandåkerns SK/P06",1
+"742","Klas Höglund","Midgårdshallen",2,15,"Umeå City IBF/Blå",1
+"743","Klas Höglund","Midgårdshallen",2,15,"Sandåkerns SK",1
+"744","Klas Höglund","Midgårdshallen",2,15,"IBF Dalen /Södra",1
+"745","Klas Höglund","Sjöfruhallen",2,15,"Sävar IK /P08",1
+"746","Klas Höglund","Sjöfruhallen",2,15,"Sandåkerns SK",1
+"747","Klas Höglund","Sjöfruhallen",2,15,"Gimonäs Umeå IF/Svart",1
+"748","Klas Höglund","Sjöfruhallen",2,15,"Gimonäs Umeå IF/To-Vit",1
+"749","Klas Höglund","Sporthushallen",4,15,"Sandåkerns SK",1
+"750","Klas Höglund","Sporthushallen",4,15,"Umeå City IBF/BlåNorr",1
+"751","Klas Höglund","Sporthushallen",4,15,"IBF Dalen /Södra",1
+"752","Klas Höglund","Sporthushallen",4,15,"Umeå City IBF/Vit",1
+"753","Klas Höglund","Sporthushallen",4,15,"Röbäcks IF/Blå",1
+"754","Klas Höglund","Sporthushallen",4,15,"Umeå City IBF/Blå",1
+"755","Klas Höglund","Sporthushallen",4,15,"Ersboda SK",1
+"756","Klas Höglund","Sporthushallen",4,15,"Umeå City IBF/Vit",1
+"757","Klas Höglund","Storsjöhallen",1,15,"Holmsund City IBC",1
+"758","Klas Höglund","Storsjöhallen",1,15,"IBF Dalen/P07",1
+"759","Lasse Ekesryd","Balderhallen B",2,5,"Bureå Idrottsförening P06",1
+"760","Lasse Ekesryd","Balderhallen B",2,5,"Gamla Stan IBK /Gul 07",1
+"761","Lasse Ekesryd","Balderhallen B",2,5,"Skellefteå IBK P07/Svart",1
+"762","Lasse Ekesryd","Balderhallen B",2,5,"Gamla Stan IBK/Svart 08",1
+"763","Lasse Ekesryd","Lejonströmshallen",3,5,"Clemensnäs IF P07",2
+"764","Lasse Ekesryd","Lejonströmshallen",3,5,"Gamla Stan IBK /Svart 07",1
+"765","Lasse Ekesryd","Lejonströmshallen",3,5,"Boliden FFI P06-08",1
+"766","Lasse Ekesryd","Lejonströmshallen",3,5,"Gamla Stan IBK/Gul 06",1
+"767","Lasse Ekesryd","Lejonströmshallen",3,5,"Gamla Stan IBK /Gul 07",1
+"768","Lina Holmgren","Sporthushallen",1,3,"Sandåkerns SK/1",1
+"769","Lina Holmgren","Sporthushallen",1,3,"Spöland Vännäs IF",1
+"770","Lina Holmgren","Storsjöhallen",1,3,"Holmsund City IBC",1
+"771","Lina Holmgren","Storsjöhallen",1,3,"IBF Dalen/P07",1
+"772","Lina Holmgren","Vildmannahallen",1,3,"Sävar IK /Blå",1
+"773","Lina Holmgren","Vildmannahallen",1,3,"Umeå City IBF/Vit",1
+"774","Lina Norman","Midgårdshallen",1,19,"Umeå City IBF/Blå",1
+"775","Lina Norman","Midgårdshallen",1,19,"Obbola IK",1
+"776","Lina Norman","Olasjöhallen",5,19,"Röbäcks IF/Blå",1
+"777","Lina Norman","Olasjöhallen",5,19,"Obbola IK",3
+"778","Lina Norman","Olasjöhallen",5,19,"Umeå City IBF/Vit",1
+"779","Lina Norman","Olasjöhallen",5,19,"Gimonäs Umeå IF/Svart",1
+"780","Lina Norman","Olasjöhallen",5,19,"IBF Dalen",1
+"781","Lina Norman","Olasjöhallen",5,19,"Holmsund City IBC",1
+"782","Lina Norman","Olasjöhallen",5,19,"Obbola IK",1
+"783","Lina Norman","Olasjöhallen",5,19,"Sävar IK",1
+"784","Lina Norman","Sporthallen Musköten",2,19,"IBF Dalen /P06",1
+"785","Lina Norman","Sporthallen Musköten",2,19,"Spöland Vännäs IF",1
+"786","Lina Norman","Sporthallen Musköten",2,19,"IBF Dalen /P07",1
+"787","Lina Norman","Sporthallen Musköten",2,19,"IBF Dalen /Södra",1
+"788","Lina Norman","Storsjöhallen",8,19,"Holmsund City IBC",8
+"789","Lina Norman","Storsjöhallen",8,19,"Sävar IK /Blå",1
+"790","Lina Norman","Storsjöhallen",8,19,"IBF Dalen /P06",1
+"791","Lina Norman","Storsjöhallen",8,19,"Sandåkerns SK/P06",1
+"792","Lina Norman","Storsjöhallen",8,19,"Sävar IK /P08",1
+"793","Lina Norman","Storsjöhallen",8,19,"Gimonäs Umeå IF/To-Svart",1
+"794","Lina Norman","Storsjöhallen",8,19,"Umeå City IBF/P08",1
+"795","Lina Norman","Storsjöhallen",8,19,"Umeå City IBF/Blå",1
+"796","Lina Norman","Storsjöhallen",8,19,"Vindelns IF Gul",1
+"797","Lina Norman","Vildmannahallen",3,19,"Obbola IK",1
+"798","Lina Norman","Vildmannahallen",3,19,"Umeå City IBF/Blå",1
+"799","Lina Norman","Vildmannahallen",3,19,"Tegs SK IBF",1
+"800","Lina Norman","Vildmannahallen",3,19,"Spöland Vännäs IF",1
+"801","Lina Norman","Vildmannahallen",3,19,"IBF Dalen /P06",1
+"802","Lina Norman","Vildmannahallen",3,19,"IBF Dalen /Södra",1
+"803","Lina Näsström","Midgårdshallen",3,5,"Vindelns IF",1
+"804","Lina Näsström","Midgårdshallen",3,5,"Umeå City IBF/Vit",1
+"805","Lina Näsström","Midgårdshallen",3,5,"Gimonäs Umeå IF/To-Vit",1
+"806","Lina Näsström","Midgårdshallen",3,5,"Sandåkerns SK",1
+"807","Lina Näsström","Midgårdshallen",3,5,"IBF Dalen/P06",1
+"808","Lina Näsström","Midgårdshallen",3,5,"Umeå City IBF/P08",1
+"809","Lina Näsström","Vildmannahallen",2,5,"Umeå City IBF/BlåNorr",1
+"810","Lina Näsström","Vildmannahallen",2,5,"Umeå City IBF/Vit",1
+"811","Lina Näsström","Vildmannahallen",2,5,"Tegs SK IBF",1
+"812","Lina Näsström","Vildmannahallen",2,5,"IBF Dalen",1
+"813","Linus Berglund","Täftehallen",1,1,"Hörnefors IF",1
+"814","Linus Berglund","Täftehallen",1,1,"Täfteå IK",1
+"815","Lisa Bergström","Sjöfruhallen",1,3,"Gimonäs Umeå IF/To-Vit",1
+"816","Lisa Bergström","Sjöfruhallen",1,3,"IBF Dalen/P07",1
+"817","Lisa Bergström","Sävaråhallen",2,3,"Umeå City IBF/Vit",1
+"818","Lisa Bergström","Sävaråhallen",2,3,"Sävar IK /Blå",1
+"819","Lisa Bergström","Sävaråhallen",2,3,"Sävar IK",1
+"820","Lisa Bergström","Sävaråhallen",2,3,"IBF Dalen",1
+"821","Lisa Larsson","Midgårdshallen",1,1,"Gimonäs Umeå IF/Vit",1
+"822","Lisa Larsson","Midgårdshallen",1,1,"Umeå City IBF/Vit",1
+"823","Lisa Vestman","Elofssonhallen",1,4,"Sandåkerns SK",1
+"824","Lisa Vestman","Elofssonhallen",1,4,"Röbäcks IF P-06",1
+"825","Lisa Vestman","Sporthallen Musköten",1,4,"IBF Dalen /Södra",1
+"826","Lisa Vestman","Sporthallen Musköten",1,4,"Umeå City IBF/Blå",1
+"827","Lisa Vestman","Vildmannahallen",2,4,"Umeå City IBF/P08",1
+"828","Lisa Vestman","Vildmannahallen",2,4,"Gimonäs Umeå IF/Svart",1
+"829","Lisa Vestman","Vildmannahallen",2,4,"Sandåkerns SK",1
+"830","Lisa Vestman","Vildmannahallen",2,4,"Sandåkerns SK/2",1
+"831","Louise Ramebäck","Elofssonhallen",2,3,"Röbäcks IF P-06",1
+"832","Louise Ramebäck","Elofssonhallen",2,3,"Sävar IK",1
+"833","Louise Ramebäck","Elofssonhallen",2,3,"Umeå City IBF/Vit",1
+"834","Louise Ramebäck","Elofssonhallen",2,3,"Gimonäs Umeå IF/Svart",1
+"835","Louise Ramebäck","Sjöfruhallen",1,3,"Hörnefors IF",1
+"836","Louise Ramebäck","Sjöfruhallen",1,3,"Gimonäs Umeå IF/To-Vit",1
+"837","Lovisa Olofsson","Vildmannahallen",2,2,"IBF Dalen/P07",1
+"838","Lovisa Olofsson","Vildmannahallen",2,2,"Sandåkerns SK/2",2
+"839","Lovisa Olofsson","Vildmannahallen",2,2,"Hörnefors IF",1
+"840","Lucas Arvidsson","Midgårdshallen",1,6,"IBF Dalen /P06",1
+"841","Lucas Arvidsson","Midgårdshallen",1,6,"Umeå City IBF/Blå",1
+"842","Lucas Arvidsson","Sporthallen Musköten",2,6,"IBF Dalen /Södra",1
+"843","Lucas Arvidsson","Sporthallen Musköten",2,6,"Gimonäs Umeå IF/Vit",1
+"844","Lucas Arvidsson","Sporthallen Musköten",2,6,"IBF Dalen /P06",1
+"845","Lucas Arvidsson","Sporthallen Musköten",2,6,"IBF Dalen",1
+"846","Lucas Arvidsson","Sävaråhallen",3,6,"Sävar IK",1
+"847","Lucas Arvidsson","Sävaråhallen",3,6,"Obbola IK",1
+"848","Lucas Arvidsson","Sävaråhallen",3,6,"Sandåkerns SK/2",1
+"849","Lucas Arvidsson","Sävaråhallen",3,6,"Sävar IK /P08",2
+"850","Lucas Arvidsson","Sävaråhallen",3,6,"Gimonäs Umeå IF/To-Vit",1
+"851","Lucas Holmlund","Balderhallen A",1,2,"Gamla Stan IBK /Svart 07",1
+"852","Lucas Holmlund","Balderhallen A",1,2,"Bureå Idrottsförening P06",1
+"853","Lucas Holmlund","Eddahallen",1,2,"Skellefteå IBS P06",1
+"854","Lucas Holmlund","Eddahallen",1,2,"Skellefteå IBK P07/Svart",1
+"855","Ludvig Andersson","Ersängshallen",1,6,"Sandåkerns SK",1
+"856","Ludvig Andersson","Ersängshallen",1,6,"Ersboda SK",1
+"857","Ludvig Andersson","Sporthallen Musköten",1,6,"IBF Dalen /P06",1
+"858","Ludvig Andersson","Sporthallen Musköten",1,6,"Sandåkerns SK",1
+"859","Ludvig Andersson","Storsjöhallen",1,6,"Sandåkerns SK/1",1
+"860","Ludvig Andersson","Storsjöhallen",1,6,"Holmsund City IBC",1
+"861","Ludvig Andersson","Umeå Energi Arena Väst",1,6,"Umeå City IBF/Blå",1
+"862","Ludvig Andersson","Umeå Energi Arena Väst",1,6,"Umeå City IBF/Vit",1
+"863","Ludvig Andersson","Vildmannahallen",1,6,"Sandåkerns SK",1
+"864","Ludvig Andersson","Vildmannahallen",1,6,"Umeå City IBF/BlåNorr",1
+"865","Ludvig Andersson","Ålidhemshallen",1,6,"Gimonäs Umeå IF/Svart",1
+"866","Ludvig Andersson","Ålidhemshallen",1,6,"Obbola IK",1
+"867","Lydia Elstig","Elofssonhallen",5,10,"Röbäcks IF /Röd",1
+"868","Lydia Elstig","Elofssonhallen",5,10,"Röbäcks IF/Blå",3
+"869","Lydia Elstig","Elofssonhallen",5,10,"Gimonäs Umeå IF/Vit",1
+"870","Lydia Elstig","Elofssonhallen",5,10,"Tegs SK IBF",1
+"871","Lydia Elstig","Elofssonhallen",5,10,"Umeå City IBF/Blå",1
+"872","Lydia Elstig","Elofssonhallen",5,10,"Röbäcks IF P-06",1
+"873","Lydia Elstig","Elofssonhallen",5,10,"Umeå City IBF/BlåNorr",1
+"874","Lydia Elstig","Elofssonhallen",5,10,"Täfteå IK",1
+"875","Lydia Elstig","Sporthallen Musköten",1,10,"Sandåkerns SK/1",1
+"876","Lydia Elstig","Sporthallen Musköten",1,10,"IBF Dalen /P07",1
+"877","Lydia Elstig","Storsjöhallen",1,10,"Holmsund City IBC",1
+"878","Lydia Elstig","Storsjöhallen",1,10,"Spöland Vännäs IF",1
+"879","Lydia Elstig","Täftehallen",2,10,"Sandåkerns SK/1",1
+"880","Lydia Elstig","Täftehallen",2,10,"Täfteå IK /P07",1
+"881","Lydia Elstig","Täftehallen",2,10,"Täfteå IK",2
+"882","Lydia Elstig","Vildmannahallen",1,10,"Umeå City IBF/Vit",1
+"883","Lydia Elstig","Vildmannahallen",1,10,"Umeå City IBF/BlåNorr",1
+"884","Magnus Fessé","Hammarhallen Vännäs",1,1,"Spöland Vännäs IF",1
+"885","Magnus Fessé","Hammarhallen Vännäs",1,1,"IBF Dalen /P06",1
+"886","Maja Lindsjö","Sävaråhallen",1,1,"Gimonäs Umeå IF/Vit",1
+"887","Maja Lindsjö","Sävaråhallen",1,1,"Sävar IK /Blå",1
+"888","Marcus Eliasson","Elofssonhallen",1,2,"Sandåkerns SK/1",1
+"889","Marcus Eliasson","Elofssonhallen",1,2,"Röbäcks IF/Röd",1
+"890","Marcus Eliasson","Umeå Energi Arena Väst",1,2,"Umeå City IBF/Blå",1
+"891","Marcus Eliasson","Umeå Energi Arena Väst",1,2,"Umeå City IBF/Vit",1
+"892","Marcus Gabrielsson","FC Vindeln",1,1,"Vindelns IF",1
+"893","Marcus Gabrielsson","FC Vindeln",1,1,"Tegs SK IBF",1
+"894","Marcus Glad","Storsjöhallen",1,3,"Täfteå IK",1
+"895","Marcus Glad","Storsjöhallen",1,3,"Holmsund City IBC",1
+"896","Marcus Glad","Sävaråhallen",2,3,"Holmsund City IBC",1
+"897","Marcus Glad","Sävaråhallen",2,3,"Sandåkerns SK",1
+"898","Marcus Glad","Sävaråhallen",2,3,"Sävar IK /P08",1
+"899","Marcus Glad","Sävaråhallen",2,3,"Sävar IK",1
+"900","Mathias Bergsdorf","Bråvallahallen",1,1,"Sandåkerns SK/P06",1
+"901","Mathias Bergsdorf","Bråvallahallen",1,1,"Hörnefors IF",1
+"902","Matilda Karlsson","Ersängshallen",1,3,"Röbäcks IF P-06",1
+"903","Matilda Karlsson","Ersängshallen",1,3,"Ersboda SK",1
+"904","Matilda Karlsson","Vildmannahallen",2,3,"Umeå City IBF/Vit",1
+"905","Matilda Karlsson","Vildmannahallen",2,3,"IBF Dalen /P06",1
+"906","Matilda Karlsson","Vildmannahallen",2,3,"Sävar IK /Blå",1
+"907","Matilda Karlsson","Vildmannahallen",2,3,"Sandåkerns SK/P06",1
+"908","Mattias Glad","Sjöfruhallen",1,14,"Gimonäs Umeå IF/Vit",1
+"909","Mattias Glad","Sjöfruhallen",1,14,"Vindelns IF",1
+"910","Mattias Glad","Sporthallen Musköten",5,14,"IBF Dalen",2
+"911","Mattias Glad","Sporthallen Musköten",5,14,"Hörnefors IF",1
+"912","Mattias Glad","Sporthallen Musköten",5,14,"IBF Dalen /P06",1
+"913","Mattias Glad","Sporthallen Musköten",5,14,"Gimonäs Umeå IF/Vit",1
+"914","Mattias Glad","Sporthallen Musköten",5,14,"Gimonäs Umeå IF/To-Vit",1
+"915","Mattias Glad","Sporthallen Musköten",5,14,"IBF Dalen/P07",1
+"916","Mattias Glad","Sporthallen Musköten",5,14,"Tegs SK IBF",1
+"917","Mattias Glad","Sporthallen Musköten",5,14,"IBF Dalen /P06",1
+"918","Mattias Glad","Sporthallen Musköten",5,14,"IBF Dalen /Södra",1
+"919","Mattias Glad","Sävaråhallen",7,14,"Umeå City IBF/Blå",1
+"920","Mattias Glad","Sävaråhallen",7,14,"Holmsund City IBC",1
+"921","Mattias Glad","Sävaråhallen",7,14,"Sävar IK /Blå",1
+"922","Mattias Glad","Sävaråhallen",7,14,"Obbola IK",1
+"923","Mattias Glad","Sävaråhallen",7,14,"Sandåkerns SK/2",1
+"924","Mattias Glad","Sävaråhallen",7,14,"Sandåkerns SK",1
+"925","Mattias Glad","Sävaråhallen",7,14,"Vindelns IF Gul",1
+"926","Mattias Glad","Sävaråhallen",7,14,"Sävar IK",2
+"927","Mattias Glad","Sävaråhallen",7,14,"Sävar IK /P08",3
+"928","Mattias Glad","Sävaråhallen",7,14,"Sävar IK",1
+"929","Mattias Glad","Sävaråhallen",7,14,"Gimonäs Umeå IF/To-Vit",1
+"930","Mattias Glad","Täftehallen",1,14,"Täfteå IK",1
+"931","Mattias Glad","Täftehallen",1,14,"Täfteå IK /P07",1
+"932","Mattias Karlsson","Sporthushallen",1,1,"Sandåkerns SK/1",1
+"933","Mattias Karlsson","Sporthushallen",1,1,"Spöland Vännäs IF",1
+"934","Meja Fjällström","Sjöfruhallen",1,4,"Holmsund City IBC",1
+"935","Meja Fjällström","Sjöfruhallen",1,4,"Gimonäs Umeå IF/To-Svart",1
+"936","Meja Fjällström","Sporthallen Musköten",1,4,"IBF Dalen /Södra",1
+"937","Meja Fjällström","Sporthallen Musköten",1,4,"Röbäcks IF P-06",1
+"938","Meja Fjällström","Ålidhemshallen",2,4,"Röbäcks IF/Röd",1
+"939","Meja Fjällström","Ålidhemshallen",2,4,"Röbäcks IF/Blå",1
+"940","Meja Fjällström","Ålidhemshallen",2,4,"Gimonäs Umeå IF/To-Svart",1
+"941","Meja Fjällström","Ålidhemshallen",2,4,"Gimonäs Umeå IF/Svart",1
+"942","Melker Westerberg","Balderhallen B",2,4,"Gamla Stan IBK /Svart 07",1
+"943","Melker Westerberg","Balderhallen B",2,4,"Skellefteå IBS P07",1
+"944","Melker Westerberg","Balderhallen B",2,4,"Gamla Stan IBK/Gul 06",1
+"945","Melker Westerberg","Balderhallen B",2,4,"Skellefteå IBS P06",1
+"946","Melker Westerberg","Eddahallen",1,4,"Gamla Stan IBK/Svart 06",1
+"947","Melker Westerberg","Eddahallen",1,4,"Skellefteå IBK P05/Vit",1
+"948","Melker Westerberg","Örjanshallen",1,4,"Gamla Stan IBK /Svart 07",1
+"949","Melker Westerberg","Örjanshallen",1,4,"Clemensnäs IF P07",1
+"950","Micael Holmbom","Balderhallen A",1,3,"Skellefteå IBS P06",1
+"951","Micael Holmbom","Balderhallen A",1,3,"Gamla Stan IBK/Svart 06",1
+"952","Micael Holmbom","Balderhallen B",2,3,"Skellefteå IBS P06",1
+"953","Micael Holmbom","Balderhallen B",2,3,"Skellefteå IBK P05/Vit",1
+"954","Micael Holmbom","Balderhallen B",2,3,"Gamla Stan IBK/Svart 06",1
+"955","Micael Holmbom","Balderhallen B",2,3,"Skellefteå IBK P07/Svart",1
+"956","Moa Stödberg","Bråvallahallen",5,10,"IBF Dalen /P07",1
+"957","Moa Stödberg","Bråvallahallen",5,10,"Täfteå IK",1
+"958","Moa Stödberg","Bråvallahallen",5,10,"Sandåkerns SK",1
+"959","Moa Stödberg","Bråvallahallen",5,10,"Hörnefors IF",2
+"960","Moa Stödberg","Bråvallahallen",5,10,"Sandåkerns SK/1",1
+"961","Moa Stödberg","Bråvallahallen",5,10,"Umeå City IBF/Blå",1
+"962","Moa Stödberg","Bråvallahallen",5,10,"Hörnefors IF",3
+"963","Moa Stödberg","Elofssonhallen",2,10,"Gimonäs Umeå IF/Svart",1
+"964","Moa Stödberg","Elofssonhallen",2,10,"Röbäcks IF/Blå",1
+"965","Moa Stödberg","Elofssonhallen",2,10,"Gimonäs Umeå IF/To-Svart",1
+"966","Moa Stödberg","Elofssonhallen",2,10,"Röbäcks IF/Röd",1
+"967","Moa Stödberg","Midgårdshallen",1,10,"Umeå City IBF/Blå",1
+"968","Moa Stödberg","Midgårdshallen",1,10,"Röbäcks IF/Blå",1
+"969","Moa Stödberg","Sjöfruhallen",1,10,"Sandåkerns SK",1
+"970","Moa Stödberg","Sjöfruhallen",1,10,"Gimonäs Umeå IF/Svart",1
+"971","Moa Stödberg","Sporthallen Musköten",1,10,"Holmsund City IBC",1
+"972","Moa Stödberg","Sporthallen Musköten",1,10,"IBF Dalen /P06",1
+"973","My Wikström","Elofssonhallen",1,1,"Vindelns IF Gul",1
+"974","My Wikström","Elofssonhallen",1,1,"Röbäcks IF /Röd",1
+"975","Nelly Saari","Bråvallahallen",1,7,"Hörnefors IF",1
+"976","Nelly Saari","Bråvallahallen",1,7,"Holmsund City IBC",1
+"977","Nelly Saari","Hammarhallen Vännäs",5,7,"IBF Dalen /P07",1
+"978","Nelly Saari","Hammarhallen Vännäs",5,7,"Spöland Vännäs IF",3
+"979","Nelly Saari","Hammarhallen Vännäs",5,7,"Sandåkerns SK/P06",1
+"980","Nelly Saari","Hammarhallen Vännäs",5,7,"Spöland Vännäs IF",2
+"981","Nelly Saari","Hammarhallen Vännäs",5,7,"Hörnefors IF",1
+"982","Nelly Saari","Hammarhallen Vännäs",5,7,"IBF Dalen /Södra",1
+"983","Nelly Saari","Hammarhallen Vännäs",5,7,"Umeå City IBF/BlåNorr",1
+"984","Nelly Saari","Vännäsby Sporthall",1,7,"Spöland Vännäs IF",1
+"985","Nelly Saari","Vännäsby Sporthall",1,7,"Sandåkerns SK/2",1
+"986","Olle Hedman","Balderhallen A",3,14,"Skellefteå IBS P07",1
+"987","Olle Hedman","Balderhallen A",3,14,"Bureå Idrottsförening P06",1
+"988","Olle Hedman","Balderhallen A",3,14,"Gamla Stan IBK /Svart 07",1
+"989","Olle Hedman","Balderhallen A",3,14,"Boliden FFI P06-08",1
+"990","Olle Hedman","Balderhallen A",3,14,"Gamla Stan IBK /Gul 06",1
+"991","Olle Hedman","Balderhallen A",3,14,"Skellefteå IBS P08",1
+"992","Olle Hedman","Balderhallen B",6,14,"Skellefteå IBS P06",2
+"993","Olle Hedman","Balderhallen B",6,14,"Bureå Idrottsförening P06",1
+"994","Olle Hedman","Balderhallen B",6,14,"Skellefteå IBK P07/Röd",1
+"995","Olle Hedman","Balderhallen B",6,14,"Gamla Stan IBK /Gul 07",1
+"996","Olle Hedman","Balderhallen B",6,14,"Skellefteå IBK P05/Vit",1
+"997","Olle Hedman","Balderhallen B",6,14,"Skellefteå IBS P08",1
+"998","Olle Hedman","Balderhallen B",6,14,"Clemensnäs IF P07",1
+"999","Olle Hedman","Balderhallen B",6,14,"Gamla Stan IBK/Svart 06",1
+"1000","Olle Hedman","Balderhallen B",6,14,"Gamla Stan IBK/Svart 08",1
+"1001","Olle Hedman","Balderhallen B",6,14,"Gamla Stan IBK /Svart 07",1
+"1002","Olle Hedman","Balderhallen B",6,14,"Boliden FFI P06-08",1
+"1003","Olle Hedman","Campushallen",1,14,"Gamla Stan IBK /Gul 07",1
+"1004","Olle Hedman","Campushallen",1,14,"Skellefteå IBK P08/Svart",1
+"1005","Olle Hedman","Eddahallen",4,14,"Skellefteå IBK P07/Svart",1
+"1006","Olle Hedman","Eddahallen",4,14,"Skellefteå IBK P08/Svart",1
+"1007","Olle Hedman","Eddahallen",4,14,"Skellefteå IBK P07/Röd",2
+"1008","Olle Hedman","Eddahallen",4,14,"Skellefteå IBS P06",1
+"1009","Olle Hedman","Eddahallen",4,14,"Gamla Stan IBK /Gul 07",1
+"1010","Olle Hedman","Eddahallen",4,14,"Clemensnäs IF P07",1
+"1011","Olle Hedman","Eddahallen",4,14,"Skellefteå IBS P07",1
+"1012","Oskar Carlsson","Balderhallen B",4,4,"Gamla Stan IBK /Svart 07",1
+"1013","Oskar Carlsson","Balderhallen B",4,4,"Skellefteå IBS P06",1
+"1014","Oskar Carlsson","Balderhallen B",4,4,"Skellefteå IBS P07",1
+"1015","Oskar Carlsson","Balderhallen B",4,4,"Bureå Idrottsförening P06",1
+"1016","Oskar Carlsson","Balderhallen B",4,4,"Boliden FFI P06-08",1
+"1017","Oskar Carlsson","Balderhallen B",4,4,"Skellefteå IBK P07/Svart",1
+"1018","Oskar Carlsson","Balderhallen B",4,4,"Skellefteå IBK P07/Röd",1
+"1019","Oskar Carlsson","Balderhallen B",4,4,"Skellefteå IBK P08/Svart",1
+"1020","Patrik Häggström","Anderstorpshallen",1,6,"Skellefteå IBS P07",1
+"1021","Patrik Häggström","Anderstorpshallen",1,6,"Skellefteå IBK P08/Svart",1
+"1022","Patrik Häggström","Balderhallen B",2,6,"Gamla Stan IBK /Gul 06",1
+"1023","Patrik Häggström","Balderhallen B",2,6,"Skellefteå IBS P07",1
+"1024","Patrik Häggström","Balderhallen B",2,6,"Skellefteå IBK P07/Röd",1
+"1025","Patrik Häggström","Balderhallen B",2,6,"Bureå Idrottsförening P06",1
+"1026","Patrik Häggström","Eddahallen",1,6,"Gamla Stan IBK /Gul 06",1
+"1027","Patrik Häggström","Eddahallen",1,6,"Skellefteå IBK P07/Svart",1
+"1028","Patrik Häggström","Örjanshallen",2,6,"Clemensnäs IF P07",1
+"1029","Patrik Häggström","Örjanshallen",2,6,"Bureå Idrottsförening P06",1
+"1030","Patrik Häggström","Örjanshallen",2,6,"Skellefteå IBK P07/Svart",1
+"1031","Patrik Häggström","Örjanshallen",2,6,"Gamla Stan IBK/Gul 06",1
+"1032","Per Andersson","Balderhallen A",1,14,"Skellefteå IBS P07",1
+"1033","Per Andersson","Balderhallen A",1,14,"Gamla Stan IBK/Gul 06",1
+"1034","Per Andersson","Balderhallen B",4,14,"Gamla Stan IBK/Gul 06",1
+"1035","Per Andersson","Balderhallen B",4,14,"Boliden FFI P06-08",1
+"1036","Per Andersson","Balderhallen B",4,14,"Skellefteå IBS P07",1
+"1037","Per Andersson","Balderhallen B",4,14,"Skellefteå IBS P06",1
+"1038","Per Andersson","Balderhallen B",4,14,"Skellefteå IBK P05/Vit",1
+"1039","Per Andersson","Balderhallen B",4,14,"Gamla Stan IBK /Gul 07",1
+"1040","Per Andersson","Balderhallen B",4,14,"Skellefteå IBK P07/Röd",1
+"1041","Per Andersson","Balderhallen B",4,14,"Gamla Stan IBK /Svart 07",1
+"1042","Per Andersson","Eddahallen",9,14,"Skellefteå IBS P07",2
+"1043","Per Andersson","Eddahallen",9,14,"Skellefteå IBS P08",1
+"1044","Per Andersson","Eddahallen",9,14,"Gamla Stan IBK/Svart 08",2
+"1045","Per Andersson","Eddahallen",9,14,"Skellefteå IBK P07/Röd",2
+"1046","Per Andersson","Eddahallen",9,14,"Skellefteå IBK P07/Svart",3
+"1047","Per Andersson","Eddahallen",9,14,"Gamla Stan IBK /Gul 07",1
+"1048","Per Andersson","Eddahallen",9,14,"Clemensnäs IF P07",1
+"1049","Per Andersson","Eddahallen",9,14,"Skellefteå IBK P08/Svart",1
+"1050","Per Andersson","Eddahallen",9,14,"Gamla Stan IBK /Gul 06",1
+"1051","Per Andersson","Eddahallen",9,14,"Bureå Idrottsförening P06",1
+"1052","Per Andersson","Eddahallen",9,14,"Boliden FFI P06-08",3
+"1053","Peter Saari","Bråvallahallen",1,5,"Hörnefors IF",1
+"1054","Peter Saari","Bråvallahallen",1,5,"Holmsund City IBC",1
+"1055","Peter Saari","Hammarhallen Vännäs",4,5,"Spöland Vännäs IF",2
+"1056","Peter Saari","Hammarhallen Vännäs",4,5,"Gimonäs Umeå IF /To-Svart",1
+"1057","Peter Saari","Hammarhallen Vännäs",4,5,"Röbäcks IF P-06",1
+"1058","Peter Saari","Hammarhallen Vännäs",4,5,"Spöland Vännäs IF",2
+"1059","Peter Saari","Hammarhallen Vännäs",4,5,"Sandåkerns SK/1",1
+"1060","Peter Saari","Hammarhallen Vännäs",4,5,"Holmsund City IBC",1
+"1061","Rasmus Säfvenberg","Bråvallahallen",1,4,"Hörnefors IF",1
+"1062","Rasmus Säfvenberg","Bråvallahallen",1,4,"Spöland Vännäs IF",1
+"1063","Rasmus Säfvenberg","Elofssonhallen",1,4,"Röbäcks IF P-06",1
+"1064","Rasmus Säfvenberg","Elofssonhallen",1,4,"Ersboda SK",1
+"1065","Rasmus Säfvenberg","FC Vindeln",1,4,"Vindelns IF",1
+"1066","Rasmus Säfvenberg","FC Vindeln",1,4,"Gimonäs Umeå IF/Vit",1
+"1067","Rasmus Säfvenberg","Hammarhallen Vännäs",1,4,"Umeå City IBF/Blå",1
+"1068","Rasmus Säfvenberg","Hammarhallen Vännäs",1,4,"Spöland Vännäs IF",1
+"1069","Robert Segerstedt","Elofssonhallen",2,18,"Spöland Vännäs IF",1
+"1070","Robert Segerstedt","Elofssonhallen",2,18,"Sävar IK /Blå",1
+"1071","Robert Segerstedt","Elofssonhallen",2,18,"Röbäcks IF /Röd",1
+"1072","Robert Segerstedt","Elofssonhallen",2,18,"Röbäcks IF P-06",1
+"1073","Robert Segerstedt","Ersängshallen",1,18,"Ersboda SK",1
+"1074","Robert Segerstedt","Ersängshallen",1,18,"Umeå City IBF/Blå",1
+"1075","Robert Segerstedt","Hammarhallen Vännäs",1,18,"Spöland Vännäs IF",1
+"1076","Robert Segerstedt","Hammarhallen Vännäs",1,18,"Holmsund City IBC",1
+"1077","Robert Segerstedt","Midgårdshallen",1,18,"Umeå City IBF/BlåNorr",1
+"1078","Robert Segerstedt","Midgårdshallen",1,18,"IBF Dalen /P06",1
+"1079","Robert Segerstedt","Olasjöhallen",2,18,"Obbola IK",1
+"1080","Robert Segerstedt","Olasjöhallen",2,18,"Obbola IK /P08",1
+"1081","Robert Segerstedt","Olasjöhallen",2,18,"Sandåkerns SK/2",1
+"1082","Robert Segerstedt","Olasjöhallen",2,18,"Tegs SK IBF",1
+"1083","Robert Segerstedt","Storsjöhallen",3,18,"Hörnefors IF",1
+"1084","Robert Segerstedt","Storsjöhallen",3,18,"Holmsund City IBC",3
+"1085","Robert Segerstedt","Storsjöhallen",3,18,"Gimonäs Umeå IF/To-Vit",1
+"1086","Robert Segerstedt","Storsjöhallen",3,18,"Obbola IK /P08",1
+"1087","Robert Segerstedt","Täftehallen",2,18,"Täfteå IK /P07",1
+"1088","Robert Segerstedt","Täftehallen",2,18,"Röbäcks IF/Röd",1
+"1089","Robert Segerstedt","Täftehallen",2,18,"Täfteå IK",1
+"1090","Robert Segerstedt","Täftehallen",2,18,"Sandåkerns SK/1",1
+"1091","Robert Segerstedt","Vildmannahallen",5,18,"Obbola IK /P08",1
+"1092","Robert Segerstedt","Vildmannahallen",5,18,"Hörnefors IF",1
+"1093","Robert Segerstedt","Vildmannahallen",5,18,"Sandåkerns SK",1
+"1094","Robert Segerstedt","Vildmannahallen",5,18,"Ersboda SK",1
+"1095","Robert Segerstedt","Vildmannahallen",5,18,"Umeå City IBF/BlåNorr",1
+"1096","Robert Segerstedt","Vildmannahallen",5,18,"Sandåkerns SK/2",1
+"1097","Robert Segerstedt","Vildmannahallen",5,18,"Umeå City IBF/Vit",1
+"1098","Robert Segerstedt","Vildmannahallen",5,18,"Umeå City IBF/Blå",1
+"1099","Robert Segerstedt","Vildmannahallen",5,18,"Tegs SK IBF",1
+"1100","Robert Segerstedt","Vildmannahallen",5,18,"Röbäcks IF P-06",1
+"1101","Robert Segerstedt","Ålidhemshallen",1,18,"Gimonäs Umeå IF/To-Svart",1
+"1102","Robert Segerstedt","Ålidhemshallen",1,18,"Täfteå IK /P07",1
+"1103","Samuel Melin","Täftehallen",1,1,"Sandåkerns SK/1",1
+"1104","Samuel Melin","Täftehallen",1,1,"Täfteå IK",1
+"1105","Samuel Sundqvist","Balderhallen B",1,7,"Boliden FFI P06-08",1
+"1106","Samuel Sundqvist","Balderhallen B",1,7,"Gamla Stan IBK /Svart 07",1
+"1107","Samuel Sundqvist","Örjanshallen",6,7,"Skellefteå IBK P07/Svart",1
+"1108","Samuel Sundqvist","Örjanshallen",6,7,"Bureå Idrottsförening P06",1
+"1109","Samuel Sundqvist","Örjanshallen",6,7,"Skellefteå IBK P05/Vit",1
+"1110","Samuel Sundqvist","Örjanshallen",6,7,"Clemensnäs IF P07",1
+"1111","Samuel Sundqvist","Örjanshallen",6,7,"Skellefteå IBK P07/Röd",1
+"1112","Samuel Sundqvist","Örjanshallen",6,7,"Bureå Idrottsförening P06",1
+"1113","Samuel Sundqvist","Örjanshallen",6,7,"Boliden FFI P06-08",1
+"1114","Samuel Sundqvist","Örjanshallen",6,7,"Gamla Stan IBK /Gul 07",1
+"1115","Samuel Sundqvist","Örjanshallen",6,7,"Clemensnäs IF P07",4
+"1116","Sanna Åslin","Olasjöhallen",1,3,"Obbola IK /P08",1
+"1117","Sanna Åslin","Olasjöhallen",1,3,"Gimonäs Umeå IF/To-Vit",1
+"1118","Sanna Åslin","Sporthallen Musköten",1,3,"IBF Dalen /P07",1
+"1119","Sanna Åslin","Sporthallen Musköten",1,3,"Sandåkerns SK/1",1
+"1120","Sanna Åslin","Vildmannahallen",1,3,"Holmsund City IBC",1
+"1121","Sanna Åslin","Vildmannahallen",1,3,"Umeå City IBF/P08",1
+"1122","Simon Blom","Balderhallen B",5,7,"Skellefteå IBK P07/Svart",1
+"1123","Simon Blom","Balderhallen B",5,7,"Boliden FFI P06-08",1
+"1124","Simon Blom","Balderhallen B",5,7,"Skellefteå IBK P07/Röd",2
+"1125","Simon Blom","Balderhallen B",5,7,"Skellefteå IBS P07",2
+"1126","Simon Blom","Balderhallen B",5,7,"Skellefteå IBK P08/Svart",1
+"1127","Simon Blom","Balderhallen B",5,7,"Skellefteå IBS P06",1
+"1128","Simon Blom","Balderhallen B",5,7,"Bureå Idrottsförening P06",1
+"1129","Simon Blom","Balderhallen B",5,7,"Gamla Stan IBK /Svart 07",1
+"1130","Simon Blom","Eddahallen",2,7,"Skellefteå IBS P08",1
+"1131","Simon Blom","Eddahallen",2,7,"Skellefteå IBK P07/Röd",1
+"1132","Simon Blom","Eddahallen",2,7,"Skellefteå IBK P08/Svart",1
+"1133","Simon Blom","Eddahallen",2,7,"Gamla Stan IBK /Gul 07",1
+"1134","Sofia Deijer","Elofssonhallen",2,3,"Röbäcks IF P-06",1
+"1135","Sofia Deijer","Elofssonhallen",2,3,"IBF Dalen /P06",1
+"1136","Sofia Deijer","Elofssonhallen",2,3,"Sandåkerns SK/1",1
+"1137","Sofia Deijer","Elofssonhallen",2,3,"Röbäcks IF/Röd",1
+"1138","Sofia Deijer","Midgårdshallen",1,3,"Spöland Vännäs IF",1
+"1139","Sofia Deijer","Midgårdshallen",1,3,"IBF Dalen /Södra",1
+"1140","Svenja Brandenstein Kimmel","Midgårdshallen",1,1,"Umeå City IBF/Blå",1
+"1141","Svenja Brandenstein Kimmel","Midgårdshallen",1,1,"Sandåkerns SK/P06",1
+"1142","Thanasis Provatas","Elofssonhallen",1,4,"Umeå City IBF/Vit",1
+"1143","Thanasis Provatas","Elofssonhallen",1,4,"Röbäcks IF/Blå",1
+"1144","Thanasis Provatas","FC Vindeln",1,4,"Röbäcks IF /Röd",1
+"1145","Thanasis Provatas","FC Vindeln",1,4,"Vindelns IF Gul",1
+"1146","Thanasis Provatas","Vännäsby Sporthall",1,4,"Täfteå IK",1
+"1147","Thanasis Provatas","Vännäsby Sporthall",1,4,"Spöland Vännäs IF",1
+"1148","Thanasis Provatas","Ålidhemshallen",1,4,"Gimonäs Umeå IF/Svart",1
+"1149","Thanasis Provatas","Ålidhemshallen",1,4,"Umeå City IBF/Vit",1
+"1150","Therese Jensen","Ersängshallen",1,1,"Sävar IK",1
+"1151","Therese Jensen","Ersängshallen",1,1,"Ersboda SK",1
+"1152","Tilda Hamrén","Täftehallen",2,2,"Täfteå IK /P07",1
+"1153","Tilda Hamrén","Täftehallen",2,2,"Sandåkerns SK/1",1
+"1154","Tilda Hamrén","Täftehallen",2,2,"Täfteå IK",1
+"1155","Tilda Hamrén","Täftehallen",2,2,"Röbäcks IF/Röd",1
+"1156","Tilde Wikström","Olasjöhallen",1,1,"Gimonäs Umeå IF/To-Vit",1
+"1157","Tilde Wikström","Olasjöhallen",1,1,"Obbola IK /P08",1
+"1158","Tim Marklund","Balderhallen B",3,12,"Skellefteå IBK P05/Vit",1
+"1159","Tim Marklund","Balderhallen B",3,12,"Skellefteå IBK P07/Röd",1
+"1160","Tim Marklund","Balderhallen B",3,12,"Gamla Stan IBK /Gul 07",1
+"1161","Tim Marklund","Balderhallen B",3,12,"Skellefteå IBS P07",1
+"1162","Tim Marklund","Balderhallen B",3,12,"Skellefteå IBS P06",1
+"1163","Tim Marklund","Balderhallen B",3,12,"Gamla Stan IBK/Gul 06",1
+"1164","Tim Marklund","Eddahallen",8,12,"Boliden FFI P06-08",3
+"1165","Tim Marklund","Eddahallen",8,12,"Skellefteå IBS P08",1
+"1166","Tim Marklund","Eddahallen",8,12,"Skellefteå IBK P07/Svart",3
+"1167","Tim Marklund","Eddahallen",8,12,"Bureå Idrottsförening P06",1
+"1168","Tim Marklund","Eddahallen",8,12,"Skellefteå IBS P07",2
+"1169","Tim Marklund","Eddahallen",8,12,"Clemensnäs IF P07",1
+"1170","Tim Marklund","Eddahallen",8,12,"Gamla Stan IBK /Gul 07",1
+"1171","Tim Marklund","Eddahallen",8,12,"Skellefteå IBK P07/Röd",1
+"1172","Tim Marklund","Eddahallen",8,12,"Gamla Stan IBK /Gul 06",1
+"1173","Tim Marklund","Eddahallen",8,12,"Skellefteå IBK P08/Svart",1
+"1174","Tim Marklund","Eddahallen",8,12,"Gamla Stan IBK/Svart 08",1
+"1175","Tim Marklund","Örjanshallen",1,12,"Bureå Idrottsförening P06",1
+"1176","Tim Marklund","Örjanshallen",1,12,"Skellefteå IBS P06",1
+"1177","Tuva Dahlin","Elofssonhallen",1,3,"Vindelns IF Gul",1
+"1178","Tuva Dahlin","Elofssonhallen",1,3,"Röbäcks IF /Röd",1
+"1179","Tuva Dahlin","Umeå Energi Arena Öst",2,3,"Umeå City IBF/Blå",1
+"1180","Tuva Dahlin","Umeå Energi Arena Öst",2,3,"Gimonäs Umeå IF/Svart",1
+"1181","Tuva Dahlin","Umeå Energi Arena Öst",2,3,"Umeå City IBF/Vit",1
+"1182","Tuva Dahlin","Umeå Energi Arena Öst",2,3,"Sävar IK",1
+"1183","Ulf Stödberg","Bråvallahallen",4,5,"Hörnefors IF",1
+"1184","Ulf Stödberg","Bråvallahallen",4,5,"Umeå City IBF/Blå",1
+"1185","Ulf Stödberg","Bråvallahallen",4,5,"Täfteå IK",1
+"1186","Ulf Stödberg","Bråvallahallen",4,5,"Hörnefors IF",3
+"1187","Ulf Stödberg","Bråvallahallen",4,5,"Sandåkerns SK/2",1
+"1188","Ulf Stödberg","Bråvallahallen",4,5,"Holmsund City IBC",1
+"1189","Ulf Stödberg","Elofssonhallen",1,5,"IBF Dalen",1
+"1190","Ulf Stödberg","Elofssonhallen",1,5,"Röbäcks IF /Röd",1
+"1191","Viktoria Nordqvist","Ersängshallen",1,5,"Ersboda SK",1
+"1192","Viktoria Nordqvist","Ersängshallen",1,5,"Umeå City IBF/BlåNorr",1
+"1193","Viktoria Nordqvist","Midgårdshallen",1,5,"IBF Dalen /P07",1
+"1194","Viktoria Nordqvist","Midgårdshallen",1,5,"Gimonäs Umeå IF /To-Svart",1
+"1195","Viktoria Nordqvist","Sporthallen Musköten",2,5,"Röbäcks IF P-06",1
+"1196","Viktoria Nordqvist","Sporthallen Musköten",2,5,"IBF Dalen /P06",1
+"1197","Viktoria Nordqvist","Sporthallen Musköten",2,5,"IBF Dalen",1
+"1198","Viktoria Nordqvist","Sporthallen Musköten",2,5,"Vindelns IF Gul",1
+"1199","Viktoria Nordqvist","Vildmannahallen",1,5,"IBF Dalen /P06",1
+"1200","Viktoria Nordqvist","Vildmannahallen",1,5,"Sandåkerns SK/P06",1
+"1201","Wilda Berglund","Midgårdshallen",2,5,"Umeå City IBF/Vit",1
+"1202","Wilda Berglund","Midgårdshallen",2,5,"IBF Dalen/P06",1
+"1203","Wilda Berglund","Midgårdshallen",2,5,"Tegs SK IBF",1
+"1204","Wilda Berglund","Midgårdshallen",2,5,"Sävar IK /Blå",1
+"1205","Wilda Berglund","Umeå Energi Arena Väst",1,5,"IBF Dalen",1
+"1206","Wilda Berglund","Umeå Energi Arena Väst",1,5,"Umeå City IBF/Vit",1
+"1207","Wilda Berglund","Vildmannahallen",2,5,"Hörnefors IF",1
+"1208","Wilda Berglund","Vildmannahallen",2,5,"Sandåkerns SK/2",2
+"1209","Wilda Berglund","Vildmannahallen",2,5,"IBF Dalen/P07",1
+"1210","Ville Hedsberg","Balderhallen B",4,5,"Skellefteå IBS P07",1
+"1211","Ville Hedsberg","Balderhallen B",4,5,"Gamla Stan IBK /Gul 06",1
+"1212","Ville Hedsberg","Balderhallen B",4,5,"Skellefteå IBS P06",1
+"1213","Ville Hedsberg","Balderhallen B",4,5,"Gamla Stan IBK/Gul 06",2
+"1214","Ville Hedsberg","Balderhallen B",4,5,"Boliden FFI P06-08",1
+"1215","Ville Hedsberg","Balderhallen B",4,5,"Gamla Stan IBK /Svart 07",2
+"1216","Ville Hedsberg","Eddahallen",1,5,"Gamla Stan IBK/Svart 06",1
+"1217","Ville Hedsberg","Eddahallen",1,5,"Skellefteå IBK P05/Vit",1
+"1218","William Johansson","Elofssonhallen",2,9,"Sävar IK",1
+"1219","William Johansson","Elofssonhallen",2,9,"Röbäcks IF/Röd",1
+"1220","William Johansson","Elofssonhallen",2,9,"Täfteå IK",1
+"1221","William Johansson","Elofssonhallen",2,9,"Röbäcks IF/Blå",1
+"1222","William Johansson","Sjöfruhallen",2,9,"Gimonäs Umeå IF/Svart",1
+"1223","William Johansson","Sjöfruhallen",2,9,"Gimonäs Umeå IF/Vit",1
+"1224","William Johansson","Sjöfruhallen",2,9,"Umeå City IBF/Blå",1
+"1225","William Johansson","Sjöfruhallen",2,9,"Röbäcks IF/Blå",1
+"1226","William Johansson","Sävaråhallen",2,9,"Ersboda SK",1
+"1227","William Johansson","Sävaråhallen",2,9,"Holmsund City IBC",1
+"1228","William Johansson","Sävaråhallen",2,9,"Sävar IK",1
+"1229","William Johansson","Sävaråhallen",2,9,"Sävar IK /Blå",1
+"1230","William Johansson","Vildmannahallen",3,9,"Sandåkerns SK/1",1
+"1231","William Johansson","Vildmannahallen",3,9,"Hörnefors IF",1
+"1232","William Johansson","Vildmannahallen",3,9,"Umeå City IBF/Vit",1
+"1233","William Johansson","Vildmannahallen",3,9,"Sandåkerns SK",2
+"1234","William Johansson","Vildmannahallen",3,9,"Gimonäs Umeå IF /To-Svart",1
+"1235","Wilma Norberg","Midgårdshallen",2,4,"Tegs SK IBF",1
+"1236","Wilma Norberg","Midgårdshallen",2,4,"IBF Dalen/P06",1
+"1237","Wilma Norberg","Midgårdshallen",2,4,"Sävar IK /Blå",1
+"1238","Wilma Norberg","Midgårdshallen",2,4,"Umeå City IBF/Vit",1
+"1239","Wilma Norberg","Vildmannahallen",2,4,"Hörnefors IF",1
+"1240","Wilma Norberg","Vildmannahallen",2,4,"IBF Dalen /P07",1
+"1241","Wilma Norberg","Vildmannahallen",2,4,"Täfteå IK /P07",1
+"1242","Wilma Norberg","Vildmannahallen",2,4,"Sandåkerns SK/1",1
+"1243","Yueshan Lidström","Midgårdshallen",2,12,"Umeå City IBF/Blå",2
+"1244","Yueshan Lidström","Midgårdshallen",2,12,"Sandåkerns SK",1
+"1245","Yueshan Lidström","Midgårdshallen",2,12,"Umeå City IBF/Vit",1
+"1246","Yueshan Lidström","Sjöfruhallen",2,12,"Gimonäs Umeå IF/To-Vit",1
+"1247","Yueshan Lidström","Sjöfruhallen",2,12,"Holmsund City IBC",1
+"1248","Yueshan Lidström","Sjöfruhallen",2,12,"Umeå City IBF/Vit",1
+"1249","Yueshan Lidström","Sjöfruhallen",2,12,"Gimonäs Umeå IF/Vit",1
+"1250","Yueshan Lidström","Sporthallen Musköten",2,12,"Umeå City IBF/Blå",1
+"1251","Yueshan Lidström","Sporthallen Musköten",2,12,"Sävar IK /Blå",1
+"1252","Yueshan Lidström","Sporthallen Musköten",2,12,"IBF Dalen /P06",1
+"1253","Yueshan Lidström","Sporthallen Musköten",2,12,"IBF Dalen",1
+"1254","Yueshan Lidström","Sävaråhallen",1,12,"Sävar IK /Blå",1
+"1255","Yueshan Lidström","Sävaråhallen",1,12,"Täfteå IK",1
+"1256","Yueshan Lidström","Täftehallen",5,12,"Täfteå IK",3
+"1257","Yueshan Lidström","Täftehallen",5,12,"Täfteå IK",2
+"1258","Yueshan Lidström","Täftehallen",5,12,"IBF Dalen /P07",1
+"1259","Yueshan Lidström","Täftehallen",5,12,"Röbäcks IF /Röd",1
+"1260","Yueshan Lidström","Täftehallen",5,12,"Sävar IK /Blå",1
+"1261","Yueshan Lidström","Täftehallen",5,12,"IBF Dalen",1
+"1262","Yueshan Lidström","Täftehallen",5,12,"Vindelns IF Gul",1
+"1263","Örjan Arvidsson","Örjanshallen",2,2,"Skellefteå IBK P07/Röd",1
+"1264","Örjan Arvidsson","Örjanshallen",2,2,"Bureå Idrottsförening P06",1
+"1265","Örjan Arvidsson","Örjanshallen",2,2,"Clemensnäs IF P07",2
