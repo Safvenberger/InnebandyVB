@@ -1,15 +1,71 @@
-"","Referee","TotalCount"
-"1","Christoffer Söderström, Marcus Yngvesson",1
-"2","Henrik Andersson, Magnus Gullquist",2
-"3","Henrik Andersson, Mats Andersson",4
-"4","Henrik Andersson, Nico Berg",1
-"5","Henrik Andersson, Peter Bergstrand",1
-"6","Henrik Andersson, Tobias Sandblom",2
-"7","Jonas Söderberg, Christoffer Söderström",5
-"8","Mats Andersson, Magnus Gullquist",1
-"9","Mats Andersson, Nico Berg",1
-"10","Mats Andersson, Tobias Jernsand",1
-"11","Nico Berg, Magnus Gullquist",1
-"12","Nico Berg, Petter Niklasson",1
-"13","Peter Bergstrand, Tobias Sandblom",16
-"14","Zoltan Ilés, Mattias Torbiörnson",3
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Christoffer Söderström, Marcus Yngvesson","Kullavikshallen",1,1,"Sandö IBK",1
+"2","Christoffer Söderström, Marcus Yngvesson","Kullavikshallen",1,1,"Särö IBK",1
+"3","Henrik Andersson, Magnus Gullquist","Ankarhallen",1,2,"Träslövsläge IF",1
+"4","Henrik Andersson, Magnus Gullquist","Ankarhallen",1,2,"Sandö IBK",1
+"5","Henrik Andersson, Magnus Gullquist","Kattegatthallen",1,2,"Falkenbergs IBK",1
+"6","Henrik Andersson, Magnus Gullquist","Kattegatthallen",1,2,"Veddige IBK",1
+"7","Henrik Andersson, Mats Andersson","Falkhallen",1,4,"Falkenbergs IBK",1
+"8","Henrik Andersson, Mats Andersson","Falkhallen",1,4,"Vinbergs IBS",1
+"9","Henrik Andersson, Mats Andersson","Presse Idrottshall",1,4,"Kustens IF",1
+"10","Henrik Andersson, Mats Andersson","Presse Idrottshall",1,4,"Onsala IBK",1
+"11","Henrik Andersson, Mats Andersson","Vallda Idrottshall",1,4,"Sandö IBK",1
+"12","Henrik Andersson, Mats Andersson","Vallda Idrottshall",1,4,"Warberg IBF",1
+"13","Henrik Andersson, Mats Andersson","Vidhögehallen",1,4,"Träslövsläge IF",1
+"14","Henrik Andersson, Mats Andersson","Vidhögehallen",1,4,"Veddige IBK",1
+"15","Henrik Andersson, Nico Berg","Vinbergs Idrottshall",1,1,"Vinbergs IBS",1
+"16","Henrik Andersson, Nico Berg","Vinbergs Idrottshall",1,1,"Onsala IBK",1
+"17","Henrik Andersson, Peter Bergstrand","Vinbergs Idrottshall",1,1,"Träslövsläge IF",1
+"18","Henrik Andersson, Peter Bergstrand","Vinbergs Idrottshall",1,1,"Vinbergs IBS",1
+"19","Henrik Andersson, Tobias Sandblom","Kattegatthallen",1,2,"Falkenbergs IBK",1
+"20","Henrik Andersson, Tobias Sandblom","Kattegatthallen",1,2,"Kustens IF",1
+"21","Henrik Andersson, Tobias Sandblom","Presse Idrottshall",1,2,"Onsala IBK",1
+"22","Henrik Andersson, Tobias Sandblom","Presse Idrottshall",1,2,"Veddige IBK",1
+"23","Jonas Söderberg, Christoffer Söderström","Kullavikshallen",1,5,"Särö IBK",1
+"24","Jonas Söderberg, Christoffer Söderström","Kullavikshallen",1,5,"Onsala IBK",1
+"25","Jonas Söderberg, Christoffer Söderström","Sparbanken Wictory Center, Salmingplanen",1,5,"Träslövsläge IF",1
+"26","Jonas Söderberg, Christoffer Söderström","Sparbanken Wictory Center, Salmingplanen",1,5,"Warberg IBF",1
+"27","Jonas Söderberg, Christoffer Söderström","Vidhögehallen",2,5,"Kustens IF",1
+"28","Jonas Söderberg, Christoffer Söderström","Vidhögehallen",2,5,"Vinbergs IBS",1
+"29","Jonas Söderberg, Christoffer Söderström","Vidhögehallen",2,5,"Veddige IBK",2
+"30","Jonas Söderberg, Christoffer Söderström","Vinbergs Idrottshall",1,5,"Särö IBK",1
+"31","Jonas Söderberg, Christoffer Söderström","Vinbergs Idrottshall",1,5,"Vinbergs IBS",1
+"32","Mats Andersson, Magnus Gullquist","Sparbanken Wictory Center, Salmingplanen",1,1,"Warberg IBF",1
+"33","Mats Andersson, Magnus Gullquist","Sparbanken Wictory Center, Salmingplanen",1,1,"Vinbergs IBS",1
+"34","Mats Andersson, Nico Berg","Ankarhallen",1,1,"Särö IBK",1
+"35","Mats Andersson, Nico Berg","Ankarhallen",1,1,"Träslövsläge IF",1
+"36","Mats Andersson, Tobias Jernsand","Haverdalshallen",1,1,"Träslövsläge IF",1
+"37","Mats Andersson, Tobias Jernsand","Haverdalshallen",1,1,"Kustens IF",1
+"38","Nico Berg, Magnus Gullquist","Haverdalshallen",1,1,"Sandö IBK",1
+"39","Nico Berg, Magnus Gullquist","Haverdalshallen",1,1,"Kustens IF",1
+"40","Nico Berg, Petter Niklasson","Haverdalshallen",1,1,"Kustens IF",1
+"41","Nico Berg, Petter Niklasson","Haverdalshallen",1,1,"Veddige IBK",1
+"42","Peter Bergstrand, Tobias Sandblom","Ankarhallen",2,16,"Falkenbergs IBK",1
+"43","Peter Bergstrand, Tobias Sandblom","Ankarhallen",2,16,"Onsala IBK",1
+"44","Peter Bergstrand, Tobias Sandblom","Ankarhallen",2,16,"Träslövsläge IF",2
+"45","Peter Bergstrand, Tobias Sandblom","Brearedshallen",1,16,"Warberg IBF",1
+"46","Peter Bergstrand, Tobias Sandblom","Brearedshallen",1,16,"Träslövsläge IF",1
+"47","Peter Bergstrand, Tobias Sandblom","Haverdalshallen",2,16,"Särö IBK",1
+"48","Peter Bergstrand, Tobias Sandblom","Haverdalshallen",2,16,"Kustens IF",2
+"49","Peter Bergstrand, Tobias Sandblom","Haverdalshallen",2,16,"Vinbergs IBS",1
+"50","Peter Bergstrand, Tobias Sandblom","Kattegatthallen",1,16,"Vinbergs IBS",1
+"51","Peter Bergstrand, Tobias Sandblom","Kattegatthallen",1,16,"Falkenbergs IBK",1
+"52","Peter Bergstrand, Tobias Sandblom","Kullavikshallen",2,16,"Falkenbergs IBK",1
+"53","Peter Bergstrand, Tobias Sandblom","Kullavikshallen",2,16,"Warberg IBF",1
+"54","Peter Bergstrand, Tobias Sandblom","Kullavikshallen",2,16,"Särö IBK",2
+"55","Peter Bergstrand, Tobias Sandblom","Presse Idrottshall",3,16,"Warberg IBF",1
+"56","Peter Bergstrand, Tobias Sandblom","Presse Idrottshall",3,16,"Falkenbergs IBK",1
+"57","Peter Bergstrand, Tobias Sandblom","Presse Idrottshall",3,16,"Särö IBK",1
+"58","Peter Bergstrand, Tobias Sandblom","Presse Idrottshall",3,16,"Onsala IBK",3
+"59","Peter Bergstrand, Tobias Sandblom","Vallda Idrottshall",3,16,"Onsala IBK",1
+"60","Peter Bergstrand, Tobias Sandblom","Vallda Idrottshall",3,16,"Veddige IBK",1
+"61","Peter Bergstrand, Tobias Sandblom","Vallda Idrottshall",3,16,"Sandö IBK",3
+"62","Peter Bergstrand, Tobias Sandblom","Vallda Idrottshall",3,16,"Falkenbergs IBK",1
+"63","Peter Bergstrand, Tobias Sandblom","Vidhögehallen",1,16,"Veddige IBK",1
+"64","Peter Bergstrand, Tobias Sandblom","Vidhögehallen",1,16,"Särö IBK",1
+"65","Peter Bergstrand, Tobias Sandblom","Vinbergs Idrottshall",1,16,"Sandö IBK",1
+"66","Peter Bergstrand, Tobias Sandblom","Vinbergs Idrottshall",1,16,"Vinbergs IBS",1
+"67","Zoltan Ilés, Mattias Torbiörnson","Sparbanken Wictory Center, Salmingplanen",3,3,"Warberg IBF",3
+"68","Zoltan Ilés, Mattias Torbiörnson","Sparbanken Wictory Center, Salmingplanen",3,3,"Veddige IBK",1
+"69","Zoltan Ilés, Mattias Torbiörnson","Sparbanken Wictory Center, Salmingplanen",3,3,"Falkenbergs IBK",1
+"70","Zoltan Ilés, Mattias Torbiörnson","Sparbanken Wictory Center, Salmingplanen",3,3,"Kustens IF",1

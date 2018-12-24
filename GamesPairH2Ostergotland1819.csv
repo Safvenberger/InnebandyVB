@@ -1,17 +1,102 @@
-"","Referee","TotalCount"
-"1","Daniel Hermansson, Henric Lundeborg",3
-"2","David Björketun, Jesper Jonsson",4
-"3","Denis Ogresevic, Elvis Ogresevic",6
-"4","Emil Glenngård, Johan Wiggur",1
-"5","Jimmy Eliasson, Daniel Hermansson",1
-"6","Jimmy Eliasson, Jesper Liedberg",6
-"7","Jimmy Eliasson, Magnus Jakobsson",2
-"8","Johan Nordlander, William Wengelin",4
-"9","Magnus Jakobsson, Johan Wiggur",2
-"10","Magnus Jakobsson, Sonny Weideborg",1
-"11","Martin Eriksson, Emil Glenngård",3
-"12","Oscar Bard, Hampus Larsson",3
-"13","Oscar Bard, Sonny Weideborg",2
-"14","Thomas Nystrand, Peter Ström",11
-"15","Thomas Nystrand, Rickard Olsen",1
-"16","Tom Nilsson, Sonny Weideborg",4
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Daniel Hermansson, Henric Lundeborg","Linköpings Sporthall",1,3,"Linköping Legends FBC",1
+"2","Daniel Hermansson, Henric Lundeborg","Linköpings Sporthall",1,3,"IBK Succé",1
+"3","Daniel Hermansson, Henric Lundeborg","Ljungsbro Sporthall",1,3,"Bergs IK",1
+"4","Daniel Hermansson, Henric Lundeborg","Ljungsbro Sporthall",1,3,"IBK Succé",1
+"5","Daniel Hermansson, Henric Lundeborg","Åsundahallen",1,3,"Bergs IK",1
+"6","Daniel Hermansson, Henric Lundeborg","Åsundahallen",1,3,"Rimforsa IF",1
+"7","David Björketun, Jesper Jonsson","Folkungahallen",1,4,"IBF Norrköping",1
+"8","David Björketun, Jesper Jonsson","Folkungahallen",1,4,"Linköpings Universitets AIF IBK",1
+"9","David Björketun, Jesper Jonsson","Ljungsbro Sporthall",1,4,"Solfjäderstaden IBK",1
+"10","David Björketun, Jesper Jonsson","Ljungsbro Sporthall",1,4,"Bergs IK",1
+"11","David Björketun, Jesper Jonsson","Motala Sporthall",1,4,"Rimforsa IF",1
+"12","David Björketun, Jesper Jonsson","Motala Sporthall",1,4,"Solfjäderstaden IBK",1
+"13","David Björketun, Jesper Jonsson","Sporthallen Vikingen",1,4,"IBF Norrköping",1
+"14","David Björketun, Jesper Jonsson","Sporthallen Vikingen",1,4,"Söderköpings IBK",1
+"15","Denis Ogresevic, Elvis Ogresevic","Folkungahallen",3,6,"Linköpings Universitets AIF IBK",1
+"16","Denis Ogresevic, Elvis Ogresevic","Folkungahallen",3,6,"IBF Norrköping",1
+"17","Denis Ogresevic, Elvis Ogresevic","Folkungahallen",3,6,"Finspång IBK",1
+"18","Denis Ogresevic, Elvis Ogresevic","Folkungahallen",3,6,"IBK Succé",2
+"19","Denis Ogresevic, Elvis Ogresevic","Folkungahallen",3,6,"Linköping IBK Ungdom",1
+"20","Denis Ogresevic, Elvis Ogresevic","Motala Sporthall",1,6,"Linköpings Universitets AIF IBK",1
+"21","Denis Ogresevic, Elvis Ogresevic","Motala Sporthall",1,6,"Solfjäderstaden IBK",1
+"22","Denis Ogresevic, Elvis Ogresevic","Mässhallen A",1,6,"Rimforsa IF",1
+"23","Denis Ogresevic, Elvis Ogresevic","Mässhallen A",1,6,"KFUM Norrköping IBF",1
+"24","Denis Ogresevic, Elvis Ogresevic","Åsundahallen",1,6,"Rimforsa IF",1
+"25","Denis Ogresevic, Elvis Ogresevic","Åsundahallen",1,6,"IBK Succé",1
+"26","Emil Glenngård, Johan Wiggur","Borgsmohallen",1,1,"IBF Norrköping",1
+"27","Emil Glenngård, Johan Wiggur","Borgsmohallen",1,1,"IBK Succé",1
+"28","Jimmy Eliasson, Daniel Hermansson","Folkungahallen",1,1,"Solfjäderstaden IBK",1
+"29","Jimmy Eliasson, Daniel Hermansson","Folkungahallen",1,1,"Linköping Legends FBC",1
+"30","Jimmy Eliasson, Jesper Liedberg","Arena Grosvad",1,6,"KFUM Norrköping IBF",1
+"31","Jimmy Eliasson, Jesper Liedberg","Arena Grosvad",1,6,"Finspång IBK",1
+"32","Jimmy Eliasson, Jesper Liedberg","Folkungahallen",3,6,"IBK Succé",1
+"33","Jimmy Eliasson, Jesper Liedberg","Folkungahallen",3,6,"Linköpings Universitets AIF IBK",2
+"34","Jimmy Eliasson, Jesper Liedberg","Folkungahallen",3,6,"Rimforsa IF",1
+"35","Jimmy Eliasson, Jesper Liedberg","Folkungahallen",3,6,"Linköping IBK Ungdom",1
+"36","Jimmy Eliasson, Jesper Liedberg","Folkungahallen",3,6,"Solfjäderstaden IBK",1
+"37","Jimmy Eliasson, Jesper Liedberg","Sporthallen Vikingen",1,6,"Solfjäderstaden IBK",1
+"38","Jimmy Eliasson, Jesper Liedberg","Sporthallen Vikingen",1,6,"Söderköpings IBK",1
+"39","Jimmy Eliasson, Jesper Liedberg","Åsundahallen",1,6,"Linköping Legends FBC",1
+"40","Jimmy Eliasson, Jesper Liedberg","Åsundahallen",1,6,"Rimforsa IF",1
+"41","Jimmy Eliasson, Magnus Jakobsson","Folkungahallen",2,2,"Söderköpings IBK",1
+"42","Jimmy Eliasson, Magnus Jakobsson","Folkungahallen",2,2,"IBF Norrköping",1
+"43","Jimmy Eliasson, Magnus Jakobsson","Folkungahallen",2,2,"Linköping Legends FBC",1
+"44","Jimmy Eliasson, Magnus Jakobsson","Folkungahallen",2,2,"Linköpings Universitets AIF IBK",1
+"45","Johan Nordlander, William Wengelin","Folkungahallen",1,4,"Linköping IBK Ungdom",1
+"46","Johan Nordlander, William Wengelin","Folkungahallen",1,4,"IBK Succé",1
+"47","Johan Nordlander, William Wengelin","Motala Sporthall",1,4,"Solfjäderstaden IBK",1
+"48","Johan Nordlander, William Wengelin","Motala Sporthall",1,4,"Finspång IBK",1
+"49","Johan Nordlander, William Wengelin","Mässhallen A",1,4,"Söderköpings IBK",1
+"50","Johan Nordlander, William Wengelin","Mässhallen A",1,4,"KFUM Norrköping IBF",1
+"51","Johan Nordlander, William Wengelin","Sporthallen Vikingen",1,4,"Bergs IK",1
+"52","Johan Nordlander, William Wengelin","Sporthallen Vikingen",1,4,"Söderköpings IBK",1
+"53","Magnus Jakobsson, Johan Wiggur","Borgsmohallen",1,2,"Finspång IBK",1
+"54","Magnus Jakobsson, Johan Wiggur","Borgsmohallen",1,2,"IBF Norrköping",1
+"55","Magnus Jakobsson, Johan Wiggur","Mässhallen A",1,2,"Linköping Legends FBC",1
+"56","Magnus Jakobsson, Johan Wiggur","Mässhallen A",1,2,"KFUM Norrköping IBF",1
+"57","Magnus Jakobsson, Sonny Weideborg","Mässhallen A",1,1,"Solfjäderstaden IBK",1
+"58","Magnus Jakobsson, Sonny Weideborg","Mässhallen A",1,1,"KFUM Norrköping IBF",1
+"59","Martin Eriksson, Emil Glenngård","Folkungahallen",1,3,"Linköping Legends FBC",1
+"60","Martin Eriksson, Emil Glenngård","Folkungahallen",1,3,"Linköping IBK Ungdom",1
+"61","Martin Eriksson, Emil Glenngård","Ljungsbro Sporthall",1,3,"Finspång IBK",1
+"62","Martin Eriksson, Emil Glenngård","Ljungsbro Sporthall",1,3,"Bergs IK",1
+"63","Martin Eriksson, Emil Glenngård","Åsundahallen",1,3,"Linköping IBK Ungdom",1
+"64","Martin Eriksson, Emil Glenngård","Åsundahallen",1,3,"Rimforsa IF",1
+"65","Oscar Bard, Hampus Larsson","Folkungahallen",1,3,"Söderköpings IBK",1
+"66","Oscar Bard, Hampus Larsson","Folkungahallen",1,3,"Linköping IBK Ungdom",1
+"67","Oscar Bard, Hampus Larsson","Ljungsbro Sporthall",1,3,"IBF Norrköping",1
+"68","Oscar Bard, Hampus Larsson","Ljungsbro Sporthall",1,3,"Bergs IK",1
+"69","Oscar Bard, Hampus Larsson","Mässhallen A",1,3,"KFUM Norrköping IBF",1
+"70","Oscar Bard, Hampus Larsson","Mässhallen A",1,3,"Linköpings Universitets AIF IBK",1
+"71","Oscar Bard, Sonny Weideborg","Arena Grosvad",1,2,"Linköping Legends FBC",1
+"72","Oscar Bard, Sonny Weideborg","Arena Grosvad",1,2,"Finspång IBK",1
+"73","Oscar Bard, Sonny Weideborg","Borgsmohallen",1,2,"IBF Norrköping",1
+"74","Oscar Bard, Sonny Weideborg","Borgsmohallen",1,2,"Rimforsa IF",1
+"75","Thomas Nystrand, Peter Ström","Arena Grosvad",2,11,"Linköpings Universitets AIF IBK",1
+"76","Thomas Nystrand, Peter Ström","Arena Grosvad",2,11,"Finspång IBK",2
+"77","Thomas Nystrand, Peter Ström","Arena Grosvad",2,11,"Söderköpings IBK",1
+"78","Thomas Nystrand, Peter Ström","Folkungahallen",4,11,"Linköping IBK Ungdom",1
+"79","Thomas Nystrand, Peter Ström","Folkungahallen",4,11,"Linköpings Universitets AIF IBK",1
+"80","Thomas Nystrand, Peter Ström","Folkungahallen",4,11,"Linköping Legends FBC",3
+"81","Thomas Nystrand, Peter Ström","Folkungahallen",4,11,"Bergs IK",1
+"82","Thomas Nystrand, Peter Ström","Folkungahallen",4,11,"Söderköpings IBK",1
+"83","Thomas Nystrand, Peter Ström","Folkungahallen",4,11,"Finspång IBK",1
+"84","Thomas Nystrand, Peter Ström","Ljungsbro Sporthall",2,11,"Bergs IK",2
+"85","Thomas Nystrand, Peter Ström","Ljungsbro Sporthall",2,11,"Linköping IBK Ungdom",1
+"86","Thomas Nystrand, Peter Ström","Ljungsbro Sporthall",2,11,"KFUM Norrköping IBF",1
+"87","Thomas Nystrand, Peter Ström","Motala Sporthall",2,11,"Linköping IBK Ungdom",1
+"88","Thomas Nystrand, Peter Ström","Motala Sporthall",2,11,"IBF Norrköping",1
+"89","Thomas Nystrand, Peter Ström","Motala Sporthall",2,11,"Solfjäderstaden IBK",2
+"90","Thomas Nystrand, Peter Ström","Sporthallen Vikingen",1,11,"Rimforsa IF",1
+"91","Thomas Nystrand, Peter Ström","Sporthallen Vikingen",1,11,"Söderköpings IBK",1
+"92","Thomas Nystrand, Rickard Olsen","Åsundahallen",1,1,"Finspång IBK",1
+"93","Thomas Nystrand, Rickard Olsen","Åsundahallen",1,1,"Rimforsa IF",1
+"94","Tom Nilsson, Sonny Weideborg","Borgsmohallen",1,4,"IBF Norrköping",1
+"95","Tom Nilsson, Sonny Weideborg","Borgsmohallen",1,4,"KFUM Norrköping IBF",1
+"96","Tom Nilsson, Sonny Weideborg","Folkungahallen",1,4,"Linköpings Universitets AIF IBK",1
+"97","Tom Nilsson, Sonny Weideborg","Folkungahallen",1,4,"Bergs IK",1
+"98","Tom Nilsson, Sonny Weideborg","Mässhallen A",1,4,"Linköping IBK Ungdom",1
+"99","Tom Nilsson, Sonny Weideborg","Mässhallen A",1,4,"KFUM Norrköping IBF",1
+"100","Tom Nilsson, Sonny Weideborg","Sporthallen Vikingen",1,4,"IBK Succé",1
+"101","Tom Nilsson, Sonny Weideborg","Sporthallen Vikingen",1,4,"Söderköpings IBK",1

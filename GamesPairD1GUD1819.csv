@@ -1,37 +1,133 @@
-"","Referee","TotalCount"
-"1","Arvid Englund, Alexander Sommensjö",1
-"2","Arvid Englund, Michaela Pålsson",2
-"3","Arvid Englund, Oliver Halvarsson",1
-"4","Arvid Englund, Rikard Ohlström",1
-"5","Arvid Englund, Thomas Tanskanen",1
-"6","Bo Pettersson Loklint, Alexander Sommensjö",1
-"7","Bo Pettersson Loklint, Michaela Pålsson",1
-"8","Daniel Larsson, Amir Zilic",4
-"9","Erik Lindberg, Tony Nyberg",1
-"10","Fredrik Andersson, Michelle Unger",10
-"11","Frida Lanzaro, Bo Pettersson Loklint",1
-"12","Håkan Thunman, Magnus Undén",1
-"13","Jonas Nordqvist, Anders Ståhlberg",3
-"14","Jonas Nordqvist, Pontus Orebrand",1
-"15","Jonas Tidsjö, Jakob Westerlund",2
-"16","Jonathan Blank, Erik Lindberg",4
-"17","Jonathan Blank, Petter Lundgren",1
-"18","Jörgen Andersson, Amir Zilic",1
-"19","Jörgen Andersson, Bo Pettersson Loklint",1
-"20","Jörgen Andersson, Daniel Dufvenberg",1
-"21","Jörgen Andersson, Michelle Unger",1
-"22","Leo Holmström, Linus Isberg",3
-"23","Marcus Svedinger, Richard Öhneskog",2
-"24","Mattias Hedberg, Erik Lindberg",1
-"25","Mattias Hedberg, Magnus Undén",5
-"26","Mattias Hedberg, Niklas Stenius",1
-"27","Mikael Eriksson, Tony Nyberg",2
-"28","Oliver Halvarsson, Jonas Tidsjö",1
-"29","Peter Alenbring, Bo Pettersson Loklint",3
-"30","Peter Alenbring, Peter Astner",1
-"31","Peter Alenbring, Pontus Orebrand",3
-"32","Peter Astner, Bo Pettersson Loklint",3
-"33","Peter Astner, Tony Nyberg",1
-"34","Petter Lundgren, Oskar Simryd",1
-"35","Thomas Tanskanen, Handrin Thunkvist",1
-"36","Viktor Snöborgs, Joacim Svensson",3
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Arvid Englund, Alexander Sommensjö","Stenhagen BoKC",1,1,"IBF Falun Ungdom",1
+"2","Arvid Englund, Alexander Sommensjö","Stenhagen BoKC",1,1,"Stenhagens KK",1
+"3","Arvid Englund, Michaela Pålsson","IFU Arena A",1,2,"Gävle GIK",1
+"4","Arvid Englund, Michaela Pålsson","IFU Arena A",1,2,"Storvreta IBK",1
+"5","Arvid Englund, Michaela Pålsson","Olandshallen",1,2,"IK Sirius IBK",1
+"6","Arvid Englund, Michaela Pålsson","Olandshallen",1,2,"Alunda IBF",1
+"7","Arvid Englund, Oliver Halvarsson","Olandshallen",1,1,"Alunda IBF",1
+"8","Arvid Englund, Oliver Halvarsson","Olandshallen",1,1,"Stenhagens KK",1
+"9","Arvid Englund, Rikard Ohlström","IFU Arena A",1,1,"Stenhagens KK",1
+"10","Arvid Englund, Rikard Ohlström","IFU Arena A",1,1,"Storvreta IBK",1
+"11","Arvid Englund, Thomas Tanskanen","Ekilla Sporthall",1,1,"Arlanda IBK",1
+"12","Arvid Englund, Thomas Tanskanen","Ekilla Sporthall",1,1,"IBF Hedemora",1
+"13","Bo Pettersson Loklint, Alexander Sommensjö","IFU Arena A",1,1,"IK Sirius IBK",1
+"14","Bo Pettersson Loklint, Alexander Sommensjö","IFU Arena A",1,1,"KAIS Mora UIF",1
+"15","Bo Pettersson Loklint, Michaela Pålsson","Stenhagen BoKC",1,1,"IBF Lokomotiv Avesta",1
+"16","Bo Pettersson Loklint, Michaela Pålsson","Stenhagen BoKC",1,1,"Stenhagens KK",1
+"17","Daniel Larsson, Amir Zilic","JALAS® Arena 1",1,4,"IBF Falun Ungdom",1
+"18","Daniel Larsson, Amir Zilic","JALAS® Arena 1",1,4,"Gävle GIK",1
+"19","Daniel Larsson, Amir Zilic","Maserhallen",2,4,"KAIS Mora UIF",1
+"20","Daniel Larsson, Amir Zilic","Maserhallen",2,4,"Storvreta IBK",1
+"21","Daniel Larsson, Amir Zilic","Maserhallen",2,4,"IBF Borlänge",2
+"22","Daniel Larsson, Amir Zilic","Vasahallen",1,4,"IBF Hedemora",1
+"23","Daniel Larsson, Amir Zilic","Vasahallen",1,4,"Storvreta IBK",1
+"24","Erik Lindberg, Tony Nyberg","Ekilla Sporthall",1,1,"Alunda IBF",1
+"25","Erik Lindberg, Tony Nyberg","Ekilla Sporthall",1,1,"Arlanda IBK",1
+"26","Fredrik Andersson, Michelle Unger","Idre Fjäll Arena",3,10,"IBF Hedemora",1
+"27","Fredrik Andersson, Michelle Unger","Idre Fjäll Arena",3,10,"Arlanda IBK",1
+"28","Fredrik Andersson, Michelle Unger","Idre Fjäll Arena",3,10,"IBF Falun Ungdom",1
+"29","Fredrik Andersson, Michelle Unger","Idre Fjäll Arena",3,10,"KAIS Mora UIF",3
+"30","Fredrik Andersson, Michelle Unger","IFU Arena E",1,10,"Gävle GIK",1
+"31","Fredrik Andersson, Michelle Unger","IFU Arena E",1,10,"Hagunda IF",1
+"32","Fredrik Andersson, Michelle Unger","Kopparhallen",3,10,"Hagunda IF",1
+"33","Fredrik Andersson, Michelle Unger","Kopparhallen",3,10,"IBF Falun Ungdom",1
+"34","Fredrik Andersson, Michelle Unger","Kopparhallen",3,10,"Storvreta IBK",1
+"35","Fredrik Andersson, Michelle Unger","Kopparhallen",3,10,"IBF Lokomotiv Avesta",3
+"36","Fredrik Andersson, Michelle Unger","Vasahallen",3,10,"IBF Hedemora",3
+"37","Fredrik Andersson, Michelle Unger","Vasahallen",3,10,"Stenhagens KK",1
+"38","Fredrik Andersson, Michelle Unger","Vasahallen",3,10,"IBF Lokomotiv Avesta",1
+"39","Fredrik Andersson, Michelle Unger","Vasahallen",3,10,"Hagunda IF",1
+"40","Frida Lanzaro, Bo Pettersson Loklint","Stenhagen BoKC",1,1,"Stenhagens KK",1
+"41","Frida Lanzaro, Bo Pettersson Loklint","Stenhagen BoKC",1,1,"IK Sirius IBK",1
+"42","Håkan Thunman, Magnus Undén","Nynäshallen",1,1,"IK Sirius IBK",1
+"43","Håkan Thunman, Magnus Undén","Nynäshallen",1,1,"Gävle GIK",1
+"44","Jonas Nordqvist, Anders Ståhlberg","IFU Arena D",2,3,"IBF Lokomotiv Avesta",1
+"45","Jonas Nordqvist, Anders Ståhlberg","IFU Arena D",2,3,"Hagunda IF",1
+"46","Jonas Nordqvist, Anders Ståhlberg","IFU Arena D",2,3,"IBF Falun Ungdom",1
+"47","Jonas Nordqvist, Anders Ståhlberg","IFU Arena D",2,3,"IK Sirius IBK",1
+"48","Jonas Nordqvist, Anders Ståhlberg","Kopparhallen",1,3,"Gävle GIK",1
+"49","Jonas Nordqvist, Anders Ståhlberg","Kopparhallen",1,3,"IBF Lokomotiv Avesta",1
+"50","Jonas Nordqvist, Pontus Orebrand","Storvreta IBK Sporthall",1,1,"IBF Lokomotiv Avesta",1
+"51","Jonas Nordqvist, Pontus Orebrand","Storvreta IBK Sporthall",1,1,"Storvreta IBK",1
+"52","Jonas Tidsjö, Jakob Westerlund","Olandshallen",1,2,"Arlanda IBK",1
+"53","Jonas Tidsjö, Jakob Westerlund","Olandshallen",1,2,"Alunda IBF",1
+"54","Jonas Tidsjö, Jakob Westerlund","Träffen Arena",1,2,"IBF Hedemora",1
+"55","Jonas Tidsjö, Jakob Westerlund","Träffen Arena",1,2,"Gävle GIK",1
+"56","Jonathan Blank, Erik Lindberg","Alfahallen - Gavlehov",1,4,"Gävle GIK",1
+"57","Jonathan Blank, Erik Lindberg","Alfahallen - Gavlehov",1,4,"Alunda IBF",1
+"58","Jonathan Blank, Erik Lindberg","IFU Arena E",1,4,"IBF Borlänge",1
+"59","Jonathan Blank, Erik Lindberg","IFU Arena E",1,4,"IK Sirius IBK",1
+"60","Jonathan Blank, Erik Lindberg","Maserhallen",1,4,"IBF Borlänge",1
+"61","Jonathan Blank, Erik Lindberg","Maserhallen",1,4,"Alunda IBF",1
+"62","Jonathan Blank, Erik Lindberg","Träffen Arena",1,4,"Gävle GIK",1
+"63","Jonathan Blank, Erik Lindberg","Träffen Arena",1,4,"IBF Borlänge",1
+"64","Jonathan Blank, Petter Lundgren","Alfahallen - Gavlehov",1,1,"Gävle GIK",1
+"65","Jonathan Blank, Petter Lundgren","Alfahallen - Gavlehov",1,1,"IBF Falun Ungdom",1
+"66","Jörgen Andersson, Amir Zilic","Vasahallen",1,1,"Alunda IBF",1
+"67","Jörgen Andersson, Amir Zilic","Vasahallen",1,1,"IBF Hedemora",1
+"68","Jörgen Andersson, Bo Pettersson Loklint","IFU Arena E",1,1,"Storvreta IBK",1
+"69","Jörgen Andersson, Bo Pettersson Loklint","IFU Arena E",1,1,"Hagunda IF",1
+"70","Jörgen Andersson, Daniel Dufvenberg","Vasahallen",1,1,"IK Sirius IBK",1
+"71","Jörgen Andersson, Daniel Dufvenberg","Vasahallen",1,1,"IBF Hedemora",1
+"72","Jörgen Andersson, Michelle Unger","JALAS® Arena 1",1,1,"IBF Hedemora",1
+"73","Jörgen Andersson, Michelle Unger","JALAS® Arena 1",1,1,"IBF Falun Ungdom",1
+"74","Leo Holmström, Linus Isberg","Idre Fjäll Arena",1,3,"KAIS Mora UIF",1
+"75","Leo Holmström, Linus Isberg","Idre Fjäll Arena",1,3,"IBF Lokomotiv Avesta",1
+"76","Leo Holmström, Linus Isberg","JALAS® Arena 1",2,3,"IBF Falun Ungdom",2
+"77","Leo Holmström, Linus Isberg","JALAS® Arena 1",2,3,"IK Sirius IBK",1
+"78","Leo Holmström, Linus Isberg","JALAS® Arena 1",2,3,"IBF Borlänge",1
+"79","Marcus Svedinger, Richard Öhneskog","IFU Arena E",1,2,"Hagunda IF",1
+"80","Marcus Svedinger, Richard Öhneskog","IFU Arena E",1,2,"IK Sirius IBK",1
+"81","Marcus Svedinger, Richard Öhneskog","Maserhallen",1,2,"IBF Lokomotiv Avesta",1
+"82","Marcus Svedinger, Richard Öhneskog","Maserhallen",1,2,"IBF Borlänge",1
+"83","Mattias Hedberg, Erik Lindberg","Storvreta IBK Sporthall",1,1,"KAIS Mora UIF",1
+"84","Mattias Hedberg, Erik Lindberg","Storvreta IBK Sporthall",1,1,"Storvreta IBK",1
+"85","Mattias Hedberg, Magnus Undén","Alfahallen - Gavlehov",1,5,"Gävle GIK",1
+"86","Mattias Hedberg, Magnus Undén","Alfahallen - Gavlehov",1,5,"Stenhagens KK",1
+"87","Mattias Hedberg, Magnus Undén","JALAS® Arena 1",1,5,"Arlanda IBK",1
+"88","Mattias Hedberg, Magnus Undén","JALAS® Arena 1",1,5,"IBF Falun Ungdom",1
+"89","Mattias Hedberg, Magnus Undén","Kopparhallen",1,5,"IBF Lokomotiv Avesta",1
+"90","Mattias Hedberg, Magnus Undén","Kopparhallen",1,5,"Alunda IBF",1
+"91","Mattias Hedberg, Magnus Undén","Maserhallen",1,5,"Stenhagens KK",1
+"92","Mattias Hedberg, Magnus Undén","Maserhallen",1,5,"IBF Borlänge",1
+"93","Mattias Hedberg, Magnus Undén","Vasahallen",1,5,"IBF Hedemora",1
+"94","Mattias Hedberg, Magnus Undén","Vasahallen",1,5,"IBF Borlänge",1
+"95","Mattias Hedberg, Niklas Stenius","Idre Fjäll Arena",1,1,"KAIS Mora UIF",1
+"96","Mattias Hedberg, Niklas Stenius","Idre Fjäll Arena",1,1,"Stenhagens KK",1
+"97","Mikael Eriksson, Tony Nyberg","IFU Arena A",1,2,"Storvreta IBK",1
+"98","Mikael Eriksson, Tony Nyberg","IFU Arena A",1,2,"IBF Falun Ungdom",1
+"99","Mikael Eriksson, Tony Nyberg","Stenhagen BoKC",1,2,"Stenhagens KK",1
+"100","Mikael Eriksson, Tony Nyberg","Stenhagen BoKC",1,2,"Hagunda IF",1
+"101","Oliver Halvarsson, Jonas Tidsjö","Ekilla Sporthall",1,1,"Arlanda IBK",1
+"102","Oliver Halvarsson, Jonas Tidsjö","Ekilla Sporthall",1,1,"IBF Borlänge",1
+"103","Peter Alenbring, Bo Pettersson Loklint","IFU Arena E",2,3,"KAIS Mora UIF",1
+"104","Peter Alenbring, Bo Pettersson Loklint","IFU Arena E",2,3,"IK Sirius IBK",1
+"105","Peter Alenbring, Bo Pettersson Loklint","IFU Arena E",2,3,"IBF Hedemora",1
+"106","Peter Alenbring, Bo Pettersson Loklint","IFU Arena E",2,3,"Hagunda IF",1
+"107","Peter Alenbring, Bo Pettersson Loklint","Stenhagen BoKC",1,3,"Stenhagens KK",1
+"108","Peter Alenbring, Bo Pettersson Loklint","Stenhagen BoKC",1,3,"Arlanda IBK",1
+"109","Peter Alenbring, Peter Astner","Olandshallen",1,1,"Alunda IBF",1
+"110","Peter Alenbring, Peter Astner","Olandshallen",1,1,"KAIS Mora UIF",1
+"111","Peter Alenbring, Pontus Orebrand","Ekilla Sporthall",1,3,"Gävle GIK",1
+"112","Peter Alenbring, Pontus Orebrand","Ekilla Sporthall",1,3,"Arlanda IBK",1
+"113","Peter Alenbring, Pontus Orebrand","Olandshallen",2,3,"IBF Falun Ungdom",1
+"114","Peter Alenbring, Pontus Orebrand","Olandshallen",2,3,"Storvreta IBK",1
+"115","Peter Alenbring, Pontus Orebrand","Olandshallen",2,3,"Alunda IBF",2
+"116","Peter Astner, Bo Pettersson Loklint","Ekilla Sporthall",1,3,"Arlanda IBK",1
+"117","Peter Astner, Bo Pettersson Loklint","Ekilla Sporthall",1,3,"IBF Lokomotiv Avesta",1
+"118","Peter Astner, Bo Pettersson Loklint","IFU Arena A",1,3,"Storvreta IBK",1
+"119","Peter Astner, Bo Pettersson Loklint","IFU Arena A",1,3,"IK Sirius IBK",1
+"120","Peter Astner, Bo Pettersson Loklint","Storvreta IBK Sporthall",1,3,"Arlanda IBK",1
+"121","Peter Astner, Bo Pettersson Loklint","Storvreta IBK Sporthall",1,3,"Storvreta IBK",1
+"122","Peter Astner, Tony Nyberg","Ekilla Sporthall",1,1,"Hagunda IF",1
+"123","Peter Astner, Tony Nyberg","Ekilla Sporthall",1,1,"Arlanda IBK",1
+"124","Petter Lundgren, Oskar Simryd","IFU Arena A",1,1,"Arlanda IBK",1
+"125","Petter Lundgren, Oskar Simryd","IFU Arena A",1,1,"IK Sirius IBK",1
+"126","Thomas Tanskanen, Handrin Thunkvist","Stenhagen BoKC",1,1,"IBF Borlänge",1
+"127","Thomas Tanskanen, Handrin Thunkvist","Stenhagen BoKC",1,1,"Stenhagens KK",1
+"128","Viktor Snöborgs, Joacim Svensson","Idre Fjäll Arena",2,3,"KAIS Mora UIF",2
+"129","Viktor Snöborgs, Joacim Svensson","Idre Fjäll Arena",2,3,"Gävle GIK",1
+"130","Viktor Snöborgs, Joacim Svensson","Idre Fjäll Arena",2,3,"Hagunda IF",1
+"131","Viktor Snöborgs, Joacim Svensson","Maserhallen",1,3,"Hagunda IF",1
+"132","Viktor Snöborgs, Joacim Svensson","Maserhallen",1,3,"IBF Borlänge",1

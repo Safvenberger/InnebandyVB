@@ -1,32 +1,98 @@
-"","Referee","TotalCount"
-"1","Aarre Hietanen, Dennis Wagermark",1
-"2","Arne Brattehag, Aarre Hietanen",1
-"3","Arne Brattehag, Daniel Pettersson",1
-"4","Arne Brattehag, Mathias Lindvall",1
-"5","Arne Brattehag, Sigge Maurer",1
-"6","Christer Avasjö, Jonas Holm",1
-"7","Christian Jarl, Daniel Lindbom-Rydell",1
-"8","Christian Johnsson, Daniel Pettersson",2
-"9","Daniel Pettersson, Stefan Öberg",1
-"10","Dennis Wagermark, Stefan Öberg",1
-"11","Emil Lindhe, Daniel Pettersson",7
-"12","Fredrik Wernqvist, Stefan Öberg",1
-"13","Göran Engfors, Fredrik Wernqvist",1
-"14","Henrik Ibjer, Stefan Öberg",1
-"15","Håkan Rask, Mikael Samuelsson",1
-"16","Jimmy Eliasson, Jesper Liedberg",1
-"17","Johan Nordlander, William Wengelin",1
-"18","Josef Celik, Mikael Celik",1
-"19","Kent Erlandsson, Henrik Ibjer",5
-"20","Mathias Lindvall, Daniel Pettersson",1
-"21","Mathias Lindvall, Ivan Wahlström",4
-"22","Mattias Lönnborg, Daniel Pettersson",2
-"23","Mattias Lönnborg, Stefan Öberg",3
-"24","Mikael Andersson, Mattias Lönnborg",1
-"25","Mikael Andersson, Stefan Öberg",1
-"26","Mikael Celik, Christian Johnsson",1
-"27","Mikael Celik, Richard Himberg",1
-"28","Mikael Celik, Stefan Öberg",1
-"29","Richard Himberg, Christian Johnsson",3
-"30","Richard Himberg, Daniel Pettersson",1
-"31","Tom Nilsson, Sonny Weideborg",1
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Aarre Hietanen, Dennis Wagermark","Ramdalshallen",1,1,"Ekbackskyrkans IBK",1
+"2","Aarre Hietanen, Dennis Wagermark","Ramdalshallen",1,1,"Onyx IBS ",1
+"3","Arne Brattehag, Aarre Hietanen","Vingåkers Sporthall",1,1,"Ekbackskyrkans IBK",1
+"4","Arne Brattehag, Aarre Hietanen","Vingåkers Sporthall",1,1,"Flens IBF",1
+"5","Arne Brattehag, Daniel Pettersson","Nyköpings Sporthall",1,1,"FBC Nyköping",1
+"6","Arne Brattehag, Daniel Pettersson","Nyköpings Sporthall",1,1,"Trosa Edanö IBK",1
+"7","Arne Brattehag, Mathias Lindvall","Västergård Arena A",1,1,"Telge SIBK",1
+"8","Arne Brattehag, Mathias Lindvall","Västergård Arena A",1,1,"Trosa Edanö IBK",1
+"9","Arne Brattehag, Sigge Maurer","Frejahallen",1,1,"IFK Gnesta ",1
+"10","Arne Brattehag, Sigge Maurer","Frejahallen",1,1,"IK Standard",1
+"11","Christer Avasjö, Jonas Holm","Hammarvallen",1,1,"Trosa Edanö IBK",1
+"12","Christer Avasjö, Jonas Holm","Hammarvallen",1,1,"Flens IBF",1
+"13","Christian Jarl, Daniel Lindbom-Rydell","Rosvalla A",1,1,"IK Standard",1
+"14","Christian Jarl, Daniel Lindbom-Rydell","Rosvalla A",1,1,"Onyx IBS ",1
+"15","Christian Johnsson, Daniel Pettersson","Duveholmshallen A",1,2,"IK Standard",1
+"16","Christian Johnsson, Daniel Pettersson","Duveholmshallen A",1,2,"Katrineholms IBF",1
+"17","Christian Johnsson, Daniel Pettersson","Skjulstahallen A",1,2,"Telge SIBK",1
+"18","Christian Johnsson, Daniel Pettersson","Skjulstahallen A",1,2,"IK Standard ",1
+"19","Daniel Pettersson, Stefan Öberg","Hammarvallen",1,1,"FBC Nyköping",1
+"20","Daniel Pettersson, Stefan Öberg","Hammarvallen",1,1,"Flens IBF",1
+"21","Dennis Wagermark, Stefan Öberg","Hedebyhallen",1,1,"Katrineholms IBF",1
+"22","Dennis Wagermark, Stefan Öberg","Hedebyhallen",1,1,"Trosa Edanö IBK",1
+"23","Emil Lindhe, Daniel Pettersson","Björkestahallen",1,7,"Nykvarns IF",1
+"24","Emil Lindhe, Daniel Pettersson","Björkestahallen",1,7,"Flens IBF",1
+"25","Emil Lindhe, Daniel Pettersson","Hedebyhallen",2,7,"Trosa Edanö IBK",2
+"26","Emil Lindhe, Daniel Pettersson","Hedebyhallen",2,7,"Onyx IBS",1
+"27","Emil Lindhe, Daniel Pettersson","Hedebyhallen",2,7,"IK Standard",1
+"28","Emil Lindhe, Daniel Pettersson","Nyköpings Sporthall",2,7,"Onyx IBS",1
+"29","Emil Lindhe, Daniel Pettersson","Nyköpings Sporthall",2,7,"Katrineholms IBF",1
+"30","Emil Lindhe, Daniel Pettersson","Nyköpings Sporthall",2,7,"FBC Nyköping",2
+"31","Emil Lindhe, Daniel Pettersson","Wasa Sporthall",1,7,"IFK Gnesta",1
+"32","Emil Lindhe, Daniel Pettersson","Wasa Sporthall",1,7,"Telge SIBK",1
+"33","Emil Lindhe, Daniel Pettersson","Vingåkers Sporthall",1,7,"Ekbackskyrkans IBK",1
+"34","Emil Lindhe, Daniel Pettersson","Vingåkers Sporthall",1,7,"Katrineholms IBF",1
+"35","Fredrik Wernqvist, Stefan Öberg","Skjulstahallen A",1,1,"Nykvarns IF",1
+"36","Fredrik Wernqvist, Stefan Öberg","Skjulstahallen A",1,1,"IK Standard ",1
+"37","Göran Engfors, Fredrik Wernqvist","Skjulstahallen A",1,1,"IFK Gnesta",1
+"38","Göran Engfors, Fredrik Wernqvist","Skjulstahallen A",1,1,"IK Standard ",1
+"39","Henrik Ibjer, Stefan Öberg","Duveholmshallen A",1,1,"FBC Nyköping",1
+"40","Henrik Ibjer, Stefan Öberg","Duveholmshallen A",1,1,"Katrineholms IBF",1
+"41","Håkan Rask, Mikael Samuelsson","Vingåkers Sporthall",1,1,"Trosa Edanö IBK",1
+"42","Håkan Rask, Mikael Samuelsson","Vingåkers Sporthall",1,1,"Ekbackskyrkans IBK",1
+"43","Jimmy Eliasson, Jesper Liedberg","Duveholmshallen A",1,1,"Flens IBF",1
+"44","Jimmy Eliasson, Jesper Liedberg","Duveholmshallen A",1,1,"Katrineholms IBF",1
+"45","Johan Nordlander, William Wengelin","Vingåkers Sporthall",1,1,"IK Standard",1
+"46","Johan Nordlander, William Wengelin","Vingåkers Sporthall",1,1,"Ekbackskyrkans IBK",1
+"47","Josef Celik, Mikael Celik","Frejahallen",1,1,"Onyx IBS",1
+"48","Josef Celik, Mikael Celik","Frejahallen",1,1,"IFK Gnesta ",1
+"49","Kent Erlandsson, Henrik Ibjer","Björkestahallen",1,5,"FBC Nyköping",1
+"50","Kent Erlandsson, Henrik Ibjer","Björkestahallen",1,5,"Nykvarns IF",1
+"51","Kent Erlandsson, Henrik Ibjer","Duveholmshallen A",1,5,"Katrineholms IBF",1
+"52","Kent Erlandsson, Henrik Ibjer","Duveholmshallen A",1,5,"Nykvarns IF",1
+"53","Kent Erlandsson, Henrik Ibjer","Frejahallen",1,5,"FBC Nyköping",1
+"54","Kent Erlandsson, Henrik Ibjer","Frejahallen",1,5,"IFK Gnesta ",1
+"55","Kent Erlandsson, Henrik Ibjer","Hedebyhallen",1,5,"Trosa Edanö IBK",1
+"56","Kent Erlandsson, Henrik Ibjer","Hedebyhallen",1,5,"Nykvarns IF",1
+"57","Kent Erlandsson, Henrik Ibjer","Rosvalla A",1,5,"Telge SIBK",1
+"58","Kent Erlandsson, Henrik Ibjer","Rosvalla A",1,5,"Onyx IBS ",1
+"59","Mathias Lindvall, Daniel Pettersson","Nyköpings Sporthall",1,1,"Ekbackskyrkans IBK",1
+"60","Mathias Lindvall, Daniel Pettersson","Nyköpings Sporthall",1,1,"FBC Nyköping",1
+"61","Mathias Lindvall, Ivan Wahlström","Björkestahallen",1,4,"Onyx IBS",1
+"62","Mathias Lindvall, Ivan Wahlström","Björkestahallen",1,4,"Nykvarns IF",1
+"63","Mathias Lindvall, Ivan Wahlström","Frejahallen",1,4,"IFK Gnesta ",1
+"64","Mathias Lindvall, Ivan Wahlström","Frejahallen",1,4,"Ekbackskyrkans IBK",1
+"65","Mathias Lindvall, Ivan Wahlström","Hedebyhallen",1,4,"Telge SIBK",1
+"66","Mathias Lindvall, Ivan Wahlström","Hedebyhallen",1,4,"Trosa Edanö IBK",1
+"67","Mathias Lindvall, Ivan Wahlström","Vingåkers Sporthall",1,4,"Ekbackskyrkans IBK",1
+"68","Mathias Lindvall, Ivan Wahlström","Vingåkers Sporthall",1,4,"Onyx IBS",1
+"69","Mattias Lönnborg, Daniel Pettersson","Hedebyhallen",1,2,"IFK Gnesta",1
+"70","Mattias Lönnborg, Daniel Pettersson","Hedebyhallen",1,2,"Trosa Edanö IBK",1
+"71","Mattias Lönnborg, Daniel Pettersson","Västergård Arena A",1,2,"FBC Nyköping",1
+"72","Mattias Lönnborg, Daniel Pettersson","Västergård Arena A",1,2,"Telge SIBK",1
+"73","Mattias Lönnborg, Stefan Öberg","Björkestahallen",1,3,"Ekbackskyrkans IBK",1
+"74","Mattias Lönnborg, Stefan Öberg","Björkestahallen",1,3,"Nykvarns IF",1
+"75","Mattias Lönnborg, Stefan Öberg","Duveholmshallen A",1,3,"Telge SIBK",1
+"76","Mattias Lönnborg, Stefan Öberg","Duveholmshallen A",1,3,"Katrineholms IBF",1
+"77","Mattias Lönnborg, Stefan Öberg","Skjulstahallen A",1,3,"Flens IBF",1
+"78","Mattias Lönnborg, Stefan Öberg","Skjulstahallen A",1,3,"IK Standard ",1
+"79","Mikael Andersson, Mattias Lönnborg","Skjulstahallen A",1,1,"IK Standard ",1
+"80","Mikael Andersson, Mattias Lönnborg","Skjulstahallen A",1,1,"FBC Nyköping",1
+"81","Mikael Andersson, Stefan Öberg","Hammarvallen",1,1,"Flens IBF",1
+"82","Mikael Andersson, Stefan Öberg","Hammarvallen",1,1,"Nykvarns IF",1
+"83","Mikael Celik, Christian Johnsson","Frejahallen",1,1,"IFK Gnesta ",1
+"84","Mikael Celik, Christian Johnsson","Frejahallen",1,1,"Katrineholms IBF",1
+"85","Mikael Celik, Richard Himberg","Västergård Arena A",1,1,"Telge SIBK",1
+"86","Mikael Celik, Richard Himberg","Västergård Arena A",1,1,"Ekbackskyrkans IBK",1
+"87","Mikael Celik, Stefan Öberg","Västergård Arena A",1,1,"Nykvarns IF",1
+"88","Mikael Celik, Stefan Öberg","Västergård Arena A",1,1,"Telge SIBK",1
+"89","Richard Himberg, Christian Johnsson","Hammarvallen",1,3,"IFK Gnesta",1
+"90","Richard Himberg, Christian Johnsson","Hammarvallen",1,3,"Flens IBF",1
+"91","Richard Himberg, Christian Johnsson","Rosvalla A",2,3,"Onyx IBS ",2
+"92","Richard Himberg, Christian Johnsson","Rosvalla A",2,3,"Flens IBF",1
+"93","Richard Himberg, Christian Johnsson","Rosvalla A",2,3,"Katrineholms IBF",1
+"94","Richard Himberg, Daniel Pettersson","Björkestahallen",1,1,"Nykvarns IF",1
+"95","Richard Himberg, Daniel Pettersson","Björkestahallen",1,1,"IFK Gnesta",1
+"96","Tom Nilsson, Sonny Weideborg","Hammarvallen",1,1,"Telge SIBK",1
+"97","Tom Nilsson, Sonny Weideborg","Hammarvallen",1,1,"Flens IBF",1

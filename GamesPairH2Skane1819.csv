@@ -1,21 +1,114 @@
-"","Referee","TotalCount"
-"1","Björn Grahn, Jürgen Neuenhofen",1
-"2","David Dornlöv, Erik Hindemith",3
-"3","David Dornlöv, Fredrik Lundborg",1
-"4","David Dornlöv, Hussein Ibrahim",1
-"5","Erik Hindemith, Fredrik Lundborg",4
-"6","Hampe Gustavsson, Kevin Prahl",2
-"7","Håkan Bondesson, Isac Bondesson",8
-"8","Jonas Karlsson, Kevin Prahl",3
-"9","Kevin Cardell, Rickard Nilsson",1
-"10","Leon Fuchs, Petter Niklasson",14
-"11","Leon Fuchs, Rickard Nilsson",1
-"12","Mikael Björkqvist, Johan Salomonsson",3
-"13","Mikael Björkqvist, Roger Jönsson",1
-"14","Mårten Högblom, Jonas Pettersson",6
-"15","Ola Nilsson, Jens Staaf",2
-"16","Ola Nilsson, Sigge Svensson Martell",1
-"17","Petter Niklasson, Ola Nilsson",1
-"18","Pierre Bergsten, Erik Götborg",2
-"19","Roger Jönsson, Klas Sjölin",1
-"20","Roger Jönsson, Tojje Sildén-Glemark",10
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Björn Grahn, Jürgen Neuenhofen","Åstorps Sporthall",1,1,"Lomma FBC H2",1
+"2","Björn Grahn, Jürgen Neuenhofen","Åstorps Sporthall",1,1,"Åstorp/Kvidinge IBS H2",1
+"3","David Dornlöv, Erik Hindemith","Aggarpshallen",1,3,"IBS Svedala H2",1
+"4","David Dornlöv, Erik Hindemith","Aggarpshallen",1,3,"Palmstaden IK H2",1
+"5","David Dornlöv, Erik Hindemith","Landskrona Idrottshall",1,3,"Palmstaden IK H2",1
+"6","David Dornlöv, Erik Hindemith","Landskrona Idrottshall",1,3,"IBK Landskrona H2",1
+"7","David Dornlöv, Erik Hindemith","Åstorps Sporthall",1,3,"Bjärreds IBK H2",1
+"8","David Dornlöv, Erik Hindemith","Åstorps Sporthall",1,3,"Åstorp/Kvidinge IBS H2",1
+"9","David Dornlöv, Fredrik Lundborg","Aggarpshallen",1,1,"IBK Höllviken H2",1
+"10","David Dornlöv, Fredrik Lundborg","Aggarpshallen",1,1,"IBS Svedala H2",1
+"11","David Dornlöv, Hussein Ibrahim","Helsingborg Arena C",1,1,"FBC Helsingborg",1
+"12","David Dornlöv, Hussein Ibrahim","Helsingborg Arena C",1,1,"Åstorp/Kvidinge IBS H2",1
+"13","Erik Hindemith, Fredrik Lundborg","Aggarpshallen",1,4,"Åstorp/Kvidinge IBS H2",1
+"14","Erik Hindemith, Fredrik Lundborg","Aggarpshallen",1,4,"IBS Svedala H2",1
+"15","Erik Hindemith, Fredrik Lundborg","Kristianstad Arena",1,4,"Willands IBK H2",1
+"16","Erik Hindemith, Fredrik Lundborg","Kristianstad Arena",1,4,"Åstorp/Kvidinge IBS H2",1
+"17","Erik Hindemith, Fredrik Lundborg","Landskrona Idrottshall",1,4,"Willands IBK H2",1
+"18","Erik Hindemith, Fredrik Lundborg","Landskrona Idrottshall",1,4,"IBK Landskrona H2",1
+"19","Erik Hindemith, Fredrik Lundborg","Munkahallen",1,4,"IBS Svedala H2",1
+"20","Erik Hindemith, Fredrik Lundborg","Munkahallen",1,4,"Munka Ljungby IBK Akademi",1
+"21","Hampe Gustavsson, Kevin Prahl","Bjärehovshallen",1,2,"Bjärreds IBK H2",1
+"22","Hampe Gustavsson, Kevin Prahl","Bjärehovshallen",1,2,"Willands IBK H2",1
+"23","Hampe Gustavsson, Kevin Prahl","Munkahallen",1,2,"Munka Ljungby IBK Akademi",1
+"24","Hampe Gustavsson, Kevin Prahl","Munkahallen",1,2,"FBC Helsingborg",1
+"25","Håkan Bondesson, Isac Bondesson","Helsingborg Arena C",2,8,"Lomma FBC H2",1
+"26","Håkan Bondesson, Isac Bondesson","Helsingborg Arena C",2,8,"IBK Landskrona H2",1
+"27","Håkan Bondesson, Isac Bondesson","Helsingborg Arena C",2,8,"FBC Helsingborg",2
+"28","Håkan Bondesson, Isac Bondesson","Munkahallen",2,8,"Munka Ljungby IBK Akademi",2
+"29","Håkan Bondesson, Isac Bondesson","Munkahallen",2,8,"Lönsboda IBK",1
+"30","Håkan Bondesson, Isac Bondesson","Munkahallen",2,8,"IBK Höllviken H2",1
+"31","Håkan Bondesson, Isac Bondesson","Slättängshallen",3,8,"Bjärreds IBK H2",1
+"32","Håkan Bondesson, Isac Bondesson","Slättängshallen",3,8,"Lomma FBC H2",3
+"33","Håkan Bondesson, Isac Bondesson","Slättängshallen",3,8,"IBK Höllviken H2",1
+"34","Håkan Bondesson, Isac Bondesson","Slättängshallen",3,8,"Lönsboda IBK",1
+"35","Håkan Bondesson, Isac Bondesson","Söderslättshallen B",1,8,"Palmstaden IK H2",1
+"36","Håkan Bondesson, Isac Bondesson","Söderslättshallen B",1,8,"Bjärreds IBK H2",1
+"37","Jonas Karlsson, Kevin Prahl","Borstahusens Idrottshall",1,3,"IBS Svedala H2",1
+"38","Jonas Karlsson, Kevin Prahl","Borstahusens Idrottshall",1,3,"IBK Landskrona H2",1
+"39","Jonas Karlsson, Kevin Prahl","Gyahallen",1,3,"FBC Helsingborg",1
+"40","Jonas Karlsson, Kevin Prahl","Gyahallen",1,3,"IBK Höllviken H2",1
+"41","Jonas Karlsson, Kevin Prahl","Lönsboda Sporthall",1,3,"Palmstaden IK H2",1
+"42","Jonas Karlsson, Kevin Prahl","Lönsboda Sporthall",1,3,"Lönsboda IBK",1
+"43","Kevin Cardell, Rickard Nilsson","Söderslättshallen B",1,1,"Willands IBK H2",1
+"44","Kevin Cardell, Rickard Nilsson","Söderslättshallen B",1,1,"Palmstaden IK H2",1
+"45","Leon Fuchs, Petter Niklasson","Aggarpshallen",2,14,"IBS Svedala H2",2
+"46","Leon Fuchs, Petter Niklasson","Aggarpshallen",2,14,"Lomma FBC H2",1
+"47","Leon Fuchs, Petter Niklasson","Aggarpshallen",2,14,"Lönsboda IBK",1
+"48","Leon Fuchs, Petter Niklasson","Bjärehovshallen",3,14,"IBS Svedala H2",1
+"49","Leon Fuchs, Petter Niklasson","Bjärehovshallen",3,14,"Munka Ljungby IBK Akademi",1
+"50","Leon Fuchs, Petter Niklasson","Bjärehovshallen",3,14,"Bjärreds IBK H2",3
+"51","Leon Fuchs, Petter Niklasson","Bjärehovshallen",3,14,"IBK Landskrona H2",1
+"52","Leon Fuchs, Petter Niklasson","Halörhallen",2,14,"IBK Höllviken H2",2
+"53","Leon Fuchs, Petter Niklasson","Halörhallen",2,14,"Bjärreds IBK H2",1
+"54","Leon Fuchs, Petter Niklasson","Halörhallen",2,14,"Åstorp/Kvidinge IBS H2",1
+"55","Leon Fuchs, Petter Niklasson","Kungsgårdshallen",2,14,"Lomma FBC H2",1
+"56","Leon Fuchs, Petter Niklasson","Kungsgårdshallen",2,14,"Palmstaden IK H2",1
+"57","Leon Fuchs, Petter Niklasson","Kungsgårdshallen",2,14,"FBC Engelholm H2",2
+"58","Leon Fuchs, Petter Niklasson","Lönsboda Sporthall",1,14,"IBK Höllviken H2",1
+"59","Leon Fuchs, Petter Niklasson","Lönsboda Sporthall",1,14,"Lönsboda IBK",1
+"60","Leon Fuchs, Petter Niklasson","Slättängshallen",1,14,"Lomma FBC H2",1
+"61","Leon Fuchs, Petter Niklasson","Slättängshallen",1,14,"Munka Ljungby IBK Akademi",1
+"62","Leon Fuchs, Petter Niklasson","Söderslättshallen B",3,14,"Palmstaden IK H2",3
+"63","Leon Fuchs, Petter Niklasson","Söderslättshallen B",3,14,"Lomma FBC H2",1
+"64","Leon Fuchs, Petter Niklasson","Söderslättshallen B",3,14,"FBC Helsingborg",1
+"65","Leon Fuchs, Petter Niklasson","Söderslättshallen B",3,14,"Munka Ljungby IBK Akademi",1
+"66","Leon Fuchs, Rickard Nilsson","Halörhallen",1,1,"IBK Höllviken H2",1
+"67","Leon Fuchs, Rickard Nilsson","Halörhallen",1,1,"FBC Engelholm H2",1
+"68","Mikael Björkqvist, Johan Salomonsson","Helsingborg Arena B",1,3,"FBC Helsingborg",1
+"69","Mikael Björkqvist, Johan Salomonsson","Helsingborg Arena B",1,3,"Lönsboda IBK",1
+"70","Mikael Björkqvist, Johan Salomonsson","Kristianstad Arena",1,3,"Lomma FBC H2",1
+"71","Mikael Björkqvist, Johan Salomonsson","Kristianstad Arena",1,3,"Willands IBK H2",1
+"72","Mikael Björkqvist, Johan Salomonsson","Kungsgårdshallen",1,3,"FBC Engelholm H2",1
+"73","Mikael Björkqvist, Johan Salomonsson","Kungsgårdshallen",1,3,"FBC Helsingborg",1
+"74","Mikael Björkqvist, Roger Jönsson","Slättängshallen",1,1,"IBK Landskrona H2",1
+"75","Mikael Björkqvist, Roger Jönsson","Slättängshallen",1,1,"Lomma FBC H2",1
+"76","Mårten Högblom, Jonas Pettersson","Bjärehovshallen",2,6,"FBC Helsingborg",1
+"77","Mårten Högblom, Jonas Pettersson","Bjärehovshallen",2,6,"Bjärreds IBK H2",2
+"78","Mårten Högblom, Jonas Pettersson","Bjärehovshallen",2,6,"Lönsboda IBK",1
+"79","Mårten Högblom, Jonas Pettersson","Helsingborg Arena C",2,6,"Willands IBK H2",1
+"80","Mårten Högblom, Jonas Pettersson","Helsingborg Arena C",2,6,"IBS Svedala H2",1
+"81","Mårten Högblom, Jonas Pettersson","Helsingborg Arena C",2,6,"FBC Helsingborg",2
+"82","Mårten Högblom, Jonas Pettersson","Kungsgårdshallen",1,6,"FBC Engelholm H2",1
+"83","Mårten Högblom, Jonas Pettersson","Kungsgårdshallen",1,6,"IBK Landskrona H2",1
+"84","Mårten Högblom, Jonas Pettersson","Landskrona Idrottshall",1,6,"Munka Ljungby IBK Akademi",1
+"85","Mårten Högblom, Jonas Pettersson","Landskrona Idrottshall",1,6,"IBK Landskrona H2",1
+"86","Ola Nilsson, Jens Staaf","Kungsgårdshallen",1,2,"FBC Engelholm H2",1
+"87","Ola Nilsson, Jens Staaf","Kungsgårdshallen",1,2,"Bjärreds IBK H2",1
+"88","Ola Nilsson, Jens Staaf","Åstorps Sporthall",1,2,"Åstorp/Kvidinge IBS H2",1
+"89","Ola Nilsson, Jens Staaf","Åstorps Sporthall",1,2,"FBC Engelholm H2",1
+"90","Ola Nilsson, Sigge Svensson Martell","Kungsgårdshallen",1,1,"FBC Engelholm H2",1
+"91","Ola Nilsson, Sigge Svensson Martell","Kungsgårdshallen",1,1,"IBS Svedala H2",1
+"92","Petter Niklasson, Ola Nilsson","Åstorps Sporthall",1,1,"Palmstaden IK H2",1
+"93","Petter Niklasson, Ola Nilsson","Åstorps Sporthall",1,1,"Åstorp/Kvidinge IBS H2",1
+"94","Pierre Bergsten, Erik Götborg","Landskrona Idrottshall",2,2,"IBK Höllviken H2",1
+"95","Pierre Bergsten, Erik Götborg","Landskrona Idrottshall",2,2,"Lönsboda IBK",1
+"96","Pierre Bergsten, Erik Götborg","Landskrona Idrottshall",2,2,"IBK Landskrona H2",2
+"97","Roger Jönsson, Klas Sjölin","Åstorps Sporthall",1,1,"Munka Ljungby IBK Akademi",1
+"98","Roger Jönsson, Klas Sjölin","Åstorps Sporthall",1,1,"Åstorp/Kvidinge IBS H2",1
+"99","Roger Jönsson, Tojje Sildén-Glemark","Halörhallen",1,10,"Palmstaden IK H2",1
+"100","Roger Jönsson, Tojje Sildén-Glemark","Halörhallen",1,10,"IBK Höllviken H2",1
+"101","Roger Jönsson, Tojje Sildén-Glemark","Kristianstad Arena",4,10,"IBK Höllviken H2",1
+"102","Roger Jönsson, Tojje Sildén-Glemark","Kristianstad Arena",4,10,"FBC Engelholm H2",1
+"103","Roger Jönsson, Tojje Sildén-Glemark","Kristianstad Arena",4,10,"Munka Ljungby IBK Akademi",1
+"104","Roger Jönsson, Tojje Sildén-Glemark","Kristianstad Arena",4,10,"Willands IBK H2",4
+"105","Roger Jönsson, Tojje Sildén-Glemark","Kristianstad Arena",4,10,"IBS Svedala H2",1
+"106","Roger Jönsson, Tojje Sildén-Glemark","Lönsboda Sporthall",3,10,"Willands IBK H2",1
+"107","Roger Jönsson, Tojje Sildén-Glemark","Lönsboda Sporthall",3,10,"Lönsboda IBK",3
+"108","Roger Jönsson, Tojje Sildén-Glemark","Lönsboda Sporthall",3,10,"FBC Engelholm H2",1
+"109","Roger Jönsson, Tojje Sildén-Glemark","Lönsboda Sporthall",3,10,"Åstorp/Kvidinge IBS H2",1
+"110","Roger Jönsson, Tojje Sildén-Glemark","Munkahallen",1,10,"FBC Engelholm H2",1
+"111","Roger Jönsson, Tojje Sildén-Glemark","Munkahallen",1,10,"Munka Ljungby IBK Akademi",1
+"112","Roger Jönsson, Tojje Sildén-Glemark","Åstorps Sporthall",1,10,"Åstorp/Kvidinge IBS H2",1
+"113","Roger Jönsson, Tojje Sildén-Glemark","Åstorps Sporthall",1,10,"IBK Landskrona H2",1
