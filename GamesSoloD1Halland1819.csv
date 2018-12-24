@@ -1,21 +1,81 @@
-"","Referee","TotalCount"
-"1","Alexander Andersen",1
-"2","Björn Österberg",1
-"3","Christoffer Söderström",4
-"4","Daniel Hultberg",1
-"5","Daniel Stoltz",3
-"6","Eino Kozan",4
-"7","Jacob Johansson",3
-"8","Jonas Söderberg",3
-"9","Marcus Yngvesson",2
-"10","Mats Andersson",3
-"11","Mattias Torbiörnson",1
-"12","Nico Berg",2
-"13","Oscar Strömberg",1
-"14","Peter Bergstrand",1
-"15","Robin Andersen",1
-"16","Simon Brekell",5
-"17","Stefan Olsson",1
-"18","Tobias Anderberg",2
-"19","Tobias Jernsand",2
-"20","Tobias Sandblom",1
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Alexander Andersen","Sparbanken Wictory Center, Salmingplanen",1,1,"Varla IBK Dam",1
+"2","Alexander Andersen","Sparbanken Wictory Center, Salmingplanen",1,1,"Warberg IBF Dam Div1",1
+"3","Björn Österberg","Tvååkers Idrottshall",1,1,"Halmstads IBK",1
+"4","Björn Österberg","Tvååkers Idrottshall",1,1,"Tvååkers IBK",1
+"5","Christoffer Söderström","Kattegatthallen",1,4,"Warberg IBF Dam Div1",1
+"6","Christoffer Söderström","Kattegatthallen",1,4,"Falkenbergs IBK",1
+"7","Christoffer Söderström","Presse Idrottshall",2,4,"Warberg IBF Dam Div1",1
+"8","Christoffer Söderström","Presse Idrottshall",2,4,"Onsala IBK Dam 1",2
+"9","Christoffer Söderström","Presse Idrottshall",2,4,"Tvååkers IBK",1
+"10","Christoffer Söderström","Tvååkers Idrottshall",1,4,"Varla IBK Dam",1
+"11","Christoffer Söderström","Tvååkers Idrottshall",1,4,"Tvååkers IBK",1
+"12","Daniel Hultberg","Tvååkers Idrottshall",1,1,"Falkenbergs IBK",1
+"13","Daniel Hultberg","Tvååkers Idrottshall",1,1,"Tvååkers IBK",1
+"14","Daniel Stoltz","Halmstad Arena A 1",1,3,"Halmstads IBK",1
+"15","Daniel Stoltz","Halmstad Arena A 1",1,3,"Warberg IBF Dam Div1",1
+"16","Daniel Stoltz","Halmstad Arena B 1",1,3,"Halmstads IBK",1
+"17","Daniel Stoltz","Halmstad Arena B 1",1,3,"Varla IBK Dam",1
+"18","Daniel Stoltz","Tvååkers Idrottshall",1,3,"Warberg IBF Dam Div1",1
+"19","Daniel Stoltz","Tvååkers Idrottshall",1,3,"Tvååkers IBK",1
+"20","Eino Kozan","Halmstad Arena A 1",1,4,"Halmstads IBK",1
+"21","Eino Kozan","Halmstad Arena A 1",1,4,"Warberg IBF Dam Div1",1
+"22","Eino Kozan","Halmstad Arena B 1",1,4,"Falkenbergs IBK",1
+"23","Eino Kozan","Halmstad Arena B 1",1,4,"Halmstads IBK",1
+"24","Eino Kozan","Kattegatthallen",1,4,"Falkenbergs IBK",1
+"25","Eino Kozan","Kattegatthallen",1,4,"Halmstads IBK",1
+"26","Eino Kozan","Sparbanken Wictory Center, Salmingplanen",1,4,"Warberg IBF Dam Div1",1
+"27","Eino Kozan","Sparbanken Wictory Center, Salmingplanen",1,4,"Onsala IBK Dam 1",1
+"28","Jacob Johansson","Kattegatthallen",1,3,"Varla IBK Dam",1
+"29","Jacob Johansson","Kattegatthallen",1,3,"Falkenbergs IBK",1
+"30","Jacob Johansson","Lindälvshallen",1,3,"Varla IBK Dam",1
+"31","Jacob Johansson","Lindälvshallen",1,3,"Onsala IBK Dam 1",1
+"32","Jacob Johansson","Sparbanken Wictory Center, Salmingplanen",1,3,"Warberg IBF Dam Div1",1
+"33","Jacob Johansson","Sparbanken Wictory Center, Salmingplanen",1,3,"Tvååkers IBK",1
+"34","Jonas Söderberg","Kattegatthallen",1,3,"Falkenbergs IBK",1
+"35","Jonas Söderberg","Kattegatthallen",1,3,"Warberg IBF Dam Div1",1
+"36","Jonas Söderberg","Presse Idrottshall",1,3,"Warberg IBF Dam Div1",1
+"37","Jonas Söderberg","Presse Idrottshall",1,3,"Onsala IBK Dam 1",1
+"38","Jonas Söderberg","Sparbanken Wictory Center, Salmingplanen",1,3,"Warberg IBF Dam Div1",1
+"39","Jonas Söderberg","Sparbanken Wictory Center, Salmingplanen",1,3,"Onsala IBK Dam 1",1
+"40","Marcus Yngvesson","Halmstad Arena B 1",1,2,"Tvååkers IBK",1
+"41","Marcus Yngvesson","Halmstad Arena B 1",1,2,"Halmstads IBK",1
+"42","Marcus Yngvesson","Presse Idrottshall",1,2,"Onsala IBK Dam 1",1
+"43","Marcus Yngvesson","Presse Idrottshall",1,2,"Halmstads IBK",1
+"44","Mats Andersson","Presse Idrottshall",2,3,"Halmstads IBK",1
+"45","Mats Andersson","Presse Idrottshall",2,3,"Onsala IBK Dam 1",2
+"46","Mats Andersson","Presse Idrottshall",2,3,"Tvååkers IBK",1
+"47","Mats Andersson","Tvååkers Idrottshall",1,3,"Varla IBK Dam",1
+"48","Mats Andersson","Tvååkers Idrottshall",1,3,"Tvååkers IBK",1
+"49","Mattias Torbiörnson","Presse Idrottshall",1,1,"Onsala IBK Dam 1",1
+"50","Mattias Torbiörnson","Presse Idrottshall",1,1,"Falkenbergs IBK",1
+"51","Nico Berg","Lindälvshallen",1,2,"Varla IBK Dam",1
+"52","Nico Berg","Lindälvshallen",1,2,"Onsala IBK Dam 1",1
+"53","Nico Berg","Tvååkers Idrottshall",1,2,"Falkenbergs IBK",1
+"54","Nico Berg","Tvååkers Idrottshall",1,2,"Tvååkers IBK",1
+"55","Oscar Strömberg","Kattegatthallen",1,1,"Varla IBK Dam",1
+"56","Oscar Strömberg","Kattegatthallen",1,1,"Falkenbergs IBK",1
+"57","Peter Bergstrand","Kattegatthallen",1,1,"Tvååkers IBK",1
+"58","Peter Bergstrand","Kattegatthallen",1,1,"Falkenbergs IBK",1
+"59","Robin Andersen","Sparbanken Wictory Center, Salmingplanen",1,1,"Warberg IBF Dam Div1",1
+"60","Robin Andersen","Sparbanken Wictory Center, Salmingplanen",1,1,"Varla IBK Dam",1
+"61","Simon Brekell","Halmstad Arena B 1",3,5,"Falkenbergs IBK",1
+"62","Simon Brekell","Halmstad Arena B 1",3,5,"Tvååkers IBK",1
+"63","Simon Brekell","Halmstad Arena B 1",3,5,"Varla IBK Dam",1
+"64","Simon Brekell","Halmstad Arena B 1",3,5,"Halmstads IBK",3
+"65","Simon Brekell","Kattegatthallen",1,5,"Halmstads IBK",1
+"66","Simon Brekell","Kattegatthallen",1,5,"Falkenbergs IBK",1
+"67","Simon Brekell","Tvååkers Idrottshall",1,5,"Warberg IBF Dam Div1",1
+"68","Simon Brekell","Tvååkers Idrottshall",1,5,"Tvååkers IBK",1
+"69","Stefan Olsson","Lindälvshallen",1,1,"Varla IBK Dam",1
+"70","Stefan Olsson","Lindälvshallen",1,1,"Onsala IBK Dam 1",1
+"71","Tobias Anderberg","Lindälvshallen",1,2,"Onsala IBK Dam 1",1
+"72","Tobias Anderberg","Lindälvshallen",1,2,"Varla IBK Dam",1
+"73","Tobias Anderberg","Sparbanken Wictory Center, Salmingplanen",1,2,"Warberg IBF Dam Div1",1
+"74","Tobias Anderberg","Sparbanken Wictory Center, Salmingplanen",1,2,"Tvååkers IBK",1
+"75","Tobias Jernsand","Presse Idrottshall",1,2,"Falkenbergs IBK",1
+"76","Tobias Jernsand","Presse Idrottshall",1,2,"Onsala IBK Dam 1",1
+"77","Tobias Jernsand","Tvååkers Idrottshall",1,2,"Halmstads IBK",1
+"78","Tobias Jernsand","Tvååkers Idrottshall",1,2,"Tvååkers IBK",1
+"79","Tobias Sandblom","Kattegatthallen",1,1,"Falkenbergs IBK",1
+"80","Tobias Sandblom","Kattegatthallen",1,1,"Tvååkers IBK",1

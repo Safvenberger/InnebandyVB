@@ -1,28 +1,241 @@
-"","Referee","TotalCount"
-"1","Anders Stenberg",10
-"2","Casper Dahlberg",4
-"3","Dawan Mofak",12
-"4","Edo Sabanovic",6
-"5","Gerhardt Borkowski",3
-"6","Gustav Jarnegren",3
-"7","Henrik Carlsson",10
-"8","Henrik Gilliusson",3
-"9","Jesper Rygert",11
-"10","Joacim Olofsson",8
-"11","Jonas Einarsson",1
-"12","Jonas Hellberg",9
-"13","Jonas Ottosson",1
-"14","Jonas Widenstedt",2
-"15","Linus Sandberg",2
-"16","Marcus Karlström",1
-"17","Michell Rohde",2
-"18","Niklas Dahlberg",6
-"19","Oliver Hillerström",4
-"20","Per Bratt",3
-"21","Per Elofsson",8
-"22","Rasmus Wirstam",3
-"23","Roger Gardell",2
-"24","Senad Hamula",2
-"25","Thomas Bergström",1
-"26","Ulf Åberg",7
-"27","Viktor Bringstam",8
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Anders Stenberg","Ingelstads Sporthall",2,10,"Nässjö IBF",1
+"2","Anders Stenberg","Ingelstads Sporthall",2,10,"FBC Karlskrona",1
+"3","Anders Stenberg","Ingelstads Sporthall",2,10,"Ingelstad IBK",2
+"4","Anders Stenberg","ISCAR Arena Ney.se, Vetlanda",1,10,"Vetlanda IBF",1
+"5","Anders Stenberg","ISCAR Arena Ney.se, Vetlanda",1,10,"FBC Karlskrona",1
+"6","Anders Stenberg","Kalmar Sporthall A-hall",2,10,"CL98IC",2
+"7","Anders Stenberg","Kalmar Sporthall A-hall",2,10,"Gnosjö IBK",1
+"8","Anders Stenberg","Kalmar Sporthall A-hall",2,10,"Stenåsa-Sandby-Gårdby IF",1
+"9","Anders Stenberg","Nybro Sporthall",1,10,"Slätafly/SK IBK",1
+"10","Anders Stenberg","Nybro Sporthall",1,10,"Nybro IBK",1
+"11","Anders Stenberg","Torslundahallen",2,10,"Stenåsa-Sandby-Gårdby IF",2
+"12","Anders Stenberg","Torslundahallen",2,10,"Månsarps IBK",1
+"13","Anders Stenberg","Torslundahallen",2,10,"Gnosjö IBK",1
+"14","Anders Stenberg","Torsås Sporthall",1,10,"Sävsjö IBK",1
+"15","Anders Stenberg","Torsås Sporthall",1,10,"Slätafly/SK IBK",1
+"16","Anders Stenberg","Vimmerby Sporthall",1,10,"Vimmerby IBK",1
+"17","Anders Stenberg","Vimmerby Sporthall",1,10,"Slätafly/SK IBK",1
+"18","Casper Dahlberg","ISCAR Arena Ney.se, Vetlanda",1,4,"Vetlanda IBF",1
+"19","Casper Dahlberg","ISCAR Arena Ney.se, Vetlanda",1,4,"Ingelstad IBK",1
+"20","Casper Dahlberg","Norrahammars Sporthall",2,4,"Månsarps IBK",2
+"21","Casper Dahlberg","Norrahammars Sporthall",2,4,"FBC Karlskrona",1
+"22","Casper Dahlberg","Norrahammars Sporthall",2,4,"Vetlanda IBF",1
+"23","Casper Dahlberg","Torsås Sporthall",1,4,"Slätafly/SK IBK",1
+"24","Casper Dahlberg","Torsås Sporthall",1,4,"Vetlanda IBF",1
+"25","Dawan Mofak","Ingelstads Sporthall",1,12,"CL98IC",1
+"26","Dawan Mofak","Ingelstads Sporthall",1,12,"Ingelstad IBK",1
+"27","Dawan Mofak","ISCAR Arena Ney.se, Vetlanda",1,12,"Vetlanda IBF",1
+"28","Dawan Mofak","ISCAR Arena Ney.se, Vetlanda",1,12,"CL98IC",1
+"29","Dawan Mofak","Kalmar Sporthall A-hall",1,12,"Månsarps IBK",1
+"30","Dawan Mofak","Kalmar Sporthall A-hall",1,12,"CL98IC",1
+"31","Dawan Mofak","Nässjö Sporthall",3,12,"Nässjö IBF",1
+"32","Dawan Mofak","Nässjö Sporthall",3,12,"FBC Karlskrona",1
+"33","Dawan Mofak","Nässjö Sporthall",3,12,"Nässjö IBF",2
+"34","Dawan Mofak","Nässjö Sporthall",3,12,"Nybro IBK",1
+"35","Dawan Mofak","Nässjö Sporthall",3,12,"Vimmerby IBK",1
+"36","Dawan Mofak","Sävsjö Sporthall",3,12,"Nybro IBK",1
+"37","Dawan Mofak","Sävsjö Sporthall",3,12,"Sävsjö IBK",3
+"38","Dawan Mofak","Sävsjö Sporthall",3,12,"Stenåsa-Sandby-Gårdby IF",1
+"39","Dawan Mofak","Sävsjö Sporthall",3,12,"Nässjö IBF",1
+"40","Dawan Mofak","Töllstorpshallen",1,12,"Gnosjö IBK",1
+"41","Dawan Mofak","Töllstorpshallen",1,12,"Slätafly/SK IBK",1
+"42","Dawan Mofak","Vimmerby Sporthall",2,12,"Ingelstad IBK",1
+"43","Dawan Mofak","Vimmerby Sporthall",2,12,"Gnosjö IBK",1
+"44","Dawan Mofak","Vimmerby Sporthall",2,12,"Vimmerby IBK",1
+"45","Dawan Mofak","Vimmerby Sporthall",2,12,"Vimmerby IBK",1
+"46","Edo Sabanovic","Ingelstads Sporthall",1,6,"Ingelstad IBK",1
+"47","Edo Sabanovic","Ingelstads Sporthall",1,6,"Slätafly/SK IBK",1
+"48","Edo Sabanovic","Kalmar Sporthall A-hall",1,6,"CL98IC",1
+"49","Edo Sabanovic","Kalmar Sporthall A-hall",1,6,"Sävsjö IBK",1
+"50","Edo Sabanovic","Torslundahallen",1,6,"FBC Karlskrona",1
+"51","Edo Sabanovic","Torslundahallen",1,6,"Stenåsa-Sandby-Gårdby IF",1
+"52","Edo Sabanovic","Töllstorpshallen",1,6,"Gnosjö IBK",1
+"53","Edo Sabanovic","Töllstorpshallen",1,6,"Sävsjö IBK",1
+"54","Edo Sabanovic","Vedeby Sporthall A",1,6,"CL98IC",1
+"55","Edo Sabanovic","Vedeby Sporthall A",1,6,"FBC Karlskrona",1
+"56","Edo Sabanovic","Vimmerby Sporthall",1,6,"Sävsjö IBK",1
+"57","Edo Sabanovic","Vimmerby Sporthall",1,6,"Vimmerby IBK",1
+"58","Gerhardt Borkowski","Ingelstads Sporthall",1,3,"Nybro IBK",1
+"59","Gerhardt Borkowski","Ingelstads Sporthall",1,3,"Ingelstad IBK",1
+"60","Gerhardt Borkowski","Kalmar Sporthall A-hall",1,3,"CL98IC",1
+"61","Gerhardt Borkowski","Kalmar Sporthall A-hall",1,3,"Nässjö IBF",1
+"62","Gerhardt Borkowski","Norrahammars Sporthall",1,3,"Slätafly/SK IBK",1
+"63","Gerhardt Borkowski","Norrahammars Sporthall",1,3,"Månsarps IBK",1
+"64","Gustav Jarnegren","Sävsjö Sporthall",2,3,"Sävsjö IBK",2
+"65","Gustav Jarnegren","Sävsjö Sporthall",2,3,"Månsarps IBK",1
+"66","Gustav Jarnegren","Sävsjö Sporthall",2,3,"Ingelstad IBK",1
+"67","Gustav Jarnegren","Töllstorpshallen",1,3,"Ingelstad IBK",1
+"68","Gustav Jarnegren","Töllstorpshallen",1,3,"Gnosjö IBK",1
+"69","Henrik Carlsson","Färjehallen",1,10,"Slätafly/SK IBK",1
+"70","Henrik Carlsson","Färjehallen",1,10,"Stenåsa-Sandby-Gårdby IF",1
+"71","Henrik Carlsson","ISCAR Arena Ney.se, Vetlanda",2,10,"Nybro IBK",1
+"72","Henrik Carlsson","ISCAR Arena Ney.se, Vetlanda",2,10,"Vimmerby IBK",1
+"73","Henrik Carlsson","ISCAR Arena Ney.se, Vetlanda",2,10,"Vetlanda IBF",2
+"74","Henrik Carlsson","Nässjö Sporthall",1,10,"Stenåsa-Sandby-Gårdby IF",1
+"75","Henrik Carlsson","Nässjö Sporthall",1,10,"Nässjö IBF",1
+"76","Henrik Carlsson","OG-Hallen",1,10,"Nybro IBK",1
+"77","Henrik Carlsson","OG-Hallen",1,10,"Gnosjö IBK",1
+"78","Henrik Carlsson","Sävsjö Sporthall",1,10,"Sävsjö IBK",1
+"79","Henrik Carlsson","Sävsjö Sporthall",1,10,"Vetlanda IBF",1
+"80","Henrik Carlsson","Torsås Sporthall",2,10,"CL98IC",1
+"81","Henrik Carlsson","Torsås Sporthall",2,10,"Slätafly/SK IBK",2
+"82","Henrik Carlsson","Torsås Sporthall",2,10,"Nässjö IBF",1
+"83","Henrik Carlsson","Vedeby Sporthall A",2,10,"Gnosjö IBK",1
+"84","Henrik Carlsson","Vedeby Sporthall A",2,10,"CL98IC",1
+"85","Henrik Carlsson","Vedeby Sporthall A",2,10,"FBC Karlskrona",2
+"86","Henrik Gilliusson","Torsås Sporthall",1,3,"FBC Karlskrona",1
+"87","Henrik Gilliusson","Torsås Sporthall",1,3,"Slätafly/SK IBK",1
+"88","Henrik Gilliusson","Töllstorpshallen",1,3,"Månsarps IBK",1
+"89","Henrik Gilliusson","Töllstorpshallen",1,3,"Gnosjö IBK",1
+"90","Henrik Gilliusson","Vedeby Sporthall A",1,3,"Nybro IBK",1
+"91","Henrik Gilliusson","Vedeby Sporthall A",1,3,"FBC Karlskrona",1
+"92","Jesper Rygert","Ingelstads Sporthall",2,11,"Stenåsa-Sandby-Gårdby IF",1
+"93","Jesper Rygert","Ingelstads Sporthall",2,11,"Ingelstad IBK",2
+"94","Jesper Rygert","Ingelstads Sporthall",2,11,"CL98IC",1
+"95","Jesper Rygert","ISCAR Arena Ney.se, Vetlanda",1,11,"Vetlanda IBF",1
+"96","Jesper Rygert","ISCAR Arena Ney.se, Vetlanda",1,11,"CL98IC",1
+"97","Jesper Rygert","Kalmar Sporthall A-hall",1,11,"CL98IC",1
+"98","Jesper Rygert","Kalmar Sporthall A-hall",1,11,"Månsarps IBK",1
+"99","Jesper Rygert","Nässjö Sporthall",1,11,"FBC Karlskrona",1
+"100","Jesper Rygert","Nässjö Sporthall",1,11,"Nässjö IBF",1
+"101","Jesper Rygert","Sävsjö Sporthall",3,11,"Nybro IBK",1
+"102","Jesper Rygert","Sävsjö Sporthall",3,11,"Stenåsa-Sandby-Gårdby IF",1
+"103","Jesper Rygert","Sävsjö Sporthall",3,11,"Sävsjö IBK",3
+"104","Jesper Rygert","Sävsjö Sporthall",3,11,"Nässjö IBF",1
+"105","Jesper Rygert","Töllstorpshallen",2,11,"Gnosjö IBK",2
+"106","Jesper Rygert","Töllstorpshallen",2,11,"Slätafly/SK IBK",1
+"107","Jesper Rygert","Töllstorpshallen",2,11,"Nässjö IBF",1
+"108","Jesper Rygert","Vimmerby Sporthall",1,11,"Vimmerby IBK",1
+"109","Jesper Rygert","Vimmerby Sporthall",1,11,"Ingelstad IBK",1
+"110","Joacim Olofsson","Färjehallen",1,8,"Stenåsa-Sandby-Gårdby IF",1
+"111","Joacim Olofsson","Färjehallen",1,8,"Slätafly/SK IBK",1
+"112","Joacim Olofsson","ISCAR Arena Ney.se, Vetlanda",1,8,"Vimmerby IBK",1
+"113","Joacim Olofsson","ISCAR Arena Ney.se, Vetlanda",1,8,"Vetlanda IBF",1
+"114","Joacim Olofsson","Nässjö Sporthall",1,8,"Stenåsa-Sandby-Gårdby IF",1
+"115","Joacim Olofsson","Nässjö Sporthall",1,8,"Nässjö IBF",1
+"116","Joacim Olofsson","OG-Hallen",1,8,"Nybro IBK",1
+"117","Joacim Olofsson","OG-Hallen",1,8,"Gnosjö IBK",1
+"118","Joacim Olofsson","Sävsjö Sporthall",1,8,"Sävsjö IBK",1
+"119","Joacim Olofsson","Sävsjö Sporthall",1,8,"Vetlanda IBF",1
+"120","Joacim Olofsson","Torsås Sporthall",1,8,"Nässjö IBF",1
+"121","Joacim Olofsson","Torsås Sporthall",1,8,"Slätafly/SK IBK",1
+"122","Joacim Olofsson","Töllstorpshallen",1,8,"Vetlanda IBF",1
+"123","Joacim Olofsson","Töllstorpshallen",1,8,"Gnosjö IBK",1
+"124","Joacim Olofsson","Vedeby Sporthall A",1,8,"Gnosjö IBK",1
+"125","Joacim Olofsson","Vedeby Sporthall A",1,8,"FBC Karlskrona",1
+"126","Jonas Einarsson","Norrahammars Sporthall",1,1,"Månsarps IBK",1
+"127","Jonas Einarsson","Norrahammars Sporthall",1,1,"Vimmerby IBK",1
+"128","Jonas Hellberg","Ingelstads Sporthall",2,9,"FBC Karlskrona",1
+"129","Jonas Hellberg","Ingelstads Sporthall",2,9,"Nässjö IBF",1
+"130","Jonas Hellberg","Ingelstads Sporthall",2,9,"Ingelstad IBK",2
+"131","Jonas Hellberg","ISCAR Arena Ney.se, Vetlanda",1,9,"FBC Karlskrona",1
+"132","Jonas Hellberg","ISCAR Arena Ney.se, Vetlanda",1,9,"Vetlanda IBF",1
+"133","Jonas Hellberg","Kalmar Sporthall A-hall",2,9,"CL98IC",2
+"134","Jonas Hellberg","Kalmar Sporthall A-hall",2,9,"Gnosjö IBK",1
+"135","Jonas Hellberg","Kalmar Sporthall A-hall",2,9,"Stenåsa-Sandby-Gårdby IF",1
+"136","Jonas Hellberg","Nybro Sporthall",1,9,"Nybro IBK",1
+"137","Jonas Hellberg","Nybro Sporthall",1,9,"Slätafly/SK IBK",1
+"138","Jonas Hellberg","Torslundahallen",2,9,"Gnosjö IBK",1
+"139","Jonas Hellberg","Torslundahallen",2,9,"Månsarps IBK",1
+"140","Jonas Hellberg","Torslundahallen",2,9,"Stenåsa-Sandby-Gårdby IF",2
+"141","Jonas Hellberg","Vimmerby Sporthall",1,9,"Slätafly/SK IBK",1
+"142","Jonas Hellberg","Vimmerby Sporthall",1,9,"Vimmerby IBK",1
+"143","Jonas Ottosson","Norrahammars Sporthall",1,1,"Nässjö IBF",1
+"144","Jonas Ottosson","Norrahammars Sporthall",1,1,"Månsarps IBK",1
+"145","Jonas Widenstedt","Torsås Sporthall",1,2,"Sävsjö IBK",1
+"146","Jonas Widenstedt","Torsås Sporthall",1,2,"Slätafly/SK IBK",1
+"147","Jonas Widenstedt","Vimmerby Sporthall",1,2,"Vimmerby IBK",1
+"148","Jonas Widenstedt","Vimmerby Sporthall",1,2,"Sävsjö IBK",1
+"149","Linus Sandberg","Norrahammars Sporthall",1,2,"Månsarps IBK",1
+"150","Linus Sandberg","Norrahammars Sporthall",1,2,"Ingelstad IBK",1
+"151","Linus Sandberg","Nybro Sporthall",1,2,"Nybro IBK",1
+"152","Linus Sandberg","Nybro Sporthall",1,2,"Stenåsa-Sandby-Gårdby IF",1
+"153","Marcus Karlström","Ingelstads Sporthall",1,1,"Slätafly/SK IBK",1
+"154","Marcus Karlström","Ingelstads Sporthall",1,1,"Ingelstad IBK",1
+"155","Michell Rohde","Kalmar Sporthall A-hall",1,2,"CL98IC",1
+"156","Michell Rohde","Kalmar Sporthall A-hall",1,2,"Vimmerby IBK",1
+"157","Michell Rohde","OG-Hallen",1,2,"Månsarps IBK",1
+"158","Michell Rohde","OG-Hallen",1,2,"Nybro IBK",1
+"159","Niklas Dahlberg","ISCAR Arena Ney.se, Vetlanda",1,6,"Vetlanda IBF",1
+"160","Niklas Dahlberg","ISCAR Arena Ney.se, Vetlanda",1,6,"Ingelstad IBK",1
+"161","Niklas Dahlberg","Norrahammars Sporthall",2,6,"FBC Karlskrona",1
+"162","Niklas Dahlberg","Norrahammars Sporthall",2,6,"Månsarps IBK",2
+"163","Niklas Dahlberg","Norrahammars Sporthall",2,6,"Vetlanda IBF",1
+"164","Niklas Dahlberg","Torslundahallen",1,6,"FBC Karlskrona",1
+"165","Niklas Dahlberg","Torslundahallen",1,6,"Stenåsa-Sandby-Gårdby IF",1
+"166","Niklas Dahlberg","Torsås Sporthall",1,6,"Vetlanda IBF",1
+"167","Niklas Dahlberg","Torsås Sporthall",1,6,"Slätafly/SK IBK",1
+"168","Niklas Dahlberg","Vimmerby Sporthall",1,6,"Vimmerby IBK",1
+"169","Niklas Dahlberg","Vimmerby Sporthall",1,6,"Gnosjö IBK",1
+"170","Oliver Hillerström","Norrahammars Sporthall",1,4,"Månsarps IBK",1
+"171","Oliver Hillerström","Norrahammars Sporthall",1,4,"Nässjö IBF",1
+"172","Oliver Hillerström","Sävsjö Sporthall",2,4,"Ingelstad IBK",1
+"173","Oliver Hillerström","Sävsjö Sporthall",2,4,"Månsarps IBK",1
+"174","Oliver Hillerström","Sävsjö Sporthall",2,4,"Sävsjö IBK",2
+"175","Oliver Hillerström","Töllstorpshallen",1,4,"Gnosjö IBK",1
+"176","Oliver Hillerström","Töllstorpshallen",1,4,"Ingelstad IBK",1
+"177","Per Bratt","Torsås Sporthall",1,3,"FBC Karlskrona",1
+"178","Per Bratt","Torsås Sporthall",1,3,"Slätafly/SK IBK",1
+"179","Per Bratt","Töllstorpshallen",1,3,"Månsarps IBK",1
+"180","Per Bratt","Töllstorpshallen",1,3,"Gnosjö IBK",1
+"181","Per Bratt","Vedeby Sporthall A",1,3,"FBC Karlskrona",1
+"182","Per Bratt","Vedeby Sporthall A",1,3,"Nybro IBK",1
+"183","Per Elofsson","Kalmar Sporthall D-hall",1,8,"Nybro IBK",1
+"184","Per Elofsson","Kalmar Sporthall D-hall",1,8,"CL98IC",1
+"185","Per Elofsson","Nässjö Sporthall",1,8,"Nässjö IBF",1
+"186","Per Elofsson","Nässjö Sporthall",1,8,"Vetlanda IBF",1
+"187","Per Elofsson","OG-Hallen",1,8,"Nybro IBK",1
+"188","Per Elofsson","OG-Hallen",1,8,"Vimmerby IBK",1
+"189","Per Elofsson","Torslundahallen",1,8,"Stenåsa-Sandby-Gårdby IF",1
+"190","Per Elofsson","Torslundahallen",1,8,"Vetlanda IBF",1
+"191","Per Elofsson","Torsås Sporthall",1,8,"CL98IC",1
+"192","Per Elofsson","Torsås Sporthall",1,8,"Slätafly/SK IBK",1
+"193","Per Elofsson","Vedeby Sporthall A",2,8,"Vimmerby IBK",1
+"194","Per Elofsson","Vedeby Sporthall A",2,8,"FBC Karlskrona",2
+"195","Per Elofsson","Vedeby Sporthall A",2,8,"Sävsjö IBK",1
+"196","Per Elofsson","Vimmerby Sporthall",1,8,"Stenåsa-Sandby-Gårdby IF",1
+"197","Per Elofsson","Vimmerby Sporthall",1,8,"Vimmerby IBK",1
+"198","Rasmus Wirstam","ISCAR Arena Ney.se, Vetlanda",1,3,"Nybro IBK",1
+"199","Rasmus Wirstam","ISCAR Arena Ney.se, Vetlanda",1,3,"Vetlanda IBF",1
+"200","Rasmus Wirstam","Kalmar Sporthall A-hall",1,3,"Sävsjö IBK",1
+"201","Rasmus Wirstam","Kalmar Sporthall A-hall",1,3,"CL98IC",1
+"202","Rasmus Wirstam","Töllstorpshallen",1,3,"Gnosjö IBK",1
+"203","Rasmus Wirstam","Töllstorpshallen",1,3,"Vetlanda IBF",1
+"204","Roger Gardell","Kalmar Sporthall A-hall",1,2,"CL98IC",1
+"205","Roger Gardell","Kalmar Sporthall A-hall",1,2,"Vimmerby IBK",1
+"206","Roger Gardell","OG-Hallen",1,2,"Nybro IBK",1
+"207","Roger Gardell","OG-Hallen",1,2,"Månsarps IBK",1
+"208","Senad Hamula","Norrahammars Sporthall",1,2,"Månsarps IBK",1
+"209","Senad Hamula","Norrahammars Sporthall",1,2,"Ingelstad IBK",1
+"210","Senad Hamula","Nybro Sporthall",1,2,"Stenåsa-Sandby-Gårdby IF",1
+"211","Senad Hamula","Nybro Sporthall",1,2,"Nybro IBK",1
+"212","Thomas Bergström","Norrahammars Sporthall",1,1,"Vimmerby IBK",1
+"213","Thomas Bergström","Norrahammars Sporthall",1,1,"Månsarps IBK",1
+"214","Ulf Åberg","Kalmar Sporthall D-hall",1,7,"CL98IC",1
+"215","Ulf Åberg","Kalmar Sporthall D-hall",1,7,"Nybro IBK",1
+"216","Ulf Åberg","Nässjö Sporthall",1,7,"Nässjö IBF",1
+"217","Ulf Åberg","Nässjö Sporthall",1,7,"Vetlanda IBF",1
+"218","Ulf Åberg","OG-Hallen",1,7,"Nybro IBK",1
+"219","Ulf Åberg","OG-Hallen",1,7,"Vimmerby IBK",1
+"220","Ulf Åberg","Torslundahallen",1,7,"Stenåsa-Sandby-Gårdby IF",1
+"221","Ulf Åberg","Torslundahallen",1,7,"Vetlanda IBF",1
+"222","Ulf Åberg","Vedeby Sporthall A",2,7,"Sävsjö IBK",1
+"223","Ulf Åberg","Vedeby Sporthall A",2,7,"Vimmerby IBK",1
+"224","Ulf Åberg","Vedeby Sporthall A",2,7,"FBC Karlskrona",2
+"225","Ulf Åberg","Vimmerby Sporthall",1,7,"Vimmerby IBK",1
+"226","Ulf Åberg","Vimmerby Sporthall",1,7,"Stenåsa-Sandby-Gårdby IF",1
+"227","Viktor Bringstam","Ingelstads Sporthall",2,8,"Ingelstad IBK",1
+"228","Viktor Bringstam","Ingelstads Sporthall",2,8,"Nybro IBK",1
+"229","Viktor Bringstam","Ingelstads Sporthall",2,8,"Ingelstad IBK",1
+"230","Viktor Bringstam","Ingelstads Sporthall",2,8,"Stenåsa-Sandby-Gårdby IF",1
+"231","Viktor Bringstam","Kalmar Sporthall A-hall",1,8,"CL98IC",1
+"232","Viktor Bringstam","Kalmar Sporthall A-hall",1,8,"Nässjö IBF",1
+"233","Viktor Bringstam","Norrahammars Sporthall",1,8,"Slätafly/SK IBK",1
+"234","Viktor Bringstam","Norrahammars Sporthall",1,8,"Månsarps IBK",1
+"235","Viktor Bringstam","Nässjö Sporthall",2,8,"Nässjö IBF",2
+"236","Viktor Bringstam","Nässjö Sporthall",2,8,"Vimmerby IBK",1
+"237","Viktor Bringstam","Nässjö Sporthall",2,8,"Nybro IBK",1
+"238","Viktor Bringstam","Töllstorpshallen",2,8,"Sävsjö IBK",1
+"239","Viktor Bringstam","Töllstorpshallen",2,8,"Nässjö IBF",1
+"240","Viktor Bringstam","Töllstorpshallen",2,8,"Gnosjö IBK",2

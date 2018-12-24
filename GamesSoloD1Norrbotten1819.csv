@@ -1,28 +1,155 @@
-"","Referee","TotalCount"
-"1","Alexander Pettersson",3
-"2","André Selander",3
-"3","Axel Wernqvist",1
-"4","Christer Uggla",7
-"5","Christoffer Flemström",4
-"6","Conny Björnfot",5
-"7","Daniel Giornetti",1
-"8","Daniel Persson",1
-"9","Dick Sandberg",3
-"10","Felix Roos",3
-"11","Gustaf Vallgren",2
-"12","Jari Korpi",4
-"13","Johan Kemi",4
-"14","Johan Krispinsson",1
-"15","Johan Nyström",4
-"16","Johan Svanold",3
-"17","Josefin Höglund",5
-"18","Juha Pasma",3
-"19","Jörgen Eriksson",3
-"20","Magnus Grahn",2
-"21","Maja Norrby",1
-"22","Oscar Sundbaum",2
-"23","Pasi Ronkainen",3
-"24","Petter Lindkvist",4
-"25","Pär Wårell",4
-"26","Sean Limnerius",1
-"27","Tobias Skogsberg",3
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Alexander Pettersson","Idrottshuset Haparanda",1,3,"IBK Boden D1",1
+"2","Alexander Pettersson","Idrottshuset Haparanda",1,3,"Haparanda AIK D1",1
+"3","Alexander Pettersson","Norrmalmia Sph",1,3,"Sunderby SK D1",1
+"4","Alexander Pettersson","Norrmalmia Sph",1,3,"Öjebyns IBF D1",1
+"5","Alexander Pettersson","Pajala Sp",1,3,"Pajala IF D1",1
+"6","Alexander Pettersson","Pajala Sp",1,3,"IBK Luleå D1",1
+"7","André Selander","Idrottshuset Haparanda",1,3,"Team Kalix IBK D1",1
+"8","André Selander","Idrottshuset Haparanda",1,3,"Haparanda AIK D1",1
+"9","André Selander","Sunderby Sp",1,3,"Pajala IF D1",1
+"10","André Selander","Sunderby Sp",1,3,"Sunderby SK D1",1
+"11","André Selander","Örnäsets Sp",1,3,"IBK Luleå D1",1
+"12","André Selander","Örnäsets Sp",1,3,"IBF Argentum 91 / K4 IF D1",1
+"13","Axel Wernqvist","Boden Arena",1,1,"IBK Boden D1",1
+"14","Axel Wernqvist","Boden Arena",1,1,"IBK Luleå D1",1
+"15","Christer Uggla","Boden Arena",2,7,"Sunderby SK D1",1
+"16","Christer Uggla","Boden Arena",2,7,"Team Kalix IBK D1",1
+"17","Christer Uggla","Boden Arena",2,7,"IBK Boden D1",1
+"18","Christer Uggla","Boden Arena",2,7,"IBK Boden D1",1
+"19","Christer Uggla","Idrottshuset Haparanda",1,7,"IBF Argentum 91 / K4 IF D1",1
+"20","Christer Uggla","Idrottshuset Haparanda",1,7,"Haparanda AIK D1",1
+"21","Christer Uggla","ND Hallen",1,7,"IBF Argentum 91 / K4 IF D1",1
+"22","Christer Uggla","ND Hallen",1,7,"Notvikens IK Vets D1",1
+"23","Christer Uggla","Norrmalmia Sph",1,7,"Öjebyns IBF D1",1
+"24","Christer Uggla","Norrmalmia Sph",1,7,"Pajala IF D1",1
+"25","Christer Uggla","Sportcity Kalix",1,7,"Team Kalix IBK D1",1
+"26","Christer Uggla","Sportcity Kalix",1,7,"IBF Argentum 91 / K4 IF D1",1
+"27","Christer Uggla","Örnäsets Sp",1,7,"IBK Luleå D1",1
+"28","Christer Uggla","Örnäsets Sp",1,7,"Sunderby SK D1",1
+"29","Christoffer Flemström","Boden Arena",1,4,"IBF Argentum 91 / K4 IF D1",1
+"30","Christoffer Flemström","Boden Arena",1,4,"IBK Boden D1",1
+"31","Christoffer Flemström","Hälsans hus",1,4,"Notvikens IK Vets D1",1
+"32","Christoffer Flemström","Hälsans hus",1,4,"Pajala IF D1",1
+"33","Christoffer Flemström","Sportcity Kalix",1,4,"Pajala IF D1",1
+"34","Christoffer Flemström","Sportcity Kalix",1,4,"Team Kalix IBK D1",1
+"35","Christoffer Flemström","Örnäsets Sp",1,4,"IBF Argentum 91 / K4 IF D1",1
+"36","Christoffer Flemström","Örnäsets Sp",1,4,"IBK Luleå D1",1
+"37","Conny Björnfot","Norrmalmia Sph",1,5,"Pajala IF D1",1
+"38","Conny Björnfot","Norrmalmia Sph",1,5,"Öjebyns IBF D1",1
+"39","Conny Björnfot","Pajala Sp",2,5,"Pajala IF D1",2
+"40","Conny Björnfot","Pajala Sp",2,5,"IBK Boden D1",1
+"41","Conny Björnfot","Pajala Sp",2,5,"IBF Argentum 91 / K4 IF D1",1
+"42","Conny Björnfot","Sportcity Kalix",1,5,"Notvikens IK Vets D1",1
+"43","Conny Björnfot","Sportcity Kalix",1,5,"Team Kalix IBK D1",1
+"44","Conny Björnfot","Örnäsets Sp",1,5,"Notvikens IK Vets D1",1
+"45","Conny Björnfot","Örnäsets Sp",1,5,"IBK Luleå D1",1
+"46","Daniel Giornetti","Gammelstad Sp",1,1,"Haparanda AIK D1",1
+"47","Daniel Giornetti","Gammelstad Sp",1,1,"IBK Luleå D1",1
+"48","Daniel Persson","Pajala Sp",1,1,"Pajala IF D1",1
+"49","Daniel Persson","Pajala Sp",1,1,"IBF Argentum 91 / K4 IF D1",1
+"50","Dick Sandberg","Idrottshuset Haparanda",1,3,"Team Kalix IBK D1",1
+"51","Dick Sandberg","Idrottshuset Haparanda",1,3,"Haparanda AIK D1",1
+"52","Dick Sandberg","Sunderby Sp",2,3,"Pajala IF D1",1
+"53","Dick Sandberg","Sunderby Sp",2,3,"Team Kalix IBK D1",1
+"54","Dick Sandberg","Sunderby Sp",2,3,"Sunderby SK D1",1
+"55","Dick Sandberg","Sunderby Sp",2,3,"Sunderby SK D1",1
+"56","Felix Roos","Norrmalmia Sph",1,3,"Öjebyns IBF D1",1
+"57","Felix Roos","Norrmalmia Sph",1,3,"IBK Boden D1",1
+"58","Felix Roos","Sunderby Sp",1,3,"Sunderby SK D1",1
+"59","Felix Roos","Sunderby Sp",1,3,"Notvikens IK Vets D1",1
+"60","Felix Roos","Örnäsets Sp",1,3,"Öjebyns IBF D1",1
+"61","Felix Roos","Örnäsets Sp",1,3,"IBK Luleå D1",1
+"62","Gustaf Vallgren","Pajala Sp",2,2,"Pajala IF D1",2
+"63","Gustaf Vallgren","Pajala Sp",2,2,"IBK Luleå D1",1
+"64","Gustaf Vallgren","Pajala Sp",2,2,"Team Kalix IBK D1",1
+"65","Jari Korpi","Boden Arena",1,4,"Haparanda AIK D1",1
+"66","Jari Korpi","Boden Arena",1,4,"IBK Boden D1",1
+"67","Jari Korpi","Sportcity Kalix",1,4,"Team Kalix IBK D1",1
+"68","Jari Korpi","Sportcity Kalix",1,4,"IBK Luleå D1",1
+"69","Jari Korpi","Sunderby Sp",2,4,"Sunderby SK D1",1
+"70","Jari Korpi","Sunderby Sp",2,4,"IBF Argentum 91 / K4 IF D1",1
+"71","Jari Korpi","Sunderby Sp",2,4,"Haparanda AIK D1",1
+"72","Jari Korpi","Sunderby Sp",2,4,"Sunderby SK D1",1
+"73","Johan Kemi","Boden Arena",1,4,"Team Kalix IBK D1",1
+"74","Johan Kemi","Boden Arena",1,4,"IBK Boden D1",1
+"75","Johan Kemi","Gammelstad Sp",1,4,"IBK Luleå D1",1
+"76","Johan Kemi","Gammelstad Sp",1,4,"Haparanda AIK D1",1
+"77","Johan Kemi","Norrmalmia Sph",1,4,"Team Kalix IBK D1",1
+"78","Johan Kemi","Norrmalmia Sph",1,4,"Öjebyns IBF D1",1
+"79","Johan Kemi","Örnäsets Sp",1,4,"IBK Luleå D1",1
+"80","Johan Kemi","Örnäsets Sp",1,4,"Sunderby SK D1",1
+"81","Johan Krispinsson","Pajala Sp",1,1,"Pajala IF D1",1
+"82","Johan Krispinsson","Pajala Sp",1,1,"Team Kalix IBK D1",1
+"83","Johan Nyström","Arjeplog Sporthall",1,4,"IBK Luleå D1",1
+"84","Johan Nyström","Arjeplog Sporthall",1,4,"IBF Argentum 91 / K4 IF D1",1
+"85","Johan Nyström","Kronanhallen",1,4,"Notvikens IK Vets D1",1
+"86","Johan Nyström","Kronanhallen",1,4,"Öjebyns IBF D1",1
+"87","Johan Nyström","Sunderby Sp",1,4,"Sunderby SK D1",1
+"88","Johan Nyström","Sunderby Sp",1,4,"Team Kalix IBK D1",1
+"89","Johan Nyström","Örnäsets Sp",1,4,"Sunderby SK D1",1
+"90","Johan Nyström","Örnäsets Sp",1,4,"Notvikens IK Vets D1",1
+"91","Johan Svanold","Norrmalmia Sph",1,3,"IBK Boden D1",1
+"92","Johan Svanold","Norrmalmia Sph",1,3,"Öjebyns IBF D1",1
+"93","Johan Svanold","Sunderby Sp",1,3,"Sunderby SK D1",1
+"94","Johan Svanold","Sunderby Sp",1,3,"Notvikens IK Vets D1",1
+"95","Johan Svanold","Örnäsets Sp",1,3,"Öjebyns IBF D1",1
+"96","Johan Svanold","Örnäsets Sp",1,3,"IBK Luleå D1",1
+"97","Josefin Höglund","Hälsans hus",1,5,"Notvikens IK Vets D1",1
+"98","Josefin Höglund","Hälsans hus",1,5,"Pajala IF D1",1
+"99","Josefin Höglund","ND Hallen",1,5,"Öjebyns IBF D1",1
+"100","Josefin Höglund","ND Hallen",1,5,"IBF Argentum 91 / K4 IF D1",1
+"101","Josefin Höglund","Norrmalmia Sph",1,5,"Öjebyns IBF D1",1
+"102","Josefin Höglund","Norrmalmia Sph",1,5,"Team Kalix IBK D1",1
+"103","Josefin Höglund","Sportcity Kalix",1,5,"Pajala IF D1",1
+"104","Josefin Höglund","Sportcity Kalix",1,5,"Team Kalix IBK D1",1
+"105","Josefin Höglund","Örnäsets Sp",1,5,"Notvikens IK Vets D1",1
+"106","Josefin Höglund","Örnäsets Sp",1,5,"Sunderby SK D1",1
+"107","Juha Pasma","Arjeplog Sporthall",1,3,"IBF Argentum 91 / K4 IF D1",1
+"108","Juha Pasma","Arjeplog Sporthall",1,3,"IBK Luleå D1",1
+"109","Juha Pasma","Idrottshuset Haparanda",2,3,"Öjebyns IBF D1",1
+"110","Juha Pasma","Idrottshuset Haparanda",2,3,"Notvikens IK Vets D1",1
+"111","Juha Pasma","Idrottshuset Haparanda",2,3,"Haparanda AIK D1",2
+"112","Jörgen Eriksson","Boden Arena",2,3,"Haparanda AIK D1",1
+"113","Jörgen Eriksson","Boden Arena",2,3,"IBK Boden D1",2
+"114","Jörgen Eriksson","Boden Arena",2,3,"IBF Argentum 91 / K4 IF D1",1
+"115","Jörgen Eriksson","Sunderby Sp",1,3,"Sunderby SK D1",1
+"116","Jörgen Eriksson","Sunderby Sp",1,3,"Haparanda AIK D1",1
+"117","Magnus Grahn","Pajala Sp",1,2,"Pajala IF D1",1
+"118","Magnus Grahn","Pajala Sp",1,2,"Haparanda AIK D1",1
+"119","Magnus Grahn","Sportcity Kalix",1,2,"Notvikens IK Vets D1",1
+"120","Magnus Grahn","Sportcity Kalix",1,2,"Team Kalix IBK D1",1
+"121","Maja Norrby","ND Hallen",1,1,"IBF Argentum 91 / K4 IF D1",1
+"122","Maja Norrby","ND Hallen",1,1,"Öjebyns IBF D1",1
+"123","Oscar Sundbaum","Boden Arena",1,2,"IBK Boden D1",1
+"124","Oscar Sundbaum","Boden Arena",1,2,"IBK Luleå D1",1
+"125","Oscar Sundbaum","Pajala Sp",1,2,"Pajala IF D1",1
+"126","Oscar Sundbaum","Pajala Sp",1,2,"Haparanda AIK D1",1
+"127","Pasi Ronkainen","Idrottshuset Haparanda",2,3,"Haparanda AIK D1",2
+"128","Pasi Ronkainen","Idrottshuset Haparanda",2,3,"Notvikens IK Vets D1",1
+"129","Pasi Ronkainen","Idrottshuset Haparanda",2,3,"Öjebyns IBF D1",1
+"130","Pasi Ronkainen","ND Hallen",1,3,"IBF Argentum 91 / K4 IF D1",1
+"131","Pasi Ronkainen","ND Hallen",1,3,"Notvikens IK Vets D1",1
+"132","Petter Lindkvist","Idrottshuset Haparanda",1,4,"Haparanda AIK D1",1
+"133","Petter Lindkvist","Idrottshuset Haparanda",1,4,"IBK Boden D1",1
+"134","Petter Lindkvist","Norrmalmia Sph",1,4,"Sunderby SK D1",1
+"135","Petter Lindkvist","Norrmalmia Sph",1,4,"Öjebyns IBF D1",1
+"136","Petter Lindkvist","Sportcity Kalix",2,4,"IBF Argentum 91 / K4 IF D1",1
+"137","Petter Lindkvist","Sportcity Kalix",2,4,"Team Kalix IBK D1",1
+"138","Petter Lindkvist","Sportcity Kalix",2,4,"IBK Luleå D1",1
+"139","Petter Lindkvist","Sportcity Kalix",2,4,"Team Kalix IBK D1",1
+"140","Pär Wårell","Boden Arena",2,4,"Notvikens IK Vets D1",1
+"141","Pär Wårell","Boden Arena",2,4,"IBK Boden D1",2
+"142","Pär Wårell","Boden Arena",2,4,"Sunderby SK D1",1
+"143","Pär Wårell","Idrottshuset Haparanda",1,4,"IBF Argentum 91 / K4 IF D1",1
+"144","Pär Wårell","Idrottshuset Haparanda",1,4,"Haparanda AIK D1",1
+"145","Pär Wårell","Kronanhallen",1,4,"Notvikens IK Vets D1",1
+"146","Pär Wårell","Kronanhallen",1,4,"Öjebyns IBF D1",1
+"147","Sean Limnerius","Boden Arena",1,1,"IBK Boden D1",1
+"148","Sean Limnerius","Boden Arena",1,1,"Notvikens IK Vets D1",1
+"149","Tobias Skogsberg","Pajala Sp",1,3,"Pajala IF D1",1
+"150","Tobias Skogsberg","Pajala Sp",1,3,"IBK Boden D1",1
+"151","Tobias Skogsberg","Sunderby Sp",1,3,"Sunderby SK D1",1
+"152","Tobias Skogsberg","Sunderby Sp",1,3,"IBF Argentum 91 / K4 IF D1",1
+"153","Tobias Skogsberg","Örnäsets Sp",1,3,"Notvikens IK Vets D1",1
+"154","Tobias Skogsberg","Örnäsets Sp",1,3,"IBK Luleå D1",1

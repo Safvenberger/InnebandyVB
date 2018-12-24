@@ -1,18 +1,162 @@
-"","Referee","TotalCount"
-"1","Adam Haglund",1
-"2","Albin Jakobsson",4
-"3","Anders Leander",1
-"4","Christoffer Frykestam",9
-"5","Claes Knutsson",5
-"6","Erik Bergström",8
-"7","Henrik Jansson",9
-"8","Johan Friman",10
-"9","Jonas Snäll",12
-"10","Lars Larsson",5
-"11","Nicklas Johansson",9
-"12","Oskar Sundin",1
-"13","Philip Aronsson-Elffors",7
-"14","Pierre Malmgren",3
-"15","Roger Nilsson",1
-"16","Timmy Samuelsson",3
-"17","Tobias Jäderqvist",2
+"","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
+"1","Adam Haglund","Fageråshallen",1,1,"Nilsby IK",1
+"2","Adam Haglund","Fageråshallen",1,1,"Hultsberg/Björkås IBF",1
+"3","Albin Jakobsson","Colorama Arena",1,4,"Karlstad IBF Ungdom",1
+"4","Albin Jakobsson","Colorama Arena",1,4,"SK Örnen",1
+"5","Albin Jakobsson","Hammarö Arena",1,4,"Skoghalls IBK Utveckling ",1
+"6","Albin Jakobsson","Hammarö Arena",1,4,"Karlstad IBF Ungdom",1
+"7","Albin Jakobsson","Karlbergshallen Åmål",1,4,"Åmåls IBK ",1
+"8","Albin Jakobsson","Karlbergshallen Åmål",1,4,"Skattkärrs IK",1
+"9","Albin Jakobsson","Väse Sporthall",1,4,"IFK Väse",1
+"10","Albin Jakobsson","Väse Sporthall",1,4,"Skoghalls IBK Utveckling",1
+"11","Anders Leander","Karlbergshallen Karlskoga",1,1,"Skattkärrs IK",1
+"12","Anders Leander","Karlbergshallen Karlskoga",1,1,"Karlskoga IBF",1
+"13","Christoffer Frykestam","Colorama Arena",3,9,"Hultsberg/Björkås IBF ",1
+"14","Christoffer Frykestam","Colorama Arena",3,9,"Hultsberg/Björkås IBF ",1
+"15","Christoffer Frykestam","Colorama Arena",3,9,"Karlstad IBF Ungdom",1
+"16","Christoffer Frykestam","Colorama Arena",3,9,"Skattkärrs IK",1
+"17","Christoffer Frykestam","Colorama Arena",3,9,"Skattkärrs IK ",1
+"18","Christoffer Frykestam","Colorama Arena",3,9,"Skoghalls IBK Utveckling",1
+"19","Christoffer Frykestam","Fageråshallen",2,9,"IFK Väse",1
+"20","Christoffer Frykestam","Fageråshallen",2,9,"Grums IBK",1
+"21","Christoffer Frykestam","Fageråshallen",2,9,"Nilsby IK",2
+"22","Christoffer Frykestam","Grums Sporthall",1,9,"Skattkärrs IK",1
+"23","Christoffer Frykestam","Grums Sporthall",1,9,"Grums IBK ",1
+"24","Christoffer Frykestam","Karlbergshallen Karlskoga",1,9,"Karlskoga IBF",1
+"25","Christoffer Frykestam","Karlbergshallen Karlskoga",1,9,"Karlstad IBF Ungdom",1
+"26","Christoffer Frykestam","Molkoms Sporthall",2,9,"Karlskoga IBF",1
+"27","Christoffer Frykestam","Molkoms Sporthall",2,9,"Åmåls IBK",1
+"28","Christoffer Frykestam","Molkoms Sporthall",2,9,"SK Örnen ",2
+"29","Claes Knutsson","Colorama Arena",2,5,"IFK Väse",1
+"30","Claes Knutsson","Colorama Arena",2,5,"Skattkärrs IK ",1
+"31","Claes Knutsson","Colorama Arena",2,5,"Karlstad IBF Ungdom",1
+"32","Claes Knutsson","Colorama Arena",2,5,"SK Örnen",1
+"33","Claes Knutsson","Fageråshallen",2,5,"Nilsby IK",2
+"34","Claes Knutsson","Fageråshallen",2,5,"Karlskoga IBF",1
+"35","Claes Knutsson","Fageråshallen",2,5,"SK Örnen",1
+"36","Claes Knutsson","Hammarö Arena",1,5,"Skoghalls IBK Utveckling ",1
+"37","Claes Knutsson","Hammarö Arena",1,5,"SK Örnen",1
+"38","Erik Bergström","Colorama Arena",2,8,"Skattkärrs IK ",1
+"39","Erik Bergström","Colorama Arena",2,8,"Karlstad IBF Ungdom",1
+"40","Erik Bergström","Colorama Arena",2,8,"Hultsberg/Björkås IBF ",1
+"41","Erik Bergström","Colorama Arena",2,8,"Skattkärrs IK",1
+"42","Erik Bergström","Fageråshallen",2,8,"Grums IBK",1
+"43","Erik Bergström","Fageråshallen",2,8,"IFK Väse",1
+"44","Erik Bergström","Fageråshallen",2,8,"Nilsby IK",2
+"45","Erik Bergström","Grums Sporthall",1,8,"Grums IBK ",1
+"46","Erik Bergström","Grums Sporthall",1,8,"Skattkärrs IK",1
+"47","Erik Bergström","Karlbergshallen Karlskoga",1,8,"Karlstad IBF Ungdom",1
+"48","Erik Bergström","Karlbergshallen Karlskoga",1,8,"Karlskoga IBF",1
+"49","Erik Bergström","Molkoms Sporthall",2,8,"Åmåls IBK",1
+"50","Erik Bergström","Molkoms Sporthall",2,8,"SK Örnen ",2
+"51","Erik Bergström","Molkoms Sporthall",2,8,"Karlskoga IBF",1
+"52","Henrik Jansson","Colorama Arena",2,9,"Karlstad IBF Ungdom",1
+"53","Henrik Jansson","Colorama Arena",2,9,"Skattkärrs IK ",1
+"54","Henrik Jansson","Colorama Arena",2,9,"Nilsby IK",2
+"55","Henrik Jansson","Hammarö Arena",1,9,"Skoghalls IBK Utveckling ",1
+"56","Henrik Jansson","Hammarö Arena",1,9,"Grums IBK",1
+"57","Henrik Jansson","Karlbergshallen Karlskoga",3,9,"Karlskoga IBF",3
+"58","Henrik Jansson","Karlbergshallen Karlskoga",3,9,"Skattkärrs IK",1
+"59","Henrik Jansson","Karlbergshallen Karlskoga",3,9,"Åmåls IBK",1
+"60","Henrik Jansson","Karlbergshallen Karlskoga",3,9,"Skoghalls IBK Utveckling",1
+"61","Henrik Jansson","Karlbergshallen Åmål",1,9,"Åmåls IBK ",1
+"62","Henrik Jansson","Karlbergshallen Åmål",1,9,"Skoghalls IBK Utveckling",1
+"63","Henrik Jansson","Stavdal Arena",1,9,"Karlstad IBF Ungdom",1
+"64","Henrik Jansson","Stavdal Arena",1,9,"Grums IBK",1
+"65","Henrik Jansson","Väse Sporthall",1,9,"Åmåls IBK",1
+"66","Henrik Jansson","Väse Sporthall",1,9,"IFK Väse",1
+"67","Johan Friman","Colorama Arena",3,10,"Hultsberg/Björkås IBF ",2
+"68","Johan Friman","Colorama Arena",3,10,"Åmåls IBK",1
+"69","Johan Friman","Colorama Arena",3,10,"Karlskoga IBF",1
+"70","Johan Friman","Colorama Arena",3,10,"Hultsberg/Björkås IBF",1
+"71","Johan Friman","Colorama Arena",3,10,"Karlstad IBF Ungdom",1
+"72","Johan Friman","Grums Sporthall",3,10,"Grums IBK ",3
+"73","Johan Friman","Grums Sporthall",3,10,"Hultsberg/Björkås IBF",1
+"74","Johan Friman","Grums Sporthall",3,10,"Åmåls IBK",1
+"75","Johan Friman","Grums Sporthall",3,10,"IFK Väse",1
+"76","Johan Friman","Hammarö Arena",1,10,"Skoghalls IBK Utveckling ",1
+"77","Johan Friman","Hammarö Arena",1,10,"SK Örnen",1
+"78","Johan Friman","Karlbergshallen Karlskoga",1,10,"IFK Väse",1
+"79","Johan Friman","Karlbergshallen Karlskoga",1,10,"Karlskoga IBF",1
+"80","Johan Friman","Molkoms Sporthall",1,10,"SK Örnen ",1
+"81","Johan Friman","Molkoms Sporthall",1,10,"IFK Väse",1
+"82","Johan Friman","Väse Sporthall",1,10,"IFK Väse",1
+"83","Johan Friman","Väse Sporthall",1,10,"Skattkärrs IK",1
+"84","Jonas Snäll","Colorama Arena",4,12,"Karlstad IBF Ungdom",1
+"85","Jonas Snäll","Colorama Arena",4,12,"Skoghalls IBK Utveckling",1
+"86","Jonas Snäll","Colorama Arena",4,12,"Hultsberg/Björkås IBF ",3
+"87","Jonas Snäll","Colorama Arena",4,12,"Hultsberg/Björkås IBF",1
+"88","Jonas Snäll","Colorama Arena",4,12,"Karlskoga IBF",1
+"89","Jonas Snäll","Colorama Arena",4,12,"Åmåls IBK",1
+"90","Jonas Snäll","Grums Sporthall",3,12,"IFK Väse",1
+"91","Jonas Snäll","Grums Sporthall",3,12,"Grums IBK ",3
+"92","Jonas Snäll","Grums Sporthall",3,12,"Åmåls IBK",1
+"93","Jonas Snäll","Grums Sporthall",3,12,"Hultsberg/Björkås IBF",1
+"94","Jonas Snäll","Hammarö Arena",1,12,"Nilsby IK",1
+"95","Jonas Snäll","Hammarö Arena",1,12,"Skoghalls IBK Utveckling ",1
+"96","Jonas Snäll","Karlbergshallen Karlskoga",1,12,"IFK Väse",1
+"97","Jonas Snäll","Karlbergshallen Karlskoga",1,12,"Karlskoga IBF",1
+"98","Jonas Snäll","Karlbergshallen Åmål",1,12,"Nilsby IK",1
+"99","Jonas Snäll","Karlbergshallen Åmål",1,12,"Åmåls IBK ",1
+"100","Jonas Snäll","Molkoms Sporthall",1,12,"IFK Väse",1
+"101","Jonas Snäll","Molkoms Sporthall",1,12,"SK Örnen ",1
+"102","Jonas Snäll","Väse Sporthall",1,12,"Skattkärrs IK",1
+"103","Jonas Snäll","Väse Sporthall",1,12,"IFK Väse",1
+"104","Lars Larsson","Colorama Arena",1,5,"Karlstad IBF Ungdom",1
+"105","Lars Larsson","Colorama Arena",1,5,"SK Örnen",1
+"106","Lars Larsson","Hammarö Arena",1,5,"Karlstad IBF Ungdom",1
+"107","Lars Larsson","Hammarö Arena",1,5,"Skoghalls IBK Utveckling ",1
+"108","Lars Larsson","Karlbergshallen Åmål",1,5,"Åmåls IBK ",1
+"109","Lars Larsson","Karlbergshallen Åmål",1,5,"Skattkärrs IK",1
+"110","Lars Larsson","Molkoms Sporthall",1,5,"Grums IBK",1
+"111","Lars Larsson","Molkoms Sporthall",1,5,"SK Örnen ",1
+"112","Lars Larsson","Väse Sporthall",1,5,"IFK Väse",1
+"113","Lars Larsson","Väse Sporthall",1,5,"Skoghalls IBK Utveckling",1
+"114","Nicklas Johansson","Colorama Arena",2,9,"Skattkärrs IK ",1
+"115","Nicklas Johansson","Colorama Arena",2,9,"Karlstad IBF Ungdom",1
+"116","Nicklas Johansson","Colorama Arena",2,9,"Nilsby IK",2
+"117","Nicklas Johansson","Hammarö Arena",1,9,"Grums IBK",1
+"118","Nicklas Johansson","Hammarö Arena",1,9,"Skoghalls IBK Utveckling ",1
+"119","Nicklas Johansson","Karlbergshallen Karlskoga",2,9,"Karlskoga IBF",1
+"120","Nicklas Johansson","Karlbergshallen Karlskoga",2,9,"Karlskoga IBF",1
+"121","Nicklas Johansson","Karlbergshallen Karlskoga",2,9,"Grums IBK",1
+"122","Nicklas Johansson","Karlbergshallen Karlskoga",2,9,"Skoghalls IBK Utveckling",1
+"123","Nicklas Johansson","Karlbergshallen Åmål",1,9,"Karlstad IBF Ungdom",1
+"124","Nicklas Johansson","Karlbergshallen Åmål",1,9,"Åmåls IBK ",1
+"125","Nicklas Johansson","Molkoms Sporthall",1,9,"Hultsberg/Björkås IBF",1
+"126","Nicklas Johansson","Molkoms Sporthall",1,9,"SK Örnen ",1
+"127","Nicklas Johansson","Stavdal Arena",1,9,"Grums IBK",1
+"128","Nicklas Johansson","Stavdal Arena",1,9,"Karlstad IBF Ungdom",1
+"129","Nicklas Johansson","Väse Sporthall",1,9,"Åmåls IBK",1
+"130","Nicklas Johansson","Väse Sporthall",1,9,"IFK Väse",1
+"131","Oskar Sundin","Karlbergshallen Åmål",1,1,"Åmåls IBK ",1
+"132","Oskar Sundin","Karlbergshallen Åmål",1,1,"Karlstad IBF Ungdom",1
+"133","Philip Aronsson-Elffors","Colorama Arena",3,7,"Skoghalls IBK Utveckling",1
+"134","Philip Aronsson-Elffors","Colorama Arena",3,7,"Skattkärrs IK ",2
+"135","Philip Aronsson-Elffors","Colorama Arena",3,7,"IFK Väse",1
+"136","Philip Aronsson-Elffors","Colorama Arena",3,7,"Karlstad IBF Ungdom",1
+"137","Philip Aronsson-Elffors","Colorama Arena",3,7,"SK Örnen",1
+"138","Philip Aronsson-Elffors","Fageråshallen",2,7,"SK Örnen",1
+"139","Philip Aronsson-Elffors","Fageråshallen",2,7,"Nilsby IK",2
+"140","Philip Aronsson-Elffors","Fageråshallen",2,7,"Karlskoga IBF",1
+"141","Philip Aronsson-Elffors","Hammarö Arena",1,7,"Skoghalls IBK Utveckling ",1
+"142","Philip Aronsson-Elffors","Hammarö Arena",1,7,"Nilsby IK",1
+"143","Philip Aronsson-Elffors","Molkoms Sporthall",1,7,"Hultsberg/Björkås IBF",1
+"144","Philip Aronsson-Elffors","Molkoms Sporthall",1,7,"SK Örnen ",1
+"145","Pierre Malmgren","Karlbergshallen Karlskoga",2,3,"Grums IBK",1
+"146","Pierre Malmgren","Karlbergshallen Karlskoga",2,3,"Åmåls IBK",1
+"147","Pierre Malmgren","Karlbergshallen Karlskoga",2,3,"Karlskoga IBF",2
+"148","Pierre Malmgren","Molkoms Sporthall",1,3,"SK Örnen ",1
+"149","Pierre Malmgren","Molkoms Sporthall",1,3,"Grums IBK",1
+"150","Roger Nilsson","Karlbergshallen Åmål",1,1,"Åmåls IBK ",1
+"151","Roger Nilsson","Karlbergshallen Åmål",1,1,"Nilsby IK",1
+"152","Timmy Samuelsson","Colorama Arena",1,3,"Skoghalls IBK Utveckling",1
+"153","Timmy Samuelsson","Colorama Arena",1,3,"Skattkärrs IK ",1
+"154","Timmy Samuelsson","Karlbergshallen Åmål",1,3,"Skoghalls IBK Utveckling",1
+"155","Timmy Samuelsson","Karlbergshallen Åmål",1,3,"Åmåls IBK ",1
+"156","Timmy Samuelsson","Väse Sporthall",1,3,"Hultsberg/Björkås IBF",1
+"157","Timmy Samuelsson","Väse Sporthall",1,3,"IFK Väse",1
+"158","Tobias Jäderqvist","Fageråshallen",1,2,"Nilsby IK",1
+"159","Tobias Jäderqvist","Fageråshallen",1,2,"Hultsberg/Björkås IBF",1
+"160","Tobias Jäderqvist","Väse Sporthall",1,2,"Hultsberg/Björkås IBF",1
+"161","Tobias Jäderqvist","Väse Sporthall",1,2,"IFK Väse",1
