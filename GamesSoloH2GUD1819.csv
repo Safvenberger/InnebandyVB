@@ -1,219 +1,280 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Amir Zilic","Leksandshallen",3,6,"IBK Östhammar",1
-"2","Amir Zilic","Leksandshallen",3,6,"IK Sirius FBC",1
-"3","Amir Zilic","Leksandshallen",3,6,"Insjöns BK",3
-"4","Amir Zilic","Leksandshallen",3,6,"IBF Gagnef",1
-"5","Amir Zilic","Maserhallen",1,6,"IBF Borlänge ",1
-"6","Amir Zilic","Maserhallen",1,6,"KFUM Falun",1
-"7","Amir Zilic","Mockfjärds Sporthall",2,6,"IBF Gagnef",2
-"8","Amir Zilic","Mockfjärds Sporthall",2,6,"Södra Tolvfors IF",1
-"9","Amir Zilic","Mockfjärds Sporthall",2,6,"IBF Borlänge",1
-"10","Andreas Svensson","Enahallen",1,1,"Lokomotiv Grillby IBK",1
-"11","Andreas Svensson","Enahallen",1,1,"Södra Tolvfors IF",1
-"12","Arvid Englund","Enahallen",3,8,"Södra Tolvfors IF",1
-"13","Arvid Englund","Enahallen",3,8,"Lokomotiv Grillby IBK",3
-"14","Arvid Englund","Enahallen",3,8,"Björklinge BK",1
-"15","Arvid Englund","Enahallen",3,8,"Strömsbro IF",1
-"16","Arvid Englund","IFU Arena A",1,8,"IK Sirius FBC",1
-"17","Arvid Englund","IFU Arena A",1,8,"IBF Borlänge",1
-"18","Arvid Englund","IFU Arena E",2,8,"Skutskärs IBK",1
-"19","Arvid Englund","IFU Arena E",2,8,"Strömsbro IF",1
-"20","Arvid Englund","IFU Arena E",2,8,"IK Sirius FBC",2
-"21","Arvid Englund","Uppsala Life Arena",2,8,"Livets Ord IF",2
-"22","Arvid Englund","Uppsala Life Arena",2,8,"KFUM Falun",1
-"23","Arvid Englund","Uppsala Life Arena",2,8,"Björklinge BK",1
-"24","Bo Pettersson Loklint","Enahallen",1,7,"Lokomotiv Grillby IBK",1
-"25","Bo Pettersson Loklint","Enahallen",1,7,"IBF Borlänge",1
-"26","Bo Pettersson Loklint","Frösåkersskolan",2,7,"Björklinge BK",1
-"27","Bo Pettersson Loklint","Frösåkersskolan",2,7,"Lokomotiv Grillby IBK",1
-"28","Bo Pettersson Loklint","Frösåkersskolan",2,7,"IBK Östhammar",2
-"29","Bo Pettersson Loklint","IFU Arena E",2,7,"Skutskärs IBK",1
-"30","Bo Pettersson Loklint","IFU Arena E",2,7,"Södra Tolvfors IF",1
-"31","Bo Pettersson Loklint","IFU Arena E",2,7,"Björklinge BK",2
-"32","Bo Pettersson Loklint","Uppsala Life Arena",2,7,"Livets Ord IF",2
-"33","Bo Pettersson Loklint","Uppsala Life Arena",2,7,"Södra Tolvfors IF",1
-"34","Bo Pettersson Loklint","Uppsala Life Arena",2,7,"IBK Östhammar",1
-"35","Daniel Larsson","Leksandshallen",4,9,"IBF Gagnef",1
-"36","Daniel Larsson","Leksandshallen",4,9,"IK Sirius FBC",1
-"37","Daniel Larsson","Leksandshallen",4,9,"Livets Ord IF",1
-"38","Daniel Larsson","Leksandshallen",4,9,"Insjöns BK",3
-"39","Daniel Larsson","Leksandshallen",4,9,"IBK Östhammar",1
-"40","Daniel Larsson","Leksandshallen",4,9,"Insjöns BK",1
-"41","Daniel Larsson","Lugnet C",1,9,"KFUM Falun",1
-"42","Daniel Larsson","Lugnet C",1,9,"Björklinge BK",1
-"43","Daniel Larsson","Maserhallen",2,9,"KFUM Falun",1
-"44","Daniel Larsson","Maserhallen",2,9,"IBF Borlänge ",2
-"45","Daniel Larsson","Maserhallen",2,9,"IBK Östhammar",1
-"46","Daniel Larsson","Mockfjärds Sporthall",2,9,"IBF Gagnef",2
-"47","Daniel Larsson","Mockfjärds Sporthall",2,9,"Södra Tolvfors IF",1
-"48","Daniel Larsson","Mockfjärds Sporthall",2,9,"IBF Borlänge",1
-"49","Erik Lindberg","Frösåkersskolan",1,9,"IBK Östhammar",1
-"50","Erik Lindberg","Frösåkersskolan",1,9,"IK Sirius FBC",1
-"51","Erik Lindberg","Hedviglundshallen",1,9,"Södra Tolvfors IF",1
-"52","Erik Lindberg","Hedviglundshallen",1,9,"IK Sirius FBC",1
-"53","Erik Lindberg","IFU Arena E",1,9,"IBF Borlänge",1
-"54","Erik Lindberg","IFU Arena E",1,9,"Björklinge BK",1
-"55","Erik Lindberg","Maserhallen",1,9,"IBF Borlänge ",1
-"56","Erik Lindberg","Maserhallen",1,9,"Livets Ord IF",1
-"57","Erik Lindberg","Mockfjärds Sporthall",1,9,"IBF Gagnef",1
-"58","Erik Lindberg","Mockfjärds Sporthall",1,9,"Björklinge BK",1
-"59","Erik Lindberg","Rotskärsskolans Sporthall",2,9,"IBF Gagnef",1
-"60","Erik Lindberg","Rotskärsskolans Sporthall",2,9,"Skutskärs IBK",1
-"61","Erik Lindberg","Rotskärsskolans Sporthall",2,9,"Skutskärs IBK",1
-"62","Erik Lindberg","Rotskärsskolans Sporthall",2,9,"KFUM Falun",1
-"63","Erik Lindberg","Testebo Arena",2,9,"Strömsbro IF",2
-"64","Erik Lindberg","Testebo Arena",2,9,"Insjöns BK",1
-"65","Erik Lindberg","Testebo Arena",2,9,"IBK Östhammar",1
-"66","Fredrik Andersson","Maserhallen",1,1,"Strömsbro IF",1
-"67","Fredrik Andersson","Maserhallen",1,1,"IBF Borlänge ",1
-"68","Håkan Thunman","Frösåkersskolan",1,4,"Skutskärs IBK",1
-"69","Håkan Thunman","Frösåkersskolan",1,4,"IBK Östhammar",1
-"70","Håkan Thunman","Hedviglundshallen",1,4,"Strömsbro IF",1
-"71","Håkan Thunman","Hedviglundshallen",1,4,"Södra Tolvfors IF",1
-"72","Håkan Thunman","Rotskärsskolans Sporthall",1,4,"Skutskärs IBK",1
-"73","Håkan Thunman","Rotskärsskolans Sporthall",1,4,"Lokomotiv Grillby IBK",1
-"74","Håkan Thunman","Testebo Arena",1,4,"Livets Ord IF",1
-"75","Håkan Thunman","Testebo Arena",1,4,"Strömsbro IF",1
-"76","Jakob Westerlund","Lugnet C",2,4,"Insjöns BK",1
-"77","Jakob Westerlund","Lugnet C",2,4,"IBK Östhammar",1
-"78","Jakob Westerlund","Lugnet C",2,4,"KFUM Falun",2
-"79","Jakob Westerlund","Lugnet D",1,4,"KFUM Falun",1
-"80","Jakob Westerlund","Lugnet D",1,4,"Lokomotiv Grillby IBK",1
-"81","Jakob Westerlund","Rotskärsskolans Sporthall",1,4,"Skutskärs IBK",1
-"82","Jakob Westerlund","Rotskärsskolans Sporthall",1,4,"Lokomotiv Grillby IBK",1
-"83","Joacim Svensson","Lugnet C",1,3,"Strömsbro IF",1
-"84","Joacim Svensson","Lugnet C",1,3,"KFUM Falun",1
-"85","Joacim Svensson","Maserhallen",1,3,"Strömsbro IF",1
-"86","Joacim Svensson","Maserhallen",1,3,"IBF Borlänge ",1
-"87","Joacim Svensson","Mockfjärds Sporthall",1,3,"Lokomotiv Grillby IBK",1
-"88","Joacim Svensson","Mockfjärds Sporthall",1,3,"IBF Gagnef",1
-"89","Jonas Nordqvist","Frösåkersskolan",1,1,"IBK Östhammar",1
-"90","Jonas Nordqvist","Frösåkersskolan",1,1,"Lokomotiv Grillby IBK",1
-"91","Jonas Tidsjö","Lugnet C",2,3,"KFUM Falun",2
-"92","Jonas Tidsjö","Lugnet C",2,3,"Insjöns BK",1
-"93","Jonas Tidsjö","Lugnet C",2,3,"IBK Östhammar",1
-"94","Jonas Tidsjö","Lugnet D",1,3,"Lokomotiv Grillby IBK",1
-"95","Jonas Tidsjö","Lugnet D",1,3,"KFUM Falun",1
-"96","Jonathan Blank","Frösåkersskolan",1,6,"IK Sirius FBC",1
-"97","Jonathan Blank","Frösåkersskolan",1,6,"IBK Östhammar",1
-"98","Jonathan Blank","IFU Arena E",1,6,"IBF Borlänge",1
-"99","Jonathan Blank","IFU Arena E",1,6,"Björklinge BK",1
-"100","Jonathan Blank","Maserhallen",1,6,"IBF Borlänge ",1
-"101","Jonathan Blank","Maserhallen",1,6,"Livets Ord IF",1
-"102","Jonathan Blank","Mockfjärds Sporthall",1,6,"Björklinge BK",1
-"103","Jonathan Blank","Mockfjärds Sporthall",1,6,"IBF Gagnef",1
-"104","Jonathan Blank","Rotskärsskolans Sporthall",1,6,"Skutskärs IBK",1
-"105","Jonathan Blank","Rotskärsskolans Sporthall",1,6,"IBF Gagnef",1
-"106","Jonathan Blank","Testebo Arena",1,6,"Insjöns BK",1
-"107","Jonathan Blank","Testebo Arena",1,6,"Strömsbro IF",1
-"108","Jörgen Andersson","Hedviglundshallen",1,2,"KFUM Falun",1
-"109","Jörgen Andersson","Hedviglundshallen",1,2,"Södra Tolvfors IF",1
-"110","Jörgen Andersson","Leksandshallen",1,2,"Insjöns BK",1
-"111","Jörgen Andersson","Leksandshallen",1,2,"Livets Ord IF",1
-"112","Leo Holmström","Leksandshallen",1,5,"Lokomotiv Grillby IBK",1
-"113","Leo Holmström","Leksandshallen",1,5,"Insjöns BK",1
-"114","Leo Holmström","Lugnet C",1,5,"KFUM Falun",1
-"115","Leo Holmström","Lugnet C",1,5,"IBF Gagnef",1
-"116","Leo Holmström","Maserhallen",1,5,"Insjöns BK",1
-"117","Leo Holmström","Maserhallen",1,5,"IBF Borlänge ",1
-"118","Leo Holmström","Mockfjärds Sporthall",2,5,"IBK Östhammar",1
-"119","Leo Holmström","Mockfjärds Sporthall",2,5,"IBF Gagnef",2
-"120","Leo Holmström","Mockfjärds Sporthall",2,5,"Livets Ord IF",1
-"121","Linus Isberg","Leksandshallen",1,5,"Insjöns BK",1
-"122","Linus Isberg","Leksandshallen",1,5,"Lokomotiv Grillby IBK",1
-"123","Linus Isberg","Lugnet C",1,5,"IBF Gagnef",1
-"124","Linus Isberg","Lugnet C",1,5,"KFUM Falun",1
-"125","Linus Isberg","Maserhallen",1,5,"Insjöns BK",1
-"126","Linus Isberg","Maserhallen",1,5,"IBF Borlänge ",1
-"127","Linus Isberg","Mockfjärds Sporthall",2,5,"IBF Gagnef",2
-"128","Linus Isberg","Mockfjärds Sporthall",2,5,"IBK Östhammar",1
-"129","Linus Isberg","Mockfjärds Sporthall",2,5,"Livets Ord IF",1
-"130","Magnus Undén","Frösåkersskolan",1,8,"Skutskärs IBK",1
-"131","Magnus Undén","Frösåkersskolan",1,8,"IBK Östhammar",1
-"132","Magnus Undén","Maserhallen",2,8,"IBF Borlänge ",2
-"133","Magnus Undén","Maserhallen",2,8,"IBK Östhammar",1
-"134","Magnus Undén","Maserhallen",2,8,"Södra Tolvfors IF",1
-"135","Magnus Undén","Rotskärsskolans Sporthall",3,8,"Strömsbro IF",1
-"136","Magnus Undén","Rotskärsskolans Sporthall",3,8,"Skutskärs IBK",3
-"137","Magnus Undén","Rotskärsskolans Sporthall",3,8,"KFUM Falun",1
-"138","Magnus Undén","Rotskärsskolans Sporthall",3,8,"Livets Ord IF",1
-"139","Magnus Undén","Testebo Arena",2,8,"Strömsbro IF",2
-"140","Magnus Undén","Testebo Arena",2,8,"IBF Gagnef",1
-"141","Magnus Undén","Testebo Arena",2,8,"Livets Ord IF",1
-"142","Marcus Svedinger","Hedviglundshallen",3,5,"Södra Tolvfors IF",3
-"143","Marcus Svedinger","Hedviglundshallen",3,5,"Skutskärs IBK",1
-"144","Marcus Svedinger","Hedviglundshallen",3,5,"IBK Östhammar",1
-"145","Marcus Svedinger","Hedviglundshallen",3,5,"Insjöns BK",1
-"146","Marcus Svedinger","IFU Arena E",1,5,"IK Sirius FBC",1
-"147","Marcus Svedinger","IFU Arena E",1,5,"Lokomotiv Grillby IBK",1
-"148","Marcus Svedinger","Rotskärsskolans Sporthall",1,5,"IBF Borlänge",1
-"149","Marcus Svedinger","Rotskärsskolans Sporthall",1,5,"Skutskärs IBK",1
-"150","Mattias Hedberg","Hedviglundshallen",2,7,"Strömsbro IF",1
-"151","Mattias Hedberg","Hedviglundshallen",2,7,"Södra Tolvfors IF",1
-"152","Mattias Hedberg","Hedviglundshallen",2,7,"KFUM Falun",1
-"153","Mattias Hedberg","Hedviglundshallen",2,7,"Södra Tolvfors IF",1
-"154","Mattias Hedberg","Maserhallen",1,7,"Södra Tolvfors IF",1
-"155","Mattias Hedberg","Maserhallen",1,7,"IBF Borlänge ",1
-"156","Mattias Hedberg","Rotskärsskolans Sporthall",2,7,"Strömsbro IF",1
-"157","Mattias Hedberg","Rotskärsskolans Sporthall",2,7,"Livets Ord IF",1
-"158","Mattias Hedberg","Rotskärsskolans Sporthall",2,7,"Skutskärs IBK",2
-"159","Mattias Hedberg","Testebo Arena",2,7,"IBF Gagnef",1
-"160","Mattias Hedberg","Testebo Arena",2,7,"Strömsbro IF",2
-"161","Mattias Hedberg","Testebo Arena",2,7,"IBK Östhammar",1
-"162","Michaela Pålsson","Enahallen",2,7,"Strömsbro IF",1
-"163","Michaela Pålsson","Enahallen",2,7,"Björklinge BK",1
-"164","Michaela Pålsson","Enahallen",2,7,"Lokomotiv Grillby IBK",2
-"165","Michaela Pålsson","IFU Arena A",1,7,"IBF Borlänge",1
-"166","Michaela Pålsson","IFU Arena A",1,7,"IK Sirius FBC",1
-"167","Michaela Pålsson","IFU Arena E",2,7,"Strömsbro IF",1
-"168","Michaela Pålsson","IFU Arena E",2,7,"Skutskärs IBK",1
-"169","Michaela Pålsson","IFU Arena E",2,7,"IK Sirius FBC",2
-"170","Michaela Pålsson","Uppsala Life Arena",2,7,"Björklinge BK",1
-"171","Michaela Pålsson","Uppsala Life Arena",2,7,"Livets Ord IF",2
-"172","Michaela Pålsson","Uppsala Life Arena",2,7,"KFUM Falun",1
-"173","Peter Alenbring","IFU Arena A",1,9,"IK Sirius FBC",1
-"174","Peter Alenbring","IFU Arena A",1,9,"KFUM Falun",1
-"175","Peter Alenbring","IFU Arena E",5,9,"Södra Tolvfors IF",1
-"176","Peter Alenbring","IFU Arena E",5,9,"Björklinge BK",4
-"177","Peter Alenbring","IFU Arena E",5,9,"Strömsbro IF",1
-"178","Peter Alenbring","IFU Arena E",5,9,"IK Sirius FBC",2
-"179","Peter Alenbring","IFU Arena E",5,9,"IBF Gagnef",1
-"180","Peter Alenbring","IFU Arena E",5,9,"Insjöns BK",1
-"181","Peter Alenbring","Uppsala Life Arena",3,9,"IK Sirius FBC",1
-"182","Peter Alenbring","Uppsala Life Arena",3,9,"IBK Östhammar",1
-"183","Peter Alenbring","Uppsala Life Arena",3,9,"Livets Ord IF",3
-"184","Peter Alenbring","Uppsala Life Arena",3,9,"Lokomotiv Grillby IBK",1
-"185","Peter Astner","Enahallen",1,3,"Lokomotiv Grillby IBK",1
-"186","Peter Astner","Enahallen",1,3,"IBF Borlänge",1
-"187","Peter Astner","IFU Arena E",1,3,"Skutskärs IBK",1
-"188","Peter Astner","IFU Arena E",1,3,"Björklinge BK",1
-"189","Peter Astner","Uppsala Life Arena",1,3,"Södra Tolvfors IF",1
-"190","Peter Astner","Uppsala Life Arena",1,3,"Livets Ord IF",1
-"191","Pontus Orebrand","Frösåkersskolan",1,8,"Björklinge BK",1
-"192","Pontus Orebrand","Frösåkersskolan",1,8,"IBK Östhammar",1
-"193","Pontus Orebrand","IFU Arena A",1,8,"IK Sirius FBC",1
-"194","Pontus Orebrand","IFU Arena A",1,8,"KFUM Falun",1
-"195","Pontus Orebrand","IFU Arena E",4,8,"IK Sirius FBC",2
-"196","Pontus Orebrand","IFU Arena E",4,8,"IBF Gagnef",1
-"197","Pontus Orebrand","IFU Arena E",4,8,"Björklinge BK",3
-"198","Pontus Orebrand","IFU Arena E",4,8,"Strömsbro IF",1
-"199","Pontus Orebrand","IFU Arena E",4,8,"Insjöns BK",1
-"200","Pontus Orebrand","Uppsala Life Arena",2,8,"IK Sirius FBC",1
-"201","Pontus Orebrand","Uppsala Life Arena",2,8,"Lokomotiv Grillby IBK",1
-"202","Pontus Orebrand","Uppsala Life Arena",2,8,"Livets Ord IF",2
-"203","Richard Öhneskog","Hedviglundshallen",3,5,"Skutskärs IBK",1
-"204","Richard Öhneskog","Hedviglundshallen",3,5,"Södra Tolvfors IF",3
-"205","Richard Öhneskog","Hedviglundshallen",3,5,"Insjöns BK",1
-"206","Richard Öhneskog","Hedviglundshallen",3,5,"IBK Östhammar",1
-"207","Richard Öhneskog","IFU Arena E",1,5,"Lokomotiv Grillby IBK",1
-"208","Richard Öhneskog","IFU Arena E",1,5,"IK Sirius FBC",1
-"209","Richard Öhneskog","Rotskärsskolans Sporthall",1,5,"IBF Borlänge",1
-"210","Richard Öhneskog","Rotskärsskolans Sporthall",1,5,"Skutskärs IBK",1
-"211","Rikard Karlsson","Hedviglundshallen",1,1,"Södra Tolvfors IF",1
-"212","Rikard Karlsson","Hedviglundshallen",1,1,"IK Sirius FBC",1
-"213","Viktor Snöborgs","Lugnet C",2,3,"Strömsbro IF",1
-"214","Viktor Snöborgs","Lugnet C",2,3,"Björklinge BK",1
-"215","Viktor Snöborgs","Lugnet C",2,3,"KFUM Falun",1
-"216","Viktor Snöborgs","Lugnet C",2,3,"KFUM Falun",1
-"217","Viktor Snöborgs","Mockfjärds Sporthall",1,3,"Lokomotiv Grillby IBK",1
-"218","Viktor Snöborgs","Mockfjärds Sporthall",1,3,"IBF Gagnef",1
+"1","Amir Zilic","Leksandshallen",3,7,"Insjöns BK",3
+"2","Amir Zilic","Leksandshallen",3,7,"IK Sirius FBC",1
+"3","Amir Zilic","Leksandshallen",3,7,"IBK Östhammar",1
+"4","Amir Zilic","Leksandshallen",3,7,"IBF Gagnef",1
+"5","Amir Zilic","Maserhallen",1,7,"IBF Borlänge ",1
+"6","Amir Zilic","Maserhallen",1,7,"KFUM Falun",1
+"7","Amir Zilic","Mockfjärds Sporthall",2,7,"Södra Tolvfors IF",1
+"8","Amir Zilic","Mockfjärds Sporthall",2,7,"IBF Gagnef",2
+"9","Amir Zilic","Mockfjärds Sporthall",2,7,"IBF Borlänge",1
+"10","Amir Zilic","Testebo Arena",1,7,"KFUM Falun",1
+"11","Amir Zilic","Testebo Arena",1,7,"Strömsbro IF",1
+"12","Andreas Svensson","Enahallen",1,1,"Lokomotiv Grillby IBK",1
+"13","Andreas Svensson","Enahallen",1,1,"Södra Tolvfors IF",1
+"14","Arvid Englund","Enahallen",3,13,"Björklinge BK",1
+"15","Arvid Englund","Enahallen",3,13,"Södra Tolvfors IF",1
+"16","Arvid Englund","Enahallen",3,13,"Lokomotiv Grillby IBK",3
+"17","Arvid Englund","Enahallen",3,13,"Strömsbro IF",1
+"18","Arvid Englund","Frösåkersskolan",1,13,"Strömsbro IF",1
+"19","Arvid Englund","Frösåkersskolan",1,13,"IBK Östhammar",1
+"20","Arvid Englund","IFU Arena A",2,13,"IK Sirius FBC",1
+"21","Arvid Englund","IFU Arena A",2,13,"IBF Borlänge",1
+"22","Arvid Englund","IFU Arena A",2,13,"Livets Ord IF",1
+"23","Arvid Englund","IFU Arena A",2,13,"Björklinge BK",1
+"24","Arvid Englund","IFU Arena E",3,13,"IK Sirius FBC",3
+"25","Arvid Englund","IFU Arena E",3,13,"Strömsbro IF",1
+"26","Arvid Englund","IFU Arena E",3,13,"Björklinge BK",1
+"27","Arvid Englund","IFU Arena E",3,13,"Skutskärs IBK",1
+"28","Arvid Englund","Rotskärsskolans Sporthall",1,13,"Skutskärs IBK",1
+"29","Arvid Englund","Rotskärsskolans Sporthall",1,13,"Björklinge BK",1
+"30","Arvid Englund","Uppsala Life Arena",3,13,"Insjöns BK",1
+"31","Arvid Englund","Uppsala Life Arena",3,13,"Livets Ord IF",3
+"32","Arvid Englund","Uppsala Life Arena",3,13,"KFUM Falun",1
+"33","Arvid Englund","Uppsala Life Arena",3,13,"Björklinge BK",1
+"34","Bo Pettersson Loklint","Enahallen",1,7,"IBF Borlänge",1
+"35","Bo Pettersson Loklint","Enahallen",1,7,"Lokomotiv Grillby IBK",1
+"36","Bo Pettersson Loklint","Frösåkersskolan",2,7,"IBK Östhammar",2
+"37","Bo Pettersson Loklint","Frösåkersskolan",2,7,"Björklinge BK",1
+"38","Bo Pettersson Loklint","Frösåkersskolan",2,7,"Lokomotiv Grillby IBK",1
+"39","Bo Pettersson Loklint","IFU Arena E",2,7,"Skutskärs IBK",1
+"40","Bo Pettersson Loklint","IFU Arena E",2,7,"Björklinge BK",2
+"41","Bo Pettersson Loklint","IFU Arena E",2,7,"Södra Tolvfors IF",1
+"42","Bo Pettersson Loklint","Uppsala Life Arena",2,7,"IBK Östhammar",1
+"43","Bo Pettersson Loklint","Uppsala Life Arena",2,7,"Södra Tolvfors IF",1
+"44","Bo Pettersson Loklint","Uppsala Life Arena",2,7,"Livets Ord IF",2
+"45","Daniel Larsson","Leksandshallen",5,13,"Insjöns BK",2
+"46","Daniel Larsson","Leksandshallen",5,13,"Livets Ord IF",1
+"47","Daniel Larsson","Leksandshallen",5,13,"IBK Östhammar",1
+"48","Daniel Larsson","Leksandshallen",5,13,"IK Sirius FBC",1
+"49","Daniel Larsson","Leksandshallen",5,13,"IBF Borlänge",1
+"50","Daniel Larsson","Leksandshallen",5,13,"IBF Gagnef",1
+"51","Daniel Larsson","Leksandshallen",5,13,"Insjöns BK",3
+"52","Daniel Larsson","Lugnet C",1,13,"KFUM Falun",1
+"53","Daniel Larsson","Lugnet C",1,13,"Björklinge BK",1
+"54","Daniel Larsson","Maserhallen",3,13,"IBF Borlänge ",2
+"55","Daniel Larsson","Maserhallen",3,13,"Lokomotiv Grillby IBK",1
+"56","Daniel Larsson","Maserhallen",3,13,"KFUM Falun",1
+"57","Daniel Larsson","Maserhallen",3,13,"IBF Borlänge ",1
+"58","Daniel Larsson","Maserhallen",3,13,"IBK Östhammar",1
+"59","Daniel Larsson","Mockfjärds Sporthall",3,13,"IBF Gagnef",1
+"60","Daniel Larsson","Mockfjärds Sporthall",3,13,"Södra Tolvfors IF",1
+"61","Daniel Larsson","Mockfjärds Sporthall",3,13,"IBF Gagnef",2
+"62","Daniel Larsson","Mockfjärds Sporthall",3,13,"IBF Borlänge",1
+"63","Daniel Larsson","Mockfjärds Sporthall",3,13,"Skutskärs IBK",1
+"64","Daniel Larsson","Testebo Arena",1,13,"KFUM Falun",1
+"65","Daniel Larsson","Testebo Arena",1,13,"Strömsbro IF",1
+"66","Erik Lindberg","Frösåkersskolan",1,12,"IK Sirius FBC",1
+"67","Erik Lindberg","Frösåkersskolan",1,12,"IBK Östhammar",1
+"68","Erik Lindberg","Hedviglundshallen",2,12,"Södra Tolvfors IF",1
+"69","Erik Lindberg","Hedviglundshallen",2,12,"Södra Tolvfors IF",1
+"70","Erik Lindberg","Hedviglundshallen",2,12,"IK Sirius FBC",1
+"71","Erik Lindberg","Hedviglundshallen",2,12,"IBF Gagnef",1
+"72","Erik Lindberg","IFU Arena E",2,12,"IBF Borlänge",1
+"73","Erik Lindberg","IFU Arena E",2,12,"Insjöns BK",1
+"74","Erik Lindberg","IFU Arena E",2,12,"Björklinge BK",1
+"75","Erik Lindberg","IFU Arena E",2,12,"IK Sirius FBC",1
+"76","Erik Lindberg","Leksandshallen",1,12,"Insjöns BK",1
+"77","Erik Lindberg","Leksandshallen",1,12,"Skutskärs IBK",1
+"78","Erik Lindberg","Maserhallen",1,12,"Livets Ord IF",1
+"79","Erik Lindberg","Maserhallen",1,12,"IBF Borlänge ",1
+"80","Erik Lindberg","Mockfjärds Sporthall",1,12,"IBF Gagnef",1
+"81","Erik Lindberg","Mockfjärds Sporthall",1,12,"Björklinge BK",1
+"82","Erik Lindberg","Rotskärsskolans Sporthall",2,12,"KFUM Falun",1
+"83","Erik Lindberg","Rotskärsskolans Sporthall",2,12,"Skutskärs IBK",1
+"84","Erik Lindberg","Rotskärsskolans Sporthall",2,12,"Skutskärs IBK",1
+"85","Erik Lindberg","Rotskärsskolans Sporthall",2,12,"IBF Gagnef",1
+"86","Erik Lindberg","Testebo Arena",2,12,"Strömsbro IF",2
+"87","Erik Lindberg","Testebo Arena",2,12,"Insjöns BK",1
+"88","Erik Lindberg","Testebo Arena",2,12,"IBK Östhammar",1
+"89","Fredrik Andersson","Maserhallen",1,1,"Strömsbro IF",1
+"90","Fredrik Andersson","Maserhallen",1,1,"IBF Borlänge ",1
+"91","Håkan Thunman","Frösåkersskolan",1,4,"IBK Östhammar",1
+"92","Håkan Thunman","Frösåkersskolan",1,4,"Skutskärs IBK",1
+"93","Håkan Thunman","Hedviglundshallen",1,4,"Södra Tolvfors IF",1
+"94","Håkan Thunman","Hedviglundshallen",1,4,"Strömsbro IF",1
+"95","Håkan Thunman","Rotskärsskolans Sporthall",1,4,"Skutskärs IBK",1
+"96","Håkan Thunman","Rotskärsskolans Sporthall",1,4,"Lokomotiv Grillby IBK",1
+"97","Håkan Thunman","Testebo Arena",1,4,"Livets Ord IF",1
+"98","Håkan Thunman","Testebo Arena",1,4,"Strömsbro IF",1
+"99","Jakob Westerlund","Lugnet C",2,4,"KFUM Falun",2
+"100","Jakob Westerlund","Lugnet C",2,4,"Insjöns BK",1
+"101","Jakob Westerlund","Lugnet C",2,4,"IBK Östhammar",1
+"102","Jakob Westerlund","Lugnet D",1,4,"Lokomotiv Grillby IBK",1
+"103","Jakob Westerlund","Lugnet D",1,4,"KFUM Falun",1
+"104","Jakob Westerlund","Rotskärsskolans Sporthall",1,4,"Lokomotiv Grillby IBK",1
+"105","Jakob Westerlund","Rotskärsskolans Sporthall",1,4,"Skutskärs IBK",1
+"106","Joacim Svensson","Lugnet C",1,3,"KFUM Falun",1
+"107","Joacim Svensson","Lugnet C",1,3,"Strömsbro IF",1
+"108","Joacim Svensson","Maserhallen",1,3,"IBF Borlänge ",1
+"109","Joacim Svensson","Maserhallen",1,3,"Strömsbro IF",1
+"110","Joacim Svensson","Mockfjärds Sporthall",1,3,"Lokomotiv Grillby IBK",1
+"111","Joacim Svensson","Mockfjärds Sporthall",1,3,"IBF Gagnef",1
+"112","Jonas Nordqvist","Frösåkersskolan",1,1,"Lokomotiv Grillby IBK",1
+"113","Jonas Nordqvist","Frösåkersskolan",1,1,"IBK Östhammar",1
+"114","Jonas Tidsjö","Lugnet C",2,3,"IBK Östhammar",1
+"115","Jonas Tidsjö","Lugnet C",2,3,"KFUM Falun",2
+"116","Jonas Tidsjö","Lugnet C",2,3,"Insjöns BK",1
+"117","Jonas Tidsjö","Lugnet D",1,3,"Lokomotiv Grillby IBK",1
+"118","Jonas Tidsjö","Lugnet D",1,3,"KFUM Falun",1
+"119","Jonathan Blank","Frösåkersskolan",1,6,"IBK Östhammar",1
+"120","Jonathan Blank","Frösåkersskolan",1,6,"IK Sirius FBC",1
+"121","Jonathan Blank","IFU Arena E",1,6,"Björklinge BK",1
+"122","Jonathan Blank","IFU Arena E",1,6,"IBF Borlänge",1
+"123","Jonathan Blank","Maserhallen",1,6,"IBF Borlänge ",1
+"124","Jonathan Blank","Maserhallen",1,6,"Livets Ord IF",1
+"125","Jonathan Blank","Mockfjärds Sporthall",1,6,"IBF Gagnef",1
+"126","Jonathan Blank","Mockfjärds Sporthall",1,6,"Björklinge BK",1
+"127","Jonathan Blank","Rotskärsskolans Sporthall",1,6,"Skutskärs IBK",1
+"128","Jonathan Blank","Rotskärsskolans Sporthall",1,6,"IBF Gagnef",1
+"129","Jonathan Blank","Testebo Arena",1,6,"Insjöns BK",1
+"130","Jonathan Blank","Testebo Arena",1,6,"Strömsbro IF",1
+"131","Jörgen Andersson","Hedviglundshallen",1,4,"Södra Tolvfors IF",1
+"132","Jörgen Andersson","Hedviglundshallen",1,4,"KFUM Falun",1
+"133","Jörgen Andersson","Leksandshallen",2,4,"Skutskärs IBK",1
+"134","Jörgen Andersson","Leksandshallen",2,4,"Livets Ord IF",1
+"135","Jörgen Andersson","Leksandshallen",2,4,"Insjöns BK",2
+"136","Jörgen Andersson","Mockfjärds Sporthall",1,4,"IBF Gagnef",1
+"137","Jörgen Andersson","Mockfjärds Sporthall",1,4,"Skutskärs IBK",1
+"138","Leo Holmström","Enahallen",1,6,"IBK Östhammar",1
+"139","Leo Holmström","Enahallen",1,6,"Lokomotiv Grillby IBK",1
+"140","Leo Holmström","Leksandshallen",1,6,"Insjöns BK",1
+"141","Leo Holmström","Leksandshallen",1,6,"Lokomotiv Grillby IBK",1
+"142","Leo Holmström","Lugnet C",1,6,"IBF Gagnef",1
+"143","Leo Holmström","Lugnet C",1,6,"KFUM Falun",1
+"144","Leo Holmström","Maserhallen",1,6,"IBF Borlänge ",1
+"145","Leo Holmström","Maserhallen",1,6,"Insjöns BK",1
+"146","Leo Holmström","Mockfjärds Sporthall",2,6,"IBF Gagnef",2
+"147","Leo Holmström","Mockfjärds Sporthall",2,6,"IBK Östhammar",1
+"148","Leo Holmström","Mockfjärds Sporthall",2,6,"Livets Ord IF",1
+"149","Linus Isberg","Enahallen",1,6,"IBK Östhammar",1
+"150","Linus Isberg","Enahallen",1,6,"Lokomotiv Grillby IBK",1
+"151","Linus Isberg","Leksandshallen",1,6,"Lokomotiv Grillby IBK",1
+"152","Linus Isberg","Leksandshallen",1,6,"Insjöns BK",1
+"153","Linus Isberg","Lugnet C",1,6,"KFUM Falun",1
+"154","Linus Isberg","Lugnet C",1,6,"IBF Gagnef",1
+"155","Linus Isberg","Maserhallen",1,6,"IBF Borlänge ",1
+"156","Linus Isberg","Maserhallen",1,6,"Insjöns BK",1
+"157","Linus Isberg","Mockfjärds Sporthall",2,6,"Livets Ord IF",1
+"158","Linus Isberg","Mockfjärds Sporthall",2,6,"IBK Östhammar",1
+"159","Linus Isberg","Mockfjärds Sporthall",2,6,"IBF Gagnef",2
+"160","Magnus Undén","Frösåkersskolan",1,10,"IBK Östhammar",1
+"161","Magnus Undén","Frösåkersskolan",1,10,"Skutskärs IBK",1
+"162","Magnus Undén","IFU Arena E",1,10,"Insjöns BK",1
+"163","Magnus Undén","IFU Arena E",1,10,"IK Sirius FBC",1
+"164","Magnus Undén","Maserhallen",2,10,"Södra Tolvfors IF",1
+"165","Magnus Undén","Maserhallen",2,10,"IBF Borlänge ",2
+"166","Magnus Undén","Maserhallen",2,10,"IBK Östhammar",1
+"167","Magnus Undén","Rotskärsskolans Sporthall",3,10,"Livets Ord IF",1
+"168","Magnus Undén","Rotskärsskolans Sporthall",3,10,"Skutskärs IBK",3
+"169","Magnus Undén","Rotskärsskolans Sporthall",3,10,"Strömsbro IF",1
+"170","Magnus Undén","Rotskärsskolans Sporthall",3,10,"KFUM Falun",1
+"171","Magnus Undén","Testebo Arena",3,10,"IBF Borlänge",1
+"172","Magnus Undén","Testebo Arena",3,10,"Strömsbro IF",3
+"173","Magnus Undén","Testebo Arena",3,10,"IBF Gagnef",1
+"174","Magnus Undén","Testebo Arena",3,10,"Livets Ord IF",1
+"175","Marcus Svedinger","Frösåkersskolan",1,6,"KFUM Falun",1
+"176","Marcus Svedinger","Frösåkersskolan",1,6,"IBK Östhammar",1
+"177","Marcus Svedinger","Hedviglundshallen",3,6,"IBK Östhammar",1
+"178","Marcus Svedinger","Hedviglundshallen",3,6,"Skutskärs IBK",1
+"179","Marcus Svedinger","Hedviglundshallen",3,6,"Södra Tolvfors IF",3
+"180","Marcus Svedinger","Hedviglundshallen",3,6,"Insjöns BK",1
+"181","Marcus Svedinger","IFU Arena E",1,6,"Lokomotiv Grillby IBK",1
+"182","Marcus Svedinger","IFU Arena E",1,6,"IK Sirius FBC",1
+"183","Marcus Svedinger","Rotskärsskolans Sporthall",1,6,"Skutskärs IBK",1
+"184","Marcus Svedinger","Rotskärsskolans Sporthall",1,6,"IBF Borlänge",1
+"185","Mattias Hedberg","Hedviglundshallen",2,10,"KFUM Falun",1
+"186","Mattias Hedberg","Hedviglundshallen",2,10,"Södra Tolvfors IF",1
+"187","Mattias Hedberg","Hedviglundshallen",2,10,"Strömsbro IF",1
+"188","Mattias Hedberg","Hedviglundshallen",2,10,"Södra Tolvfors IF",1
+"189","Mattias Hedberg","Leksandshallen",1,10,"Insjöns BK",1
+"190","Mattias Hedberg","Leksandshallen",1,10,"IBF Borlänge",1
+"191","Mattias Hedberg","Maserhallen",2,10,"IBF Borlänge ",2
+"192","Mattias Hedberg","Maserhallen",2,10,"Södra Tolvfors IF",1
+"193","Mattias Hedberg","Maserhallen",2,10,"Lokomotiv Grillby IBK",1
+"194","Mattias Hedberg","Rotskärsskolans Sporthall",2,10,"Livets Ord IF",1
+"195","Mattias Hedberg","Rotskärsskolans Sporthall",2,10,"Strömsbro IF",1
+"196","Mattias Hedberg","Rotskärsskolans Sporthall",2,10,"Skutskärs IBK",2
+"197","Mattias Hedberg","Testebo Arena",3,10,"IBF Gagnef",1
+"198","Mattias Hedberg","Testebo Arena",3,10,"IBF Borlänge",1
+"199","Mattias Hedberg","Testebo Arena",3,10,"Strömsbro IF",3
+"200","Mattias Hedberg","Testebo Arena",3,10,"IBK Östhammar",1
+"201","Michaela Pålsson","Enahallen",2,12,"Strömsbro IF",1
+"202","Michaela Pålsson","Enahallen",2,12,"Lokomotiv Grillby IBK",2
+"203","Michaela Pålsson","Enahallen",2,12,"Björklinge BK",1
+"204","Michaela Pålsson","Frösåkersskolan",1,12,"Strömsbro IF",1
+"205","Michaela Pålsson","Frösåkersskolan",1,12,"IBK Östhammar",1
+"206","Michaela Pålsson","IFU Arena A",2,12,"Björklinge BK",1
+"207","Michaela Pålsson","IFU Arena A",2,12,"IK Sirius FBC",1
+"208","Michaela Pålsson","IFU Arena A",2,12,"IBF Borlänge",1
+"209","Michaela Pålsson","IFU Arena A",2,12,"Livets Ord IF",1
+"210","Michaela Pålsson","IFU Arena E",3,12,"Skutskärs IBK",1
+"211","Michaela Pålsson","IFU Arena E",3,12,"IK Sirius FBC",3
+"212","Michaela Pålsson","IFU Arena E",3,12,"Björklinge BK",1
+"213","Michaela Pålsson","IFU Arena E",3,12,"Strömsbro IF",1
+"214","Michaela Pålsson","Rotskärsskolans Sporthall",1,12,"Björklinge BK",1
+"215","Michaela Pålsson","Rotskärsskolans Sporthall",1,12,"Skutskärs IBK",1
+"216","Michaela Pålsson","Uppsala Life Arena",3,12,"KFUM Falun",1
+"217","Michaela Pålsson","Uppsala Life Arena",3,12,"Insjöns BK",1
+"218","Michaela Pålsson","Uppsala Life Arena",3,12,"Björklinge BK",1
+"219","Michaela Pålsson","Uppsala Life Arena",3,12,"Livets Ord IF",3
+"220","Peter Alenbring","Enahallen",1,12,"Lokomotiv Grillby IBK",1
+"221","Peter Alenbring","Enahallen",1,12,"IK Sirius FBC",1
+"222","Peter Alenbring","IFU Arena A",1,12,"KFUM Falun",1
+"223","Peter Alenbring","IFU Arena A",1,12,"IK Sirius FBC",1
+"224","Peter Alenbring","IFU Arena E",5,12,"Södra Tolvfors IF",1
+"225","Peter Alenbring","IFU Arena E",5,12,"Björklinge BK",4
+"226","Peter Alenbring","IFU Arena E",5,12,"Insjöns BK",1
+"227","Peter Alenbring","IFU Arena E",5,12,"IBF Gagnef",1
+"228","Peter Alenbring","IFU Arena E",5,12,"IK Sirius FBC",2
+"229","Peter Alenbring","IFU Arena E",5,12,"Strömsbro IF",1
+"230","Peter Alenbring","Rotskärsskolans Sporthall",1,12,"Södra Tolvfors IF",1
+"231","Peter Alenbring","Rotskärsskolans Sporthall",1,12,"Skutskärs IBK",1
+"232","Peter Alenbring","Uppsala Life Arena",4,12,"Livets Ord IF",4
+"233","Peter Alenbring","Uppsala Life Arena",4,12,"Lokomotiv Grillby IBK",1
+"234","Peter Alenbring","Uppsala Life Arena",4,12,"IK Sirius FBC",1
+"235","Peter Alenbring","Uppsala Life Arena",4,12,"IBF Gagnef",1
+"236","Peter Alenbring","Uppsala Life Arena",4,12,"IBK Östhammar",1
+"237","Peter Astner","Enahallen",1,3,"Lokomotiv Grillby IBK",1
+"238","Peter Astner","Enahallen",1,3,"IBF Borlänge",1
+"239","Peter Astner","IFU Arena E",1,3,"Skutskärs IBK",1
+"240","Peter Astner","IFU Arena E",1,3,"Björklinge BK",1
+"241","Peter Astner","Uppsala Life Arena",1,3,"Livets Ord IF",1
+"242","Peter Astner","Uppsala Life Arena",1,3,"Södra Tolvfors IF",1
+"243","Petter Lundgren","Hedviglundshallen",1,1,"IBF Gagnef",1
+"244","Petter Lundgren","Hedviglundshallen",1,1,"Södra Tolvfors IF",1
+"245","Pontus Orebrand","Enahallen",1,11,"Lokomotiv Grillby IBK",1
+"246","Pontus Orebrand","Enahallen",1,11,"IK Sirius FBC",1
+"247","Pontus Orebrand","Frösåkersskolan",1,11,"Björklinge BK",1
+"248","Pontus Orebrand","Frösåkersskolan",1,11,"IBK Östhammar",1
+"249","Pontus Orebrand","IFU Arena A",1,11,"IK Sirius FBC",1
+"250","Pontus Orebrand","IFU Arena A",1,11,"KFUM Falun",1
+"251","Pontus Orebrand","IFU Arena E",4,11,"Björklinge BK",3
+"252","Pontus Orebrand","IFU Arena E",4,11,"IK Sirius FBC",2
+"253","Pontus Orebrand","IFU Arena E",4,11,"IBF Gagnef",1
+"254","Pontus Orebrand","IFU Arena E",4,11,"Strömsbro IF",1
+"255","Pontus Orebrand","IFU Arena E",4,11,"Insjöns BK",1
+"256","Pontus Orebrand","Rotskärsskolans Sporthall",1,11,"Södra Tolvfors IF",1
+"257","Pontus Orebrand","Rotskärsskolans Sporthall",1,11,"Skutskärs IBK",1
+"258","Pontus Orebrand","Uppsala Life Arena",3,11,"IBF Gagnef",1
+"259","Pontus Orebrand","Uppsala Life Arena",3,11,"Lokomotiv Grillby IBK",1
+"260","Pontus Orebrand","Uppsala Life Arena",3,11,"IK Sirius FBC",1
+"261","Pontus Orebrand","Uppsala Life Arena",3,11,"Livets Ord IF",3
+"262","Richard Öhneskog","Frösåkersskolan",1,6,"IBK Östhammar",1
+"263","Richard Öhneskog","Frösåkersskolan",1,6,"KFUM Falun",1
+"264","Richard Öhneskog","Hedviglundshallen",3,6,"Insjöns BK",1
+"265","Richard Öhneskog","Hedviglundshallen",3,6,"IBK Östhammar",1
+"266","Richard Öhneskog","Hedviglundshallen",3,6,"Södra Tolvfors IF",3
+"267","Richard Öhneskog","Hedviglundshallen",3,6,"Skutskärs IBK",1
+"268","Richard Öhneskog","IFU Arena E",1,6,"Lokomotiv Grillby IBK",1
+"269","Richard Öhneskog","IFU Arena E",1,6,"IK Sirius FBC",1
+"270","Richard Öhneskog","Rotskärsskolans Sporthall",1,6,"Skutskärs IBK",1
+"271","Richard Öhneskog","Rotskärsskolans Sporthall",1,6,"IBF Borlänge",1
+"272","Rikard Karlsson","Hedviglundshallen",1,1,"Södra Tolvfors IF",1
+"273","Rikard Karlsson","Hedviglundshallen",1,1,"IK Sirius FBC",1
+"274","Viktor Snöborgs","Lugnet C",2,3,"Björklinge BK",1
+"275","Viktor Snöborgs","Lugnet C",2,3,"KFUM Falun",1
+"276","Viktor Snöborgs","Lugnet C",2,3,"KFUM Falun",1
+"277","Viktor Snöborgs","Lugnet C",2,3,"Strömsbro IF",1
+"278","Viktor Snöborgs","Mockfjärds Sporthall",1,3,"IBF Gagnef",1
+"279","Viktor Snöborgs","Mockfjärds Sporthall",1,3,"Lokomotiv Grillby IBK",1
