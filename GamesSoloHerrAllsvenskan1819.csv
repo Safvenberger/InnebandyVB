@@ -1,490 +1,650 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Anders Westerberg","Idre Fjäll Arena",1,2,"Gävle GIK",1
-"2","Anders Westerberg","Idre Fjäll Arena",1,2,"KAIS Mora IF",1
-"3","Anders Westerberg","Jakobsbergs Sporthall",1,2,"AIK IBF",1
-"4","Anders Westerberg","Jakobsbergs Sporthall",1,2,"Hudik/Björkberg IBK",1
-"5","Andreas Holm","Habo Sporthall A-hall",1,1,"Fagerhult Habo IBK",1
-"6","Andreas Holm","Habo Sporthall A-hall",1,1,"Warberg IC",1
-"7","Andreas Lybacken","Rydsbergshallen",1,1,"FBC Lerum",1
-"8","Andreas Lybacken","Rydsbergshallen",1,1,"Fagerhult Habo IBK",1
-"9","Björn Hedman","Alfahallen - Gavlehov",1,9,"Gävle GIK",1
-"10","Björn Hedman","Alfahallen - Gavlehov",1,9,"Hagunda IF",1
-"11","Björn Hedman","Eriksdalshallen",1,9,"Djurgårdens IF IBS",1
-"12","Björn Hedman","Eriksdalshallen",1,9,"FBI Tullinge",1
-"13","Björn Hedman","Idrottshuset, Örebro Plan 1",2,9,"Fagerhult Habo IBK",1
-"14","Björn Hedman","Idrottshuset, Örebro Plan 1",2,9,"Lillån IBK",2
-"15","Björn Hedman","Idrottshuset, Örebro Plan 1",2,9,"Malmö FBC",1
-"16","Björn Hedman","IFU Arena A",1,9,"Hagunda IF",1
-"17","Björn Hedman","IFU Arena A",1,9,"FBI Tullinge",1
-"18","Björn Hedman","Rosvalla A",1,9,"Onyx IBK",1
-"19","Björn Hedman","Rosvalla A",1,9,"Karlstad IBF",1
-"20","Björn Hedman","Thomas Arena",1,9,"Malmö FBC",1
-"21","Björn Hedman","Thomas Arena",1,9,"Strängnäs IBK",1
-"22","Björn Hedman","Umeå Energi Arena",2,9,"Gävle GIK",1
-"23","Björn Hedman","Umeå Energi Arena",2,9,"Wibax-Piteå IBK",1
-"24","Björn Hedman","Umeå Energi Arena",2,9,"Team Thorengruppen SK",1
-"25","Björn Hedman","Umeå Energi Arena",2,9,"RIG Umeå IBF",1
-"26","Christoffer Markovski","Alfahallen - Gavlehov",1,5,"AIK IBF",1
-"27","Christoffer Markovski","Alfahallen - Gavlehov",1,5,"Gävle GIK",1
-"28","Christoffer Markovski","Oskarshamns Sporthall A-hall",1,5,"Visby IBK",1
-"29","Christoffer Markovski","Oskarshamns Sporthall A-hall",1,5,"Craftstadens IBK Oskarshamn",1
-"30","Christoffer Markovski","Sparbankshallen Varberg",1,5,"Warberg IC",1
-"31","Christoffer Markovski","Sparbankshallen Varberg",1,5,"Karlstad IBF",1
-"32","Christoffer Markovski","Umeå Energi Arena Vatten",1,5,"Team Thorengruppen SK",1
-"33","Christoffer Markovski","Umeå Energi Arena Vatten",1,5,"AIK IBF",1
-"34","Christoffer Markovski","Åby Arena",1,5,"Åby IBK",1
-"35","Christoffer Markovski","Åby Arena",1,5,"Malmö FBC",1
-"36","Daniel Böcker","Rydsbergshallen",1,1,"FBC Lerum",1
-"37","Daniel Böcker","Rydsbergshallen",1,1,"Fagerhult Habo IBK",1
-"38","Daniel Söderberg","Fleminghallen",2,4,"Gävle GIK",1
-"39","Daniel Söderberg","Fleminghallen",2,4,"FBI Tullinge",2
-"40","Daniel Söderberg","Fleminghallen",2,4,"IBK Runsten",1
-"41","Daniel Söderberg","Norrmalmia Sph",1,4,"Djurgårdens IF IBS",1
-"42","Daniel Söderberg","Norrmalmia Sph",1,4,"Wibax-Piteå IBK",1
-"43","Daniel Söderberg","Rosvalla A",1,4,"Onyx IBK",1
-"44","Daniel Söderberg","Rosvalla A",1,4,"Lagan IBK",1
-"45","David Berger","Alfahallen - Gavlehov",2,18,"Gävle GIK",2
-"46","David Berger","Alfahallen - Gavlehov",2,18,"Hudik/Björkberg IBK",1
-"47","David Berger","Alfahallen - Gavlehov",2,18,"IBK Runsten",1
-"48","David Berger","Baltiska Hallen A",1,18,"Malmö FBC",1
-"49","David Berger","Baltiska Hallen A",1,18,"Warberg IC",1
-"50","David Berger","Colorama Arena",1,18,"Lagan IBK",1
-"51","David Berger","Colorama Arena",1,18,"Karlstad IBF",1
-"52","David Berger","Eriksdalshallen",2,18,"Salems IF",1
-"53","David Berger","Eriksdalshallen",2,18,"IBK Runsten",1
-"54","David Berger","Eriksdalshallen",2,18,"Djurgårdens IF IBS",2
-"55","David Berger","Fleminghallen",1,18,"Team Thorengruppen SK",1
-"56","David Berger","Fleminghallen",1,18,"FBI Tullinge",1
-"57","David Berger","Idre Fjäll Arena",1,18,"RIG Umeå IBF",1
-"58","David Berger","Idre Fjäll Arena",1,18,"KAIS Mora IF",1
-"59","David Berger","IFU Arena A",3,18,"RIG Umeå IBF",1
-"60","David Berger","IFU Arena A",3,18,"IBK Runsten",1
-"61","David Berger","IFU Arena A",3,18,"Hudik/Björkberg IBK",1
-"62","David Berger","IFU Arena A",3,18,"Hagunda IF",3
-"63","David Berger","Skogsängshallen",1,18,"Salems IF",1
-"64","David Berger","Skogsängshallen",1,18,"KAIS Mora IF",1
-"65","David Berger","Solnahallen",2,18,"FBI Tullinge",1
-"66","David Berger","Solnahallen",2,18,"Hagunda IF",1
-"67","David Berger","Solnahallen",2,18,"AIK IBF",2
-"68","David Berger","Thomas Arena",1,18,"FBC Lerum",1
-"69","David Berger","Thomas Arena",1,18,"Strängnäs IBK",1
-"70","David Berger","Umeå Energi Arena",1,18,"RIG Umeå IBF",1
-"71","David Berger","Umeå Energi Arena",1,18,"Team Thorengruppen SK",1
-"72","David Berger","Umeå Energi Arena Väst",1,18,"RIG Umeå IBF",1
-"73","David Berger","Umeå Energi Arena Väst",1,18,"Djurgårdens IF IBS",1
-"74","David Berger","Åby Arena",1,18,"Åby IBK",1
-"75","David Berger","Åby Arena",1,18,"Karlstad IBF",1
-"76","David Geiser","Kirsebergs Sporthall",1,1,"Onyx IBK",1
-"77","David Geiser","Kirsebergs Sporthall",1,1,"Malmö FBC",1
-"78","Edwin Simonian","Alfahallen - Gavlehov",2,3,"Team Thorengruppen SK",1
-"79","Edwin Simonian","Alfahallen - Gavlehov",2,3,"Gävle GIK",1
-"80","Edwin Simonian","Alfahallen - Gavlehov",2,3,"Wibax-Piteå IBK",1
-"81","Edwin Simonian","Alfahallen - Gavlehov",2,3,"IBK Runsten",1
-"82","Edwin Simonian","Rosvalla A",1,3,"Craftstadens IBK Oskarshamn",1
-"83","Edwin Simonian","Rosvalla A",1,3,"Onyx IBK",1
-"84","Erik Lundgren","Alfahallen - Gavlehov",2,10,"RIG Umeå IBF",1
-"85","Erik Lundgren","Alfahallen - Gavlehov",2,10,"AIK IBF",1
-"86","Erik Lundgren","Alfahallen - Gavlehov",2,10,"IBK Runsten",2
-"87","Erik Lundgren","Håstaholmen",2,10,"Djurgårdens IF IBS",1
-"88","Erik Lundgren","Håstaholmen",2,10,"Hudik/Björkberg IBK",2
-"89","Erik Lundgren","Håstaholmen",2,10,"RIG Umeå IBF",1
-"90","Erik Lundgren","Idre Fjäll Arena",1,10,"KAIS Mora IF",1
-"91","Erik Lundgren","Idre Fjäll Arena",1,10,"AIK IBF",1
-"92","Erik Lundgren","IFU Arena A",1,10,"Salems IF",1
-"93","Erik Lundgren","IFU Arena A",1,10,"Hagunda IF",1
-"94","Erik Lundgren","Norrmalmia Sph",1,10,"Hagunda IF",1
-"95","Erik Lundgren","Norrmalmia Sph",1,10,"Wibax-Piteå IBK",1
-"96","Erik Lundgren","Umeå Energi Arena",2,10,"Team Thorengruppen SK",1
-"97","Erik Lundgren","Umeå Energi Arena",2,10,"RIG Umeå IBF",1
-"98","Erik Lundgren","Umeå Energi Arena",2,10,"Wibax-Piteå IBK",1
-"99","Erik Lundgren","Umeå Energi Arena",2,10,"KAIS Mora IF",1
-"100","Erik Lundgren","Åby Arena",1,10,"FBC Lerum",1
-"101","Erik Lundgren","Åby Arena",1,10,"Åby IBK",1
-"102","Frans Dahlstedt","Colorama Arena",1,11,"Lillån IBK",1
-"103","Frans Dahlstedt","Colorama Arena",1,11,"Karlstad IBF",1
-"104","Frans Dahlstedt","ICA Maxi Arena",2,11,"Lillån IBK",1
-"105","Frans Dahlstedt","ICA Maxi Arena",2,11,"Visby IBK",2
-"106","Frans Dahlstedt","ICA Maxi Arena",2,11,"Lagan IBK",1
-"107","Frans Dahlstedt","Idre Fjäll Arena",2,11,"KAIS Mora IF",2
-"108","Frans Dahlstedt","Idre Fjäll Arena",2,11,"Wibax-Piteå IBK",1
-"109","Frans Dahlstedt","Idre Fjäll Arena",2,11,"Djurgårdens IF IBS",1
-"110","Frans Dahlstedt","Idrottshuset, Örebro Plan 1",1,11,"Lillån IBK",1
-"111","Frans Dahlstedt","Idrottshuset, Örebro Plan 1",1,11,"Onyx IBK",1
-"112","Frans Dahlstedt","Norrmalmia Sph",1,11,"Wibax-Piteå IBK",1
-"113","Frans Dahlstedt","Norrmalmia Sph",1,11,"Hudik/Björkberg IBK",1
-"114","Frans Dahlstedt","Rosvalla A",1,11,"Strängnäs IBK",1
-"115","Frans Dahlstedt","Rosvalla A",1,11,"Onyx IBK",1
-"116","Frans Dahlstedt","Rydsbergshallen",1,11,"FBC Lerum",1
-"117","Frans Dahlstedt","Rydsbergshallen",1,11,"Craftstadens IBK Oskarshamn",1
-"118","Frans Dahlstedt","Åby Arena",2,11,"Lagan IBK",1
-"119","Frans Dahlstedt","Åby Arena",2,11,"Åby IBK",2
-"120","Frans Dahlstedt","Åby Arena",2,11,"Fagerhult Habo IBK",1
-"121","Glenn Boström","Eriksdalshallen",1,3,"Team Thorengruppen SK",1
-"122","Glenn Boström","Eriksdalshallen",1,3,"Djurgårdens IF IBS",1
-"123","Glenn Boström","Skogsängshallen",1,3,"Salems IF",1
-"124","Glenn Boström","Skogsängshallen",1,3,"AIK IBF",1
-"125","Glenn Boström","Thomas Arena",1,3,"Strängnäs IBK",1
-"126","Glenn Boström","Thomas Arena",1,3,"Lagan IBK",1
-"127","Henrik Nilsson","Kirsebergs Sporthall",1,1,"Onyx IBK",1
-"128","Henrik Nilsson","Kirsebergs Sporthall",1,1,"Malmö FBC",1
-"129","Håkan Söderman","Eriksdalshallen",1,4,"Djurgårdens IF IBS",1
-"130","Håkan Söderman","Eriksdalshallen",1,4,"Team Thorengruppen SK",1
-"131","Håkan Söderman","Oskarshamns Sporthall A-hall",1,4,"Craftstadens IBK Oskarshamn",1
-"132","Håkan Söderman","Oskarshamns Sporthall A-hall",1,4,"Åby IBK",1
-"133","Håkan Söderman","Skogsängshallen",1,4,"AIK IBF",1
-"134","Håkan Söderman","Skogsängshallen",1,4,"Salems IF",1
-"135","Håkan Söderman","Thomas Arena",1,4,"Lagan IBK",1
-"136","Håkan Söderman","Thomas Arena",1,4,"Strängnäs IBK",1
-"137","Jakob Westerlund","Håstaholmen",1,3,"Hudik/Björkberg IBK",1
-"138","Jakob Westerlund","Håstaholmen",1,3,"IBK Runsten",1
-"139","Jakob Westerlund","Norrmalmia Sph",1,3,"Wibax-Piteå IBK",1
-"140","Jakob Westerlund","Norrmalmia Sph",1,3,"FBI Tullinge",1
-"141","Jakob Westerlund","Thomas Arena",1,3,"Strängnäs IBK",1
-"142","Jakob Westerlund","Thomas Arena",1,3,"Åby IBK",1
-"143","Jens Staaf","Estrad Alingsås",1,2,"Lagan IBK",1
-"144","Jens Staaf","Estrad Alingsås",1,2,"FBC Lerum",1
-"145","Jens Staaf","Oskarshamns Sporthall A-hall",1,2,"Craftstadens IBK Oskarshamn",1
-"146","Jens Staaf","Oskarshamns Sporthall A-hall",1,2,"Karlstad IBF",1
-"147","Johan Holmåker","Estrad Alingsås",1,2,"FBC Lerum",1
-"148","Johan Holmåker","Estrad Alingsås",1,2,"Lagan IBK",1
-"149","Johan Holmåker","Oskarshamns Sporthall A-hall",1,2,"Craftstadens IBK Oskarshamn",1
-"150","Johan Holmåker","Oskarshamns Sporthall A-hall",1,2,"Karlstad IBF",1
-"151","Johan Jäderlund","Idre Fjäll Arena",1,2,"KAIS Mora IF",1
-"152","Johan Jäderlund","Idre Fjäll Arena",1,2,"Gävle GIK",1
-"153","Johan Jäderlund","Jakobsbergs Sporthall",1,2,"AIK IBF",1
-"154","Johan Jäderlund","Jakobsbergs Sporthall",1,2,"Hudik/Björkberg IBK",1
-"155","Johan Magnusson","ICA Maxi Arena",1,3,"Visby IBK",1
-"156","Johan Magnusson","ICA Maxi Arena",1,3,"Strängnäs IBK",1
-"157","Johan Magnusson","Innebandyhallen",1,3,"Fagerhult Habo IBK",1
-"158","Johan Magnusson","Innebandyhallen",1,3,"Lagan IBK",1
-"159","Johan Magnusson","Kirsebergs Sporthall",1,3,"Malmö FBC",1
-"160","Johan Magnusson","Kirsebergs Sporthall",1,3,"Visby IBK",1
-"161","Jonas Ottosson","Alfahallen - Gavlehov",2,8,"Djurgårdens IF IBS",1
-"162","Jonas Ottosson","Alfahallen - Gavlehov",2,8,"IBK Runsten",1
-"163","Jonas Ottosson","Alfahallen - Gavlehov",2,8,"KAIS Mora IF",1
-"164","Jonas Ottosson","Alfahallen - Gavlehov",2,8,"Gävle GIK",1
-"165","Jonas Ottosson","Colorama Arena",1,8,"Visby IBK",1
-"166","Jonas Ottosson","Colorama Arena",1,8,"Karlstad IBF",1
-"167","Jonas Ottosson","Eriksdalshallen",1,8,"Djurgårdens IF IBS",1
-"168","Jonas Ottosson","Eriksdalshallen",1,8,"AIK IBF",1
-"169","Jonas Ottosson","Oskarshamns Sporthall A-hall",2,8,"Craftstadens IBK Oskarshamn",2
-"170","Jonas Ottosson","Oskarshamns Sporthall A-hall",2,8,"Åby IBK",1
-"171","Jonas Ottosson","Oskarshamns Sporthall A-hall",2,8,"Warberg IC",1
-"172","Jonas Ottosson","Rosvalla A",2,8,"Warberg IC",1
-"173","Jonas Ottosson","Rosvalla A",2,8,"Onyx IBK",2
-"174","Jonas Ottosson","Rosvalla A",2,8,"FBC Lerum",1
-"175","Jonas Tidsjö","Håstaholmen",1,3,"Hudik/Björkberg IBK",1
-"176","Jonas Tidsjö","Håstaholmen",1,3,"IBK Runsten",1
-"177","Jonas Tidsjö","Norrmalmia Sph",1,3,"FBI Tullinge",1
-"178","Jonas Tidsjö","Norrmalmia Sph",1,3,"Wibax-Piteå IBK",1
-"179","Jonas Tidsjö","Thomas Arena",1,3,"Åby IBK",1
-"180","Jonas Tidsjö","Thomas Arena",1,3,"Strängnäs IBK",1
-"181","Jonatan Lindberg","Alfahallen - Gavlehov",2,10,"RIG Umeå IBF",1
-"182","Jonatan Lindberg","Alfahallen - Gavlehov",2,10,"AIK IBF",1
-"183","Jonatan Lindberg","Alfahallen - Gavlehov",2,10,"IBK Runsten",2
-"184","Jonatan Lindberg","Håstaholmen",2,10,"Hudik/Björkberg IBK",2
-"185","Jonatan Lindberg","Håstaholmen",2,10,"RIG Umeå IBF",1
-"186","Jonatan Lindberg","Håstaholmen",2,10,"Djurgårdens IF IBS",1
-"187","Jonatan Lindberg","Idre Fjäll Arena",1,10,"KAIS Mora IF",1
-"188","Jonatan Lindberg","Idre Fjäll Arena",1,10,"AIK IBF",1
-"189","Jonatan Lindberg","IFU Arena A",1,10,"Hagunda IF",1
-"190","Jonatan Lindberg","IFU Arena A",1,10,"Salems IF",1
-"191","Jonatan Lindberg","Norrmalmia Sph",1,10,"Wibax-Piteå IBK",1
-"192","Jonatan Lindberg","Norrmalmia Sph",1,10,"Hagunda IF",1
-"193","Jonatan Lindberg","Umeå Energi Arena",2,10,"RIG Umeå IBF",1
-"194","Jonatan Lindberg","Umeå Energi Arena",2,10,"Team Thorengruppen SK",1
-"195","Jonatan Lindberg","Umeå Energi Arena",2,10,"Wibax-Piteå IBK",1
-"196","Jonatan Lindberg","Umeå Energi Arena",2,10,"KAIS Mora IF",1
-"197","Jonatan Lindberg","Åby Arena",1,10,"Åby IBK",1
-"198","Jonatan Lindberg","Åby Arena",1,10,"FBC Lerum",1
-"199","Kevin Larsson","ICA Maxi Arena",1,2,"FBC Lerum",1
-"200","Kevin Larsson","ICA Maxi Arena",1,2,"Visby IBK",1
-"201","Kevin Larsson","Idrottshuset, Örebro Plan 1",1,2,"Strängnäs IBK",1
-"202","Kevin Larsson","Idrottshuset, Örebro Plan 1",1,2,"Lillån IBK",1
-"203","Ki Sandholm","Colorama Arena",1,5,"FBC Lerum",1
-"204","Ki Sandholm","Colorama Arena",1,5,"Karlstad IBF",1
-"205","Ki Sandholm","Fleminghallen",1,5,"KAIS Mora IF",1
-"206","Ki Sandholm","Fleminghallen",1,5,"FBI Tullinge",1
-"207","Ki Sandholm","Sparbanken Wictory Center, Salmingplanen",1,5,"Warberg IC",1
-"208","Ki Sandholm","Sparbanken Wictory Center, Salmingplanen",1,5,"Åby IBK",1
-"209","Ki Sandholm","Södervärnshallen",1,5,"Onyx IBK",1
-"210","Ki Sandholm","Södervärnshallen",1,5,"Visby IBK",1
-"211","Ki Sandholm","Thomas Arena",1,5,"Strängnäs IBK",1
-"212","Ki Sandholm","Thomas Arena",1,5,"Fagerhult Habo IBK",1
-"213","Leif Borglund","Alfahallen - Gavlehov",1,2,"IBK Runsten",1
-"214","Leif Borglund","Alfahallen - Gavlehov",1,2,"Salems IF",1
-"215","Leif Borglund","Håstaholmen",1,2,"Hudik/Björkberg IBK",1
-"216","Leif Borglund","Håstaholmen",1,2,"KAIS Mora IF",1
-"217","Martin Jonsson","Colorama Arena",1,1,"Karlstad IBF",1
-"218","Martin Jonsson","Colorama Arena",1,1,"Strängnäs IBK",1
-"219","Martin Matti","Kirsebergs Sporthall",1,2,"Karlstad IBF",1
-"220","Martin Matti","Kirsebergs Sporthall",1,2,"Malmö FBC",1
-"221","Martin Matti","Sparbanken Wictory Center, Salmingplanen",1,2,"Warberg IC",1
-"222","Martin Matti","Sparbanken Wictory Center, Salmingplanen",1,2,"Lillån IBK",1
-"223","Mathias Stegrud","Fleminghallen",2,5,"IBK Runsten",1
-"224","Mathias Stegrud","Fleminghallen",2,5,"FBI Tullinge",2
-"225","Mathias Stegrud","Fleminghallen",2,5,"Gävle GIK",1
-"226","Mathias Stegrud","Norrmalmia Sph",1,5,"Wibax-Piteå IBK",1
-"227","Mathias Stegrud","Norrmalmia Sph",1,5,"Djurgårdens IF IBS",1
-"228","Mathias Stegrud","Rosvalla A",1,5,"Onyx IBK",1
-"229","Mathias Stegrud","Rosvalla A",1,5,"Lagan IBK",1
-"230","Mathias Stegrud","Skogsängshallen",1,5,"RIG Umeå IBF",1
-"231","Mathias Stegrud","Skogsängshallen",1,5,"Salems IF",1
-"232","Mattias Sjöstedt","Baltiska Hallen A",2,12,"Malmö FBC",2
-"233","Mattias Sjöstedt","Baltiska Hallen A",2,12,"Craftstadens IBK Oskarshamn",1
-"234","Mattias Sjöstedt","Baltiska Hallen A",2,12,"FBC Lerum",1
-"235","Mattias Sjöstedt","Estrad Alingsås",1,12,"FBC Lerum",1
-"236","Mattias Sjöstedt","Estrad Alingsås",1,12,"Warberg IC",1
-"237","Mattias Sjöstedt","Habo Sporthall A-hall",2,12,"Onyx IBK",1
-"238","Mattias Sjöstedt","Habo Sporthall A-hall",2,12,"Fagerhult Habo IBK",2
-"239","Mattias Sjöstedt","Habo Sporthall A-hall",2,12,"Visby IBK",1
-"240","Mattias Sjöstedt","ICA Maxi Arena",1,12,"Åby IBK",1
-"241","Mattias Sjöstedt","ICA Maxi Arena",1,12,"Visby IBK",1
-"242","Mattias Sjöstedt","Idrottshuset, Örebro Plan 1",1,12,"Lillån IBK",1
-"243","Mattias Sjöstedt","Idrottshuset, Örebro Plan 1",1,12,"FBC Lerum",1
-"244","Mattias Sjöstedt","Innebandyhallen",2,12,"Craftstadens IBK Oskarshamn",1
-"245","Mattias Sjöstedt","Innebandyhallen",2,12,"Lillån IBK",1
-"246","Mattias Sjöstedt","Innebandyhallen",2,12,"Lagan IBK",2
-"247","Mattias Sjöstedt","Norrmalmia Sph",1,12,"IBK Runsten",1
-"248","Mattias Sjöstedt","Norrmalmia Sph",1,12,"Wibax-Piteå IBK",1
-"249","Mattias Sjöstedt","Skogsängshallen",1,12,"Team Thorengruppen SK",1
-"250","Mattias Sjöstedt","Skogsängshallen",1,12,"Salems IF",1
-"251","Mattias Sjöstedt","Solnahallen",1,12,"Wibax-Piteå IBK",1
-"252","Mattias Sjöstedt","Solnahallen",1,12,"AIK IBF",1
-"253","Mikael Andersson","Alfahallen - Gavlehov",1,3,"IBK Runsten",1
-"254","Mikael Andersson","Alfahallen - Gavlehov",1,3,"Salems IF",1
-"255","Mikael Andersson","Håstaholmen",1,3,"KAIS Mora IF",1
-"256","Mikael Andersson","Håstaholmen",1,3,"Hudik/Björkberg IBK",1
-"257","Mikael Andersson","Norrmalmia Sph",1,3,"Wibax-Piteå IBK",1
-"258","Mikael Andersson","Norrmalmia Sph",1,3,"Salems IF",1
-"259","Måns Löfgren","Umeå Energi Arena",1,1,"Team Thorengruppen SK",1
-"260","Måns Löfgren","Umeå Energi Arena",1,1,"Gävle GIK",1
-"261","Nicklas Sundgren","Alfahallen - Gavlehov",1,10,"Hagunda IF",1
-"262","Nicklas Sundgren","Alfahallen - Gavlehov",1,10,"Gävle GIK",1
-"263","Nicklas Sundgren","Eriksdalshallen",1,10,"FBI Tullinge",1
-"264","Nicklas Sundgren","Eriksdalshallen",1,10,"Djurgårdens IF IBS",1
-"265","Nicklas Sundgren","Idrottshuset, Örebro Plan 1",2,10,"Fagerhult Habo IBK",1
-"266","Nicklas Sundgren","Idrottshuset, Örebro Plan 1",2,10,"Lillån IBK",2
-"267","Nicklas Sundgren","Idrottshuset, Örebro Plan 1",2,10,"Malmö FBC",1
-"268","Nicklas Sundgren","IFU Arena A",1,10,"FBI Tullinge",1
-"269","Nicklas Sundgren","IFU Arena A",1,10,"Hagunda IF",1
-"270","Nicklas Sundgren","Rosvalla A",1,10,"Onyx IBK",1
-"271","Nicklas Sundgren","Rosvalla A",1,10,"Karlstad IBF",1
-"272","Nicklas Sundgren","Skogsängshallen",1,10,"Salems IF",1
-"273","Nicklas Sundgren","Skogsängshallen",1,10,"RIG Umeå IBF",1
-"274","Nicklas Sundgren","Thomas Arena",1,10,"Malmö FBC",1
-"275","Nicklas Sundgren","Thomas Arena",1,10,"Strängnäs IBK",1
-"276","Nicklas Sundgren","Umeå Energi Arena",2,10,"Gävle GIK",1
-"277","Nicklas Sundgren","Umeå Energi Arena",2,10,"Team Thorengruppen SK",1
-"278","Nicklas Sundgren","Umeå Energi Arena",2,10,"Wibax-Piteå IBK",1
-"279","Nicklas Sundgren","Umeå Energi Arena",2,10,"RIG Umeå IBF",1
-"280","Ola Nilsson","Baltiska Hallen A",2,12,"Malmö FBC",2
-"281","Ola Nilsson","Baltiska Hallen A",2,12,"FBC Lerum",1
-"282","Ola Nilsson","Baltiska Hallen A",2,12,"Craftstadens IBK Oskarshamn",1
-"283","Ola Nilsson","Estrad Alingsås",1,12,"FBC Lerum",1
-"284","Ola Nilsson","Estrad Alingsås",1,12,"Warberg IC",1
-"285","Ola Nilsson","Habo Sporthall A-hall",2,12,"Visby IBK",1
-"286","Ola Nilsson","Habo Sporthall A-hall",2,12,"Onyx IBK",1
-"287","Ola Nilsson","Habo Sporthall A-hall",2,12,"Fagerhult Habo IBK",2
-"288","Ola Nilsson","ICA Maxi Arena",1,12,"Åby IBK",1
-"289","Ola Nilsson","ICA Maxi Arena",1,12,"Visby IBK",1
-"290","Ola Nilsson","Idrottshuset, Örebro Plan 1",1,12,"FBC Lerum",1
-"291","Ola Nilsson","Idrottshuset, Örebro Plan 1",1,12,"Lillån IBK",1
-"292","Ola Nilsson","Innebandyhallen",2,12,"Lillån IBK",1
-"293","Ola Nilsson","Innebandyhallen",2,12,"Craftstadens IBK Oskarshamn",1
-"294","Ola Nilsson","Innebandyhallen",2,12,"Lagan IBK",2
-"295","Ola Nilsson","Norrmalmia Sph",1,12,"IBK Runsten",1
-"296","Ola Nilsson","Norrmalmia Sph",1,12,"Wibax-Piteå IBK",1
-"297","Ola Nilsson","Skogsängshallen",1,12,"Team Thorengruppen SK",1
-"298","Ola Nilsson","Skogsängshallen",1,12,"Salems IF",1
-"299","Ola Nilsson","Solnahallen",1,12,"Wibax-Piteå IBK",1
-"300","Ola Nilsson","Solnahallen",1,12,"AIK IBF",1
-"301","Oliver Engström","ICA Maxi Arena",1,2,"FBC Lerum",1
-"302","Oliver Engström","ICA Maxi Arena",1,2,"Visby IBK",1
-"303","Oliver Engström","Idrottshuset, Örebro Plan 1",1,2,"Lillån IBK",1
-"304","Oliver Engström","Idrottshuset, Örebro Plan 1",1,2,"Strängnäs IBK",1
-"305","Oskar Johnsson","ICA Maxi Arena",1,3,"Strängnäs IBK",1
-"306","Oskar Johnsson","ICA Maxi Arena",1,3,"Visby IBK",1
-"307","Oskar Johnsson","Innebandyhallen",1,3,"Lagan IBK",1
-"308","Oskar Johnsson","Innebandyhallen",1,3,"Fagerhult Habo IBK",1
-"309","Oskar Johnsson","Kirsebergs Sporthall",1,3,"Malmö FBC",1
-"310","Oskar Johnsson","Kirsebergs Sporthall",1,3,"Visby IBK",1
-"311","Patric Terelius","Alfahallen - Gavlehov",1,5,"AIK IBF",1
-"312","Patric Terelius","Alfahallen - Gavlehov",1,5,"Gävle GIK",1
-"313","Patric Terelius","Oskarshamns Sporthall A-hall",1,5,"Craftstadens IBK Oskarshamn",1
-"314","Patric Terelius","Oskarshamns Sporthall A-hall",1,5,"Visby IBK",1
-"315","Patric Terelius","Sparbankshallen Varberg",1,5,"Karlstad IBF",1
-"316","Patric Terelius","Sparbankshallen Varberg",1,5,"Warberg IC",1
-"317","Patric Terelius","Umeå Energi Arena Vatten",1,5,"AIK IBF",1
-"318","Patric Terelius","Umeå Energi Arena Vatten",1,5,"Team Thorengruppen SK",1
-"319","Patric Terelius","Åby Arena",1,5,"Malmö FBC",1
-"320","Patric Terelius","Åby Arena",1,5,"Åby IBK",1
-"321","Patrik Trofast","Alfahallen - Gavlehov",2,7,"Gävle GIK",1
-"322","Patrik Trofast","Alfahallen - Gavlehov",2,7,"KAIS Mora IF",1
-"323","Patrik Trofast","Alfahallen - Gavlehov",2,7,"IBK Runsten",1
-"324","Patrik Trofast","Alfahallen - Gavlehov",2,7,"Djurgårdens IF IBS",1
-"325","Patrik Trofast","Colorama Arena",1,7,"Karlstad IBF",1
-"326","Patrik Trofast","Colorama Arena",1,7,"Visby IBK",1
-"327","Patrik Trofast","Eriksdalshallen",1,7,"Djurgårdens IF IBS",1
-"328","Patrik Trofast","Eriksdalshallen",1,7,"AIK IBF",1
-"329","Patrik Trofast","Oskarshamns Sporthall A-hall",1,7,"Warberg IC",1
-"330","Patrik Trofast","Oskarshamns Sporthall A-hall",1,7,"Craftstadens IBK Oskarshamn",1
-"331","Patrik Trofast","Rosvalla A",2,7,"Onyx IBK",2
-"332","Patrik Trofast","Rosvalla A",2,7,"FBC Lerum",1
-"333","Patrik Trofast","Rosvalla A",2,7,"Warberg IC",1
-"334","Peter Hagelin","Alfahallen - Gavlehov",2,3,"Team Thorengruppen SK",1
-"335","Peter Hagelin","Alfahallen - Gavlehov",2,3,"Wibax-Piteå IBK",1
-"336","Peter Hagelin","Alfahallen - Gavlehov",2,3,"Gävle GIK",1
-"337","Peter Hagelin","Alfahallen - Gavlehov",2,3,"IBK Runsten",1
-"338","Peter Hagelin","Rosvalla A",1,3,"Onyx IBK",1
-"339","Peter Hagelin","Rosvalla A",1,3,"Craftstadens IBK Oskarshamn",1
-"340","Peter Jaeger","Umeå Energi Arena",1,1,"Gävle GIK",1
-"341","Peter Jaeger","Umeå Energi Arena",1,1,"Team Thorengruppen SK",1
-"342","Peter Palmelius","Fleminghallen",1,7,"FBI Tullinge",1
-"343","Peter Palmelius","Fleminghallen",1,7,"Hudik/Björkberg IBK",1
-"344","Peter Palmelius","Habo Sporthall A-hall",1,7,"Fagerhult Habo IBK",1
-"345","Peter Palmelius","Habo Sporthall A-hall",1,7,"Karlstad IBF",1
-"346","Peter Palmelius","Idre Fjäll Arena",1,7,"Hagunda IF",1
-"347","Peter Palmelius","Idre Fjäll Arena",1,7,"KAIS Mora IF",1
-"348","Peter Palmelius","IFU Arena A",1,7,"Hagunda IF",1
-"349","Peter Palmelius","IFU Arena A",1,7,"Djurgårdens IF IBS",1
-"350","Peter Palmelius","Rosvalla A",1,7,"Onyx IBK",1
-"351","Peter Palmelius","Rosvalla A",1,7,"Åby IBK",1
-"352","Peter Palmelius","Skogsängshallen",1,7,"Salems IF",1
-"353","Peter Palmelius","Skogsängshallen",1,7,"FBI Tullinge",1
-"354","Peter Palmelius","Åby Arena",1,7,"Lillån IBK",1
-"355","Peter Palmelius","Åby Arena",1,7,"Åby IBK",1
-"356","Petter Seger Undén","Colorama Arena",1,5,"Karlstad IBF",1
-"357","Petter Seger Undén","Colorama Arena",1,5,"FBC Lerum",1
-"358","Petter Seger Undén","Fleminghallen",1,5,"FBI Tullinge",1
-"359","Petter Seger Undén","Fleminghallen",1,5,"KAIS Mora IF",1
-"360","Petter Seger Undén","Sparbanken Wictory Center, Salmingplanen",1,5,"Åby IBK",1
-"361","Petter Seger Undén","Sparbanken Wictory Center, Salmingplanen",1,5,"Warberg IC",1
-"362","Petter Seger Undén","Södervärnshallen",1,5,"Onyx IBK",1
-"363","Petter Seger Undén","Södervärnshallen",1,5,"Visby IBK",1
-"364","Petter Seger Undén","Thomas Arena",1,5,"Strängnäs IBK",1
-"365","Petter Seger Undén","Thomas Arena",1,5,"Fagerhult Habo IBK",1
-"366","Rickard Olsen","Fortnox Arena Nivika hallen",1,6,"Lagan IBK",1
-"367","Rickard Olsen","Fortnox Arena Nivika hallen",1,6,"Warberg IC",1
-"368","Rickard Olsen","Habo Sporthall A-hall",1,6,"Craftstadens IBK Oskarshamn",1
-"369","Rickard Olsen","Habo Sporthall A-hall",1,6,"Fagerhult Habo IBK",1
-"370","Rickard Olsen","Håstaholmen",1,6,"Hudik/Björkberg IBK",1
-"371","Rickard Olsen","Håstaholmen",1,6,"Team Thorengruppen SK",1
-"372","Rickard Olsen","Oskarshamns Sporthall A-hall",1,6,"Craftstadens IBK Oskarshamn",1
-"373","Rickard Olsen","Oskarshamns Sporthall A-hall",1,6,"Lillån IBK",1
-"374","Rickard Olsen","Umeå Energi Arena",1,6,"Team Thorengruppen SK",1
-"375","Rickard Olsen","Umeå Energi Arena",1,6,"Hagunda IF",1
-"376","Rickard Olsen","Umeå Energi Arena Väst",1,6,"FBI Tullinge",1
-"377","Rickard Olsen","Umeå Energi Arena Väst",1,6,"RIG Umeå IBF",1
-"378","Rickard Wissman","Solnahallen",1,1,"AIK IBF",1
-"379","Rickard Wissman","Solnahallen",1,1,"RIG Umeå IBF",1
-"380","Robert Forslind Lovrencic","Fleminghallen",1,7,"FBI Tullinge",1
-"381","Robert Forslind Lovrencic","Fleminghallen",1,7,"Hudik/Björkberg IBK",1
-"382","Robert Forslind Lovrencic","Habo Sporthall A-hall",1,7,"Karlstad IBF",1
-"383","Robert Forslind Lovrencic","Habo Sporthall A-hall",1,7,"Fagerhult Habo IBK",1
-"384","Robert Forslind Lovrencic","Idre Fjäll Arena",1,7,"KAIS Mora IF",1
-"385","Robert Forslind Lovrencic","Idre Fjäll Arena",1,7,"Hagunda IF",1
-"386","Robert Forslind Lovrencic","IFU Arena A",1,7,"Djurgårdens IF IBS",1
-"387","Robert Forslind Lovrencic","IFU Arena A",1,7,"Hagunda IF",1
-"388","Robert Forslind Lovrencic","Rosvalla A",1,7,"Onyx IBK",1
-"389","Robert Forslind Lovrencic","Rosvalla A",1,7,"Åby IBK",1
-"390","Robert Forslind Lovrencic","Skogsängshallen",1,7,"Salems IF",1
-"391","Robert Forslind Lovrencic","Skogsängshallen",1,7,"FBI Tullinge",1
-"392","Robert Forslind Lovrencic","Åby Arena",1,7,"Åby IBK",1
-"393","Robert Forslind Lovrencic","Åby Arena",1,7,"Lillån IBK",1
-"394","Robin Boqvist","Colorama Arena",1,1,"Strängnäs IBK",1
-"395","Robin Boqvist","Colorama Arena",1,1,"Karlstad IBF",1
-"396","Shari Tingman","Norrmalmia Sph",1,2,"Salems IF",1
-"397","Shari Tingman","Norrmalmia Sph",1,2,"Wibax-Piteå IBK",1
-"398","Shari Tingman","Oskarshamns Sporthall A-hall",1,2,"Strängnäs IBK",1
-"399","Shari Tingman","Oskarshamns Sporthall A-hall",1,2,"Craftstadens IBK Oskarshamn",1
-"400","Sigge Svensson Martell","Baltiska Hallen A",1,5,"Malmö FBC",1
-"401","Sigge Svensson Martell","Baltiska Hallen A",1,5,"Fagerhult Habo IBK",1
-"402","Sigge Svensson Martell","Innebandyhallen",1,5,"Malmö FBC",1
-"403","Sigge Svensson Martell","Innebandyhallen",1,5,"Lagan IBK",1
-"404","Sigge Svensson Martell","Skogsängshallen",1,5,"Salems IF",1
-"405","Sigge Svensson Martell","Skogsängshallen",1,5,"Gävle GIK",1
-"406","Sigge Svensson Martell","Sparbanken Wictory Center, Salmingplanen",2,5,"Warberg IC",2
-"407","Sigge Svensson Martell","Sparbanken Wictory Center, Salmingplanen",2,5,"Strängnäs IBK",1
-"408","Sigge Svensson Martell","Sparbanken Wictory Center, Salmingplanen",2,5,"Visby IBK",1
-"409","Simon Broman","Kirsebergs Sporthall",1,2,"Malmö FBC",1
-"410","Simon Broman","Kirsebergs Sporthall",1,2,"Karlstad IBF",1
-"411","Simon Broman","Sparbanken Wictory Center, Salmingplanen",1,2,"Lillån IBK",1
-"412","Simon Broman","Sparbanken Wictory Center, Salmingplanen",1,2,"Warberg IC",1
-"413","Stefan Olsson","Habo Sporthall A-hall",1,1,"Fagerhult Habo IBK",1
-"414","Stefan Olsson","Habo Sporthall A-hall",1,1,"Warberg IC",1
-"415","Thomas Andersson","Solnahallen",1,1,"RIG Umeå IBF",1
-"416","Thomas Andersson","Solnahallen",1,1,"AIK IBF",1
-"417","Tobias Berger","Alfahallen - Gavlehov",2,19,"Hudik/Björkberg IBK",1
-"418","Tobias Berger","Alfahallen - Gavlehov",2,19,"IBK Runsten",1
-"419","Tobias Berger","Alfahallen - Gavlehov",2,19,"Gävle GIK",2
-"420","Tobias Berger","Baltiska Hallen A",1,19,"Malmö FBC",1
-"421","Tobias Berger","Baltiska Hallen A",1,19,"Warberg IC",1
-"422","Tobias Berger","Colorama Arena",1,19,"Lagan IBK",1
-"423","Tobias Berger","Colorama Arena",1,19,"Karlstad IBF",1
-"424","Tobias Berger","Eriksdalshallen",2,19,"Salems IF",1
-"425","Tobias Berger","Eriksdalshallen",2,19,"IBK Runsten",1
-"426","Tobias Berger","Eriksdalshallen",2,19,"Djurgårdens IF IBS",2
-"427","Tobias Berger","Fleminghallen",1,19,"Team Thorengruppen SK",1
-"428","Tobias Berger","Fleminghallen",1,19,"FBI Tullinge",1
-"429","Tobias Berger","Idre Fjäll Arena",1,19,"KAIS Mora IF",1
-"430","Tobias Berger","Idre Fjäll Arena",1,19,"RIG Umeå IBF",1
-"431","Tobias Berger","IFU Arena A",3,19,"IBK Runsten",1
-"432","Tobias Berger","IFU Arena A",3,19,"Hagunda IF",3
-"433","Tobias Berger","IFU Arena A",3,19,"RIG Umeå IBF",1
-"434","Tobias Berger","IFU Arena A",3,19,"Hudik/Björkberg IBK",1
-"435","Tobias Berger","Oskarshamns Sporthall A-hall",1,19,"Craftstadens IBK Oskarshamn",1
-"436","Tobias Berger","Oskarshamns Sporthall A-hall",1,19,"Strängnäs IBK",1
-"437","Tobias Berger","Skogsängshallen",1,19,"KAIS Mora IF",1
-"438","Tobias Berger","Skogsängshallen",1,19,"Salems IF",1
-"439","Tobias Berger","Solnahallen",2,19,"Hagunda IF",1
-"440","Tobias Berger","Solnahallen",2,19,"FBI Tullinge",1
-"441","Tobias Berger","Solnahallen",2,19,"AIK IBF",2
-"442","Tobias Berger","Thomas Arena",1,19,"FBC Lerum",1
-"443","Tobias Berger","Thomas Arena",1,19,"Strängnäs IBK",1
-"444","Tobias Berger","Umeå Energi Arena",1,19,"RIG Umeå IBF",1
-"445","Tobias Berger","Umeå Energi Arena",1,19,"Team Thorengruppen SK",1
-"446","Tobias Berger","Umeå Energi Arena Väst",1,19,"Djurgårdens IF IBS",1
-"447","Tobias Berger","Umeå Energi Arena Väst",1,19,"RIG Umeå IBF",1
-"448","Tobias Berger","Åby Arena",1,19,"Åby IBK",1
-"449","Tobias Berger","Åby Arena",1,19,"Karlstad IBF",1
-"450","Tobias Levin","Colorama Arena",1,11,"Karlstad IBF",1
-"451","Tobias Levin","Colorama Arena",1,11,"Lillån IBK",1
-"452","Tobias Levin","ICA Maxi Arena",2,11,"Visby IBK",2
-"453","Tobias Levin","ICA Maxi Arena",2,11,"Lillån IBK",1
-"454","Tobias Levin","ICA Maxi Arena",2,11,"Lagan IBK",1
-"455","Tobias Levin","Idre Fjäll Arena",2,11,"Wibax-Piteå IBK",1
-"456","Tobias Levin","Idre Fjäll Arena",2,11,"Djurgårdens IF IBS",1
-"457","Tobias Levin","Idre Fjäll Arena",2,11,"KAIS Mora IF",2
-"458","Tobias Levin","Idrottshuset, Örebro Plan 1",1,11,"Onyx IBK",1
-"459","Tobias Levin","Idrottshuset, Örebro Plan 1",1,11,"Lillån IBK",1
-"460","Tobias Levin","Norrmalmia Sph",1,11,"Hudik/Björkberg IBK",1
-"461","Tobias Levin","Norrmalmia Sph",1,11,"Wibax-Piteå IBK",1
-"462","Tobias Levin","Rosvalla A",1,11,"Strängnäs IBK",1
-"463","Tobias Levin","Rosvalla A",1,11,"Onyx IBK",1
-"464","Tobias Levin","Rydsbergshallen",1,11,"FBC Lerum",1
-"465","Tobias Levin","Rydsbergshallen",1,11,"Craftstadens IBK Oskarshamn",1
-"466","Tobias Levin","Åby Arena",2,11,"Fagerhult Habo IBK",1
-"467","Tobias Levin","Åby Arena",2,11,"Åby IBK",2
-"468","Tobias Levin","Åby Arena",2,11,"Lagan IBK",1
-"469","Tomas Edstrand","Fortnox Arena Nivika hallen",1,6,"Warberg IC",1
-"470","Tomas Edstrand","Fortnox Arena Nivika hallen",1,6,"Lagan IBK",1
-"471","Tomas Edstrand","Habo Sporthall A-hall",1,6,"Craftstadens IBK Oskarshamn",1
-"472","Tomas Edstrand","Habo Sporthall A-hall",1,6,"Fagerhult Habo IBK",1
-"473","Tomas Edstrand","Håstaholmen",1,6,"Hudik/Björkberg IBK",1
-"474","Tomas Edstrand","Håstaholmen",1,6,"Team Thorengruppen SK",1
-"475","Tomas Edstrand","Oskarshamns Sporthall A-hall",1,6,"Lillån IBK",1
-"476","Tomas Edstrand","Oskarshamns Sporthall A-hall",1,6,"Craftstadens IBK Oskarshamn",1
-"477","Tomas Edstrand","Umeå Energi Arena",1,6,"Team Thorengruppen SK",1
-"478","Tomas Edstrand","Umeå Energi Arena",1,6,"Hagunda IF",1
-"479","Tomas Edstrand","Umeå Energi Arena Väst",1,6,"FBI Tullinge",1
-"480","Tomas Edstrand","Umeå Energi Arena Väst",1,6,"RIG Umeå IBF",1
-"481","Tony Olsson","Baltiska Hallen A",1,5,"Fagerhult Habo IBK",1
-"482","Tony Olsson","Baltiska Hallen A",1,5,"Malmö FBC",1
-"483","Tony Olsson","Innebandyhallen",1,5,"Lagan IBK",1
-"484","Tony Olsson","Innebandyhallen",1,5,"Malmö FBC",1
-"485","Tony Olsson","Skogsängshallen",1,5,"Gävle GIK",1
-"486","Tony Olsson","Skogsängshallen",1,5,"Salems IF",1
-"487","Tony Olsson","Sparbanken Wictory Center, Salmingplanen",2,5,"Warberg IC",2
-"488","Tony Olsson","Sparbanken Wictory Center, Salmingplanen",2,5,"Visby IBK",1
-"489","Tony Olsson","Sparbanken Wictory Center, Salmingplanen",2,5,"Strängnäs IBK",1
+"1","Anders Westerberg","Idre Fjäll Arena",1,2,"KAIS Mora IF",1
+"2","Anders Westerberg","Idre Fjäll Arena",1,2,"Gävle GIK",1
+"3","Anders Westerberg","Jakobsbergs Sporthall",1,2,"Hudik/Björkberg IBK",1
+"4","Anders Westerberg","Jakobsbergs Sporthall",1,2,"AIK IBF",1
+"5","Andreas Holm","Habo Sporthall A-hall",1,2,"Fagerhult Habo IBK",1
+"6","Andreas Holm","Habo Sporthall A-hall",1,2,"Warberg IC",1
+"7","Andreas Holm","Sparbanken Wictory Center, Salmingplanen",1,2,"Fagerhult Habo IBK",1
+"8","Andreas Holm","Sparbanken Wictory Center, Salmingplanen",1,2,"Warberg IC",1
+"9","Andreas Lybacken","Rydsbergshallen",1,1,"FBC Lerum",1
+"10","Andreas Lybacken","Rydsbergshallen",1,1,"Fagerhult Habo IBK",1
+"11","Björn Hedman","Alfahallen - Gavlehov",2,10,"FBI Tullinge",1
+"12","Björn Hedman","Alfahallen - Gavlehov",2,10,"Gävle GIK",2
+"13","Björn Hedman","Alfahallen - Gavlehov",2,10,"Hagunda IF",1
+"14","Björn Hedman","Eriksdalshallen",1,10,"Djurgårdens IF IBS",1
+"15","Björn Hedman","Eriksdalshallen",1,10,"FBI Tullinge",1
+"16","Björn Hedman","Idrottshuset, Örebro Plan 1",2,10,"Fagerhult Habo IBK",1
+"17","Björn Hedman","Idrottshuset, Örebro Plan 1",2,10,"Lillån IBK",2
+"18","Björn Hedman","Idrottshuset, Örebro Plan 1",2,10,"Malmö FBC",1
+"19","Björn Hedman","IFU Arena A",1,10,"Hagunda IF",1
+"20","Björn Hedman","IFU Arena A",1,10,"FBI Tullinge",1
+"21","Björn Hedman","Rosvalla A",1,10,"Karlstad IBF",1
+"22","Björn Hedman","Rosvalla A",1,10,"Onyx IBK",1
+"23","Björn Hedman","Thomas Arena",1,10,"Strängnäs IBK",1
+"24","Björn Hedman","Thomas Arena",1,10,"Malmö FBC",1
+"25","Björn Hedman","Umeå Energi Arena",2,10,"Wibax-Piteå IBK",1
+"26","Björn Hedman","Umeå Energi Arena",2,10,"Gävle GIK",1
+"27","Björn Hedman","Umeå Energi Arena",2,10,"Team Thorengruppen SK",1
+"28","Björn Hedman","Umeå Energi Arena",2,10,"RIG Umeå IBF",1
+"29","Christoffer Markovski","Alfahallen - Gavlehov",1,8,"Gävle GIK",1
+"30","Christoffer Markovski","Alfahallen - Gavlehov",1,8,"AIK IBF",1
+"31","Christoffer Markovski","ICA Maxi Arena",1,8,"Visby IBK",1
+"32","Christoffer Markovski","ICA Maxi Arena",1,8,"Warberg IC",1
+"33","Christoffer Markovski","IFU Arena A",1,8,"Hagunda IF",1
+"34","Christoffer Markovski","IFU Arena A",1,8,"AIK IBF",1
+"35","Christoffer Markovski","IKSU Sport",1,8,"IBK Runsten",1
+"36","Christoffer Markovski","IKSU Sport",1,8,"Team Thorengruppen SK",1
+"37","Christoffer Markovski","Oskarshamns Sporthall A-hall",1,8,"Visby IBK",1
+"38","Christoffer Markovski","Oskarshamns Sporthall A-hall",1,8,"Craftstadens IBK Oskarshamn",1
+"39","Christoffer Markovski","Sparbankshallen Varberg",1,8,"Karlstad IBF",1
+"40","Christoffer Markovski","Sparbankshallen Varberg",1,8,"Warberg IC",1
+"41","Christoffer Markovski","Umeå Energi Arena Vatten",1,8,"AIK IBF",1
+"42","Christoffer Markovski","Umeå Energi Arena Vatten",1,8,"Team Thorengruppen SK",1
+"43","Christoffer Markovski","Åby Arena",1,8,"Åby IBK",1
+"44","Christoffer Markovski","Åby Arena",1,8,"Malmö FBC",1
+"45","Daniel Böcker","Rydsbergshallen",1,1,"Fagerhult Habo IBK",1
+"46","Daniel Böcker","Rydsbergshallen",1,1,"FBC Lerum",1
+"47","Daniel Fathi-Najafi","Sparbanken Wictory Center, Salmingplanen",1,1,"Lagan IBK",1
+"48","Daniel Fathi-Najafi","Sparbanken Wictory Center, Salmingplanen",1,1,"Warberg IC",1
+"49","Daniel Söderberg","Fleminghallen",2,5,"IBK Runsten",1
+"50","Daniel Söderberg","Fleminghallen",2,5,"Gävle GIK",1
+"51","Daniel Söderberg","Fleminghallen",2,5,"FBI Tullinge",2
+"52","Daniel Söderberg","Norrmalmia Sph",2,5,"Wibax-Piteå IBK",2
+"53","Daniel Söderberg","Norrmalmia Sph",2,5,"Djurgårdens IF IBS",1
+"54","Daniel Söderberg","Norrmalmia Sph",2,5,"Team Thorengruppen SK",1
+"55","Daniel Söderberg","Rosvalla A",1,5,"Onyx IBK",1
+"56","Daniel Söderberg","Rosvalla A",1,5,"Lagan IBK",1
+"57","David Berger","Alfahallen - Gavlehov",2,24,"Gävle GIK",2
+"58","David Berger","Alfahallen - Gavlehov",2,24,"Hudik/Björkberg IBK",1
+"59","David Berger","Alfahallen - Gavlehov",2,24,"IBK Runsten",1
+"60","David Berger","Baltiska Hallen A",1,24,"Warberg IC",1
+"61","David Berger","Baltiska Hallen A",1,24,"Malmö FBC",1
+"62","David Berger","Colorama Arena",2,24,"Karlstad IBF",2
+"63","David Berger","Colorama Arena",2,24,"Lagan IBK",1
+"64","David Berger","Colorama Arena",2,24,"Malmö FBC",1
+"65","David Berger","Eriksdalshallen",2,24,"Salems IF",1
+"66","David Berger","Eriksdalshallen",2,24,"IBK Runsten",1
+"67","David Berger","Eriksdalshallen",2,24,"Djurgårdens IF IBS",2
+"68","David Berger","Fleminghallen",1,24,"FBI Tullinge",1
+"69","David Berger","Fleminghallen",1,24,"Team Thorengruppen SK",1
+"70","David Berger","Habo Sporthall A-hall",1,24,"Malmö FBC",1
+"71","David Berger","Habo Sporthall A-hall",1,24,"Fagerhult Habo IBK",1
+"72","David Berger","Idre Fjäll Arena",1,24,"RIG Umeå IBF",1
+"73","David Berger","Idre Fjäll Arena",1,24,"KAIS Mora IF",1
+"74","David Berger","Idrottshuset, Örebro Plan 1",1,24,"Craftstadens IBK Oskarshamn",1
+"75","David Berger","Idrottshuset, Örebro Plan 1",1,24,"Lillån IBK",1
+"76","David Berger","IFU Arena A",3,24,"RIG Umeå IBF",1
+"77","David Berger","IFU Arena A",3,24,"Hagunda IF",3
+"78","David Berger","IFU Arena A",3,24,"IBK Runsten",1
+"79","David Berger","IFU Arena A",3,24,"Hudik/Björkberg IBK",1
+"80","David Berger","Rosvalla A",1,24,"Fagerhult Habo IBK",1
+"81","David Berger","Rosvalla A",1,24,"Onyx IBK",1
+"82","David Berger","Skogsängshallen",2,24,"Salems IF",2
+"83","David Berger","Skogsängshallen",2,24,"KAIS Mora IF",1
+"84","David Berger","Skogsängshallen",2,24,"Wibax-Piteå IBK",1
+"85","David Berger","Solnahallen",3,24,"Hagunda IF",1
+"86","David Berger","Solnahallen",3,24,"Gävle GIK",1
+"87","David Berger","Solnahallen",3,24,"AIK IBF",3
+"88","David Berger","Solnahallen",3,24,"FBI Tullinge",1
+"89","David Berger","Thomas Arena",1,24,"Strängnäs IBK",1
+"90","David Berger","Thomas Arena",1,24,"FBC Lerum",1
+"91","David Berger","Umeå Energi Arena",1,24,"RIG Umeå IBF",1
+"92","David Berger","Umeå Energi Arena",1,24,"Team Thorengruppen SK",1
+"93","David Berger","Umeå Energi Arena Väst",1,24,"Djurgårdens IF IBS",1
+"94","David Berger","Umeå Energi Arena Väst",1,24,"RIG Umeå IBF",1
+"95","David Berger","Åby Arena",1,24,"Åby IBK",1
+"96","David Berger","Åby Arena",1,24,"Karlstad IBF",1
+"97","David Geiser","Kirsebergs Sporthall",1,1,"Onyx IBK",1
+"98","David Geiser","Kirsebergs Sporthall",1,1,"Malmö FBC",1
+"99","Edwin Simonian","Alfahallen - Gavlehov",2,3,"Team Thorengruppen SK",1
+"100","Edwin Simonian","Alfahallen - Gavlehov",2,3,"Gävle GIK",1
+"101","Edwin Simonian","Alfahallen - Gavlehov",2,3,"IBK Runsten",1
+"102","Edwin Simonian","Alfahallen - Gavlehov",2,3,"Wibax-Piteå IBK",1
+"103","Edwin Simonian","Rosvalla A",1,3,"Onyx IBK",1
+"104","Edwin Simonian","Rosvalla A",1,3,"Craftstadens IBK Oskarshamn",1
+"105","Erik Lundgren","Alfahallen - Gavlehov",2,10,"IBK Runsten",2
+"106","Erik Lundgren","Alfahallen - Gavlehov",2,10,"AIK IBF",1
+"107","Erik Lundgren","Alfahallen - Gavlehov",2,10,"RIG Umeå IBF",1
+"108","Erik Lundgren","Håstaholmen",2,10,"RIG Umeå IBF",1
+"109","Erik Lundgren","Håstaholmen",2,10,"Hudik/Björkberg IBK",2
+"110","Erik Lundgren","Håstaholmen",2,10,"Djurgårdens IF IBS",1
+"111","Erik Lundgren","Idre Fjäll Arena",1,10,"KAIS Mora IF",1
+"112","Erik Lundgren","Idre Fjäll Arena",1,10,"AIK IBF",1
+"113","Erik Lundgren","IFU Arena A",1,10,"Hagunda IF",1
+"114","Erik Lundgren","IFU Arena A",1,10,"Salems IF",1
+"115","Erik Lundgren","Norrmalmia Sph",1,10,"Hagunda IF",1
+"116","Erik Lundgren","Norrmalmia Sph",1,10,"Wibax-Piteå IBK",1
+"117","Erik Lundgren","Umeå Energi Arena",2,10,"Wibax-Piteå IBK",1
+"118","Erik Lundgren","Umeå Energi Arena",2,10,"Team Thorengruppen SK",1
+"119","Erik Lundgren","Umeå Energi Arena",2,10,"KAIS Mora IF",1
+"120","Erik Lundgren","Umeå Energi Arena",2,10,"RIG Umeå IBF",1
+"121","Erik Lundgren","Åby Arena",1,10,"FBC Lerum",1
+"122","Erik Lundgren","Åby Arena",1,10,"Åby IBK",1
+"123","Frans Dahlstedt","Colorama Arena",1,17,"Karlstad IBF",1
+"124","Frans Dahlstedt","Colorama Arena",1,17,"Lillån IBK",1
+"125","Frans Dahlstedt","Eriksdalshallen",2,17,"Djurgårdens IF IBS",2
+"126","Frans Dahlstedt","Eriksdalshallen",2,17,"RIG Umeå IBF",1
+"127","Frans Dahlstedt","Eriksdalshallen",2,17,"Wibax-Piteå IBK",1
+"128","Frans Dahlstedt","Håstaholmen",1,17,"AIK IBF",1
+"129","Frans Dahlstedt","Håstaholmen",1,17,"Hudik/Björkberg IBK",1
+"130","Frans Dahlstedt","ICA Maxi Arena",2,17,"Visby IBK",2
+"131","Frans Dahlstedt","ICA Maxi Arena",2,17,"Lillån IBK",1
+"132","Frans Dahlstedt","ICA Maxi Arena",2,17,"Lagan IBK",1
+"133","Frans Dahlstedt","Idre Fjäll Arena",2,17,"Djurgårdens IF IBS",1
+"134","Frans Dahlstedt","Idre Fjäll Arena",2,17,"KAIS Mora IF",2
+"135","Frans Dahlstedt","Idre Fjäll Arena",2,17,"Wibax-Piteå IBK",1
+"136","Frans Dahlstedt","Idrottshuset, Örebro Plan 1",1,17,"Onyx IBK",1
+"137","Frans Dahlstedt","Idrottshuset, Örebro Plan 1",1,17,"Lillån IBK",1
+"138","Frans Dahlstedt","Norrmalmia Sph",2,17,"Hudik/Björkberg IBK",1
+"139","Frans Dahlstedt","Norrmalmia Sph",2,17,"Gävle GIK",1
+"140","Frans Dahlstedt","Norrmalmia Sph",2,17,"Wibax-Piteå IBK",2
+"141","Frans Dahlstedt","Oskarshamns Sporthall A-hall",1,17,"Craftstadens IBK Oskarshamn",1
+"142","Frans Dahlstedt","Oskarshamns Sporthall A-hall",1,17,"Onyx IBK",1
+"143","Frans Dahlstedt","Rosvalla A",1,17,"Onyx IBK",1
+"144","Frans Dahlstedt","Rosvalla A",1,17,"Strängnäs IBK",1
+"145","Frans Dahlstedt","Rydsbergshallen",2,17,"FBC Lerum",2
+"146","Frans Dahlstedt","Rydsbergshallen",2,17,"Craftstadens IBK Oskarshamn",1
+"147","Frans Dahlstedt","Rydsbergshallen",2,17,"Karlstad IBF",1
+"148","Frans Dahlstedt","Åby Arena",2,17,"Lagan IBK",1
+"149","Frans Dahlstedt","Åby Arena",2,17,"Åby IBK",2
+"150","Frans Dahlstedt","Åby Arena",2,17,"Fagerhult Habo IBK",1
+"151","Glenn Boström","Eriksdalshallen",1,4,"Team Thorengruppen SK",1
+"152","Glenn Boström","Eriksdalshallen",1,4,"Djurgårdens IF IBS",1
+"153","Glenn Boström","Skogsängshallen",2,4,"IBK Runsten",1
+"154","Glenn Boström","Skogsängshallen",2,4,"AIK IBF",1
+"155","Glenn Boström","Skogsängshallen",2,4,"Salems IF",2
+"156","Glenn Boström","Thomas Arena",1,4,"Lagan IBK",1
+"157","Glenn Boström","Thomas Arena",1,4,"Strängnäs IBK",1
+"158","Henrik Ibjer","Håstaholmen",1,1,"Hudik/Björkberg IBK",1
+"159","Henrik Ibjer","Håstaholmen",1,1,"FBI Tullinge",1
+"160","Henrik Nilsson","Kirsebergs Sporthall",1,1,"Malmö FBC",1
+"161","Henrik Nilsson","Kirsebergs Sporthall",1,1,"Onyx IBK",1
+"162","Håkan Söderman","Eriksdalshallen",1,5,"Team Thorengruppen SK",1
+"163","Håkan Söderman","Eriksdalshallen",1,5,"Djurgårdens IF IBS",1
+"164","Håkan Söderman","Oskarshamns Sporthall A-hall",1,5,"Åby IBK",1
+"165","Håkan Söderman","Oskarshamns Sporthall A-hall",1,5,"Craftstadens IBK Oskarshamn",1
+"166","Håkan Söderman","Skogsängshallen",2,5,"Salems IF",2
+"167","Håkan Söderman","Skogsängshallen",2,5,"IBK Runsten",1
+"168","Håkan Söderman","Skogsängshallen",2,5,"AIK IBF",1
+"169","Håkan Söderman","Thomas Arena",1,5,"Lagan IBK",1
+"170","Håkan Söderman","Thomas Arena",1,5,"Strängnäs IBK",1
+"171","Jakob Westerlund","Alfahallen - Gavlehov",1,8,"IBK Runsten",1
+"172","Jakob Westerlund","Alfahallen - Gavlehov",1,8,"Djurgårdens IF IBS",1
+"173","Jakob Westerlund","Fleminghallen",1,8,"FBI Tullinge",1
+"174","Jakob Westerlund","Fleminghallen",1,8,"Djurgårdens IF IBS",1
+"175","Jakob Westerlund","Habo Sporthall A-hall",1,8,"Fagerhult Habo IBK",1
+"176","Jakob Westerlund","Habo Sporthall A-hall",1,8,"Åby IBK",1
+"177","Jakob Westerlund","Håstaholmen",1,8,"IBK Runsten",1
+"178","Jakob Westerlund","Håstaholmen",1,8,"Hudik/Björkberg IBK",1
+"179","Jakob Westerlund","Norrmalmia Sph",1,8,"FBI Tullinge",1
+"180","Jakob Westerlund","Norrmalmia Sph",1,8,"Wibax-Piteå IBK",1
+"181","Jakob Westerlund","Solnahallen",1,8,"AIK IBF",1
+"182","Jakob Westerlund","Solnahallen",1,8,"Team Thorengruppen SK",1
+"183","Jakob Westerlund","Thomas Arena",1,8,"Strängnäs IBK",1
+"184","Jakob Westerlund","Thomas Arena",1,8,"Åby IBK",1
+"185","Jakob Westerlund","Umeå Energi Arena",1,8,"RIG Umeå IBF",1
+"186","Jakob Westerlund","Umeå Energi Arena",1,8,"Team Thorengruppen SK",1
+"187","Jens Staaf","Estrad Alingsås",2,4,"FBC Lerum",2
+"188","Jens Staaf","Estrad Alingsås",2,4,"Lagan IBK",1
+"189","Jens Staaf","Estrad Alingsås",2,4,"Visby IBK",1
+"190","Jens Staaf","Oskarshamns Sporthall A-hall",1,4,"Craftstadens IBK Oskarshamn",1
+"191","Jens Staaf","Oskarshamns Sporthall A-hall",1,4,"Karlstad IBF",1
+"192","Jens Staaf","Rydsbergshallen",1,4,"Strängnäs IBK",1
+"193","Jens Staaf","Rydsbergshallen",1,4,"FBC Lerum",1
+"194","Johan Holmåker","Estrad Alingsås",2,4,"Lagan IBK",1
+"195","Johan Holmåker","Estrad Alingsås",2,4,"Visby IBK",1
+"196","Johan Holmåker","Estrad Alingsås",2,4,"FBC Lerum",2
+"197","Johan Holmåker","Oskarshamns Sporthall A-hall",1,4,"Craftstadens IBK Oskarshamn",1
+"198","Johan Holmåker","Oskarshamns Sporthall A-hall",1,4,"Karlstad IBF",1
+"199","Johan Holmåker","Rydsbergshallen",1,4,"FBC Lerum",1
+"200","Johan Holmåker","Rydsbergshallen",1,4,"Strängnäs IBK",1
+"201","Johan Jäderlund","Idre Fjäll Arena",1,2,"KAIS Mora IF",1
+"202","Johan Jäderlund","Idre Fjäll Arena",1,2,"Gävle GIK",1
+"203","Johan Jäderlund","Jakobsbergs Sporthall",1,2,"Hudik/Björkberg IBK",1
+"204","Johan Jäderlund","Jakobsbergs Sporthall",1,2,"AIK IBF",1
+"205","Johan Magnusson","ICA Maxi Arena",1,6,"Visby IBK",1
+"206","Johan Magnusson","ICA Maxi Arena",1,6,"Strängnäs IBK",1
+"207","Johan Magnusson","IFU Arena A",1,6,"KAIS Mora IF",1
+"208","Johan Magnusson","IFU Arena A",1,6,"Hagunda IF",1
+"209","Johan Magnusson","Innebandyhallen",2,6,"FBC Lerum",1
+"210","Johan Magnusson","Innebandyhallen",2,6,"Lagan IBK",2
+"211","Johan Magnusson","Innebandyhallen",2,6,"Fagerhult Habo IBK",1
+"212","Johan Magnusson","Kirsebergs Sporthall",1,6,"Visby IBK",1
+"213","Johan Magnusson","Kirsebergs Sporthall",1,6,"Malmö FBC",1
+"214","Johan Magnusson","Åby Arena",1,6,"Åby IBK",1
+"215","Johan Magnusson","Åby Arena",1,6,"Visby IBK",1
+"216","Jonas Ottosson","Alfahallen - Gavlehov",2,11,"Gävle GIK",1
+"217","Jonas Ottosson","Alfahallen - Gavlehov",2,11,"KAIS Mora IF",1
+"218","Jonas Ottosson","Alfahallen - Gavlehov",2,11,"IBK Runsten",1
+"219","Jonas Ottosson","Alfahallen - Gavlehov",2,11,"Djurgårdens IF IBS",1
+"220","Jonas Ottosson","Colorama Arena",1,11,"Karlstad IBF",1
+"221","Jonas Ottosson","Colorama Arena",1,11,"Visby IBK",1
+"222","Jonas Ottosson","Eriksdalshallen",1,11,"AIK IBF",1
+"223","Jonas Ottosson","Eriksdalshallen",1,11,"Djurgårdens IF IBS",1
+"224","Jonas Ottosson","Oskarshamns Sporthall A-hall",3,11,"Malmö FBC",1
+"225","Jonas Ottosson","Oskarshamns Sporthall A-hall",3,11,"Åby IBK",1
+"226","Jonas Ottosson","Oskarshamns Sporthall A-hall",3,11,"Warberg IC",1
+"227","Jonas Ottosson","Oskarshamns Sporthall A-hall",3,11,"Craftstadens IBK Oskarshamn",3
+"228","Jonas Ottosson","Rosvalla A",2,11,"FBC Lerum",1
+"229","Jonas Ottosson","Rosvalla A",2,11,"Warberg IC",1
+"230","Jonas Ottosson","Rosvalla A",2,11,"Onyx IBK",2
+"231","Jonas Ottosson","Umeå Energi Arena Väst",1,11,"RIG Umeå IBF",1
+"232","Jonas Ottosson","Umeå Energi Arena Väst",1,11,"Hudik/Björkberg IBK",1
+"233","Jonas Ottosson","Åby Arena",1,11,"Åby IBK",1
+"234","Jonas Ottosson","Åby Arena",1,11,"Craftstadens IBK Oskarshamn",1
+"235","Jonas Tidsjö","Alfahallen - Gavlehov",1,8,"IBK Runsten",1
+"236","Jonas Tidsjö","Alfahallen - Gavlehov",1,8,"Djurgårdens IF IBS",1
+"237","Jonas Tidsjö","Fleminghallen",1,8,"FBI Tullinge",1
+"238","Jonas Tidsjö","Fleminghallen",1,8,"Djurgårdens IF IBS",1
+"239","Jonas Tidsjö","Habo Sporthall A-hall",1,8,"Fagerhult Habo IBK",1
+"240","Jonas Tidsjö","Habo Sporthall A-hall",1,8,"Åby IBK",1
+"241","Jonas Tidsjö","Håstaholmen",1,8,"Hudik/Björkberg IBK",1
+"242","Jonas Tidsjö","Håstaholmen",1,8,"IBK Runsten",1
+"243","Jonas Tidsjö","Norrmalmia Sph",1,8,"Wibax-Piteå IBK",1
+"244","Jonas Tidsjö","Norrmalmia Sph",1,8,"FBI Tullinge",1
+"245","Jonas Tidsjö","Solnahallen",1,8,"Team Thorengruppen SK",1
+"246","Jonas Tidsjö","Solnahallen",1,8,"AIK IBF",1
+"247","Jonas Tidsjö","Thomas Arena",1,8,"Åby IBK",1
+"248","Jonas Tidsjö","Thomas Arena",1,8,"Strängnäs IBK",1
+"249","Jonas Tidsjö","Umeå Energi Arena",1,8,"Team Thorengruppen SK",1
+"250","Jonas Tidsjö","Umeå Energi Arena",1,8,"RIG Umeå IBF",1
+"251","Jonatan Lindberg","Alfahallen - Gavlehov",2,10,"AIK IBF",1
+"252","Jonatan Lindberg","Alfahallen - Gavlehov",2,10,"RIG Umeå IBF",1
+"253","Jonatan Lindberg","Alfahallen - Gavlehov",2,10,"IBK Runsten",2
+"254","Jonatan Lindberg","Håstaholmen",2,10,"RIG Umeå IBF",1
+"255","Jonatan Lindberg","Håstaholmen",2,10,"Hudik/Björkberg IBK",2
+"256","Jonatan Lindberg","Håstaholmen",2,10,"Djurgårdens IF IBS",1
+"257","Jonatan Lindberg","Idre Fjäll Arena",1,10,"AIK IBF",1
+"258","Jonatan Lindberg","Idre Fjäll Arena",1,10,"KAIS Mora IF",1
+"259","Jonatan Lindberg","IFU Arena A",1,10,"Hagunda IF",1
+"260","Jonatan Lindberg","IFU Arena A",1,10,"Salems IF",1
+"261","Jonatan Lindberg","Norrmalmia Sph",1,10,"Wibax-Piteå IBK",1
+"262","Jonatan Lindberg","Norrmalmia Sph",1,10,"Hagunda IF",1
+"263","Jonatan Lindberg","Umeå Energi Arena",2,10,"Wibax-Piteå IBK",1
+"264","Jonatan Lindberg","Umeå Energi Arena",2,10,"RIG Umeå IBF",1
+"265","Jonatan Lindberg","Umeå Energi Arena",2,10,"Team Thorengruppen SK",1
+"266","Jonatan Lindberg","Umeå Energi Arena",2,10,"KAIS Mora IF",1
+"267","Jonatan Lindberg","Åby Arena",1,10,"Åby IBK",1
+"268","Jonatan Lindberg","Åby Arena",1,10,"FBC Lerum",1
+"269","Kent Erlandsson","Håstaholmen",1,1,"FBI Tullinge",1
+"270","Kent Erlandsson","Håstaholmen",1,1,"Hudik/Björkberg IBK",1
+"271","Kevin Larsson","ICA Maxi Arena",1,2,"Visby IBK",1
+"272","Kevin Larsson","ICA Maxi Arena",1,2,"FBC Lerum",1
+"273","Kevin Larsson","Idrottshuset, Örebro Plan 1",1,2,"Lillån IBK",1
+"274","Kevin Larsson","Idrottshuset, Örebro Plan 1",1,2,"Strängnäs IBK",1
+"275","Ki Sandholm","Colorama Arena",1,6,"Karlstad IBF",1
+"276","Ki Sandholm","Colorama Arena",1,6,"FBC Lerum",1
+"277","Ki Sandholm","Fleminghallen",1,6,"FBI Tullinge",1
+"278","Ki Sandholm","Fleminghallen",1,6,"KAIS Mora IF",1
+"279","Ki Sandholm","Idrottshuset, Örebro Plan 1",1,6,"Lillån IBK",1
+"280","Ki Sandholm","Idrottshuset, Örebro Plan 1",1,6,"Lagan IBK",1
+"281","Ki Sandholm","Sparbanken Wictory Center, Salmingplanen",1,6,"Warberg IC",1
+"282","Ki Sandholm","Sparbanken Wictory Center, Salmingplanen",1,6,"Åby IBK",1
+"283","Ki Sandholm","Södervärnshallen",1,6,"Onyx IBK",1
+"284","Ki Sandholm","Södervärnshallen",1,6,"Visby IBK",1
+"285","Ki Sandholm","Thomas Arena",1,6,"Strängnäs IBK",1
+"286","Ki Sandholm","Thomas Arena",1,6,"Fagerhult Habo IBK",1
+"287","Leif Borglund","Alfahallen - Gavlehov",1,2,"IBK Runsten",1
+"288","Leif Borglund","Alfahallen - Gavlehov",1,2,"Salems IF",1
+"289","Leif Borglund","Håstaholmen",1,2,"KAIS Mora IF",1
+"290","Leif Borglund","Håstaholmen",1,2,"Hudik/Björkberg IBK",1
+"291","Martin Jonsson","Colorama Arena",1,3,"Karlstad IBF",1
+"292","Martin Jonsson","Colorama Arena",1,3,"Strängnäs IBK",1
+"293","Martin Jonsson","Thomas Arena",1,3,"Strängnäs IBK",1
+"294","Martin Jonsson","Thomas Arena",1,3,"Lillån IBK",1
+"295","Martin Jonsson","Umeå Energi Arena Väst",1,3,"RIG Umeå IBF",1
+"296","Martin Jonsson","Umeå Energi Arena Väst",1,3,"Salems IF",1
+"297","Martin Matti","Kirsebergs Sporthall",1,2,"Malmö FBC",1
+"298","Martin Matti","Kirsebergs Sporthall",1,2,"Karlstad IBF",1
+"299","Martin Matti","Sparbanken Wictory Center, Salmingplanen",1,2,"Warberg IC",1
+"300","Martin Matti","Sparbanken Wictory Center, Salmingplanen",1,2,"Lillån IBK",1
+"301","Mathias Stegrud","Fleminghallen",2,6,"IBK Runsten",1
+"302","Mathias Stegrud","Fleminghallen",2,6,"Gävle GIK",1
+"303","Mathias Stegrud","Fleminghallen",2,6,"FBI Tullinge",2
+"304","Mathias Stegrud","Norrmalmia Sph",2,6,"Djurgårdens IF IBS",1
+"305","Mathias Stegrud","Norrmalmia Sph",2,6,"Team Thorengruppen SK",1
+"306","Mathias Stegrud","Norrmalmia Sph",2,6,"Wibax-Piteå IBK",2
+"307","Mathias Stegrud","Rosvalla A",1,6,"Lagan IBK",1
+"308","Mathias Stegrud","Rosvalla A",1,6,"Onyx IBK",1
+"309","Mathias Stegrud","Skogsängshallen",1,6,"Salems IF",1
+"310","Mathias Stegrud","Skogsängshallen",1,6,"RIG Umeå IBF",1
+"311","Mattias Sjöstedt","Baltiska Hallen A",3,17,"FBC Lerum",1
+"312","Mattias Sjöstedt","Baltiska Hallen A",3,17,"Craftstadens IBK Oskarshamn",1
+"313","Mattias Sjöstedt","Baltiska Hallen A",3,17,"Strängnäs IBK",1
+"314","Mattias Sjöstedt","Baltiska Hallen A",3,17,"Malmö FBC",3
+"315","Mattias Sjöstedt","Colorama Arena",1,17,"Karlstad IBF",1
+"316","Mattias Sjöstedt","Colorama Arena",1,17,"Åby IBK",1
+"317","Mattias Sjöstedt","Estrad Alingsås",1,17,"Warberg IC",1
+"318","Mattias Sjöstedt","Estrad Alingsås",1,17,"FBC Lerum",1
+"319","Mattias Sjöstedt","Habo Sporthall A-hall",2,17,"Fagerhult Habo IBK",2
+"320","Mattias Sjöstedt","Habo Sporthall A-hall",2,17,"Visby IBK",1
+"321","Mattias Sjöstedt","Habo Sporthall A-hall",2,17,"Onyx IBK",1
+"322","Mattias Sjöstedt","ICA Maxi Arena",1,17,"Åby IBK",1
+"323","Mattias Sjöstedt","ICA Maxi Arena",1,17,"Visby IBK",1
+"324","Mattias Sjöstedt","Idre Fjäll Arena",1,17,"KAIS Mora IF",1
+"325","Mattias Sjöstedt","Idre Fjäll Arena",1,17,"Hudik/Björkberg IBK",1
+"326","Mattias Sjöstedt","Idrottshuset, Örebro Plan 1",1,17,"FBC Lerum",1
+"327","Mattias Sjöstedt","Idrottshuset, Örebro Plan 1",1,17,"Lillån IBK",1
+"328","Mattias Sjöstedt","Innebandyhallen",3,17,"Lagan IBK",3
+"329","Mattias Sjöstedt","Innebandyhallen",3,17,"Lillån IBK",1
+"330","Mattias Sjöstedt","Innebandyhallen",3,17,"Onyx IBK",1
+"331","Mattias Sjöstedt","Innebandyhallen",3,17,"Craftstadens IBK Oskarshamn",1
+"332","Mattias Sjöstedt","Norrmalmia Sph",1,17,"IBK Runsten",1
+"333","Mattias Sjöstedt","Norrmalmia Sph",1,17,"Wibax-Piteå IBK",1
+"334","Mattias Sjöstedt","Skogsängshallen",1,17,"Salems IF",1
+"335","Mattias Sjöstedt","Skogsängshallen",1,17,"Team Thorengruppen SK",1
+"336","Mattias Sjöstedt","Solnahallen",1,17,"Wibax-Piteå IBK",1
+"337","Mattias Sjöstedt","Solnahallen",1,17,"AIK IBF",1
+"338","Mattias Sjöstedt","Thomas Arena",1,17,"Warberg IC",1
+"339","Mattias Sjöstedt","Thomas Arena",1,17,"Strängnäs IBK",1
+"340","Mikael Andersson","Alfahallen - Gavlehov",1,3,"IBK Runsten",1
+"341","Mikael Andersson","Alfahallen - Gavlehov",1,3,"Salems IF",1
+"342","Mikael Andersson","Håstaholmen",1,3,"KAIS Mora IF",1
+"343","Mikael Andersson","Håstaholmen",1,3,"Hudik/Björkberg IBK",1
+"344","Mikael Andersson","Norrmalmia Sph",1,3,"Wibax-Piteå IBK",1
+"345","Mikael Andersson","Norrmalmia Sph",1,3,"Salems IF",1
+"346","Måns Löfgren","Umeå Energi Arena",1,1,"Gävle GIK",1
+"347","Måns Löfgren","Umeå Energi Arena",1,1,"Team Thorengruppen SK",1
+"348","Nicklas Sundgren","Alfahallen - Gavlehov",2,11,"Gävle GIK",2
+"349","Nicklas Sundgren","Alfahallen - Gavlehov",2,11,"FBI Tullinge",1
+"350","Nicklas Sundgren","Alfahallen - Gavlehov",2,11,"Hagunda IF",1
+"351","Nicklas Sundgren","Eriksdalshallen",1,11,"FBI Tullinge",1
+"352","Nicklas Sundgren","Eriksdalshallen",1,11,"Djurgårdens IF IBS",1
+"353","Nicklas Sundgren","Idrottshuset, Örebro Plan 1",2,11,"Lillån IBK",2
+"354","Nicklas Sundgren","Idrottshuset, Örebro Plan 1",2,11,"Malmö FBC",1
+"355","Nicklas Sundgren","Idrottshuset, Örebro Plan 1",2,11,"Fagerhult Habo IBK",1
+"356","Nicklas Sundgren","IFU Arena A",1,11,"Hagunda IF",1
+"357","Nicklas Sundgren","IFU Arena A",1,11,"FBI Tullinge",1
+"358","Nicklas Sundgren","Rosvalla A",1,11,"Karlstad IBF",1
+"359","Nicklas Sundgren","Rosvalla A",1,11,"Onyx IBK",1
+"360","Nicklas Sundgren","Skogsängshallen",1,11,"Salems IF",1
+"361","Nicklas Sundgren","Skogsängshallen",1,11,"RIG Umeå IBF",1
+"362","Nicklas Sundgren","Thomas Arena",1,11,"Malmö FBC",1
+"363","Nicklas Sundgren","Thomas Arena",1,11,"Strängnäs IBK",1
+"364","Nicklas Sundgren","Umeå Energi Arena",2,11,"Wibax-Piteå IBK",1
+"365","Nicklas Sundgren","Umeå Energi Arena",2,11,"Gävle GIK",1
+"366","Nicklas Sundgren","Umeå Energi Arena",2,11,"RIG Umeå IBF",1
+"367","Nicklas Sundgren","Umeå Energi Arena",2,11,"Team Thorengruppen SK",1
+"368","Ola Nilsson","Baltiska Hallen A",3,17,"Malmö FBC",3
+"369","Ola Nilsson","Baltiska Hallen A",3,17,"Craftstadens IBK Oskarshamn",1
+"370","Ola Nilsson","Baltiska Hallen A",3,17,"FBC Lerum",1
+"371","Ola Nilsson","Baltiska Hallen A",3,17,"Strängnäs IBK",1
+"372","Ola Nilsson","Colorama Arena",1,17,"Karlstad IBF",1
+"373","Ola Nilsson","Colorama Arena",1,17,"Åby IBK",1
+"374","Ola Nilsson","Estrad Alingsås",1,17,"Warberg IC",1
+"375","Ola Nilsson","Estrad Alingsås",1,17,"FBC Lerum",1
+"376","Ola Nilsson","Habo Sporthall A-hall",2,17,"Visby IBK",1
+"377","Ola Nilsson","Habo Sporthall A-hall",2,17,"Onyx IBK",1
+"378","Ola Nilsson","Habo Sporthall A-hall",2,17,"Fagerhult Habo IBK",2
+"379","Ola Nilsson","ICA Maxi Arena",1,17,"Visby IBK",1
+"380","Ola Nilsson","ICA Maxi Arena",1,17,"Åby IBK",1
+"381","Ola Nilsson","Idre Fjäll Arena",1,17,"Hudik/Björkberg IBK",1
+"382","Ola Nilsson","Idre Fjäll Arena",1,17,"KAIS Mora IF",1
+"383","Ola Nilsson","Idrottshuset, Örebro Plan 1",1,17,"FBC Lerum",1
+"384","Ola Nilsson","Idrottshuset, Örebro Plan 1",1,17,"Lillån IBK",1
+"385","Ola Nilsson","Innebandyhallen",3,17,"Lillån IBK",1
+"386","Ola Nilsson","Innebandyhallen",3,17,"Craftstadens IBK Oskarshamn",1
+"387","Ola Nilsson","Innebandyhallen",3,17,"Lagan IBK",3
+"388","Ola Nilsson","Innebandyhallen",3,17,"Onyx IBK",1
+"389","Ola Nilsson","Norrmalmia Sph",1,17,"Wibax-Piteå IBK",1
+"390","Ola Nilsson","Norrmalmia Sph",1,17,"IBK Runsten",1
+"391","Ola Nilsson","Skogsängshallen",1,17,"Team Thorengruppen SK",1
+"392","Ola Nilsson","Skogsängshallen",1,17,"Salems IF",1
+"393","Ola Nilsson","Solnahallen",1,17,"AIK IBF",1
+"394","Ola Nilsson","Solnahallen",1,17,"Wibax-Piteå IBK",1
+"395","Ola Nilsson","Thomas Arena",1,17,"Warberg IC",1
+"396","Ola Nilsson","Thomas Arena",1,17,"Strängnäs IBK",1
+"397","Oliver Engström","ICA Maxi Arena",1,2,"Visby IBK",1
+"398","Oliver Engström","ICA Maxi Arena",1,2,"FBC Lerum",1
+"399","Oliver Engström","Idrottshuset, Örebro Plan 1",1,2,"Strängnäs IBK",1
+"400","Oliver Engström","Idrottshuset, Örebro Plan 1",1,2,"Lillån IBK",1
+"401","Oskar Johnsson","ICA Maxi Arena",1,6,"Visby IBK",1
+"402","Oskar Johnsson","ICA Maxi Arena",1,6,"Strängnäs IBK",1
+"403","Oskar Johnsson","IFU Arena A",1,6,"Hagunda IF",1
+"404","Oskar Johnsson","IFU Arena A",1,6,"KAIS Mora IF",1
+"405","Oskar Johnsson","Innebandyhallen",2,6,"FBC Lerum",1
+"406","Oskar Johnsson","Innebandyhallen",2,6,"Lagan IBK",2
+"407","Oskar Johnsson","Innebandyhallen",2,6,"Fagerhult Habo IBK",1
+"408","Oskar Johnsson","Kirsebergs Sporthall",1,6,"Visby IBK",1
+"409","Oskar Johnsson","Kirsebergs Sporthall",1,6,"Malmö FBC",1
+"410","Oskar Johnsson","Åby Arena",1,6,"Åby IBK",1
+"411","Oskar Johnsson","Åby Arena",1,6,"Visby IBK",1
+"412","Patric Terelius","Alfahallen - Gavlehov",1,8,"Gävle GIK",1
+"413","Patric Terelius","Alfahallen - Gavlehov",1,8,"AIK IBF",1
+"414","Patric Terelius","ICA Maxi Arena",1,8,"Warberg IC",1
+"415","Patric Terelius","ICA Maxi Arena",1,8,"Visby IBK",1
+"416","Patric Terelius","IFU Arena A",1,8,"AIK IBF",1
+"417","Patric Terelius","IFU Arena A",1,8,"Hagunda IF",1
+"418","Patric Terelius","IKSU Sport",1,8,"IBK Runsten",1
+"419","Patric Terelius","IKSU Sport",1,8,"Team Thorengruppen SK",1
+"420","Patric Terelius","Oskarshamns Sporthall A-hall",1,8,"Visby IBK",1
+"421","Patric Terelius","Oskarshamns Sporthall A-hall",1,8,"Craftstadens IBK Oskarshamn",1
+"422","Patric Terelius","Sparbankshallen Varberg",1,8,"Karlstad IBF",1
+"423","Patric Terelius","Sparbankshallen Varberg",1,8,"Warberg IC",1
+"424","Patric Terelius","Umeå Energi Arena Vatten",1,8,"Team Thorengruppen SK",1
+"425","Patric Terelius","Umeå Energi Arena Vatten",1,8,"AIK IBF",1
+"426","Patric Terelius","Åby Arena",1,8,"Åby IBK",1
+"427","Patric Terelius","Åby Arena",1,8,"Malmö FBC",1
+"428","Patrik Trofast","Alfahallen - Gavlehov",2,10,"Gävle GIK",1
+"429","Patrik Trofast","Alfahallen - Gavlehov",2,10,"IBK Runsten",1
+"430","Patrik Trofast","Alfahallen - Gavlehov",2,10,"KAIS Mora IF",1
+"431","Patrik Trofast","Alfahallen - Gavlehov",2,10,"Djurgårdens IF IBS",1
+"432","Patrik Trofast","Colorama Arena",1,10,"Visby IBK",1
+"433","Patrik Trofast","Colorama Arena",1,10,"Karlstad IBF",1
+"434","Patrik Trofast","Eriksdalshallen",1,10,"Djurgårdens IF IBS",1
+"435","Patrik Trofast","Eriksdalshallen",1,10,"AIK IBF",1
+"436","Patrik Trofast","Oskarshamns Sporthall A-hall",2,10,"Malmö FBC",1
+"437","Patrik Trofast","Oskarshamns Sporthall A-hall",2,10,"Craftstadens IBK Oskarshamn",2
+"438","Patrik Trofast","Oskarshamns Sporthall A-hall",2,10,"Warberg IC",1
+"439","Patrik Trofast","Rosvalla A",2,10,"Warberg IC",1
+"440","Patrik Trofast","Rosvalla A",2,10,"Onyx IBK",2
+"441","Patrik Trofast","Rosvalla A",2,10,"FBC Lerum",1
+"442","Patrik Trofast","Umeå Energi Arena Väst",1,10,"Hudik/Björkberg IBK",1
+"443","Patrik Trofast","Umeå Energi Arena Väst",1,10,"RIG Umeå IBF",1
+"444","Patrik Trofast","Åby Arena",1,10,"Åby IBK",1
+"445","Patrik Trofast","Åby Arena",1,10,"Craftstadens IBK Oskarshamn",1
+"446","Peter Hagelin","Alfahallen - Gavlehov",2,3,"Team Thorengruppen SK",1
+"447","Peter Hagelin","Alfahallen - Gavlehov",2,3,"Gävle GIK",1
+"448","Peter Hagelin","Alfahallen - Gavlehov",2,3,"IBK Runsten",1
+"449","Peter Hagelin","Alfahallen - Gavlehov",2,3,"Wibax-Piteå IBK",1
+"450","Peter Hagelin","Rosvalla A",1,3,"Craftstadens IBK Oskarshamn",1
+"451","Peter Hagelin","Rosvalla A",1,3,"Onyx IBK",1
+"452","Peter Jaeger","Umeå Energi Arena",1,1,"Team Thorengruppen SK",1
+"453","Peter Jaeger","Umeå Energi Arena",1,1,"Gävle GIK",1
+"454","Peter Novakovic","Sparbanken Wictory Center, Salmingplanen",1,1,"Lagan IBK",1
+"455","Peter Novakovic","Sparbanken Wictory Center, Salmingplanen",1,1,"Warberg IC",1
+"456","Peter Palmelius","Alfahallen - Gavlehov",2,12,"IBK Runsten",1
+"457","Peter Palmelius","Alfahallen - Gavlehov",2,12,"Gävle GIK",1
+"458","Peter Palmelius","Alfahallen - Gavlehov",2,12,"Hagunda IF",1
+"459","Peter Palmelius","Alfahallen - Gavlehov",2,12,"KAIS Mora IF",1
+"460","Peter Palmelius","Fleminghallen",2,12,"Hagunda IF",1
+"461","Peter Palmelius","Fleminghallen",2,12,"Hudik/Björkberg IBK",1
+"462","Peter Palmelius","Fleminghallen",2,12,"FBI Tullinge",2
+"463","Peter Palmelius","Habo Sporthall A-hall",1,12,"Fagerhult Habo IBK",1
+"464","Peter Palmelius","Habo Sporthall A-hall",1,12,"Karlstad IBF",1
+"465","Peter Palmelius","Idre Fjäll Arena",2,12,"Salems IF",1
+"466","Peter Palmelius","Idre Fjäll Arena",2,12,"KAIS Mora IF",2
+"467","Peter Palmelius","Idre Fjäll Arena",2,12,"Hagunda IF",1
+"468","Peter Palmelius","Idrottshuset, Örebro Plan 1",1,12,"Lillån IBK",1
+"469","Peter Palmelius","Idrottshuset, Örebro Plan 1",1,12,"Visby IBK",1
+"470","Peter Palmelius","IFU Arena A",1,12,"Djurgårdens IF IBS",1
+"471","Peter Palmelius","IFU Arena A",1,12,"Hagunda IF",1
+"472","Peter Palmelius","Rosvalla A",1,12,"Onyx IBK",1
+"473","Peter Palmelius","Rosvalla A",1,12,"Åby IBK",1
+"474","Peter Palmelius","Skogsängshallen",1,12,"FBI Tullinge",1
+"475","Peter Palmelius","Skogsängshallen",1,12,"Salems IF",1
+"476","Peter Palmelius","Åby Arena",1,12,"Lillån IBK",1
+"477","Peter Palmelius","Åby Arena",1,12,"Åby IBK",1
+"478","Petter Seger Undén","Colorama Arena",1,6,"Karlstad IBF",1
+"479","Petter Seger Undén","Colorama Arena",1,6,"FBC Lerum",1
+"480","Petter Seger Undén","Fleminghallen",1,6,"FBI Tullinge",1
+"481","Petter Seger Undén","Fleminghallen",1,6,"KAIS Mora IF",1
+"482","Petter Seger Undén","Idrottshuset, Örebro Plan 1",1,6,"Lillån IBK",1
+"483","Petter Seger Undén","Idrottshuset, Örebro Plan 1",1,6,"Lagan IBK",1
+"484","Petter Seger Undén","Sparbanken Wictory Center, Salmingplanen",1,6,"Warberg IC",1
+"485","Petter Seger Undén","Sparbanken Wictory Center, Salmingplanen",1,6,"Åby IBK",1
+"486","Petter Seger Undén","Södervärnshallen",1,6,"Visby IBK",1
+"487","Petter Seger Undén","Södervärnshallen",1,6,"Onyx IBK",1
+"488","Petter Seger Undén","Thomas Arena",1,6,"Strängnäs IBK",1
+"489","Petter Seger Undén","Thomas Arena",1,6,"Fagerhult Habo IBK",1
+"490","Rickard Olsen","Colorama Arena",1,7,"Karlstad IBF",1
+"491","Rickard Olsen","Colorama Arena",1,7,"Onyx IBK",1
+"492","Rickard Olsen","Fortnox Arena Nivika hallen",1,7,"Lagan IBK",1
+"493","Rickard Olsen","Fortnox Arena Nivika hallen",1,7,"Warberg IC",1
+"494","Rickard Olsen","Habo Sporthall A-hall",1,7,"Fagerhult Habo IBK",1
+"495","Rickard Olsen","Habo Sporthall A-hall",1,7,"Craftstadens IBK Oskarshamn",1
+"496","Rickard Olsen","Håstaholmen",1,7,"Hudik/Björkberg IBK",1
+"497","Rickard Olsen","Håstaholmen",1,7,"Team Thorengruppen SK",1
+"498","Rickard Olsen","Oskarshamns Sporthall A-hall",1,7,"Craftstadens IBK Oskarshamn",1
+"499","Rickard Olsen","Oskarshamns Sporthall A-hall",1,7,"Lillån IBK",1
+"500","Rickard Olsen","Umeå Energi Arena",1,7,"Hagunda IF",1
+"501","Rickard Olsen","Umeå Energi Arena",1,7,"Team Thorengruppen SK",1
+"502","Rickard Olsen","Umeå Energi Arena Väst",1,7,"RIG Umeå IBF",1
+"503","Rickard Olsen","Umeå Energi Arena Väst",1,7,"FBI Tullinge",1
+"504","Rickard Wissman","Solnahallen",1,1,"AIK IBF",1
+"505","Rickard Wissman","Solnahallen",1,1,"RIG Umeå IBF",1
+"506","Robert Forslind Lovrencic","Alfahallen - Gavlehov",2,12,"KAIS Mora IF",1
+"507","Robert Forslind Lovrencic","Alfahallen - Gavlehov",2,12,"Hagunda IF",1
+"508","Robert Forslind Lovrencic","Alfahallen - Gavlehov",2,12,"Gävle GIK",1
+"509","Robert Forslind Lovrencic","Alfahallen - Gavlehov",2,12,"IBK Runsten",1
+"510","Robert Forslind Lovrencic","Fleminghallen",2,12,"Hudik/Björkberg IBK",1
+"511","Robert Forslind Lovrencic","Fleminghallen",2,12,"Hagunda IF",1
+"512","Robert Forslind Lovrencic","Fleminghallen",2,12,"FBI Tullinge",2
+"513","Robert Forslind Lovrencic","Habo Sporthall A-hall",1,12,"Fagerhult Habo IBK",1
+"514","Robert Forslind Lovrencic","Habo Sporthall A-hall",1,12,"Karlstad IBF",1
+"515","Robert Forslind Lovrencic","Idre Fjäll Arena",2,12,"Salems IF",1
+"516","Robert Forslind Lovrencic","Idre Fjäll Arena",2,12,"KAIS Mora IF",2
+"517","Robert Forslind Lovrencic","Idre Fjäll Arena",2,12,"Hagunda IF",1
+"518","Robert Forslind Lovrencic","Idrottshuset, Örebro Plan 1",1,12,"Lillån IBK",1
+"519","Robert Forslind Lovrencic","Idrottshuset, Örebro Plan 1",1,12,"Visby IBK",1
+"520","Robert Forslind Lovrencic","IFU Arena A",1,12,"Hagunda IF",1
+"521","Robert Forslind Lovrencic","IFU Arena A",1,12,"Djurgårdens IF IBS",1
+"522","Robert Forslind Lovrencic","Rosvalla A",1,12,"Onyx IBK",1
+"523","Robert Forslind Lovrencic","Rosvalla A",1,12,"Åby IBK",1
+"524","Robert Forslind Lovrencic","Skogsängshallen",1,12,"Salems IF",1
+"525","Robert Forslind Lovrencic","Skogsängshallen",1,12,"FBI Tullinge",1
+"526","Robert Forslind Lovrencic","Åby Arena",1,12,"Lillån IBK",1
+"527","Robert Forslind Lovrencic","Åby Arena",1,12,"Åby IBK",1
+"528","Robin Boqvist","Colorama Arena",1,3,"Strängnäs IBK",1
+"529","Robin Boqvist","Colorama Arena",1,3,"Karlstad IBF",1
+"530","Robin Boqvist","Thomas Arena",1,3,"Lillån IBK",1
+"531","Robin Boqvist","Thomas Arena",1,3,"Strängnäs IBK",1
+"532","Robin Boqvist","Umeå Energi Arena Väst",1,3,"RIG Umeå IBF",1
+"533","Robin Boqvist","Umeå Energi Arena Väst",1,3,"Salems IF",1
+"534","Shari Tingman","Norrmalmia Sph",1,2,"Salems IF",1
+"535","Shari Tingman","Norrmalmia Sph",1,2,"Wibax-Piteå IBK",1
+"536","Shari Tingman","Oskarshamns Sporthall A-hall",1,2,"Strängnäs IBK",1
+"537","Shari Tingman","Oskarshamns Sporthall A-hall",1,2,"Craftstadens IBK Oskarshamn",1
+"538","Sigge Svensson Martell","Baltiska Hallen A",1,5,"Malmö FBC",1
+"539","Sigge Svensson Martell","Baltiska Hallen A",1,5,"Fagerhult Habo IBK",1
+"540","Sigge Svensson Martell","Innebandyhallen",1,5,"Lagan IBK",1
+"541","Sigge Svensson Martell","Innebandyhallen",1,5,"Malmö FBC",1
+"542","Sigge Svensson Martell","Skogsängshallen",1,5,"Salems IF",1
+"543","Sigge Svensson Martell","Skogsängshallen",1,5,"Gävle GIK",1
+"544","Sigge Svensson Martell","Sparbanken Wictory Center, Salmingplanen",2,5,"Strängnäs IBK",1
+"545","Sigge Svensson Martell","Sparbanken Wictory Center, Salmingplanen",2,5,"Warberg IC",2
+"546","Sigge Svensson Martell","Sparbanken Wictory Center, Salmingplanen",2,5,"Visby IBK",1
+"547","Simon Broman","Kirsebergs Sporthall",1,2,"Karlstad IBF",1
+"548","Simon Broman","Kirsebergs Sporthall",1,2,"Malmö FBC",1
+"549","Simon Broman","Sparbanken Wictory Center, Salmingplanen",1,2,"Warberg IC",1
+"550","Simon Broman","Sparbanken Wictory Center, Salmingplanen",1,2,"Lillån IBK",1
+"551","Stefan Olsson","Habo Sporthall A-hall",1,2,"Fagerhult Habo IBK",1
+"552","Stefan Olsson","Habo Sporthall A-hall",1,2,"Warberg IC",1
+"553","Stefan Olsson","Sparbanken Wictory Center, Salmingplanen",1,2,"Warberg IC",1
+"554","Stefan Olsson","Sparbanken Wictory Center, Salmingplanen",1,2,"Fagerhult Habo IBK",1
+"555","Thomas Andersson","Solnahallen",1,1,"AIK IBF",1
+"556","Thomas Andersson","Solnahallen",1,1,"RIG Umeå IBF",1
+"557","Tobias Berger","Alfahallen - Gavlehov",2,25,"IBK Runsten",1
+"558","Tobias Berger","Alfahallen - Gavlehov",2,25,"Gävle GIK",2
+"559","Tobias Berger","Alfahallen - Gavlehov",2,25,"Hudik/Björkberg IBK",1
+"560","Tobias Berger","Baltiska Hallen A",1,25,"Malmö FBC",1
+"561","Tobias Berger","Baltiska Hallen A",1,25,"Warberg IC",1
+"562","Tobias Berger","Colorama Arena",2,25,"Karlstad IBF",2
+"563","Tobias Berger","Colorama Arena",2,25,"Lagan IBK",1
+"564","Tobias Berger","Colorama Arena",2,25,"Malmö FBC",1
+"565","Tobias Berger","Eriksdalshallen",2,25,"Salems IF",1
+"566","Tobias Berger","Eriksdalshallen",2,25,"IBK Runsten",1
+"567","Tobias Berger","Eriksdalshallen",2,25,"Djurgårdens IF IBS",2
+"568","Tobias Berger","Fleminghallen",1,25,"Team Thorengruppen SK",1
+"569","Tobias Berger","Fleminghallen",1,25,"FBI Tullinge",1
+"570","Tobias Berger","Habo Sporthall A-hall",1,25,"Malmö FBC",1
+"571","Tobias Berger","Habo Sporthall A-hall",1,25,"Fagerhult Habo IBK",1
+"572","Tobias Berger","Idre Fjäll Arena",1,25,"KAIS Mora IF",1
+"573","Tobias Berger","Idre Fjäll Arena",1,25,"RIG Umeå IBF",1
+"574","Tobias Berger","Idrottshuset, Örebro Plan 1",1,25,"Craftstadens IBK Oskarshamn",1
+"575","Tobias Berger","Idrottshuset, Örebro Plan 1",1,25,"Lillån IBK",1
+"576","Tobias Berger","IFU Arena A",3,25,"RIG Umeå IBF",1
+"577","Tobias Berger","IFU Arena A",3,25,"IBK Runsten",1
+"578","Tobias Berger","IFU Arena A",3,25,"Hudik/Björkberg IBK",1
+"579","Tobias Berger","IFU Arena A",3,25,"Hagunda IF",3
+"580","Tobias Berger","Oskarshamns Sporthall A-hall",1,25,"Craftstadens IBK Oskarshamn",1
+"581","Tobias Berger","Oskarshamns Sporthall A-hall",1,25,"Strängnäs IBK",1
+"582","Tobias Berger","Rosvalla A",1,25,"Fagerhult Habo IBK",1
+"583","Tobias Berger","Rosvalla A",1,25,"Onyx IBK",1
+"584","Tobias Berger","Skogsängshallen",2,25,"Wibax-Piteå IBK",1
+"585","Tobias Berger","Skogsängshallen",2,25,"KAIS Mora IF",1
+"586","Tobias Berger","Skogsängshallen",2,25,"Salems IF",2
+"587","Tobias Berger","Solnahallen",3,25,"FBI Tullinge",1
+"588","Tobias Berger","Solnahallen",3,25,"Gävle GIK",1
+"589","Tobias Berger","Solnahallen",3,25,"Hagunda IF",1
+"590","Tobias Berger","Solnahallen",3,25,"AIK IBF",3
+"591","Tobias Berger","Thomas Arena",1,25,"Strängnäs IBK",1
+"592","Tobias Berger","Thomas Arena",1,25,"FBC Lerum",1
+"593","Tobias Berger","Umeå Energi Arena",1,25,"Team Thorengruppen SK",1
+"594","Tobias Berger","Umeå Energi Arena",1,25,"RIG Umeå IBF",1
+"595","Tobias Berger","Umeå Energi Arena Väst",1,25,"Djurgårdens IF IBS",1
+"596","Tobias Berger","Umeå Energi Arena Väst",1,25,"RIG Umeå IBF",1
+"597","Tobias Berger","Åby Arena",1,25,"Karlstad IBF",1
+"598","Tobias Berger","Åby Arena",1,25,"Åby IBK",1
+"599","Tobias Levin","Colorama Arena",1,17,"Karlstad IBF",1
+"600","Tobias Levin","Colorama Arena",1,17,"Lillån IBK",1
+"601","Tobias Levin","Eriksdalshallen",2,17,"Wibax-Piteå IBK",1
+"602","Tobias Levin","Eriksdalshallen",2,17,"Djurgårdens IF IBS",2
+"603","Tobias Levin","Eriksdalshallen",2,17,"RIG Umeå IBF",1
+"604","Tobias Levin","Håstaholmen",1,17,"AIK IBF",1
+"605","Tobias Levin","Håstaholmen",1,17,"Hudik/Björkberg IBK",1
+"606","Tobias Levin","ICA Maxi Arena",2,17,"Lillån IBK",1
+"607","Tobias Levin","ICA Maxi Arena",2,17,"Lagan IBK",1
+"608","Tobias Levin","ICA Maxi Arena",2,17,"Visby IBK",2
+"609","Tobias Levin","Idre Fjäll Arena",2,17,"Wibax-Piteå IBK",1
+"610","Tobias Levin","Idre Fjäll Arena",2,17,"KAIS Mora IF",2
+"611","Tobias Levin","Idre Fjäll Arena",2,17,"Djurgårdens IF IBS",1
+"612","Tobias Levin","Idrottshuset, Örebro Plan 1",1,17,"Onyx IBK",1
+"613","Tobias Levin","Idrottshuset, Örebro Plan 1",1,17,"Lillån IBK",1
+"614","Tobias Levin","Norrmalmia Sph",2,17,"Wibax-Piteå IBK",2
+"615","Tobias Levin","Norrmalmia Sph",2,17,"Gävle GIK",1
+"616","Tobias Levin","Norrmalmia Sph",2,17,"Hudik/Björkberg IBK",1
+"617","Tobias Levin","Oskarshamns Sporthall A-hall",1,17,"Onyx IBK",1
+"618","Tobias Levin","Oskarshamns Sporthall A-hall",1,17,"Craftstadens IBK Oskarshamn",1
+"619","Tobias Levin","Rosvalla A",1,17,"Strängnäs IBK",1
+"620","Tobias Levin","Rosvalla A",1,17,"Onyx IBK",1
+"621","Tobias Levin","Rydsbergshallen",2,17,"Craftstadens IBK Oskarshamn",1
+"622","Tobias Levin","Rydsbergshallen",2,17,"Karlstad IBF",1
+"623","Tobias Levin","Rydsbergshallen",2,17,"FBC Lerum",2
+"624","Tobias Levin","Åby Arena",2,17,"Lagan IBK",1
+"625","Tobias Levin","Åby Arena",2,17,"Fagerhult Habo IBK",1
+"626","Tobias Levin","Åby Arena",2,17,"Åby IBK",2
+"627","Tomas Edstrand","Colorama Arena",1,7,"Onyx IBK",1
+"628","Tomas Edstrand","Colorama Arena",1,7,"Karlstad IBF",1
+"629","Tomas Edstrand","Fortnox Arena Nivika hallen",1,7,"Warberg IC",1
+"630","Tomas Edstrand","Fortnox Arena Nivika hallen",1,7,"Lagan IBK",1
+"631","Tomas Edstrand","Habo Sporthall A-hall",1,7,"Fagerhult Habo IBK",1
+"632","Tomas Edstrand","Habo Sporthall A-hall",1,7,"Craftstadens IBK Oskarshamn",1
+"633","Tomas Edstrand","Håstaholmen",1,7,"Team Thorengruppen SK",1
+"634","Tomas Edstrand","Håstaholmen",1,7,"Hudik/Björkberg IBK",1
+"635","Tomas Edstrand","Oskarshamns Sporthall A-hall",1,7,"Craftstadens IBK Oskarshamn",1
+"636","Tomas Edstrand","Oskarshamns Sporthall A-hall",1,7,"Lillån IBK",1
+"637","Tomas Edstrand","Umeå Energi Arena",1,7,"Team Thorengruppen SK",1
+"638","Tomas Edstrand","Umeå Energi Arena",1,7,"Hagunda IF",1
+"639","Tomas Edstrand","Umeå Energi Arena Väst",1,7,"RIG Umeå IBF",1
+"640","Tomas Edstrand","Umeå Energi Arena Väst",1,7,"FBI Tullinge",1
+"641","Tony Olsson","Baltiska Hallen A",1,5,"Fagerhult Habo IBK",1
+"642","Tony Olsson","Baltiska Hallen A",1,5,"Malmö FBC",1
+"643","Tony Olsson","Innebandyhallen",1,5,"Malmö FBC",1
+"644","Tony Olsson","Innebandyhallen",1,5,"Lagan IBK",1
+"645","Tony Olsson","Skogsängshallen",1,5,"Salems IF",1
+"646","Tony Olsson","Skogsängshallen",1,5,"Gävle GIK",1
+"647","Tony Olsson","Sparbanken Wictory Center, Salmingplanen",2,5,"Warberg IC",2
+"648","Tony Olsson","Sparbanken Wictory Center, Salmingplanen",2,5,"Strängnäs IBK",1
+"649","Tony Olsson","Sparbanken Wictory Center, Salmingplanen",2,5,"Visby IBK",1

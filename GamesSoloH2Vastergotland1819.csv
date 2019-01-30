@@ -1,271 +1,324 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Bjarne Wesenlund","Alléhallen, Vara",2,8,"IBK Tygriket 99",1
-"2","Bjarne Wesenlund","Alléhallen, Vara",2,8,"Vara IBK ",2
-"3","Bjarne Wesenlund","Alléhallen, Vara",2,8,"Tranemo IBK",1
-"4","Bjarne Wesenlund","Almåshallen - Borås",2,8,"Rydboholms SK",1
-"5","Bjarne Wesenlund","Almåshallen - Borås",2,8,"Sandareds IBS",2
-"6","Bjarne Wesenlund","Almåshallen - Borås",2,8,"Tranemo IBK",1
-"7","Bjarne Wesenlund","Daltorphallen, Borås",1,8,"IBK Tygriket 99",1
-"8","Bjarne Wesenlund","Daltorphallen, Borås",1,8,"Borås IBF",1
-"9","Bjarne Wesenlund","Idrottshall, Tranemo",2,8,"Tranemo IBK",2
-"10","Bjarne Wesenlund","Idrottshall, Tranemo",2,8,"Borås IBF",1
-"11","Bjarne Wesenlund","Idrottshall, Tranemo",2,8,"Fröjereds IF",1
-"12","Bjarne Wesenlund","Öxabäckshallen",1,8,"IBK Tygriket 99",1
-"13","Bjarne Wesenlund","Öxabäckshallen",1,8,"Stöpen IBK",1
-"14","Daniel Dimitrovski","Alléhallen, Vara",1,14,"Vara IBK ",1
-"15","Daniel Dimitrovski","Alléhallen, Vara",1,14,"Skövde IBF",1
-"16","Daniel Dimitrovski","Arena A, Skövde",1,14,"Stöpen IBK",1
-"17","Daniel Dimitrovski","Arena A, Skövde",1,14,"Skövde IBF ",1
-"18","Daniel Dimitrovski","Arena C, Skövde",1,14,"Wårgårda IBK",1
-"19","Daniel Dimitrovski","Arena C, Skövde",1,14,"Skövde IBF ",1
-"20","Daniel Dimitrovski","Daltorphallen, Borås",1,14,"Skövde IBF",1
-"21","Daniel Dimitrovski","Daltorphallen, Borås",1,14,"Borås IBF",1
-"22","Daniel Dimitrovski","Idrottshallen, Töreboda",2,14,"IBK Vänersborg",1
-"23","Daniel Dimitrovski","Idrottshallen, Töreboda",2,14,"Borås IBF",1
-"24","Daniel Dimitrovski","Idrottshallen, Töreboda",2,14,"BK Halna",2
-"25","Daniel Dimitrovski","Idrottshallen, Viskafors",1,14,"BK Halna",1
-"26","Daniel Dimitrovski","Idrottshallen, Viskafors",1,14,"Rydboholms SK",1
-"27","Daniel Dimitrovski","Idrottshuset, Vänersborg",2,14,"Fröjereds IF",1
-"28","Daniel Dimitrovski","Idrottshuset, Vänersborg",2,14,"IBK Vänersborg",2
-"29","Daniel Dimitrovski","Idrottshuset, Vänersborg",2,14,"Wårgårda IBK",1
-"30","Daniel Dimitrovski","Kungabergshallen, Fritsla",2,14,"Wårgårda IBK",1
-"31","Daniel Dimitrovski","Kungabergshallen, Fritsla",2,14,"IBK Tygriket 99",2
-"32","Daniel Dimitrovski","Kungabergshallen, Fritsla",2,14,"Vara IBK",1
-"33","Daniel Dimitrovski","Sparbankshallen, T-holm",1,14,"Rydboholms SK",1
-"34","Daniel Dimitrovski","Sparbankshallen, T-holm",1,14,"Fröjereds IF",1
-"35","Daniel Dimitrovski","Sporthallen, Vårgårda",1,14,"Wårgårda IBK",1
-"36","Daniel Dimitrovski","Sporthallen, Vårgårda",1,14,"Skövde IBF",1
-"37","Daniel Dimitrovski","Stöpenhallen, Skövde",1,14,"IBK Tygriket 99",1
-"38","Daniel Dimitrovski","Stöpenhallen, Skövde",1,14,"Stöpen IBK ",1
-"39","David Persson","Alléhallen, Vara",2,15,"Rydboholms SK",1
-"40","David Persson","Alléhallen, Vara",2,15,"Vara IBK ",2
-"41","David Persson","Alléhallen, Vara",2,15,"Sandareds IBS",1
-"42","David Persson","Almåshallen - Borås",2,15,"Sandareds IBS",2
-"43","David Persson","Almåshallen - Borås",2,15,"Skövde IBF",1
-"44","David Persson","Almåshallen - Borås",2,15,"IBK Tygriket 99",1
-"45","David Persson","Arena C, Skövde",1,15,"Borås IBF",1
-"46","David Persson","Arena C, Skövde",1,15,"Skövde IBF ",1
-"47","David Persson","Daltorphallen, Borås",1,15,"IBK Vänersborg",1
-"48","David Persson","Daltorphallen, Borås",1,15,"Borås IBF",1
-"49","David Persson","Idrottshall, Tranemo",1,15,"Tranemo IBK",1
-"50","David Persson","Idrottshall, Tranemo",1,15,"Stöpen IBK",1
-"51","David Persson","Idrottshallen, Viskafors",1,15,"Rydboholms SK",1
-"52","David Persson","Idrottshallen, Viskafors",1,15,"Vara IBK",1
-"53","David Persson","Idrottshuset, Vänersborg",1,15,"Skövde IBF",1
-"54","David Persson","Idrottshuset, Vänersborg",1,15,"IBK Vänersborg",1
-"55","David Persson","Kungabergshallen, Fritsla",1,15,"IBK Tygriket 99",1
-"56","David Persson","Kungabergshallen, Fritsla",1,15,"Fröjereds IF",1
-"57","David Persson","Sparbankshallen, T-holm",1,15,"Sandareds IBS",1
-"58","David Persson","Sparbankshallen, T-holm",1,15,"Fröjereds IF",1
-"59","David Persson","Sporthallen, Vårgårda",2,15,"Rydboholms SK",1
-"60","David Persson","Sporthallen, Vårgårda",2,15,"Wårgårda IBK",2
-"61","David Persson","Sporthallen, Vårgårda",2,15,"Sandareds IBS",1
-"62","David Persson","Stöpenhallen, Skövde",1,15,"Sandareds IBS",1
-"63","David Persson","Stöpenhallen, Skövde",1,15,"Stöpen IBK ",1
-"64","David Persson","Öxabäckshallen",1,15,"IBK Tygriket 99",1
-"65","David Persson","Öxabäckshallen",1,15,"Tranemo IBK",1
-"66","Erling Josefsson","Alléhallen, Vara",1,12,"Wårgårda IBK",1
-"67","Erling Josefsson","Alléhallen, Vara",1,12,"Vara IBK ",1
-"68","Erling Josefsson","Almåshallen - Borås",1,12,"BK Halna",1
-"69","Erling Josefsson","Almåshallen - Borås",1,12,"Sandareds IBS",1
-"70","Erling Josefsson","Arena C, Skövde",1,12,"BK Halna",1
-"71","Erling Josefsson","Arena C, Skövde",1,12,"Skövde IBF ",1
-"72","Erling Josefsson","Idrottshall, Tranemo",3,12,"Rydboholms SK",1
-"73","Erling Josefsson","Idrottshall, Tranemo",3,12,"IBK Vänersborg",1
-"74","Erling Josefsson","Idrottshall, Tranemo",3,12,"BK Halna",1
-"75","Erling Josefsson","Idrottshall, Tranemo",3,12,"Tranemo IBK",3
-"76","Erling Josefsson","Idrottshallen, Viskafors",3,12,"Sandareds IBS",1
-"77","Erling Josefsson","Idrottshallen, Viskafors",3,12,"IBK Vänersborg",1
-"78","Erling Josefsson","Idrottshallen, Viskafors",3,12,"Rydboholms SK",1
-"79","Erling Josefsson","Idrottshallen, Viskafors",3,12,"IBK Tygriket 99",1
-"80","Erling Josefsson","Idrottshallen, Viskafors",3,12,"Rydboholms SK",2
-"81","Erling Josefsson","Idrottshuset, Vänersborg",1,12,"Sandareds IBS",1
-"82","Erling Josefsson","Idrottshuset, Vänersborg",1,12,"IBK Vänersborg",1
-"83","Erling Josefsson","Sparbankshallen, T-holm",1,12,"Fröjereds IF",1
-"84","Erling Josefsson","Sparbankshallen, T-holm",1,12,"IBK Vänersborg",1
-"85","Erling Josefsson","Sporthallen, Vårgårda",1,12,"Borås IBF",1
-"86","Erling Josefsson","Sporthallen, Vårgårda",1,12,"Wårgårda IBK",1
-"87","Harri Tjäder","Alléhallen, Vara",2,16,"Rydboholms SK",1
-"88","Harri Tjäder","Alléhallen, Vara",2,16,"Sandareds IBS",1
-"89","Harri Tjäder","Alléhallen, Vara",2,16,"Vara IBK ",2
-"90","Harri Tjäder","Almåshallen - Borås",2,16,"IBK Tygriket 99",1
-"91","Harri Tjäder","Almåshallen - Borås",2,16,"Skövde IBF",1
-"92","Harri Tjäder","Almåshallen - Borås",2,16,"Sandareds IBS",2
-"93","Harri Tjäder","Arena C, Skövde",1,16,"Skövde IBF ",1
-"94","Harri Tjäder","Arena C, Skövde",1,16,"Borås IBF",1
-"95","Harri Tjäder","Daltorphallen, Borås",1,16,"Borås IBF",1
-"96","Harri Tjäder","Daltorphallen, Borås",1,16,"IBK Vänersborg",1
-"97","Harri Tjäder","Idrottshall, Tranemo",1,16,"Stöpen IBK",1
-"98","Harri Tjäder","Idrottshall, Tranemo",1,16,"Tranemo IBK",1
-"99","Harri Tjäder","Idrottshallen, Viskafors",1,16,"Vara IBK",1
-"100","Harri Tjäder","Idrottshallen, Viskafors",1,16,"Rydboholms SK",1
-"101","Harri Tjäder","Idrottshuset, Vänersborg",1,16,"Skövde IBF",1
-"102","Harri Tjäder","Idrottshuset, Vänersborg",1,16,"IBK Vänersborg",1
-"103","Harri Tjäder","Kungabergshallen, Fritsla",1,16,"IBK Tygriket 99",1
-"104","Harri Tjäder","Kungabergshallen, Fritsla",1,16,"Fröjereds IF",1
-"105","Harri Tjäder","Sparbankshallen, T-holm",2,16,"Fröjereds IF",2
-"106","Harri Tjäder","Sparbankshallen, T-holm",2,16,"Sandareds IBS",1
-"107","Harri Tjäder","Sparbankshallen, T-holm",2,16,"Wårgårda IBK",1
-"108","Harri Tjäder","Sporthallen, Vårgårda",2,16,"Wårgårda IBK",2
-"109","Harri Tjäder","Sporthallen, Vårgårda",2,16,"Rydboholms SK",1
-"110","Harri Tjäder","Sporthallen, Vårgårda",2,16,"Sandareds IBS",1
-"111","Harri Tjäder","Stöpenhallen, Skövde",1,16,"Stöpen IBK ",1
-"112","Harri Tjäder","Stöpenhallen, Skövde",1,16,"Sandareds IBS",1
-"113","Harri Tjäder","Öxabäckshallen",1,16,"IBK Tygriket 99",1
-"114","Harri Tjäder","Öxabäckshallen",1,16,"Tranemo IBK",1
-"115","Henrik Carlsson","Alléhallen, Vara",2,8,"Vara IBK ",2
-"116","Henrik Carlsson","Alléhallen, Vara",2,8,"IBK Tygriket 99",1
-"117","Henrik Carlsson","Alléhallen, Vara",2,8,"Tranemo IBK",1
-"118","Henrik Carlsson","Almåshallen - Borås",2,8,"Sandareds IBS",2
-"119","Henrik Carlsson","Almåshallen - Borås",2,8,"Tranemo IBK",1
-"120","Henrik Carlsson","Almåshallen - Borås",2,8,"Rydboholms SK",1
-"121","Henrik Carlsson","Daltorphallen, Borås",1,8,"IBK Tygriket 99",1
-"122","Henrik Carlsson","Daltorphallen, Borås",1,8,"Borås IBF",1
-"123","Henrik Carlsson","Idrottshall, Tranemo",1,8,"Tranemo IBK",1
-"124","Henrik Carlsson","Idrottshall, Tranemo",1,8,"Borås IBF",1
-"125","Henrik Carlsson","Idrottshallen, Viskafors",1,8,"IBK Tygriket 99",1
-"126","Henrik Carlsson","Idrottshallen, Viskafors",1,8,"Rydboholms SK",1
-"127","Henrik Carlsson","Öxabäckshallen",1,8,"Stöpen IBK",1
-"128","Henrik Carlsson","Öxabäckshallen",1,8,"IBK Tygriket 99",1
-"129","Joakim Mattsson","Almåshallen - Borås",1,9,"BK Halna",1
-"130","Joakim Mattsson","Almåshallen - Borås",1,9,"Sandareds IBS",1
-"131","Joakim Mattsson","Arena C, Skövde",1,9,"Skövde IBF ",1
-"132","Joakim Mattsson","Arena C, Skövde",1,9,"BK Halna",1
-"133","Joakim Mattsson","Idrottshall, Tranemo",2,9,"Rydboholms SK",1
-"134","Joakim Mattsson","Idrottshall, Tranemo",2,9,"BK Halna",1
-"135","Joakim Mattsson","Idrottshall, Tranemo",2,9,"Tranemo IBK",2
-"136","Joakim Mattsson","Idrottshallen, Viskafors",2,9,"IBK Vänersborg",1
-"137","Joakim Mattsson","Idrottshallen, Viskafors",2,9,"Sandareds IBS",1
-"138","Joakim Mattsson","Idrottshallen, Viskafors",2,9,"Rydboholms SK",2
-"139","Joakim Mattsson","Idrottshuset, Vänersborg",1,9,"IBK Vänersborg",1
-"140","Joakim Mattsson","Idrottshuset, Vänersborg",1,9,"Sandareds IBS",1
-"141","Joakim Mattsson","Sparbankshallen, T-holm",1,9,"Fröjereds IF",1
-"142","Joakim Mattsson","Sparbankshallen, T-holm",1,9,"IBK Vänersborg",1
-"143","Joakim Mattsson","Sporthallen, Vårgårda",1,9,"Borås IBF",1
-"144","Joakim Mattsson","Sporthallen, Vårgårda",1,9,"Wårgårda IBK",1
-"145","Kenth Lindqvist","Stöpenhallen, Skövde",2,2,"Stöpen IBK ",2
-"146","Kenth Lindqvist","Stöpenhallen, Skövde",2,2,"BK Halna",1
-"147","Kenth Lindqvist","Stöpenhallen, Skövde",2,2,"Borås IBF",1
-"148","Kronoslav Kis","Alléhallen, Vara",1,13,"Vara IBK ",1
-"149","Kronoslav Kis","Alléhallen, Vara",1,13,"Fröjereds IF",1
-"150","Kronoslav Kis","Arena C, Skövde",2,13,"Skövde IBF ",1
-"151","Kronoslav Kis","Arena C, Skövde",2,13,"Tranemo IBK",1
-"152","Kronoslav Kis","Arena C, Skövde",2,13,"Rydboholms SK",1
-"153","Kronoslav Kis","Arena C, Skövde",2,13,"Skövde IBF ",1
-"154","Kronoslav Kis","Idrottshallen, Töreboda",4,13,"IBK Tygriket 99",1
-"155","Kronoslav Kis","Idrottshallen, Töreboda",4,13,"Sandareds IBS",1
-"156","Kronoslav Kis","Idrottshallen, Töreboda",4,13,"Wårgårda IBK",1
-"157","Kronoslav Kis","Idrottshallen, Töreboda",4,13,"Fröjereds IF",1
-"158","Kronoslav Kis","Idrottshallen, Töreboda",4,13,"BK Halna",4
-"159","Kronoslav Kis","Idrottshallen, Viskafors",1,13,"Stöpen IBK",1
-"160","Kronoslav Kis","Idrottshallen, Viskafors",1,13,"Rydboholms SK",1
-"161","Kronoslav Kis","Idrottshuset, Vänersborg",1,13,"IBK Vänersborg",1
-"162","Kronoslav Kis","Idrottshuset, Vänersborg",1,13,"Borås IBF",1
-"163","Kronoslav Kis","Sparbankshallen, T-holm",1,13,"Tranemo IBK",1
-"164","Kronoslav Kis","Sparbankshallen, T-holm",1,13,"Fröjereds IF",1
-"165","Kronoslav Kis","Sporthallen, Vårgårda",1,13,"Wårgårda IBK",1
-"166","Kronoslav Kis","Sporthallen, Vårgårda",1,13,"Stöpen IBK",1
-"167","Kronoslav Kis","Stöpenhallen, Skövde",2,13,"BK Halna",1
-"168","Kronoslav Kis","Stöpenhallen, Skövde",2,13,"Stöpen IBK ",2
-"169","Kronoslav Kis","Stöpenhallen, Skövde",2,13,"Tranemo IBK",1
-"170","Magnus Jansson","Arena C, Skövde",1,5,"Skövde IBF ",1
-"171","Magnus Jansson","Arena C, Skövde",1,5,"Rydboholms SK",1
-"172","Magnus Jansson","Daltorphallen, Borås",1,5,"Vara IBK",1
-"173","Magnus Jansson","Daltorphallen, Borås",1,5,"Borås IBF",1
-"174","Magnus Jansson","Idrottshuset, Vänersborg",1,5,"IBK Vänersborg",1
-"175","Magnus Jansson","Idrottshuset, Vänersborg",1,5,"IBK Tygriket 99",1
-"176","Magnus Jansson","Sparbankshallen, T-holm",1,5,"Wårgårda IBK",1
-"177","Magnus Jansson","Sparbankshallen, T-holm",1,5,"Fröjereds IF",1
-"178","Magnus Jansson","Stöpenhallen, Skövde",1,5,"Stöpen IBK ",1
-"179","Magnus Jansson","Stöpenhallen, Skövde",1,5,"IBK Vänersborg",1
-"180","Mattias Furbo","Daltorphallen, Borås",1,11,"Sandareds IBS",1
-"181","Mattias Furbo","Daltorphallen, Borås",1,11,"Borås IBF",1
-"182","Mattias Furbo","Idrottshallen, Töreboda",1,11,"Vara IBK",1
-"183","Mattias Furbo","Idrottshallen, Töreboda",1,11,"BK Halna",1
-"184","Mattias Furbo","Idrottshallen, Viskafors",1,11,"Rydboholms SK",1
-"185","Mattias Furbo","Idrottshallen, Viskafors",1,11,"Borås IBF",1
-"186","Mattias Furbo","Idrottshuset, Vänersborg",1,11,"Vara IBK",1
-"187","Mattias Furbo","Idrottshuset, Vänersborg",1,11,"IBK Vänersborg",1
-"188","Mattias Furbo","Sparbankshallen, T-holm",2,11,"Stöpen IBK",1
-"189","Mattias Furbo","Sparbankshallen, T-holm",2,11,"Fröjereds IF",2
-"190","Mattias Furbo","Sparbankshallen, T-holm",2,11,"Skövde IBF",1
-"191","Mattias Furbo","Sporthallen, Vårgårda",2,11,"BK Halna",1
-"192","Mattias Furbo","Sporthallen, Vårgårda",2,11,"Tranemo IBK",1
-"193","Mattias Furbo","Sporthallen, Vårgårda",2,11,"Wårgårda IBK",2
-"194","Mattias Furbo","Stöpenhallen, Skövde",2,11,"Stöpen IBK ",2
-"195","Mattias Furbo","Stöpenhallen, Skövde",2,11,"Vara IBK",1
-"196","Mattias Furbo","Stöpenhallen, Skövde",2,11,"Borås IBF",1
-"197","Mattias Furbo","Öxabäckshallen",1,11,"Skövde IBF",1
-"198","Mattias Furbo","Öxabäckshallen",1,11,"IBK Tygriket 99",1
-"199","Mikael Magnusson","Alléhallen, Vara",1,11,"Fröjereds IF",1
-"200","Mikael Magnusson","Alléhallen, Vara",1,11,"Vara IBK ",1
-"201","Mikael Magnusson","Arena C, Skövde",1,11,"Tranemo IBK",1
-"202","Mikael Magnusson","Arena C, Skövde",1,11,"Skövde IBF ",1
-"203","Mikael Magnusson","Idrottshallen, Töreboda",4,11,"BK Halna",4
-"204","Mikael Magnusson","Idrottshallen, Töreboda",4,11,"Fröjereds IF",1
-"205","Mikael Magnusson","Idrottshallen, Töreboda",4,11,"Sandareds IBS",1
-"206","Mikael Magnusson","Idrottshallen, Töreboda",4,11,"Wårgårda IBK",1
-"207","Mikael Magnusson","Idrottshallen, Töreboda",4,11,"IBK Tygriket 99",1
-"208","Mikael Magnusson","Idrottshallen, Viskafors",1,11,"Stöpen IBK",1
-"209","Mikael Magnusson","Idrottshallen, Viskafors",1,11,"Rydboholms SK",1
-"210","Mikael Magnusson","Idrottshuset, Vänersborg",1,11,"Borås IBF",1
-"211","Mikael Magnusson","Idrottshuset, Vänersborg",1,11,"IBK Vänersborg",1
-"212","Mikael Magnusson","Sparbankshallen, T-holm",1,11,"Fröjereds IF",1
-"213","Mikael Magnusson","Sparbankshallen, T-holm",1,11,"Tranemo IBK",1
-"214","Mikael Magnusson","Sporthallen, Vårgårda",1,11,"Wårgårda IBK",1
-"215","Mikael Magnusson","Sporthallen, Vårgårda",1,11,"Stöpen IBK",1
-"216","Mikael Magnusson","Stöpenhallen, Skövde",1,11,"Stöpen IBK ",1
-"217","Mikael Magnusson","Stöpenhallen, Skövde",1,11,"Tranemo IBK",1
-"218","Nebojsa Stefanovski","Alléhallen, Vara",2,16,"Vara IBK ",2
-"219","Nebojsa Stefanovski","Alléhallen, Vara",2,16,"Skövde IBF",1
-"220","Nebojsa Stefanovski","Alléhallen, Vara",2,16,"Wårgårda IBK",1
-"221","Nebojsa Stefanovski","Arena A, Skövde",1,16,"Skövde IBF ",1
-"222","Nebojsa Stefanovski","Arena A, Skövde",1,16,"Stöpen IBK",1
-"223","Nebojsa Stefanovski","Arena C, Skövde",1,16,"Skövde IBF ",1
-"224","Nebojsa Stefanovski","Arena C, Skövde",1,16,"Wårgårda IBK",1
-"225","Nebojsa Stefanovski","Daltorphallen, Borås",2,16,"Borås IBF",2
-"226","Nebojsa Stefanovski","Daltorphallen, Borås",2,16,"Skövde IBF",1
-"227","Nebojsa Stefanovski","Daltorphallen, Borås",2,16,"Vara IBK",1
-"228","Nebojsa Stefanovski","Idrottshallen, Töreboda",2,16,"BK Halna",2
-"229","Nebojsa Stefanovski","Idrottshallen, Töreboda",2,16,"Borås IBF",1
-"230","Nebojsa Stefanovski","Idrottshallen, Töreboda",2,16,"IBK Vänersborg",1
-"231","Nebojsa Stefanovski","Idrottshallen, Viskafors",1,16,"Rydboholms SK",1
-"232","Nebojsa Stefanovski","Idrottshallen, Viskafors",1,16,"BK Halna",1
-"233","Nebojsa Stefanovski","Idrottshuset, Vänersborg",2,16,"Fröjereds IF",1
-"234","Nebojsa Stefanovski","Idrottshuset, Vänersborg",2,16,"Wårgårda IBK",1
-"235","Nebojsa Stefanovski","Idrottshuset, Vänersborg",2,16,"IBK Vänersborg",2
-"236","Nebojsa Stefanovski","Kungabergshallen, Fritsla",2,16,"Vara IBK",1
-"237","Nebojsa Stefanovski","Kungabergshallen, Fritsla",2,16,"Wårgårda IBK",1
-"238","Nebojsa Stefanovski","Kungabergshallen, Fritsla",2,16,"IBK Tygriket 99",2
-"239","Nebojsa Stefanovski","Sparbankshallen, T-holm",1,16,"Fröjereds IF",1
-"240","Nebojsa Stefanovski","Sparbankshallen, T-holm",1,16,"Rydboholms SK",1
-"241","Nebojsa Stefanovski","Sporthallen, Vårgårda",1,16,"Wårgårda IBK",1
-"242","Nebojsa Stefanovski","Sporthallen, Vårgårda",1,16,"Skövde IBF",1
-"243","Nebojsa Stefanovski","Stöpenhallen, Skövde",1,16,"IBK Tygriket 99",1
-"244","Nebojsa Stefanovski","Stöpenhallen, Skövde",1,16,"Stöpen IBK ",1
-"245","Ola Forsberg","Idrottshall, Tranemo",1,1,"Fröjereds IF",1
-"246","Ola Forsberg","Idrottshall, Tranemo",1,1,"Tranemo IBK",1
-"247","Pedram Koublani","Idrottshuset, Vänersborg",1,2,"IBK Vänersborg",1
-"248","Pedram Koublani","Idrottshuset, Vänersborg",1,2,"IBK Tygriket 99",1
-"249","Pedram Koublani","Stöpenhallen, Skövde",1,2,"Stöpen IBK ",1
-"250","Pedram Koublani","Stöpenhallen, Skövde",1,2,"IBK Vänersborg",1
-"251","Sven Persson","Daltorphallen, Borås",1,11,"Borås IBF",1
-"252","Sven Persson","Daltorphallen, Borås",1,11,"Sandareds IBS",1
-"253","Sven Persson","Idrottshall, Tranemo",1,11,"IBK Vänersborg",1
-"254","Sven Persson","Idrottshall, Tranemo",1,11,"Tranemo IBK",1
-"255","Sven Persson","Idrottshallen, Töreboda",1,11,"Vara IBK",1
-"256","Sven Persson","Idrottshallen, Töreboda",1,11,"BK Halna",1
-"257","Sven Persson","Idrottshallen, Viskafors",1,11,"Rydboholms SK",1
-"258","Sven Persson","Idrottshallen, Viskafors",1,11,"Borås IBF",1
-"259","Sven Persson","Idrottshuset, Vänersborg",1,11,"IBK Vänersborg",1
-"260","Sven Persson","Idrottshuset, Vänersborg",1,11,"Vara IBK",1
-"261","Sven Persson","Sparbankshallen, T-holm",2,11,"Fröjereds IF",2
-"262","Sven Persson","Sparbankshallen, T-holm",2,11,"Stöpen IBK",1
-"263","Sven Persson","Sparbankshallen, T-holm",2,11,"Skövde IBF",1
-"264","Sven Persson","Sporthallen, Vårgårda",2,11,"Wårgårda IBK",2
-"265","Sven Persson","Sporthallen, Vårgårda",2,11,"Tranemo IBK",1
-"266","Sven Persson","Sporthallen, Vårgårda",2,11,"BK Halna",1
-"267","Sven Persson","Stöpenhallen, Skövde",1,11,"Vara IBK",1
-"268","Sven Persson","Stöpenhallen, Skövde",1,11,"Stöpen IBK ",1
-"269","Sven Persson","Öxabäckshallen",1,11,"IBK Tygriket 99",1
-"270","Sven Persson","Öxabäckshallen",1,11,"Skövde IBF",1
+"1","Bjarne Wesenlund","Alléhallen, Vara",2,10,"Tranemo IBK",1
+"2","Bjarne Wesenlund","Alléhallen, Vara",2,10,"Vara IBK ",2
+"3","Bjarne Wesenlund","Alléhallen, Vara",2,10,"IBK Tygriket 99",1
+"4","Bjarne Wesenlund","Almåshallen - Borås",2,10,"Sandareds IBS",2
+"5","Bjarne Wesenlund","Almåshallen - Borås",2,10,"Rydboholms SK",1
+"6","Bjarne Wesenlund","Almåshallen - Borås",2,10,"Tranemo IBK",1
+"7","Bjarne Wesenlund","Arena C, Skövde",1,10,"IBK Vänersborg",1
+"8","Bjarne Wesenlund","Arena C, Skövde",1,10,"Skövde IBF ",1
+"9","Bjarne Wesenlund","Daltorphallen, Borås",2,10,"IBK Tygriket 99",1
+"10","Bjarne Wesenlund","Daltorphallen, Borås",2,10,"Borås IBF",2
+"11","Bjarne Wesenlund","Daltorphallen, Borås",2,10,"Tranemo IBK",1
+"12","Bjarne Wesenlund","Idrottshall, Tranemo",2,10,"Fröjereds IF",1
+"13","Bjarne Wesenlund","Idrottshall, Tranemo",2,10,"Borås IBF",1
+"14","Bjarne Wesenlund","Idrottshall, Tranemo",2,10,"Tranemo IBK",2
+"15","Bjarne Wesenlund","Öxabäckshallen",1,10,"IBK Tygriket 99",1
+"16","Bjarne Wesenlund","Öxabäckshallen",1,10,"Stöpen IBK",1
+"17","Daniel Dimitrovski","Alléhallen, Vara",1,17,"Skövde IBF",1
+"18","Daniel Dimitrovski","Alléhallen, Vara",1,17,"Vara IBK ",1
+"19","Daniel Dimitrovski","Almåshallen - Borås",1,17,"Stöpen IBK",1
+"20","Daniel Dimitrovski","Almåshallen - Borås",1,17,"Sandareds IBS",1
+"21","Daniel Dimitrovski","Arena A, Skövde",1,17,"Skövde IBF ",1
+"22","Daniel Dimitrovski","Arena A, Skövde",1,17,"Stöpen IBK",1
+"23","Daniel Dimitrovski","Arena C, Skövde",1,17,"Wårgårda IBK",1
+"24","Daniel Dimitrovski","Arena C, Skövde",1,17,"Skövde IBF ",1
+"25","Daniel Dimitrovski","Daltorphallen, Borås",1,17,"Skövde IBF",1
+"26","Daniel Dimitrovski","Daltorphallen, Borås",1,17,"Borås IBF",1
+"27","Daniel Dimitrovski","Idrottshallen, Töreboda",2,17,"BK Halna",2
+"28","Daniel Dimitrovski","Idrottshallen, Töreboda",2,17,"Borås IBF",1
+"29","Daniel Dimitrovski","Idrottshallen, Töreboda",2,17,"IBK Vänersborg",1
+"30","Daniel Dimitrovski","Idrottshallen, Viskafors",1,17,"BK Halna",1
+"31","Daniel Dimitrovski","Idrottshallen, Viskafors",1,17,"Rydboholms SK",1
+"32","Daniel Dimitrovski","Idrottshuset, Vänersborg",2,17,"Fröjereds IF",1
+"33","Daniel Dimitrovski","Idrottshuset, Vänersborg",2,17,"IBK Vänersborg",2
+"34","Daniel Dimitrovski","Idrottshuset, Vänersborg",2,17,"Wårgårda IBK",1
+"35","Daniel Dimitrovski","Kungabergshallen, Fritsla",2,17,"Vara IBK",1
+"36","Daniel Dimitrovski","Kungabergshallen, Fritsla",2,17,"Wårgårda IBK",1
+"37","Daniel Dimitrovski","Kungabergshallen, Fritsla",2,17,"IBK Tygriket 99",2
+"38","Daniel Dimitrovski","Sparbankshallen, T-holm",2,17,"Fröjereds IF",2
+"39","Daniel Dimitrovski","Sparbankshallen, T-holm",2,17,"Rydboholms SK",1
+"40","Daniel Dimitrovski","Sparbankshallen, T-holm",2,17,"IBK Tygriket 99",1
+"41","Daniel Dimitrovski","Sporthallen, Vårgårda",1,17,"Wårgårda IBK",1
+"42","Daniel Dimitrovski","Sporthallen, Vårgårda",1,17,"Skövde IBF",1
+"43","Daniel Dimitrovski","Stöpenhallen, Skövde",1,17,"IBK Tygriket 99",1
+"44","Daniel Dimitrovski","Stöpenhallen, Skövde",1,17,"Stöpen IBK ",1
+"45","Daniel Dimitrovski","Öxabäckshallen",1,17,"IBK Tygriket 99",1
+"46","Daniel Dimitrovski","Öxabäckshallen",1,17,"Borås IBF",1
+"47","David Persson","Alléhallen, Vara",2,17,"Vara IBK ",2
+"48","David Persson","Alléhallen, Vara",2,17,"Rydboholms SK",1
+"49","David Persson","Alléhallen, Vara",2,17,"Sandareds IBS",1
+"50","David Persson","Almåshallen - Borås",2,17,"Sandareds IBS",2
+"51","David Persson","Almåshallen - Borås",2,17,"Skövde IBF",1
+"52","David Persson","Almåshallen - Borås",2,17,"IBK Tygriket 99",1
+"53","David Persson","Arena C, Skövde",1,17,"Skövde IBF ",1
+"54","David Persson","Arena C, Skövde",1,17,"Borås IBF",1
+"55","David Persson","Daltorphallen, Borås",1,17,"IBK Vänersborg",1
+"56","David Persson","Daltorphallen, Borås",1,17,"Borås IBF",1
+"57","David Persson","Idrottshall, Tranemo",1,17,"Tranemo IBK",1
+"58","David Persson","Idrottshall, Tranemo",1,17,"Stöpen IBK",1
+"59","David Persson","Idrottshallen, Viskafors",1,17,"Rydboholms SK",1
+"60","David Persson","Idrottshallen, Viskafors",1,17,"Vara IBK",1
+"61","David Persson","Idrottshuset, Vänersborg",1,17,"Skövde IBF",1
+"62","David Persson","Idrottshuset, Vänersborg",1,17,"IBK Vänersborg",1
+"63","David Persson","Kungabergshallen, Fritsla",1,17,"Fröjereds IF",1
+"64","David Persson","Kungabergshallen, Fritsla",1,17,"IBK Tygriket 99",1
+"65","David Persson","Sparbankshallen, T-holm",1,17,"Sandareds IBS",1
+"66","David Persson","Sparbankshallen, T-holm",1,17,"Fröjereds IF",1
+"67","David Persson","Sporthallen, Vårgårda",4,17,"IBK Vänersborg",1
+"68","David Persson","Sporthallen, Vårgårda",4,17,"Rydboholms SK",1
+"69","David Persson","Sporthallen, Vårgårda",4,17,"Wårgårda IBK",4
+"70","David Persson","Sporthallen, Vårgårda",4,17,"Sandareds IBS",1
+"71","David Persson","Sporthallen, Vårgårda",4,17,"IBK Tygriket 99",1
+"72","David Persson","Stöpenhallen, Skövde",1,17,"Stöpen IBK ",1
+"73","David Persson","Stöpenhallen, Skövde",1,17,"Sandareds IBS",1
+"74","David Persson","Öxabäckshallen",1,17,"IBK Tygriket 99",1
+"75","David Persson","Öxabäckshallen",1,17,"Tranemo IBK",1
+"76","Erling Josefsson","Alléhallen, Vara",1,14,"Vara IBK ",1
+"77","Erling Josefsson","Alléhallen, Vara",1,14,"Wårgårda IBK",1
+"78","Erling Josefsson","Almåshallen - Borås",1,14,"BK Halna",1
+"79","Erling Josefsson","Almåshallen - Borås",1,14,"Sandareds IBS",1
+"80","Erling Josefsson","Arena C, Skövde",1,14,"Skövde IBF ",1
+"81","Erling Josefsson","Arena C, Skövde",1,14,"BK Halna",1
+"82","Erling Josefsson","Idrottshall, Tranemo",3,14,"IBK Vänersborg",1
+"83","Erling Josefsson","Idrottshall, Tranemo",3,14,"Tranemo IBK",3
+"84","Erling Josefsson","Idrottshall, Tranemo",3,14,"BK Halna",1
+"85","Erling Josefsson","Idrottshall, Tranemo",3,14,"Rydboholms SK",1
+"86","Erling Josefsson","Idrottshallen, Viskafors",3,14,"Rydboholms SK",1
+"87","Erling Josefsson","Idrottshallen, Viskafors",3,14,"IBK Vänersborg",1
+"88","Erling Josefsson","Idrottshallen, Viskafors",3,14,"Sandareds IBS",1
+"89","Erling Josefsson","Idrottshallen, Viskafors",3,14,"Rydboholms SK",2
+"90","Erling Josefsson","Idrottshallen, Viskafors",3,14,"IBK Tygriket 99",1
+"91","Erling Josefsson","Idrottshuset, Vänersborg",2,14,"IBK Vänersborg",2
+"92","Erling Josefsson","Idrottshuset, Vänersborg",2,14,"Sandareds IBS",1
+"93","Erling Josefsson","Idrottshuset, Vänersborg",2,14,"BK Halna",1
+"94","Erling Josefsson","Sparbankshallen, T-holm",2,14,"Fröjereds IF",1
+"95","Erling Josefsson","Sparbankshallen, T-holm",2,14,"Fröjereds IF",1
+"96","Erling Josefsson","Sparbankshallen, T-holm",2,14,"IBK Vänersborg",1
+"97","Erling Josefsson","Sparbankshallen, T-holm",2,14,"Vara IBK",1
+"98","Erling Josefsson","Sporthallen, Vårgårda",1,14,"Borås IBF",1
+"99","Erling Josefsson","Sporthallen, Vårgårda",1,14,"Wårgårda IBK",1
+"100","Harri Tjäder","Alléhallen, Vara",3,19,"Rydboholms SK",1
+"101","Harri Tjäder","Alléhallen, Vara",3,19,"Sandareds IBS",1
+"102","Harri Tjäder","Alléhallen, Vara",3,19,"Stöpen IBK",1
+"103","Harri Tjäder","Alléhallen, Vara",3,19,"Vara IBK ",3
+"104","Harri Tjäder","Almåshallen - Borås",2,19,"Skövde IBF",1
+"105","Harri Tjäder","Almåshallen - Borås",2,19,"Sandareds IBS",2
+"106","Harri Tjäder","Almåshallen - Borås",2,19,"IBK Tygriket 99",1
+"107","Harri Tjäder","Arena C, Skövde",1,19,"Skövde IBF ",1
+"108","Harri Tjäder","Arena C, Skövde",1,19,"Borås IBF",1
+"109","Harri Tjäder","Daltorphallen, Borås",1,19,"Borås IBF",1
+"110","Harri Tjäder","Daltorphallen, Borås",1,19,"IBK Vänersborg",1
+"111","Harri Tjäder","Idrottshall, Tranemo",1,19,"Stöpen IBK",1
+"112","Harri Tjäder","Idrottshall, Tranemo",1,19,"Tranemo IBK",1
+"113","Harri Tjäder","Idrottshallen, Viskafors",1,19,"Vara IBK",1
+"114","Harri Tjäder","Idrottshallen, Viskafors",1,19,"Rydboholms SK",1
+"115","Harri Tjäder","Idrottshuset, Vänersborg",1,19,"IBK Vänersborg",1
+"116","Harri Tjäder","Idrottshuset, Vänersborg",1,19,"Skövde IBF",1
+"117","Harri Tjäder","Kungabergshallen, Fritsla",1,19,"IBK Tygriket 99",1
+"118","Harri Tjäder","Kungabergshallen, Fritsla",1,19,"Fröjereds IF",1
+"119","Harri Tjäder","Sparbankshallen, T-holm",2,19,"Sandareds IBS",1
+"120","Harri Tjäder","Sparbankshallen, T-holm",2,19,"Fröjereds IF",2
+"121","Harri Tjäder","Sparbankshallen, T-holm",2,19,"Wårgårda IBK",1
+"122","Harri Tjäder","Sporthallen, Vårgårda",4,19,"IBK Tygriket 99",1
+"123","Harri Tjäder","Sporthallen, Vårgårda",4,19,"Sandareds IBS",1
+"124","Harri Tjäder","Sporthallen, Vårgårda",4,19,"IBK Vänersborg",1
+"125","Harri Tjäder","Sporthallen, Vårgårda",4,19,"Rydboholms SK",1
+"126","Harri Tjäder","Sporthallen, Vårgårda",4,19,"Wårgårda IBK",4
+"127","Harri Tjäder","Stöpenhallen, Skövde",1,19,"Stöpen IBK ",1
+"128","Harri Tjäder","Stöpenhallen, Skövde",1,19,"Sandareds IBS",1
+"129","Harri Tjäder","Öxabäckshallen",1,19,"Tranemo IBK",1
+"130","Harri Tjäder","Öxabäckshallen",1,19,"IBK Tygriket 99",1
+"131","Henrik Carlsson","Alléhallen, Vara",2,10,"IBK Tygriket 99",1
+"132","Henrik Carlsson","Alléhallen, Vara",2,10,"Tranemo IBK",1
+"133","Henrik Carlsson","Alléhallen, Vara",2,10,"Vara IBK ",2
+"134","Henrik Carlsson","Almåshallen - Borås",2,10,"Rydboholms SK",1
+"135","Henrik Carlsson","Almåshallen - Borås",2,10,"Sandareds IBS",2
+"136","Henrik Carlsson","Almåshallen - Borås",2,10,"Tranemo IBK",1
+"137","Henrik Carlsson","Arena C, Skövde",1,10,"Skövde IBF ",1
+"138","Henrik Carlsson","Arena C, Skövde",1,10,"IBK Vänersborg",1
+"139","Henrik Carlsson","Daltorphallen, Borås",2,10,"IBK Tygriket 99",1
+"140","Henrik Carlsson","Daltorphallen, Borås",2,10,"Tranemo IBK",1
+"141","Henrik Carlsson","Daltorphallen, Borås",2,10,"Borås IBF",2
+"142","Henrik Carlsson","Idrottshall, Tranemo",1,10,"Tranemo IBK",1
+"143","Henrik Carlsson","Idrottshall, Tranemo",1,10,"Borås IBF",1
+"144","Henrik Carlsson","Idrottshallen, Viskafors",1,10,"Rydboholms SK",1
+"145","Henrik Carlsson","Idrottshallen, Viskafors",1,10,"IBK Tygriket 99",1
+"146","Henrik Carlsson","Öxabäckshallen",1,10,"Stöpen IBK",1
+"147","Henrik Carlsson","Öxabäckshallen",1,10,"IBK Tygriket 99",1
+"148","Joakim Mattsson","Almåshallen - Borås",1,10,"Sandareds IBS",1
+"149","Joakim Mattsson","Almåshallen - Borås",1,10,"BK Halna",1
+"150","Joakim Mattsson","Arena C, Skövde",1,10,"Skövde IBF ",1
+"151","Joakim Mattsson","Arena C, Skövde",1,10,"BK Halna",1
+"152","Joakim Mattsson","Idrottshall, Tranemo",2,10,"BK Halna",1
+"153","Joakim Mattsson","Idrottshall, Tranemo",2,10,"Rydboholms SK",1
+"154","Joakim Mattsson","Idrottshall, Tranemo",2,10,"Tranemo IBK",2
+"155","Joakim Mattsson","Idrottshallen, Viskafors",2,10,"IBK Vänersborg",1
+"156","Joakim Mattsson","Idrottshallen, Viskafors",2,10,"Sandareds IBS",1
+"157","Joakim Mattsson","Idrottshallen, Viskafors",2,10,"Rydboholms SK",2
+"158","Joakim Mattsson","Idrottshuset, Vänersborg",2,10,"Sandareds IBS",1
+"159","Joakim Mattsson","Idrottshuset, Vänersborg",2,10,"IBK Vänersborg",2
+"160","Joakim Mattsson","Idrottshuset, Vänersborg",2,10,"BK Halna",1
+"161","Joakim Mattsson","Sparbankshallen, T-holm",1,10,"Fröjereds IF",1
+"162","Joakim Mattsson","Sparbankshallen, T-holm",1,10,"IBK Vänersborg",1
+"163","Joakim Mattsson","Sporthallen, Vårgårda",1,10,"Wårgårda IBK",1
+"164","Joakim Mattsson","Sporthallen, Vårgårda",1,10,"Borås IBF",1
+"165","Kenth Lindqvist","Alléhallen, Vara",1,3,"Vara IBK ",1
+"166","Kenth Lindqvist","Alléhallen, Vara",1,3,"Stöpen IBK",1
+"167","Kenth Lindqvist","Stöpenhallen, Skövde",2,3,"Stöpen IBK ",2
+"168","Kenth Lindqvist","Stöpenhallen, Skövde",2,3,"Borås IBF",1
+"169","Kenth Lindqvist","Stöpenhallen, Skövde",2,3,"BK Halna",1
+"170","Kronoslav Kis","Alléhallen, Vara",1,17,"Vara IBK ",1
+"171","Kronoslav Kis","Alléhallen, Vara",1,17,"Fröjereds IF",1
+"172","Kronoslav Kis","Arena C, Skövde",2,17,"Tranemo IBK",1
+"173","Kronoslav Kis","Arena C, Skövde",2,17,"Skövde IBF ",1
+"174","Kronoslav Kis","Arena C, Skövde",2,17,"Skövde IBF ",1
+"175","Kronoslav Kis","Arena C, Skövde",2,17,"Rydboholms SK",1
+"176","Kronoslav Kis","Daltorphallen, Borås",1,17,"Borås IBF",1
+"177","Kronoslav Kis","Daltorphallen, Borås",1,17,"Rydboholms SK",1
+"178","Kronoslav Kis","Idrottshall, Tranemo",1,17,"Wårgårda IBK",1
+"179","Kronoslav Kis","Idrottshall, Tranemo",1,17,"Tranemo IBK",1
+"180","Kronoslav Kis","Idrottshallen, Töreboda",5,17,"Skövde IBF",1
+"181","Kronoslav Kis","Idrottshallen, Töreboda",5,17,"Wårgårda IBK",1
+"182","Kronoslav Kis","Idrottshallen, Töreboda",5,17,"Sandareds IBS",1
+"183","Kronoslav Kis","Idrottshallen, Töreboda",5,17,"IBK Tygriket 99",1
+"184","Kronoslav Kis","Idrottshallen, Töreboda",5,17,"BK Halna",5
+"185","Kronoslav Kis","Idrottshallen, Töreboda",5,17,"Fröjereds IF",1
+"186","Kronoslav Kis","Idrottshallen, Viskafors",1,17,"Stöpen IBK",1
+"187","Kronoslav Kis","Idrottshallen, Viskafors",1,17,"Rydboholms SK",1
+"188","Kronoslav Kis","Idrottshuset, Vänersborg",1,17,"Borås IBF",1
+"189","Kronoslav Kis","Idrottshuset, Vänersborg",1,17,"IBK Vänersborg",1
+"190","Kronoslav Kis","Sparbankshallen, T-holm",1,17,"Tranemo IBK",1
+"191","Kronoslav Kis","Sparbankshallen, T-holm",1,17,"Fröjereds IF",1
+"192","Kronoslav Kis","Sporthallen, Vårgårda",1,17,"Stöpen IBK",1
+"193","Kronoslav Kis","Sporthallen, Vårgårda",1,17,"Wårgårda IBK",1
+"194","Kronoslav Kis","Stöpenhallen, Skövde",3,17,"Rydboholms SK",1
+"195","Kronoslav Kis","Stöpenhallen, Skövde",3,17,"BK Halna",1
+"196","Kronoslav Kis","Stöpenhallen, Skövde",3,17,"Tranemo IBK",1
+"197","Kronoslav Kis","Stöpenhallen, Skövde",3,17,"Stöpen IBK ",2
+"198","Kronoslav Kis","Stöpenhallen, Skövde",3,17,"Stöpen IBK ",1
+"199","Magnus Jansson","Arena C, Skövde",1,7,"Skövde IBF ",1
+"200","Magnus Jansson","Arena C, Skövde",1,7,"Rydboholms SK",1
+"201","Magnus Jansson","Daltorphallen, Borås",1,7,"Borås IBF",1
+"202","Magnus Jansson","Daltorphallen, Borås",1,7,"Vara IBK",1
+"203","Magnus Jansson","Idrottshuset, Vänersborg",1,7,"IBK Vänersborg",1
+"204","Magnus Jansson","Idrottshuset, Vänersborg",1,7,"IBK Tygriket 99",1
+"205","Magnus Jansson","Sparbankshallen, T-holm",2,7,"Fröjereds IF",2
+"206","Magnus Jansson","Sparbankshallen, T-holm",2,7,"Wårgårda IBK",1
+"207","Magnus Jansson","Sparbankshallen, T-holm",2,7,"Vara IBK",1
+"208","Magnus Jansson","Stöpenhallen, Skövde",2,7,"IBK Vänersborg",1
+"209","Magnus Jansson","Stöpenhallen, Skövde",2,7,"Rydboholms SK",1
+"210","Magnus Jansson","Stöpenhallen, Skövde",2,7,"Stöpen IBK ",2
+"211","Mattias Furbo","Almåshallen - Borås",1,15,"Vara IBK",1
+"212","Mattias Furbo","Almåshallen - Borås",1,15,"Sandareds IBS",1
+"213","Mattias Furbo","Arena C, Skövde",1,15,"Skövde IBF ",1
+"214","Mattias Furbo","Arena C, Skövde",1,15,"Sandareds IBS",1
+"215","Mattias Furbo","Daltorphallen, Borås",1,15,"Sandareds IBS",1
+"216","Mattias Furbo","Daltorphallen, Borås",1,15,"Borås IBF",1
+"217","Mattias Furbo","Idrottshallen, Töreboda",2,15,"Tranemo IBK",1
+"218","Mattias Furbo","Idrottshallen, Töreboda",2,15,"BK Halna",2
+"219","Mattias Furbo","Idrottshallen, Töreboda",2,15,"Vara IBK",1
+"220","Mattias Furbo","Idrottshallen, Viskafors",2,15,"Rydboholms SK",2
+"221","Mattias Furbo","Idrottshallen, Viskafors",2,15,"Borås IBF",1
+"222","Mattias Furbo","Idrottshallen, Viskafors",2,15,"Fröjereds IF",1
+"223","Mattias Furbo","Idrottshuset, Vänersborg",1,15,"Vara IBK",1
+"224","Mattias Furbo","Idrottshuset, Vänersborg",1,15,"IBK Vänersborg",1
+"225","Mattias Furbo","Sparbankshallen, T-holm",2,15,"Fröjereds IF",2
+"226","Mattias Furbo","Sparbankshallen, T-holm",2,15,"Stöpen IBK",1
+"227","Mattias Furbo","Sparbankshallen, T-holm",2,15,"Skövde IBF",1
+"228","Mattias Furbo","Sporthallen, Vårgårda",2,15,"BK Halna",1
+"229","Mattias Furbo","Sporthallen, Vårgårda",2,15,"Wårgårda IBK",2
+"230","Mattias Furbo","Sporthallen, Vårgårda",2,15,"Tranemo IBK",1
+"231","Mattias Furbo","Stöpenhallen, Skövde",2,15,"Stöpen IBK ",2
+"232","Mattias Furbo","Stöpenhallen, Skövde",2,15,"Borås IBF",1
+"233","Mattias Furbo","Stöpenhallen, Skövde",2,15,"Vara IBK",1
+"234","Mattias Furbo","Öxabäckshallen",1,15,"Skövde IBF",1
+"235","Mattias Furbo","Öxabäckshallen",1,15,"IBK Tygriket 99",1
+"236","Mikael Magnusson","Alléhallen, Vara",1,13,"Vara IBK ",1
+"237","Mikael Magnusson","Alléhallen, Vara",1,13,"Fröjereds IF",1
+"238","Mikael Magnusson","Arena C, Skövde",1,13,"Skövde IBF ",1
+"239","Mikael Magnusson","Arena C, Skövde",1,13,"Tranemo IBK",1
+"240","Mikael Magnusson","Idrottshall, Tranemo",1,13,"Tranemo IBK",1
+"241","Mikael Magnusson","Idrottshall, Tranemo",1,13,"Wårgårda IBK",1
+"242","Mikael Magnusson","Idrottshallen, Töreboda",5,13,"Fröjereds IF",1
+"243","Mikael Magnusson","Idrottshallen, Töreboda",5,13,"Wårgårda IBK",1
+"244","Mikael Magnusson","Idrottshallen, Töreboda",5,13,"Skövde IBF",1
+"245","Mikael Magnusson","Idrottshallen, Töreboda",5,13,"IBK Tygriket 99",1
+"246","Mikael Magnusson","Idrottshallen, Töreboda",5,13,"Sandareds IBS",1
+"247","Mikael Magnusson","Idrottshallen, Töreboda",5,13,"BK Halna",5
+"248","Mikael Magnusson","Idrottshallen, Viskafors",1,13,"Stöpen IBK",1
+"249","Mikael Magnusson","Idrottshallen, Viskafors",1,13,"Rydboholms SK",1
+"250","Mikael Magnusson","Idrottshuset, Vänersborg",1,13,"Borås IBF",1
+"251","Mikael Magnusson","Idrottshuset, Vänersborg",1,13,"IBK Vänersborg",1
+"252","Mikael Magnusson","Sparbankshallen, T-holm",1,13,"Fröjereds IF",1
+"253","Mikael Magnusson","Sparbankshallen, T-holm",1,13,"Tranemo IBK",1
+"254","Mikael Magnusson","Sporthallen, Vårgårda",1,13,"Stöpen IBK",1
+"255","Mikael Magnusson","Sporthallen, Vårgårda",1,13,"Wårgårda IBK",1
+"256","Mikael Magnusson","Stöpenhallen, Skövde",1,13,"Stöpen IBK ",1
+"257","Mikael Magnusson","Stöpenhallen, Skövde",1,13,"Tranemo IBK",1
+"258","Nebojsa Stefanovski","Alléhallen, Vara",2,19,"Skövde IBF",1
+"259","Nebojsa Stefanovski","Alléhallen, Vara",2,19,"Wårgårda IBK",1
+"260","Nebojsa Stefanovski","Alléhallen, Vara",2,19,"Vara IBK ",2
+"261","Nebojsa Stefanovski","Almåshallen - Borås",1,19,"Stöpen IBK",1
+"262","Nebojsa Stefanovski","Almåshallen - Borås",1,19,"Sandareds IBS",1
+"263","Nebojsa Stefanovski","Arena A, Skövde",1,19,"Skövde IBF ",1
+"264","Nebojsa Stefanovski","Arena A, Skövde",1,19,"Stöpen IBK",1
+"265","Nebojsa Stefanovski","Arena C, Skövde",1,19,"Wårgårda IBK",1
+"266","Nebojsa Stefanovski","Arena C, Skövde",1,19,"Skövde IBF ",1
+"267","Nebojsa Stefanovski","Daltorphallen, Borås",2,19,"Vara IBK",1
+"268","Nebojsa Stefanovski","Daltorphallen, Borås",2,19,"Borås IBF",2
+"269","Nebojsa Stefanovski","Daltorphallen, Borås",2,19,"Skövde IBF",1
+"270","Nebojsa Stefanovski","Idrottshallen, Töreboda",2,19,"IBK Vänersborg",1
+"271","Nebojsa Stefanovski","Idrottshallen, Töreboda",2,19,"Borås IBF",1
+"272","Nebojsa Stefanovski","Idrottshallen, Töreboda",2,19,"BK Halna",2
+"273","Nebojsa Stefanovski","Idrottshallen, Viskafors",1,19,"Rydboholms SK",1
+"274","Nebojsa Stefanovski","Idrottshallen, Viskafors",1,19,"BK Halna",1
+"275","Nebojsa Stefanovski","Idrottshuset, Vänersborg",2,19,"Wårgårda IBK",1
+"276","Nebojsa Stefanovski","Idrottshuset, Vänersborg",2,19,"IBK Vänersborg",2
+"277","Nebojsa Stefanovski","Idrottshuset, Vänersborg",2,19,"Fröjereds IF",1
+"278","Nebojsa Stefanovski","Kungabergshallen, Fritsla",2,19,"IBK Tygriket 99",2
+"279","Nebojsa Stefanovski","Kungabergshallen, Fritsla",2,19,"Vara IBK",1
+"280","Nebojsa Stefanovski","Kungabergshallen, Fritsla",2,19,"Wårgårda IBK",1
+"281","Nebojsa Stefanovski","Sparbankshallen, T-holm",2,19,"IBK Tygriket 99",1
+"282","Nebojsa Stefanovski","Sparbankshallen, T-holm",2,19,"Fröjereds IF",2
+"283","Nebojsa Stefanovski","Sparbankshallen, T-holm",2,19,"Rydboholms SK",1
+"284","Nebojsa Stefanovski","Sporthallen, Vårgårda",1,19,"Skövde IBF",1
+"285","Nebojsa Stefanovski","Sporthallen, Vårgårda",1,19,"Wårgårda IBK",1
+"286","Nebojsa Stefanovski","Stöpenhallen, Skövde",1,19,"Stöpen IBK ",1
+"287","Nebojsa Stefanovski","Stöpenhallen, Skövde",1,19,"IBK Tygriket 99",1
+"288","Nebojsa Stefanovski","Öxabäckshallen",1,19,"IBK Tygriket 99",1
+"289","Nebojsa Stefanovski","Öxabäckshallen",1,19,"Borås IBF",1
+"290","Ola Forsberg","Idrottshall, Tranemo",1,1,"Fröjereds IF",1
+"291","Ola Forsberg","Idrottshall, Tranemo",1,1,"Tranemo IBK",1
+"292","Pedram Koublani","Daltorphallen, Borås",1,3,"Borås IBF",1
+"293","Pedram Koublani","Daltorphallen, Borås",1,3,"Rydboholms SK",1
+"294","Pedram Koublani","Idrottshuset, Vänersborg",1,3,"IBK Tygriket 99",1
+"295","Pedram Koublani","Idrottshuset, Vänersborg",1,3,"IBK Vänersborg",1
+"296","Pedram Koublani","Stöpenhallen, Skövde",1,3,"Stöpen IBK ",1
+"297","Pedram Koublani","Stöpenhallen, Skövde",1,3,"IBK Vänersborg",1
+"298","Sven Persson","Almåshallen - Borås",1,15,"Vara IBK",1
+"299","Sven Persson","Almåshallen - Borås",1,15,"Sandareds IBS",1
+"300","Sven Persson","Arena C, Skövde",1,15,"Sandareds IBS",1
+"301","Sven Persson","Arena C, Skövde",1,15,"Skövde IBF ",1
+"302","Sven Persson","Daltorphallen, Borås",1,15,"Borås IBF",1
+"303","Sven Persson","Daltorphallen, Borås",1,15,"Sandareds IBS",1
+"304","Sven Persson","Idrottshall, Tranemo",1,15,"Tranemo IBK",1
+"305","Sven Persson","Idrottshall, Tranemo",1,15,"IBK Vänersborg",1
+"306","Sven Persson","Idrottshallen, Töreboda",2,15,"Vara IBK",1
+"307","Sven Persson","Idrottshallen, Töreboda",2,15,"Tranemo IBK",1
+"308","Sven Persson","Idrottshallen, Töreboda",2,15,"BK Halna",2
+"309","Sven Persson","Idrottshallen, Viskafors",2,15,"Borås IBF",1
+"310","Sven Persson","Idrottshallen, Viskafors",2,15,"Fröjereds IF",1
+"311","Sven Persson","Idrottshallen, Viskafors",2,15,"Rydboholms SK",2
+"312","Sven Persson","Idrottshuset, Vänersborg",1,15,"IBK Vänersborg",1
+"313","Sven Persson","Idrottshuset, Vänersborg",1,15,"Vara IBK",1
+"314","Sven Persson","Sparbankshallen, T-holm",2,15,"Fröjereds IF",2
+"315","Sven Persson","Sparbankshallen, T-holm",2,15,"Stöpen IBK",1
+"316","Sven Persson","Sparbankshallen, T-holm",2,15,"Skövde IBF",1
+"317","Sven Persson","Sporthallen, Vårgårda",2,15,"BK Halna",1
+"318","Sven Persson","Sporthallen, Vårgårda",2,15,"Tranemo IBK",1
+"319","Sven Persson","Sporthallen, Vårgårda",2,15,"Wårgårda IBK",2
+"320","Sven Persson","Stöpenhallen, Skövde",1,15,"Stöpen IBK ",1
+"321","Sven Persson","Stöpenhallen, Skövde",1,15,"Vara IBK",1
+"322","Sven Persson","Öxabäckshallen",1,15,"Skövde IBF",1
+"323","Sven Persson","Öxabäckshallen",1,15,"IBK Tygriket 99",1

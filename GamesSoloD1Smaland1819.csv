@@ -1,255 +1,323 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Adam Nikolausson","Tranås Idrottshall",1,1,"IBF Tranås",1
-"2","Adam Nikolausson","Tranås Idrottshall",1,1,"Olofströms IBK",1
-"3","Anders A Nilsson","Jönköpings Idrottshus D-hall",1,1,"IBF Tranås",1
-"4","Anders A Nilsson","Jönköpings Idrottshus D-hall",1,1,"Östra SK",1
-"5","Anders Everstrand","Arenan - Jönköpings Idrottshus",1,6,"Östra SK",1
-"6","Anders Everstrand","Arenan - Jönköpings Idrottshus",1,6,"Ryds SK",1
-"7","Anders Everstrand","Sävsjö Sporthall",3,6,"Växjö IBK",1
-"8","Anders Everstrand","Sävsjö Sporthall",3,6,"Östra SK",1
-"9","Anders Everstrand","Sävsjö Sporthall",3,6,"Gransholms IF",1
-"10","Anders Everstrand","Sävsjö Sporthall",3,6,"Sävsjö IBK",3
-"11","Anders Everstrand","Värnamo Sporthall",2,6,"Östra SK",1
-"12","Anders Everstrand","Värnamo Sporthall",2,6,"Olofströms IBK",1
-"13","Anders Everstrand","Värnamo Sporthall",2,6,"Värnamo IK",2
-"14","Anders Stenberg","Färjehallen",2,6,"Östra SK",1
-"15","Anders Stenberg","Färjehallen",2,6,"CL98IC",1
-"16","Anders Stenberg","Färjehallen",2,6,"FBC Kalmarsund Ungdom",2
-"17","Anders Stenberg","Olofströms Sporthall",1,6,"Olofströms IBK",1
-"18","Anders Stenberg","Olofströms Sporthall",1,6,"Östra SK",1
-"19","Anders Stenberg","Oskarshamns Sporthall A-hall",1,6,"Craftstadens IBK Oskarshamn",1
-"20","Anders Stenberg","Oskarshamns Sporthall A-hall",1,6,"Sävsjö IBK",1
-"21","Anders Stenberg","Ryds Sporthall",2,6,"FBC Kalmarsund Ungdom",1
-"22","Anders Stenberg","Ryds Sporthall",2,6,"CL98IC",1
-"23","Anders Stenberg","Ryds Sporthall",2,6,"Ryds SK",2
-"24","Annie Nordmark","Fortnox Arena Nivika hallen",1,1,"Växjö IBK",1
-"25","Annie Nordmark","Fortnox Arena Nivika hallen",1,1,"CL98IC",1
-"26","Bengt Andersson","Falkenbergshallen",2,3,"Östra SK",1
-"27","Bengt Andersson","Falkenbergshallen",2,3,"CL98IC",2
-"28","Bengt Andersson","Falkenbergshallen",2,3,"IBF Tranås",1
-"29","Bengt Andersson","Oskarshamns Sporthall A-hall",1,3,"IBF Tranås",1
-"30","Bengt Andersson","Oskarshamns Sporthall A-hall",1,3,"Craftstadens IBK Oskarshamn",1
-"31","Casper Dahlberg","Fortnox Arena Nivika hallen",1,5,"Växjö IBK",1
-"32","Casper Dahlberg","Fortnox Arena Nivika hallen",1,5,"IBF Tranås",1
-"33","Casper Dahlberg","Gemla Sporthall",2,5,"FBC Kalmarsund Ungdom",1
-"34","Casper Dahlberg","Gemla Sporthall",2,5,"Gransholms IF",2
-"35","Casper Dahlberg","Gemla Sporthall",2,5,"Östra SK",1
-"36","Casper Dahlberg","Sävsjö Sporthall",2,5,"Vetlanda IBF",1
-"37","Casper Dahlberg","Sävsjö Sporthall",2,5,"Ryds SK",1
-"38","Casper Dahlberg","Sävsjö Sporthall",2,5,"Sävsjö IBK",2
-"39","Christer Jonsson","Falkenbergshallen",1,1,"CL98IC",1
-"40","Christer Jonsson","Falkenbergshallen",1,1,"Sävsjö IBK",1
-"41","Daniel Gyllander","Färjehallen",1,1,"Olofströms IBK",1
-"42","Daniel Gyllander","Färjehallen",1,1,"FBC Kalmarsund Ungdom",1
-"43","Daniel Pettersson","Fortnox Arena Nivika hallen",2,5,"Ryds SK",1
-"44","Daniel Pettersson","Fortnox Arena Nivika hallen",2,5,"CL98IC",1
-"45","Daniel Pettersson","Fortnox Arena Nivika hallen",2,5,"Växjö IBK",2
-"46","Daniel Pettersson","ISCAR Arena Ney.se, Vetlanda",1,5,"Olofströms IBK",1
-"47","Daniel Pettersson","ISCAR Arena Ney.se, Vetlanda",1,5,"Vetlanda IBF",1
-"48","Daniel Pettersson","Sävsjö Sporthall",1,5,"Sävsjö IBK",1
-"49","Daniel Pettersson","Sävsjö Sporthall",1,5,"Växjö IBK",1
-"50","Daniel Pettersson","Värnamo Sporthall",1,5,"Växjö IBK",1
-"51","Daniel Pettersson","Värnamo Sporthall",1,5,"Värnamo IK",1
-"52","Dawan Mofak","ISCAR Arena Ney.se, Vetlanda",1,1,"Vetlanda IBF",1
-"53","Dawan Mofak","ISCAR Arena Ney.se, Vetlanda",1,1,"Craftstadens IBK Oskarshamn",1
-"54","Dragan Zaharijev","Ryds Sporthall",1,1,"IBF Tranås",1
-"55","Dragan Zaharijev","Ryds Sporthall",1,1,"Ryds SK",1
-"56","Edo Sabanovic","Olofströms Sporthall",1,2,"Olofströms IBK",1
-"57","Edo Sabanovic","Olofströms Sporthall",1,2,"CL98IC",1
-"58","Edo Sabanovic","Ryds Sporthall",1,2,"Gransholms IF",1
-"59","Edo Sabanovic","Ryds Sporthall",1,2,"Ryds SK",1
-"60","Fredrik Billemark","ISCAR Arena Ney.se, Vetlanda",1,4,"Vetlanda IBF",1
-"61","Fredrik Billemark","ISCAR Arena Ney.se, Vetlanda",1,4,"Gransholms IF",1
-"62","Fredrik Billemark","Jönköpings Idrottshus D-hall",1,4,"Östra SK",1
-"63","Fredrik Billemark","Jönköpings Idrottshus D-hall",1,4,"Växjö IBK",1
-"64","Fredrik Billemark","Tranås Idrottshall",1,4,"IBF Tranås",1
-"65","Fredrik Billemark","Tranås Idrottshall",1,4,"Sävsjö IBK",1
-"66","Fredrik Billemark","Värnamo Sporthall",1,4,"Värnamo IK",1
-"67","Fredrik Billemark","Värnamo Sporthall",1,4,"FBC Kalmarsund Ungdom",1
-"68","Fredrik Fältskog","ISCAR Arena Ney.se, Vetlanda",1,3,"Vetlanda IBF",1
-"69","Fredrik Fältskog","ISCAR Arena Ney.se, Vetlanda",1,3,"Växjö IBK",1
-"70","Fredrik Fältskog","Jönköpings Idrottshus D-hall",1,3,"Craftstadens IBK Oskarshamn",1
-"71","Fredrik Fältskog","Jönköpings Idrottshus D-hall",1,3,"Östra SK",1
-"72","Fredrik Fältskog","Tranås Idrottshall",1,3,"FBC Kalmarsund Ungdom",1
-"73","Fredrik Fältskog","Tranås Idrottshall",1,3,"IBF Tranås",1
-"74","Gerhardt Borkowski","ISCAR Arena Ney.se, Vetlanda",1,3,"Vetlanda IBF",1
-"75","Gerhardt Borkowski","ISCAR Arena Ney.se, Vetlanda",1,3,"Olofströms IBK",1
-"76","Gerhardt Borkowski","Jönköpings Idrottshus D-hall",1,3,"Vetlanda IBF",1
-"77","Gerhardt Borkowski","Jönköpings Idrottshus D-hall",1,3,"Östra SK",1
-"78","Gerhardt Borkowski","Värnamo Sporthall",1,3,"Värnamo IK",1
-"79","Gerhardt Borkowski","Värnamo Sporthall",1,3,"Vetlanda IBF",1
-"80","Gustav Jarnegren","Arenan - Jönköpings Idrottshus",1,2,"Östra SK",1
-"81","Gustav Jarnegren","Arenan - Jönköpings Idrottshus",1,2,"Ryds SK",1
-"82","Gustav Jarnegren","Sävsjö Sporthall",1,2,"Östra SK",1
-"83","Gustav Jarnegren","Sävsjö Sporthall",1,2,"Sävsjö IBK",1
-"84","Gustav Svensson","ISCAR Arena Ney.se, Vetlanda",1,1,"Vetlanda IBF",1
-"85","Gustav Svensson","ISCAR Arena Ney.se, Vetlanda",1,1,"Värnamo IK",1
-"86","Henrik Gilliusson","Fortnox Arena Nivika hallen",1,4,"Craftstadens IBK Oskarshamn",1
-"87","Henrik Gilliusson","Fortnox Arena Nivika hallen",1,4,"Växjö IBK",1
-"88","Henrik Gilliusson","Olofströms Sporthall",1,4,"Sävsjö IBK",1
-"89","Henrik Gilliusson","Olofströms Sporthall",1,4,"Olofströms IBK",1
-"90","Henrik Gilliusson","Ryds Sporthall",1,4,"Ryds SK",1
-"91","Henrik Gilliusson","Ryds Sporthall",1,4,"Vetlanda IBF",1
-"92","Henrik Gilliusson","Torslundahallen",1,4,"Ryds SK",1
-"93","Henrik Gilliusson","Torslundahallen",1,4,"FBC Kalmarsund Ungdom",1
-"94","Isak Mörnstål","Jönköpings Idrottshus D-hall",1,1,"Sävsjö IBK",1
-"95","Isak Mörnstål","Jönköpings Idrottshus D-hall",1,1,"Östra SK",1
-"96","Jens Bäcklin","Tranås Idrottshall",1,1,"IBF Tranås",1
-"97","Jens Bäcklin","Tranås Idrottshall",1,1,"Olofströms IBK",1
-"98","Jesper Rygert","ISCAR Arena Ney.se, Vetlanda",1,1,"Vetlanda IBF",1
-"99","Jesper Rygert","ISCAR Arena Ney.se, Vetlanda",1,1,"Craftstadens IBK Oskarshamn",1
-"100","Johan Ferm","Vrigstad Sporthall",1,2,"Sävsjö IBK",1
-"101","Johan Ferm","Vrigstad Sporthall",1,2,"FBC Kalmarsund Ungdom",1
-"102","Johan Ferm","Värnamo Sporthall",1,2,"Värnamo IK",1
-"103","Johan Ferm","Värnamo Sporthall",1,2,"Sävsjö IBK",1
-"104","Johan Nero Wikstrand","ISCAR Arena Ney.se, Vetlanda",1,5,"Vetlanda IBF",1
-"105","Johan Nero Wikstrand","ISCAR Arena Ney.se, Vetlanda",1,5,"Växjö IBK",1
-"106","Johan Nero Wikstrand","Jönköpings Idrottshus D-hall",1,5,"Craftstadens IBK Oskarshamn",1
-"107","Johan Nero Wikstrand","Jönköpings Idrottshus D-hall",1,5,"Östra SK",1
-"108","Johan Nero Wikstrand","Sävsjö Sporthall",1,5,"Gransholms IF",1
-"109","Johan Nero Wikstrand","Sävsjö Sporthall",1,5,"Sävsjö IBK",1
-"110","Johan Nero Wikstrand","Tranås Idrottshall",2,5,"Värnamo IK",1
-"111","Johan Nero Wikstrand","Tranås Idrottshall",2,5,"IBF Tranås",2
-"112","Johan Nero Wikstrand","Tranås Idrottshall",2,5,"FBC Kalmarsund Ungdom",1
-"113","Johnny Edh","Fortnox Arena Nivika hallen",1,2,"Ryds SK",1
-"114","Johnny Edh","Fortnox Arena Nivika hallen",1,2,"Växjö IBK",1
-"115","Johnny Edh","Värnamo Sporthall",1,2,"Värnamo IK",1
-"116","Johnny Edh","Värnamo Sporthall",1,2,"Växjö IBK",1
-"117","Jonas Hellberg","Färjehallen",2,3,"CL98IC",1
-"118","Jonas Hellberg","Färjehallen",2,3,"Östra SK",1
-"119","Jonas Hellberg","Färjehallen",2,3,"FBC Kalmarsund Ungdom",2
-"120","Jonas Hellberg","Oskarshamns Sporthall A-hall",1,3,"Sävsjö IBK",1
-"121","Jonas Hellberg","Oskarshamns Sporthall A-hall",1,3,"Craftstadens IBK Oskarshamn",1
-"122","Jonas Nilsson","Ryds Sporthall",1,1,"Ryds SK",1
-"123","Jonas Nilsson","Ryds Sporthall",1,1,"Olofströms IBK",1
-"124","Jonas Widenstedt","Falkenbergshallen",1,1,"IBF Tranås",1
-"125","Jonas Widenstedt","Falkenbergshallen",1,1,"CL98IC",1
-"126","Kevin Andersson","Gemla Sporthall",1,1,"Gransholms IF",1
-"127","Kevin Andersson","Gemla Sporthall",1,1,"Växjö IBK",1
-"128","Kristian Constantinescu","Gemla Sporthall",1,1,"Gransholms IF",1
-"129","Kristian Constantinescu","Gemla Sporthall",1,1,"Växjö IBK",1
-"130","Leffe Henryson","Färjehallen",2,2,"Craftstadens IBK Oskarshamn",1
-"131","Leffe Henryson","Färjehallen",2,2,"FBC Kalmarsund Ungdom",2
-"132","Leffe Henryson","Färjehallen",2,2,"Vetlanda IBF",1
-"133","Leif Johansson","Ryds Sporthall",1,1,"Ryds SK",1
-"134","Leif Johansson","Ryds Sporthall",1,1,"Värnamo IK",1
-"135","Linus Sandberg","Gemla Sporthall",1,1,"Gransholms IF",1
-"136","Linus Sandberg","Gemla Sporthall",1,1,"Olofströms IBK",1
-"137","Linus Sjöberg","Olofströms Sporthall",1,1,"Växjö IBK",1
-"138","Linus Sjöberg","Olofströms Sporthall",1,1,"Olofströms IBK",1
-"139","Magnus Andersson","ISCAR Arena Ney.se, Vetlanda",1,3,"Gransholms IF",1
-"140","Magnus Andersson","ISCAR Arena Ney.se, Vetlanda",1,3,"Vetlanda IBF",1
-"141","Magnus Andersson","Jönköpings Idrottshus D-hall",1,3,"Växjö IBK",1
-"142","Magnus Andersson","Jönköpings Idrottshus D-hall",1,3,"Östra SK",1
-"143","Magnus Andersson","Tranås Idrottshall",1,3,"IBF Tranås",1
-"144","Magnus Andersson","Tranås Idrottshall",1,3,"Sävsjö IBK",1
-"145","Magnus Widlund","Vrigstad Sporthall",1,2,"Sävsjö IBK",1
-"146","Magnus Widlund","Vrigstad Sporthall",1,2,"FBC Kalmarsund Ungdom",1
-"147","Magnus Widlund","Värnamo Sporthall",1,2,"Sävsjö IBK",1
-"148","Magnus Widlund","Värnamo Sporthall",1,2,"Värnamo IK",1
-"149","Marcus Ingolf","Olofströms Sporthall",2,3,"CL98IC",1
-"150","Marcus Ingolf","Olofströms Sporthall",2,3,"Östra SK",1
-"151","Marcus Ingolf","Olofströms Sporthall",2,3,"Olofströms IBK",2
-"152","Marcus Ingolf","Ryds Sporthall",1,3,"Ryds SK",1
-"153","Marcus Ingolf","Ryds Sporthall",1,3,"Värnamo IK",1
-"154","Mathias Linde","Oskarshamns Sporthall A-hall",1,1,"CL98IC",1
-"155","Mathias Linde","Oskarshamns Sporthall A-hall",1,1,"Craftstadens IBK Oskarshamn",1
-"156","Michéll Borgström","Ryds Sporthall",1,1,"Ryds SK",1
-"157","Michéll Borgström","Ryds Sporthall",1,1,"Olofströms IBK",1
-"158","Michell Rohde","Olofströms Sporthall",1,1,"Craftstadens IBK Oskarshamn",1
-"159","Michell Rohde","Olofströms Sporthall",1,1,"Olofströms IBK",1
-"160","Mikael Fransson","Falkenbergshallen",1,4,"Gransholms IF",1
-"161","Mikael Fransson","Falkenbergshallen",1,4,"CL98IC",1
-"162","Mikael Fransson","Färjehallen",1,4,"Olofströms IBK",1
-"163","Mikael Fransson","Färjehallen",1,4,"FBC Kalmarsund Ungdom",1
-"164","Mikael Fransson","Oskarshamns Sporthall A-hall",1,4,"Värnamo IK",1
-"165","Mikael Fransson","Oskarshamns Sporthall A-hall",1,4,"Craftstadens IBK Oskarshamn",1
-"166","Mikael Fransson","Tranås Idrottshall",1,4,"Vetlanda IBF",1
-"167","Mikael Fransson","Tranås Idrottshall",1,4,"IBF Tranås",1
-"168","Mikael Lundin","Olofströms Sporthall",1,1,"Olofströms IBK",1
-"169","Mikael Lundin","Olofströms Sporthall",1,1,"Växjö IBK",1
-"170","Muhidin Bahtanovic","Falkenbergshallen",1,3,"Gransholms IF",1
-"171","Muhidin Bahtanovic","Falkenbergshallen",1,3,"CL98IC",1
-"172","Muhidin Bahtanovic","Oskarshamns Sporthall A-hall",1,3,"Craftstadens IBK Oskarshamn",1
-"173","Muhidin Bahtanovic","Oskarshamns Sporthall A-hall",1,3,"Värnamo IK",1
-"174","Muhidin Bahtanovic","Tranås Idrottshall",1,3,"IBF Tranås",1
-"175","Muhidin Bahtanovic","Tranås Idrottshall",1,3,"Vetlanda IBF",1
-"176","Nicklas Bard","Jönköpings Idrottshus D-hall",1,1,"Östra SK",1
-"177","Nicklas Bard","Jönköpings Idrottshus D-hall",1,1,"IBF Tranås",1
-"178","Nicklas Hult","Falkenbergshallen",1,1,"CL98IC",1
-"179","Nicklas Hult","Falkenbergshallen",1,1,"Sävsjö IBK",1
-"180","Niklas Dahlberg","Fortnox Arena Nivika hallen",1,5,"IBF Tranås",1
-"181","Niklas Dahlberg","Fortnox Arena Nivika hallen",1,5,"Växjö IBK",1
-"182","Niklas Dahlberg","Gemla Sporthall",2,5,"Östra SK",1
-"183","Niklas Dahlberg","Gemla Sporthall",2,5,"FBC Kalmarsund Ungdom",1
-"184","Niklas Dahlberg","Gemla Sporthall",2,5,"Gransholms IF",2
-"185","Niklas Dahlberg","Sävsjö Sporthall",2,5,"Sävsjö IBK",2
-"186","Niklas Dahlberg","Sävsjö Sporthall",2,5,"Ryds SK",1
-"187","Niklas Dahlberg","Sävsjö Sporthall",2,5,"Vetlanda IBF",1
-"188","Niklas Rosberg","Fortnox Arena Nivika hallen",1,3,"Växjö IBK",1
-"189","Niklas Rosberg","Fortnox Arena Nivika hallen",1,3,"FBC Kalmarsund Ungdom",1
-"190","Niklas Rosberg","Kalmar Sporthall A-hall",1,3,"CL98IC",1
-"191","Niklas Rosberg","Kalmar Sporthall A-hall",1,3,"Vetlanda IBF",1
-"192","Niklas Rosberg","Oskarshamns Sporthall A-hall",1,3,"Ryds SK",1
-"193","Niklas Rosberg","Oskarshamns Sporthall A-hall",1,3,"Craftstadens IBK Oskarshamn",1
-"194","Oskar Lööke","Jönköpings Idrottshus D-hall",1,1,"Sävsjö IBK",1
-"195","Oskar Lööke","Jönköpings Idrottshus D-hall",1,1,"Östra SK",1
-"196","Per Bratt","Fortnox Arena Nivika hallen",1,5,"Växjö IBK",1
-"197","Per Bratt","Fortnox Arena Nivika hallen",1,5,"Craftstadens IBK Oskarshamn",1
-"198","Per Bratt","Gemla Sporthall",1,5,"Gransholms IF",1
-"199","Per Bratt","Gemla Sporthall",1,5,"IBF Tranås",1
-"200","Per Bratt","Olofströms Sporthall",1,5,"Sävsjö IBK",1
-"201","Per Bratt","Olofströms Sporthall",1,5,"Olofströms IBK",1
-"202","Per Bratt","Ryds Sporthall",1,5,"Ryds SK",1
-"203","Per Bratt","Ryds Sporthall",1,5,"Vetlanda IBF",1
-"204","Per Bratt","Torslundahallen",1,5,"Ryds SK",1
-"205","Per Bratt","Torslundahallen",1,5,"FBC Kalmarsund Ungdom",1
-"206","Per Elofsson","Falkenbergshallen",2,4,"Östra SK",1
-"207","Per Elofsson","Falkenbergshallen",2,4,"Värnamo IK",1
-"208","Per Elofsson","Falkenbergshallen",2,4,"CL98IC",1
-"209","Per Elofsson","Falkenbergshallen",2,4,"CL98IC",1
-"210","Per Elofsson","Gemla Sporthall",1,4,"Gransholms IF",1
-"211","Per Elofsson","Gemla Sporthall",1,4,"Craftstadens IBK Oskarshamn",1
-"212","Per Elofsson","Oskarshamns Sporthall A-hall",1,4,"Craftstadens IBK Oskarshamn",1
-"213","Per Elofsson","Oskarshamns Sporthall A-hall",1,4,"CL98IC",1
-"214","Rasmus Wirstam","Fortnox Arena Nivika hallen",1,3,"FBC Kalmarsund Ungdom",1
-"215","Rasmus Wirstam","Fortnox Arena Nivika hallen",1,3,"Växjö IBK",1
-"216","Rasmus Wirstam","Kalmar Sporthall A-hall",1,3,"Vetlanda IBF",1
-"217","Rasmus Wirstam","Kalmar Sporthall A-hall",1,3,"CL98IC",1
-"218","Rasmus Wirstam","Oskarshamns Sporthall A-hall",1,3,"Craftstadens IBK Oskarshamn",1
-"219","Rasmus Wirstam","Oskarshamns Sporthall A-hall",1,3,"Ryds SK",1
-"220","Roger Gardell","Gemla Sporthall",1,4,"Gransholms IF",1
-"221","Roger Gardell","Gemla Sporthall",1,4,"IBF Tranås",1
-"222","Roger Gardell","Olofströms Sporthall",1,4,"Craftstadens IBK Oskarshamn",1
-"223","Roger Gardell","Olofströms Sporthall",1,4,"Olofströms IBK",1
-"224","Roger Gardell","Ryds Sporthall",2,4,"CL98IC",1
-"225","Roger Gardell","Ryds Sporthall",2,4,"Ryds SK",2
-"226","Roger Gardell","Ryds Sporthall",2,4,"IBF Tranås",1
-"227","Rolf Vatvedt","Färjehallen",2,3,"FBC Kalmarsund Ungdom",2
-"228","Rolf Vatvedt","Färjehallen",2,3,"Vetlanda IBF",1
-"229","Rolf Vatvedt","Färjehallen",2,3,"Craftstadens IBK Oskarshamn",1
-"230","Rolf Vatvedt","Ryds Sporthall",1,3,"Ryds SK",1
-"231","Rolf Vatvedt","Ryds Sporthall",1,3,"Gransholms IF",1
-"232","Sean Khashayar Norouz","Ryds Sporthall",1,1,"FBC Kalmarsund Ungdom",1
-"233","Sean Khashayar Norouz","Ryds Sporthall",1,1,"Ryds SK",1
-"234","Senad Hamula","Gemla Sporthall",1,3,"Gransholms IF",1
-"235","Senad Hamula","Gemla Sporthall",1,3,"Olofströms IBK",1
-"236","Senad Hamula","ISCAR Arena Ney.se, Vetlanda",1,3,"Värnamo IK",1
-"237","Senad Hamula","ISCAR Arena Ney.se, Vetlanda",1,3,"Vetlanda IBF",1
-"238","Senad Hamula","Värnamo Sporthall",1,3,"FBC Kalmarsund Ungdom",1
-"239","Senad Hamula","Värnamo Sporthall",1,3,"Värnamo IK",1
-"240","Thomas Atting","Tranås Idrottshall",1,3,"IBF Tranås",1
-"241","Thomas Atting","Tranås Idrottshall",1,3,"Värnamo IK",1
-"242","Thomas Atting","Värnamo Sporthall",2,3,"Östra SK",1
-"243","Thomas Atting","Värnamo Sporthall",2,3,"Olofströms IBK",1
-"244","Thomas Atting","Värnamo Sporthall",2,3,"Värnamo IK",2
-"245","Tomas Akthagen","Oskarshamns Sporthall A-hall",1,1,"IBF Tranås",1
-"246","Tomas Akthagen","Oskarshamns Sporthall A-hall",1,1,"Craftstadens IBK Oskarshamn",1
-"247","Ulf Åberg","Falkenbergshallen",1,2,"Värnamo IK",1
-"248","Ulf Åberg","Falkenbergshallen",1,2,"CL98IC",1
-"249","Ulf Åberg","Gemla Sporthall",1,2,"Craftstadens IBK Oskarshamn",1
-"250","Ulf Åberg","Gemla Sporthall",1,2,"Gransholms IF",1
-"251","Viktor Bringstam","Jönköpings Idrottshus D-hall",1,2,"Östra SK",1
-"252","Viktor Bringstam","Jönköpings Idrottshus D-hall",1,2,"Vetlanda IBF",1
-"253","Viktor Bringstam","Värnamo Sporthall",1,2,"Värnamo IK",1
-"254","Viktor Bringstam","Värnamo Sporthall",1,2,"Vetlanda IBF",1
+"1","Adam Nikolausson","ISCAR Arena Ney.se, Vetlanda",1,3,"Vetlanda IBF",1
+"2","Adam Nikolausson","ISCAR Arena Ney.se, Vetlanda",1,3,"IBF Tranås",1
+"3","Adam Nikolausson","Tranås Idrottshall",1,3,"Olofströms IBK",1
+"4","Adam Nikolausson","Tranås Idrottshall",1,3,"IBF Tranås",1
+"5","Adam Nikolausson","Värnamo Sporthall",1,3,"Värnamo IK",1
+"6","Adam Nikolausson","Värnamo Sporthall",1,3,"Craftstadens IBK Oskarshamn",1
+"7","Anders A Nilsson","Jönköpings Idrottshus D-hall",1,1,"Östra SK",1
+"8","Anders A Nilsson","Jönköpings Idrottshus D-hall",1,1,"IBF Tranås",1
+"9","Anders Everstrand","Arenan - Jönköpings Idrottshus",1,7,"Östra SK",1
+"10","Anders Everstrand","Arenan - Jönköpings Idrottshus",1,7,"Ryds SK",1
+"11","Anders Everstrand","Sävsjö Sporthall",3,7,"Växjö IBK",1
+"12","Anders Everstrand","Sävsjö Sporthall",3,7,"Sävsjö IBK",3
+"13","Anders Everstrand","Sävsjö Sporthall",3,7,"Gransholms IF",1
+"14","Anders Everstrand","Sävsjö Sporthall",3,7,"Östra SK",1
+"15","Anders Everstrand","Tranås Idrottshall",1,7,"IBF Tranås",1
+"16","Anders Everstrand","Tranås Idrottshall",1,7,"Craftstadens IBK Oskarshamn",1
+"17","Anders Everstrand","Värnamo Sporthall",2,7,"Östra SK",1
+"18","Anders Everstrand","Värnamo Sporthall",2,7,"Olofströms IBK",1
+"19","Anders Everstrand","Värnamo Sporthall",2,7,"Värnamo IK",2
+"20","Anders Stenberg","Falkenbergshallen",1,9,"Ryds SK",1
+"21","Anders Stenberg","Falkenbergshallen",1,9,"CL98IC",1
+"22","Anders Stenberg","Färjehallen",2,9,"Östra SK",1
+"23","Anders Stenberg","Färjehallen",2,9,"FBC Kalmarsund Ungdom",2
+"24","Anders Stenberg","Färjehallen",2,9,"CL98IC",1
+"25","Anders Stenberg","Kalmar Sporthall A-hall",1,9,"Växjö IBK",1
+"26","Anders Stenberg","Kalmar Sporthall A-hall",1,9,"CL98IC",1
+"27","Anders Stenberg","Olofströms Sporthall",2,9,"Olofströms IBK",2
+"28","Anders Stenberg","Olofströms Sporthall",2,9,"Östra SK",1
+"29","Anders Stenberg","Olofströms Sporthall",2,9,"Vetlanda IBF",1
+"30","Anders Stenberg","Oskarshamns Sporthall A-hall",1,9,"Craftstadens IBK Oskarshamn",1
+"31","Anders Stenberg","Oskarshamns Sporthall A-hall",1,9,"Sävsjö IBK",1
+"32","Anders Stenberg","Ryds Sporthall",2,9,"Ryds SK",2
+"33","Anders Stenberg","Ryds Sporthall",2,9,"FBC Kalmarsund Ungdom",1
+"34","Anders Stenberg","Ryds Sporthall",2,9,"CL98IC",1
+"35","Annie Nordmark","Fortnox Arena Nivika hallen",1,1,"Växjö IBK",1
+"36","Annie Nordmark","Fortnox Arena Nivika hallen",1,1,"CL98IC",1
+"37","Bengt Andersson","Falkenbergshallen",3,6,"Ryds SK",1
+"38","Bengt Andersson","Falkenbergshallen",3,6,"IBF Tranås",1
+"39","Bengt Andersson","Falkenbergshallen",3,6,"CL98IC",3
+"40","Bengt Andersson","Falkenbergshallen",3,6,"Östra SK",1
+"41","Bengt Andersson","Färjehallen",2,6,"Värnamo IK",1
+"42","Bengt Andersson","Färjehallen",2,6,"Växjö IBK",1
+"43","Bengt Andersson","Färjehallen",2,6,"FBC Kalmarsund Ungdom",2
+"44","Bengt Andersson","Oskarshamns Sporthall A-hall",1,6,"Craftstadens IBK Oskarshamn",1
+"45","Bengt Andersson","Oskarshamns Sporthall A-hall",1,6,"IBF Tranås",1
+"46","Casper Dahlberg","Fortnox Arena Nivika hallen",1,5,"Växjö IBK",1
+"47","Casper Dahlberg","Fortnox Arena Nivika hallen",1,5,"IBF Tranås",1
+"48","Casper Dahlberg","Gemla Sporthall",2,5,"Gransholms IF",2
+"49","Casper Dahlberg","Gemla Sporthall",2,5,"Östra SK",1
+"50","Casper Dahlberg","Gemla Sporthall",2,5,"FBC Kalmarsund Ungdom",1
+"51","Casper Dahlberg","Sävsjö Sporthall",2,5,"Sävsjö IBK",2
+"52","Casper Dahlberg","Sävsjö Sporthall",2,5,"Vetlanda IBF",1
+"53","Casper Dahlberg","Sävsjö Sporthall",2,5,"Ryds SK",1
+"54","Christer Jonsson","Falkenbergshallen",1,1,"Sävsjö IBK",1
+"55","Christer Jonsson","Falkenbergshallen",1,1,"CL98IC",1
+"56","Daniel Gyllander","Färjehallen",1,2,"FBC Kalmarsund Ungdom",1
+"57","Daniel Gyllander","Färjehallen",1,2,"Olofströms IBK",1
+"58","Daniel Gyllander","Oskarshamns Sporthall A-hall",1,2,"Craftstadens IBK Oskarshamn",1
+"59","Daniel Gyllander","Oskarshamns Sporthall A-hall",1,2,"Olofströms IBK",1
+"60","Daniel Pettersson","Fortnox Arena Nivika hallen",2,6,"Växjö IBK",2
+"61","Daniel Pettersson","Fortnox Arena Nivika hallen",2,6,"Ryds SK",1
+"62","Daniel Pettersson","Fortnox Arena Nivika hallen",2,6,"CL98IC",1
+"63","Daniel Pettersson","ISCAR Arena Ney.se, Vetlanda",1,6,"Vetlanda IBF",1
+"64","Daniel Pettersson","ISCAR Arena Ney.se, Vetlanda",1,6,"Olofströms IBK",1
+"65","Daniel Pettersson","Sävsjö Sporthall",2,6,"Sävsjö IBK",2
+"66","Daniel Pettersson","Sävsjö Sporthall",2,6,"Växjö IBK",1
+"67","Daniel Pettersson","Sävsjö Sporthall",2,6,"IBF Tranås",1
+"68","Daniel Pettersson","Värnamo Sporthall",1,6,"Värnamo IK",1
+"69","Daniel Pettersson","Värnamo Sporthall",1,6,"Växjö IBK",1
+"70","Dawan Mofak","ISCAR Arena Ney.se, Vetlanda",1,1,"Vetlanda IBF",1
+"71","Dawan Mofak","ISCAR Arena Ney.se, Vetlanda",1,1,"Craftstadens IBK Oskarshamn",1
+"72","Dragan Zaharijev","Ryds Sporthall",1,1,"Ryds SK",1
+"73","Dragan Zaharijev","Ryds Sporthall",1,1,"IBF Tranås",1
+"74","Edo Sabanovic","Olofströms Sporthall",1,2,"Olofströms IBK",1
+"75","Edo Sabanovic","Olofströms Sporthall",1,2,"CL98IC",1
+"76","Edo Sabanovic","Ryds Sporthall",1,2,"Gransholms IF",1
+"77","Edo Sabanovic","Ryds Sporthall",1,2,"Ryds SK",1
+"78","Filip Karlsson","Gemla Sporthall",1,1,"Ryds SK",1
+"79","Filip Karlsson","Gemla Sporthall",1,1,"Gransholms IF",1
+"80","Fredrik Billemark","ISCAR Arena Ney.se, Vetlanda",1,5,"Gransholms IF",1
+"81","Fredrik Billemark","ISCAR Arena Ney.se, Vetlanda",1,5,"Vetlanda IBF",1
+"82","Fredrik Billemark","Jönköpings Idrottshus D-hall",2,5,"Östra SK",2
+"83","Fredrik Billemark","Jönköpings Idrottshus D-hall",2,5,"Växjö IBK",1
+"84","Fredrik Billemark","Jönköpings Idrottshus D-hall",2,5,"FBC Kalmarsund Ungdom",1
+"85","Fredrik Billemark","Tranås Idrottshall",1,5,"IBF Tranås",1
+"86","Fredrik Billemark","Tranås Idrottshall",1,5,"Sävsjö IBK",1
+"87","Fredrik Billemark","Värnamo Sporthall",1,5,"Värnamo IK",1
+"88","Fredrik Billemark","Värnamo Sporthall",1,5,"FBC Kalmarsund Ungdom",1
+"89","Fredrik Fältskog","ISCAR Arena Ney.se, Vetlanda",1,3,"Växjö IBK",1
+"90","Fredrik Fältskog","ISCAR Arena Ney.se, Vetlanda",1,3,"Vetlanda IBF",1
+"91","Fredrik Fältskog","Jönköpings Idrottshus D-hall",1,3,"Craftstadens IBK Oskarshamn",1
+"92","Fredrik Fältskog","Jönköpings Idrottshus D-hall",1,3,"Östra SK",1
+"93","Fredrik Fältskog","Tranås Idrottshall",1,3,"FBC Kalmarsund Ungdom",1
+"94","Fredrik Fältskog","Tranås Idrottshall",1,3,"IBF Tranås",1
+"95","Gerhardt Borkowski","Gemla Sporthall",1,4,"Gransholms IF",1
+"96","Gerhardt Borkowski","Gemla Sporthall",1,4,"Värnamo IK",1
+"97","Gerhardt Borkowski","ISCAR Arena Ney.se, Vetlanda",1,4,"Vetlanda IBF",1
+"98","Gerhardt Borkowski","ISCAR Arena Ney.se, Vetlanda",1,4,"Olofströms IBK",1
+"99","Gerhardt Borkowski","Jönköpings Idrottshus D-hall",1,4,"Östra SK",1
+"100","Gerhardt Borkowski","Jönköpings Idrottshus D-hall",1,4,"Vetlanda IBF",1
+"101","Gerhardt Borkowski","Värnamo Sporthall",1,4,"Värnamo IK",1
+"102","Gerhardt Borkowski","Värnamo Sporthall",1,4,"Vetlanda IBF",1
+"103","Gustav Jarnegren","Arenan - Jönköpings Idrottshus",1,2,"Östra SK",1
+"104","Gustav Jarnegren","Arenan - Jönköpings Idrottshus",1,2,"Ryds SK",1
+"105","Gustav Jarnegren","Sävsjö Sporthall",1,2,"Östra SK",1
+"106","Gustav Jarnegren","Sävsjö Sporthall",1,2,"Sävsjö IBK",1
+"107","Gustav Svensson","ISCAR Arena Ney.se, Vetlanda",1,1,"Värnamo IK",1
+"108","Gustav Svensson","ISCAR Arena Ney.se, Vetlanda",1,1,"Vetlanda IBF",1
+"109","Hani Mousaviyan-Utter","Värnamo Sporthall",1,1,"Craftstadens IBK Oskarshamn",1
+"110","Hani Mousaviyan-Utter","Värnamo Sporthall",1,1,"Värnamo IK",1
+"111","Henrik Carlsson","Färjehallen",1,1,"FBC Kalmarsund Ungdom",1
+"112","Henrik Carlsson","Färjehallen",1,1,"Växjö IBK",1
+"113","Henrik Gilliusson","Fortnox Arena Nivika hallen",1,6,"Växjö IBK",1
+"114","Henrik Gilliusson","Fortnox Arena Nivika hallen",1,6,"Craftstadens IBK Oskarshamn",1
+"115","Henrik Gilliusson","Olofströms Sporthall",2,6,"Olofströms IBK",2
+"116","Henrik Gilliusson","Olofströms Sporthall",2,6,"Gransholms IF",1
+"117","Henrik Gilliusson","Olofströms Sporthall",2,6,"Sävsjö IBK",1
+"118","Henrik Gilliusson","Ryds Sporthall",2,6,"Sävsjö IBK",1
+"119","Henrik Gilliusson","Ryds Sporthall",2,6,"Ryds SK",2
+"120","Henrik Gilliusson","Ryds Sporthall",2,6,"Vetlanda IBF",1
+"121","Henrik Gilliusson","Torslundahallen",1,6,"Ryds SK",1
+"122","Henrik Gilliusson","Torslundahallen",1,6,"FBC Kalmarsund Ungdom",1
+"123","Isak Mörnstål","Jönköpings Idrottshus D-hall",1,1,"Sävsjö IBK",1
+"124","Isak Mörnstål","Jönköpings Idrottshus D-hall",1,1,"Östra SK",1
+"125","Jens Bäcklin","Tranås Idrottshall",1,1,"IBF Tranås",1
+"126","Jens Bäcklin","Tranås Idrottshall",1,1,"Olofströms IBK",1
+"127","Jesper Rygert","ISCAR Arena Ney.se, Vetlanda",1,1,"Vetlanda IBF",1
+"128","Jesper Rygert","ISCAR Arena Ney.se, Vetlanda",1,1,"Craftstadens IBK Oskarshamn",1
+"129","Johan Ferm","Sävsjö Sporthall",1,4,"Sävsjö IBK",1
+"130","Johan Ferm","Sävsjö Sporthall",1,4,"Olofströms IBK",1
+"131","Johan Ferm","Tranås Idrottshall",1,4,"IBF Tranås",1
+"132","Johan Ferm","Tranås Idrottshall",1,4,"CL98IC",1
+"133","Johan Ferm","Vrigstad Sporthall",1,4,"Sävsjö IBK",1
+"134","Johan Ferm","Vrigstad Sporthall",1,4,"FBC Kalmarsund Ungdom",1
+"135","Johan Ferm","Värnamo Sporthall",1,4,"Värnamo IK",1
+"136","Johan Ferm","Värnamo Sporthall",1,4,"Sävsjö IBK",1
+"137","Johan Nero Wikstrand","ISCAR Arena Ney.se, Vetlanda",1,5,"Vetlanda IBF",1
+"138","Johan Nero Wikstrand","ISCAR Arena Ney.se, Vetlanda",1,5,"Växjö IBK",1
+"139","Johan Nero Wikstrand","Jönköpings Idrottshus D-hall",1,5,"Östra SK",1
+"140","Johan Nero Wikstrand","Jönköpings Idrottshus D-hall",1,5,"Craftstadens IBK Oskarshamn",1
+"141","Johan Nero Wikstrand","Sävsjö Sporthall",1,5,"Gransholms IF",1
+"142","Johan Nero Wikstrand","Sävsjö Sporthall",1,5,"Sävsjö IBK",1
+"143","Johan Nero Wikstrand","Tranås Idrottshall",2,5,"IBF Tranås",2
+"144","Johan Nero Wikstrand","Tranås Idrottshall",2,5,"FBC Kalmarsund Ungdom",1
+"145","Johan Nero Wikstrand","Tranås Idrottshall",2,5,"Värnamo IK",1
+"146","Johan Palm","Fortnox Arena Nivika hallen",1,1,"Växjö IBK",1
+"147","Johan Palm","Fortnox Arena Nivika hallen",1,1,"Gransholms IF",1
+"148","Johnny Edh","Fortnox Arena Nivika hallen",1,5,"Växjö IBK",1
+"149","Johnny Edh","Fortnox Arena Nivika hallen",1,5,"Ryds SK",1
+"150","Johnny Edh","ISCAR Arena Ney.se, Vetlanda",1,5,"Vetlanda IBF",1
+"151","Johnny Edh","ISCAR Arena Ney.se, Vetlanda",1,5,"IBF Tranås",1
+"152","Johnny Edh","Sävsjö Sporthall",1,5,"Sävsjö IBK",1
+"153","Johnny Edh","Sävsjö Sporthall",1,5,"IBF Tranås",1
+"154","Johnny Edh","Tranås Idrottshall",1,5,"Craftstadens IBK Oskarshamn",1
+"155","Johnny Edh","Tranås Idrottshall",1,5,"IBF Tranås",1
+"156","Johnny Edh","Värnamo Sporthall",1,5,"Växjö IBK",1
+"157","Johnny Edh","Värnamo Sporthall",1,5,"Värnamo IK",1
+"158","Jonas Hellberg","Färjehallen",2,4,"FBC Kalmarsund Ungdom",2
+"159","Jonas Hellberg","Färjehallen",2,4,"Östra SK",1
+"160","Jonas Hellberg","Färjehallen",2,4,"CL98IC",1
+"161","Jonas Hellberg","Kalmar Sporthall A-hall",1,4,"CL98IC",1
+"162","Jonas Hellberg","Kalmar Sporthall A-hall",1,4,"Växjö IBK",1
+"163","Jonas Hellberg","Oskarshamns Sporthall A-hall",1,4,"Craftstadens IBK Oskarshamn",1
+"164","Jonas Hellberg","Oskarshamns Sporthall A-hall",1,4,"Sävsjö IBK",1
+"165","Jonas Nilsson","Ryds Sporthall",1,1,"Olofströms IBK",1
+"166","Jonas Nilsson","Ryds Sporthall",1,1,"Ryds SK",1
+"167","Jonas Widenstedt","Falkenbergshallen",1,2,"IBF Tranås",1
+"168","Jonas Widenstedt","Falkenbergshallen",1,2,"CL98IC",1
+"169","Jonas Widenstedt","Fortnox Arena Nivika hallen",1,2,"Gransholms IF",1
+"170","Jonas Widenstedt","Fortnox Arena Nivika hallen",1,2,"Växjö IBK",1
+"171","Kevin Andersson","Gemla Sporthall",1,1,"Växjö IBK",1
+"172","Kevin Andersson","Gemla Sporthall",1,1,"Gransholms IF",1
+"173","Kristian Constantinescu","Gemla Sporthall",1,1,"Gransholms IF",1
+"174","Kristian Constantinescu","Gemla Sporthall",1,1,"Växjö IBK",1
+"175","Leffe Henryson","Färjehallen",2,2,"Craftstadens IBK Oskarshamn",1
+"176","Leffe Henryson","Färjehallen",2,2,"Vetlanda IBF",1
+"177","Leffe Henryson","Färjehallen",2,2,"FBC Kalmarsund Ungdom",2
+"178","Leif Johansson","Ryds Sporthall",1,1,"Ryds SK",1
+"179","Leif Johansson","Ryds Sporthall",1,1,"Värnamo IK",1
+"180","Linus Sandberg","Gemla Sporthall",1,1,"Olofströms IBK",1
+"181","Linus Sandberg","Gemla Sporthall",1,1,"Gransholms IF",1
+"182","Linus Sjöberg","Olofströms Sporthall",1,1,"Växjö IBK",1
+"183","Linus Sjöberg","Olofströms Sporthall",1,1,"Olofströms IBK",1
+"184","Magnus Andersson","ISCAR Arena Ney.se, Vetlanda",1,4,"Vetlanda IBF",1
+"185","Magnus Andersson","ISCAR Arena Ney.se, Vetlanda",1,4,"Gransholms IF",1
+"186","Magnus Andersson","Jönköpings Idrottshus D-hall",2,4,"FBC Kalmarsund Ungdom",1
+"187","Magnus Andersson","Jönköpings Idrottshus D-hall",2,4,"Växjö IBK",1
+"188","Magnus Andersson","Jönköpings Idrottshus D-hall",2,4,"Östra SK",2
+"189","Magnus Andersson","Tranås Idrottshall",1,4,"IBF Tranås",1
+"190","Magnus Andersson","Tranås Idrottshall",1,4,"Sävsjö IBK",1
+"191","Magnus Widlund","Gemla Sporthall",1,5,"Gransholms IF",1
+"192","Magnus Widlund","Gemla Sporthall",1,5,"Ryds SK",1
+"193","Magnus Widlund","Sävsjö Sporthall",1,5,"Olofströms IBK",1
+"194","Magnus Widlund","Sävsjö Sporthall",1,5,"Sävsjö IBK",1
+"195","Magnus Widlund","Tranås Idrottshall",1,5,"CL98IC",1
+"196","Magnus Widlund","Tranås Idrottshall",1,5,"IBF Tranås",1
+"197","Magnus Widlund","Vrigstad Sporthall",1,5,"FBC Kalmarsund Ungdom",1
+"198","Magnus Widlund","Vrigstad Sporthall",1,5,"Sävsjö IBK",1
+"199","Magnus Widlund","Värnamo Sporthall",1,5,"Sävsjö IBK",1
+"200","Magnus Widlund","Värnamo Sporthall",1,5,"Värnamo IK",1
+"201","Marcus Ingolf","Olofströms Sporthall",2,3,"Östra SK",1
+"202","Marcus Ingolf","Olofströms Sporthall",2,3,"Olofströms IBK",2
+"203","Marcus Ingolf","Olofströms Sporthall",2,3,"CL98IC",1
+"204","Marcus Ingolf","Ryds Sporthall",1,3,"Ryds SK",1
+"205","Marcus Ingolf","Ryds Sporthall",1,3,"Värnamo IK",1
+"206","Mathias Linde","Oskarshamns Sporthall A-hall",1,1,"Craftstadens IBK Oskarshamn",1
+"207","Mathias Linde","Oskarshamns Sporthall A-hall",1,1,"CL98IC",1
+"208","Michéll Borgström","Ryds Sporthall",1,1,"Ryds SK",1
+"209","Michéll Borgström","Ryds Sporthall",1,1,"Olofströms IBK",1
+"210","Michell Rohde","Olofströms Sporthall",1,1,"Olofströms IBK",1
+"211","Michell Rohde","Olofströms Sporthall",1,1,"Craftstadens IBK Oskarshamn",1
+"212","Mikael Fransson","Falkenbergshallen",1,5,"Gransholms IF",1
+"213","Mikael Fransson","Falkenbergshallen",1,5,"CL98IC",1
+"214","Mikael Fransson","Färjehallen",1,5,"FBC Kalmarsund Ungdom",1
+"215","Mikael Fransson","Färjehallen",1,5,"Olofströms IBK",1
+"216","Mikael Fransson","Oskarshamns Sporthall A-hall",2,5,"Värnamo IK",1
+"217","Mikael Fransson","Oskarshamns Sporthall A-hall",2,5,"Östra SK",1
+"218","Mikael Fransson","Oskarshamns Sporthall A-hall",2,5,"Craftstadens IBK Oskarshamn",2
+"219","Mikael Fransson","Tranås Idrottshall",1,5,"IBF Tranås",1
+"220","Mikael Fransson","Tranås Idrottshall",1,5,"Vetlanda IBF",1
+"221","Mikael Lundin","Olofströms Sporthall",1,1,"Växjö IBK",1
+"222","Mikael Lundin","Olofströms Sporthall",1,1,"Olofströms IBK",1
+"223","Muhidin Bahtanovic","Falkenbergshallen",1,4,"Gransholms IF",1
+"224","Muhidin Bahtanovic","Falkenbergshallen",1,4,"CL98IC",1
+"225","Muhidin Bahtanovic","Oskarshamns Sporthall A-hall",2,4,"Craftstadens IBK Oskarshamn",2
+"226","Muhidin Bahtanovic","Oskarshamns Sporthall A-hall",2,4,"Värnamo IK",1
+"227","Muhidin Bahtanovic","Oskarshamns Sporthall A-hall",2,4,"Östra SK",1
+"228","Muhidin Bahtanovic","Tranås Idrottshall",1,4,"Vetlanda IBF",1
+"229","Muhidin Bahtanovic","Tranås Idrottshall",1,4,"IBF Tranås",1
+"230","Nicklas Bard","Jönköpings Idrottshus D-hall",1,1,"IBF Tranås",1
+"231","Nicklas Bard","Jönköpings Idrottshus D-hall",1,1,"Östra SK",1
+"232","Nicklas Hult","Falkenbergshallen",1,1,"Sävsjö IBK",1
+"233","Nicklas Hult","Falkenbergshallen",1,1,"CL98IC",1
+"234","Niklas Dahlberg","Fortnox Arena Nivika hallen",1,5,"IBF Tranås",1
+"235","Niklas Dahlberg","Fortnox Arena Nivika hallen",1,5,"Växjö IBK",1
+"236","Niklas Dahlberg","Gemla Sporthall",2,5,"Östra SK",1
+"237","Niklas Dahlberg","Gemla Sporthall",2,5,"FBC Kalmarsund Ungdom",1
+"238","Niklas Dahlberg","Gemla Sporthall",2,5,"Gransholms IF",2
+"239","Niklas Dahlberg","Sävsjö Sporthall",2,5,"Vetlanda IBF",1
+"240","Niklas Dahlberg","Sävsjö Sporthall",2,5,"Sävsjö IBK",2
+"241","Niklas Dahlberg","Sävsjö Sporthall",2,5,"Ryds SK",1
+"242","Niklas Rosberg","Fortnox Arena Nivika hallen",1,4,"Växjö IBK",1
+"243","Niklas Rosberg","Fortnox Arena Nivika hallen",1,4,"FBC Kalmarsund Ungdom",1
+"244","Niklas Rosberg","Färjehallen",1,4,"Värnamo IK",1
+"245","Niklas Rosberg","Färjehallen",1,4,"FBC Kalmarsund Ungdom",1
+"246","Niklas Rosberg","Kalmar Sporthall A-hall",1,4,"CL98IC",1
+"247","Niklas Rosberg","Kalmar Sporthall A-hall",1,4,"Vetlanda IBF",1
+"248","Niklas Rosberg","Oskarshamns Sporthall A-hall",1,4,"Ryds SK",1
+"249","Niklas Rosberg","Oskarshamns Sporthall A-hall",1,4,"Craftstadens IBK Oskarshamn",1
+"250","Oskar Lööke","Jönköpings Idrottshus D-hall",1,1,"Östra SK",1
+"251","Oskar Lööke","Jönköpings Idrottshus D-hall",1,1,"Sävsjö IBK",1
+"252","Per Bratt","Fortnox Arena Nivika hallen",1,6,"Växjö IBK",1
+"253","Per Bratt","Fortnox Arena Nivika hallen",1,6,"Craftstadens IBK Oskarshamn",1
+"254","Per Bratt","Gemla Sporthall",1,6,"Gransholms IF",1
+"255","Per Bratt","Gemla Sporthall",1,6,"IBF Tranås",1
+"256","Per Bratt","Olofströms Sporthall",1,6,"Sävsjö IBK",1
+"257","Per Bratt","Olofströms Sporthall",1,6,"Olofströms IBK",1
+"258","Per Bratt","Ryds Sporthall",2,6,"Vetlanda IBF",1
+"259","Per Bratt","Ryds Sporthall",2,6,"Sävsjö IBK",1
+"260","Per Bratt","Ryds Sporthall",2,6,"Ryds SK",2
+"261","Per Bratt","Torslundahallen",1,6,"Ryds SK",1
+"262","Per Bratt","Torslundahallen",1,6,"FBC Kalmarsund Ungdom",1
+"263","Per Elofsson","Falkenbergshallen",2,6,"CL98IC",1
+"264","Per Elofsson","Falkenbergshallen",2,6,"Värnamo IK",1
+"265","Per Elofsson","Falkenbergshallen",2,6,"CL98IC",1
+"266","Per Elofsson","Falkenbergshallen",2,6,"Östra SK",1
+"267","Per Elofsson","Fortnox Arena Nivika hallen",1,6,"Vetlanda IBF",1
+"268","Per Elofsson","Fortnox Arena Nivika hallen",1,6,"Växjö IBK",1
+"269","Per Elofsson","Gemla Sporthall",1,6,"Gransholms IF",1
+"270","Per Elofsson","Gemla Sporthall",1,6,"Craftstadens IBK Oskarshamn",1
+"271","Per Elofsson","Olofströms Sporthall",1,6,"Olofströms IBK",1
+"272","Per Elofsson","Olofströms Sporthall",1,6,"Vetlanda IBF",1
+"273","Per Elofsson","Oskarshamns Sporthall A-hall",1,6,"CL98IC",1
+"274","Per Elofsson","Oskarshamns Sporthall A-hall",1,6,"Craftstadens IBK Oskarshamn",1
+"275","Rasmus Wirstam","Fortnox Arena Nivika hallen",1,3,"Växjö IBK",1
+"276","Rasmus Wirstam","Fortnox Arena Nivika hallen",1,3,"FBC Kalmarsund Ungdom",1
+"277","Rasmus Wirstam","Kalmar Sporthall A-hall",1,3,"Vetlanda IBF",1
+"278","Rasmus Wirstam","Kalmar Sporthall A-hall",1,3,"CL98IC",1
+"279","Rasmus Wirstam","Oskarshamns Sporthall A-hall",1,3,"Craftstadens IBK Oskarshamn",1
+"280","Rasmus Wirstam","Oskarshamns Sporthall A-hall",1,3,"Ryds SK",1
+"281","Robert Risberg","Oskarshamns Sporthall A-hall",1,1,"Craftstadens IBK Oskarshamn",1
+"282","Robert Risberg","Oskarshamns Sporthall A-hall",1,1,"Olofströms IBK",1
+"283","Roger Gardell","Gemla Sporthall",1,5,"Gransholms IF",1
+"284","Roger Gardell","Gemla Sporthall",1,5,"IBF Tranås",1
+"285","Roger Gardell","Olofströms Sporthall",2,5,"Olofströms IBK",2
+"286","Roger Gardell","Olofströms Sporthall",2,5,"Gransholms IF",1
+"287","Roger Gardell","Olofströms Sporthall",2,5,"Craftstadens IBK Oskarshamn",1
+"288","Roger Gardell","Ryds Sporthall",2,5,"Ryds SK",2
+"289","Roger Gardell","Ryds Sporthall",2,5,"IBF Tranås",1
+"290","Roger Gardell","Ryds Sporthall",2,5,"CL98IC",1
+"291","Rolf Vatvedt","Färjehallen",2,3,"FBC Kalmarsund Ungdom",2
+"292","Rolf Vatvedt","Färjehallen",2,3,"Vetlanda IBF",1
+"293","Rolf Vatvedt","Färjehallen",2,3,"Craftstadens IBK Oskarshamn",1
+"294","Rolf Vatvedt","Ryds Sporthall",1,3,"Ryds SK",1
+"295","Rolf Vatvedt","Ryds Sporthall",1,3,"Gransholms IF",1
+"296","Sean Khashayar Norouz","Ryds Sporthall",1,1,"FBC Kalmarsund Ungdom",1
+"297","Sean Khashayar Norouz","Ryds Sporthall",1,1,"Ryds SK",1
+"298","Senad Hamula","Gemla Sporthall",1,3,"Gransholms IF",1
+"299","Senad Hamula","Gemla Sporthall",1,3,"Olofströms IBK",1
+"300","Senad Hamula","ISCAR Arena Ney.se, Vetlanda",1,3,"Vetlanda IBF",1
+"301","Senad Hamula","ISCAR Arena Ney.se, Vetlanda",1,3,"Värnamo IK",1
+"302","Senad Hamula","Värnamo Sporthall",1,3,"Värnamo IK",1
+"303","Senad Hamula","Värnamo Sporthall",1,3,"FBC Kalmarsund Ungdom",1
+"304","Thomas Atting","Tranås Idrottshall",1,3,"Värnamo IK",1
+"305","Thomas Atting","Tranås Idrottshall",1,3,"IBF Tranås",1
+"306","Thomas Atting","Värnamo Sporthall",2,3,"Östra SK",1
+"307","Thomas Atting","Värnamo Sporthall",2,3,"Olofströms IBK",1
+"308","Thomas Atting","Värnamo Sporthall",2,3,"Värnamo IK",2
+"309","Tomas Akthagen","Oskarshamns Sporthall A-hall",1,1,"IBF Tranås",1
+"310","Tomas Akthagen","Oskarshamns Sporthall A-hall",1,1,"Craftstadens IBK Oskarshamn",1
+"311","Ulf Åberg","Falkenbergshallen",1,3,"CL98IC",1
+"312","Ulf Åberg","Falkenbergshallen",1,3,"Värnamo IK",1
+"313","Ulf Åberg","Fortnox Arena Nivika hallen",1,3,"Växjö IBK",1
+"314","Ulf Åberg","Fortnox Arena Nivika hallen",1,3,"Vetlanda IBF",1
+"315","Ulf Åberg","Gemla Sporthall",1,3,"Gransholms IF",1
+"316","Ulf Åberg","Gemla Sporthall",1,3,"Craftstadens IBK Oskarshamn",1
+"317","Viktor Bringstam","Gemla Sporthall",1,3,"Gransholms IF",1
+"318","Viktor Bringstam","Gemla Sporthall",1,3,"Värnamo IK",1
+"319","Viktor Bringstam","Jönköpings Idrottshus D-hall",1,3,"Vetlanda IBF",1
+"320","Viktor Bringstam","Jönköpings Idrottshus D-hall",1,3,"Östra SK",1
+"321","Viktor Bringstam","Värnamo Sporthall",1,3,"Vetlanda IBF",1
+"322","Viktor Bringstam","Värnamo Sporthall",1,3,"Värnamo IK",1
