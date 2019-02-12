@@ -1,208 +1,240 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Adrian Melin Näslund","Torvallaskolans sporthall",1,1,"Jemtland Innebandy",1
-"2","Adrian Melin Näslund","Torvallaskolans sporthall",1,1,"Söderhamns IBF",1
-"3","Alexander Bergman","Hagahallen",1,4,"Jemtland Innebandy",1
+"1","Adrian Melin Näslund","Torvallaskolans sporthall",2,2,"Jemtland Innebandy",2
+"2","Adrian Melin Näslund","Torvallaskolans sporthall",2,2,"Söderhamns IBF",1
+"3","Adrian Melin Näslund","Torvallaskolans sporthall",2,2,"Sundsvall FBC",1
 "4","Alexander Bergman","Hagahallen",1,4,"Sundsvalls IBF 2",1
-"5","Alexander Bergman","Matfors Sporthall",1,4,"Söderhamns IBF",1
+"5","Alexander Bergman","Hagahallen",1,4,"Jemtland Innebandy",1
 "6","Alexander Bergman","Matfors Sporthall",1,4,"Vattjoms IK",1
-"7","Alexander Bergman","Njurundahallen",1,4,"Klockarbergets BK",1
+"7","Alexander Bergman","Matfors Sporthall",1,4,"Söderhamns IBF",1
 "8","Alexander Bergman","Njurundahallen",1,4,"Vattjoms IK",1
-"9","Alexander Bergman","Timrå Sporthall",1,4,"Sundsvalls IBF 2",1
-"10","Alexander Bergman","Timrå Sporthall",1,4,"Timrå IBC",1
-"11","Anders Johansson","Matfors Sporthall",4,4,"Vattjoms IK",3
-"12","Anders Johansson","Matfors Sporthall",4,4,"Timrå IBC",1
-"13","Anders Johansson","Matfors Sporthall",4,4,"Sundsvall FBC",1
-"14","Anders Johansson","Matfors Sporthall",4,4,"Jemtland Innebandy",1
-"15","Anders Johansson","Matfors Sporthall",4,4,"Klockarberget BK Ungdom",1
-"16","Anders Johansson","Matfors Sporthall",4,4,"Vattjoms IK",1
-"17","Anders Öbergh","Öbacka SC",2,2,"Klockarbergets BK",1
-"18","Anders Öbergh","Öbacka SC",2,2,"IBK Härnösand",2
-"19","Anders Öbergh","Öbacka SC",2,2,"FBC Bollnäs",1
-"20","Andreas Bjurman","Timrå Sporthall",1,1,"Vattjoms IK",1
-"21","Andreas Bjurman","Timrå Sporthall",1,1,"Timrå IBC",1
-"22","Andreas Lindberg","Njurundahallen",1,1,"Klockarberget BK Ungdom",1
-"23","Andreas Lindberg","Njurundahallen",1,1,"Söderhamns IBF",1
-"24","Andreas Nyman","Öbacka SC",1,1,"IBK Härnösand",1
-"25","Andreas Nyman","Öbacka SC",1,1,"Sundsvalls IBF 2",1
-"26","Arvid Larsson","Hagahallen",1,7,"Jemtland Innebandy",1
-"27","Arvid Larsson","Hagahallen",1,7,"Sundsvalls IBF 2",1
-"28","Arvid Larsson","Matfors Sporthall",2,7,"Vattjoms IK",1
-"29","Arvid Larsson","Matfors Sporthall",2,7,"Sundsvalls IBF 2",1
-"30","Arvid Larsson","Matfors Sporthall",2,7,"Söderhamns IBF",1
-"31","Arvid Larsson","Matfors Sporthall",2,7,"Vattjoms IK",1
-"32","Arvid Larsson","Skönsbergshallen",1,7,"Sundsvall FBC",1
-"33","Arvid Larsson","Skönsbergshallen",1,7,"Söderhamns IBF",1
-"34","Arvid Larsson","Sundsvalls Sporthall-A",2,7,"Sundsvalls IBF 2",1
-"35","Arvid Larsson","Sundsvalls Sporthall-A",2,7,"FBC Bollnäs",1
-"36","Arvid Larsson","Sundsvalls Sporthall-A",2,7,"Klockarberget BK Ungdom",1
-"37","Arvid Larsson","Sundsvalls Sporthall-A",2,7,"Sundsvall FBC",1
-"38","Arvid Larsson","Timrå Sporthall",1,7,"Timrå IBC",1
-"39","Arvid Larsson","Timrå Sporthall",1,7,"Sundsvalls IBF 2",1
-"40","Dennis Wall","Torvallaskolans sporthall",1,1,"Jemtland Innebandy",1
-"41","Dennis Wall","Torvallaskolans sporthall",1,1,"Söderhamns IBF",1
-"42","Fredrik Strese","Njurundahallen",4,7,"Timrå IBC",1
-"43","Fredrik Strese","Njurundahallen",4,7,"Söderhamns IBF",1
-"44","Fredrik Strese","Njurundahallen",4,7,"IBK Härnösand",1
-"45","Fredrik Strese","Njurundahallen",4,7,"Klockarbergets BK",1
-"46","Fredrik Strese","Njurundahallen",4,7,"Klockarberget BK Ungdom",3
-"47","Fredrik Strese","Njurundahallen",4,7,"Vattjoms IK",1
-"48","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Klockarberget BK Ungdom",1
-"49","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Sundsvalls IBF 2",2
-"50","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Klockarbergets BK",1
-"51","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Sundsvall FBC",1
-"52","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Sundsvalls IBF 2",1
-"53","Fredrik Söderholm","Öbacka SC",2,2,"Sundsvalls IBF 2",1
-"54","Fredrik Söderholm","Öbacka SC",2,2,"IBK Härnösand",2
-"55","Fredrik Söderholm","Öbacka SC",2,2,"Timrå IBC",1
-"56","Göran Norberg","Öbacka SC",1,1,"Vattjoms IK",1
-"57","Göran Norberg","Öbacka SC",1,1,"IBK Härnösand",1
-"58","Hans Söderblom","Sundsvalls Sporthall-A",1,1,"Sundsvalls IBF 2",1
-"59","Hans Söderblom","Sundsvalls Sporthall-A",1,1,"Sundsvall FBC",1
-"60","Ivica Matanovic","Öbacka SC",1,1,"IBK Härnösand",1
-"61","Ivica Matanovic","Öbacka SC",1,1,"Söderhamns IBF",1
-"62","Jan Öberg","Matfors Sporthall",1,2,"Vattjoms IK",1
-"63","Jan Öberg","Matfors Sporthall",1,2,"Sundsvalls IBF 2",1
-"64","Jan Öberg","Sundsvalls Sporthall-A",1,2,"Klockarbergets BK",1
-"65","Jan Öberg","Sundsvalls Sporthall-A",1,2,"Sundsvalls IBF 2",1
-"66","Jesper Doherty","Skönsbergshallen",1,2,"Söderhamns IBF",1
-"67","Jesper Doherty","Skönsbergshallen",1,2,"Sundsvall FBC",1
-"68","Jesper Doherty","Sundsvalls Sporthall-A",1,2,"Sundsvalls IBF 2",1
-"69","Jesper Doherty","Sundsvalls Sporthall-A",1,2,"FBC Bollnäs",1
-"70","Jimmy Löfgren","Bollnäs Sporthall A",3,8,"FBC Bollnäs",2
-"71","Jimmy Löfgren","Bollnäs Sporthall A",3,8,"Klockarbergets BK",1
-"72","Jimmy Löfgren","Bollnäs Sporthall A",3,8,"Klockarberget BK Ungdom",1
-"73","Jimmy Löfgren","Bollnäs Sporthall A",3,8,"Söderhamns IBF",1
-"74","Jimmy Löfgren","Bollnäs Sporthall A",3,8,"FBC Bollnäs",1
-"75","Jimmy Löfgren","Idrottshallen, Söderhamn",5,8,"Klockarberget BK Ungdom",1
-"76","Jimmy Löfgren","Idrottshallen, Söderhamn",5,8,"Timrå IBC",1
-"77","Jimmy Löfgren","Idrottshallen, Söderhamn",5,8,"Sundsvall FBC",1
-"78","Jimmy Löfgren","Idrottshallen, Söderhamn",5,8,"Söderhamns IBF",4
-"79","Jimmy Löfgren","Idrottshallen, Söderhamn",5,8,"FBC Bollnäs",1
-"80","Jimmy Löfgren","Idrottshallen, Söderhamn",5,8,"Söderhamns IBF",1
-"81","Jimmy Löfgren","Idrottshallen, Söderhamn",5,8,"Klockarbergets BK",1
-"82","Johnnie Lundmark","Öbacka SC",1,1,"IBK Härnösand",1
-"83","Johnnie Lundmark","Öbacka SC",1,1,"Timrå IBC",1
-"84","Johnny Sundberg","Bollnäs Sporthall A",2,2,"FBC Bollnäs",2
-"85","Johnny Sundberg","Bollnäs Sporthall A",2,2,"Timrå IBC",1
-"86","Johnny Sundberg","Bollnäs Sporthall A",2,2,"Vattjoms IK",1
-"87","Josephine Eriksson","Njurundahallen",1,2,"Jemtland Innebandy",1
-"88","Josephine Eriksson","Njurundahallen",1,2,"Klockarbergets BK",1
-"89","Josephine Eriksson","Timrå Sporthall",1,2,"Klockarberget BK Ungdom",1
-"90","Josephine Eriksson","Timrå Sporthall",1,2,"Timrå IBC",1
-"91","Leif Sundberg","Bollnäs Sporthall A",2,2,"Timrå IBC",1
-"92","Leif Sundberg","Bollnäs Sporthall A",2,2,"Vattjoms IK",1
-"93","Leif Sundberg","Bollnäs Sporthall A",2,2,"FBC Bollnäs",2
-"94","Markus Helsing","Njurundahallen",4,9,"Klockarbergets BK",2
-"95","Markus Helsing","Njurundahallen",4,9,"Klockarberget BK Ungdom",3
-"96","Markus Helsing","Njurundahallen",4,9,"FBC Bollnäs",1
-"97","Markus Helsing","Njurundahallen",4,9,"Sundsvall FBC",1
-"98","Markus Helsing","Njurundahallen",4,9,"Jemtland Innebandy",1
-"99","Markus Helsing","Skönsbergshallen",2,9,"Klockarbergets BK",1
-"100","Markus Helsing","Skönsbergshallen",2,9,"Vattjoms IK",1
-"101","Markus Helsing","Skönsbergshallen",2,9,"Sundsvall FBC",2
-"102","Markus Helsing","Sundsvalls Sporthall-A",2,9,"Klockarberget BK Ungdom",1
-"103","Markus Helsing","Sundsvalls Sporthall-A",2,9,"Sundsvall FBC",2
-"104","Markus Helsing","Sundsvalls Sporthall-A",2,9,"FBC Bollnäs",1
-"105","Markus Helsing","Timrå Sporthall",1,9,"Timrå IBC",1
-"106","Markus Helsing","Timrå Sporthall",1,9,"Klockarberget BK Ungdom",1
-"107","Mats Finke","Torvallaskolans sporthall",5,5,"Jemtland Innebandy",5
-"108","Mats Finke","Torvallaskolans sporthall",5,5,"FBC Bollnäs",1
-"109","Mats Finke","Torvallaskolans sporthall",5,5,"Klockarbergets BK",1
-"110","Mats Finke","Torvallaskolans sporthall",5,5,"IBK Härnösand",1
-"111","Mats Finke","Torvallaskolans sporthall",5,5,"Sundsvalls IBF 2",1
-"112","Mats Finke","Torvallaskolans sporthall",5,5,"Timrå IBC",1
-"113","Mats Sjöqvist","Bollnäs Sporthall A",1,1,"FBC Bollnäs",1
-"114","Mats Sjöqvist","Bollnäs Sporthall A",1,1,"IBK Härnösand",1
-"115","Michael Hoek","Bollnäs Sporthall A",1,4,"Klockarbergets BK",1
-"116","Michael Hoek","Bollnäs Sporthall A",1,4,"FBC Bollnäs",1
-"117","Michael Hoek","Idrottshallen, Söderhamn",3,4,"Söderhamns IBF",3
-"118","Michael Hoek","Idrottshallen, Söderhamn",3,4,"Klockarberget BK Ungdom",1
-"119","Michael Hoek","Idrottshallen, Söderhamn",3,4,"Timrå IBC",1
-"120","Michael Hoek","Idrottshallen, Söderhamn",3,4,"FBC Bollnäs",1
-"121","Mikael Körning","Öbacka SC",3,3,"Sundsvall FBC",1
-"122","Mikael Körning","Öbacka SC",3,3,"FBC Bollnäs",1
-"123","Mikael Körning","Öbacka SC",3,3,"Klockarbergets BK",1
-"124","Mikael Körning","Öbacka SC",3,3,"IBK Härnösand",3
-"125","Niclas Olsson","Idrottshallen, Söderhamn",1,1,"Sundsvalls IBF 2",1
-"126","Niclas Olsson","Idrottshallen, Söderhamn",1,1,"Söderhamns IBF",1
-"127","Patric Jonsson","Idrottshallen, Söderhamn",1,1,"Klockarbergets BK",1
-"128","Patric Jonsson","Idrottshallen, Söderhamn",1,1,"Söderhamns IBF",1
-"129","Patrick Cederblad","Matfors Sporthall",3,5,"Timrå IBC",1
-"130","Patrick Cederblad","Matfors Sporthall",3,5,"Vattjoms IK",3
-"131","Patrick Cederblad","Matfors Sporthall",3,5,"Sundsvall FBC",1
-"132","Patrick Cederblad","Matfors Sporthall",3,5,"Klockarberget BK Ungdom",1
-"133","Patrick Cederblad","Skönsbergshallen",1,5,"Sundsvall FBC",1
-"134","Patrick Cederblad","Skönsbergshallen",1,5,"Jemtland Innebandy",1
-"135","Patrick Cederblad","Timrå Sporthall",1,5,"Timrå IBC",1
-"136","Patrick Cederblad","Timrå Sporthall",1,5,"Sundsvall FBC",1
-"137","Patrik Sjöberg","Matfors Sporthall",1,9,"Klockarbergets BK",1
-"138","Patrik Sjöberg","Matfors Sporthall",1,9,"Vattjoms IK",1
-"139","Patrik Sjöberg","Njurundahallen",4,9,"Sundsvall FBC",1
-"140","Patrik Sjöberg","Njurundahallen",4,9,"Jemtland Innebandy",2
-"141","Patrik Sjöberg","Njurundahallen",4,9,"Klockarberget BK Ungdom",2
-"142","Patrik Sjöberg","Njurundahallen",4,9,"Klockarbergets BK",3
-"143","Patrik Sjöberg","Skönsbergshallen",1,9,"Klockarbergets BK",1
-"144","Patrik Sjöberg","Skönsbergshallen",1,9,"Sundsvall FBC",1
-"145","Patrik Sjöberg","Sundsvalls Sporthall-A",1,9,"FBC Bollnäs",1
-"146","Patrik Sjöberg","Sundsvalls Sporthall-A",1,9,"Sundsvalls IBF 2",1
-"147","Patrik Sjöberg","Timrå Sporthall",2,9,"Timrå IBC",2
-"148","Patrik Sjöberg","Timrå Sporthall",2,9,"IBK Härnösand",1
-"149","Patrik Sjöberg","Timrå Sporthall",2,9,"FBC Bollnäs",1
-"150","Peder Lövdahl","Öbacka SC",2,2,"IBK Härnösand",1
-"151","Peder Lövdahl","Öbacka SC",2,2,"IBK Härnösand",1
-"152","Peder Lövdahl","Öbacka SC",2,2,"Vattjoms IK",1
-"153","Peder Lövdahl","Öbacka SC",2,2,"Sundsvall FBC",1
-"154","Per Pålsson","Höglunda",1,2,"Vattjoms IK",1
-"155","Per Pålsson","Höglunda",1,2,"Sundsvalls IBF 2",1
-"156","Per Pålsson","Timrå Sporthall",1,2,"Timrå IBC",1
-"157","Per Pålsson","Timrå Sporthall",1,2,"Vattjoms IK",1
-"158","Peter Palander","Matfors Sporthall",1,4,"Klockarbergets BK",1
-"159","Peter Palander","Matfors Sporthall",1,4,"Vattjoms IK",1
-"160","Peter Palander","Skönsbergshallen",1,4,"Vattjoms IK",1
-"161","Peter Palander","Skönsbergshallen",1,4,"Sundsvall FBC",1
-"162","Peter Palander","Timrå Sporthall",2,4,"Timrå IBC",2
-"163","Peter Palander","Timrå Sporthall",2,4,"IBK Härnösand",1
-"164","Peter Palander","Timrå Sporthall",2,4,"FBC Bollnäs",1
-"165","Robert Lundqvist","Höglunda",1,1,"Vattjoms IK",1
-"166","Robert Lundqvist","Höglunda",1,1,"Sundsvalls IBF 2",1
-"167","Robert Mårtensson","Bollnäs Sporthall A",3,5,"Klockarberget BK Ungdom",1
-"168","Robert Mårtensson","Bollnäs Sporthall A",3,5,"FBC Bollnäs",2
-"169","Robert Mårtensson","Bollnäs Sporthall A",3,5,"FBC Bollnäs",1
-"170","Robert Mårtensson","Bollnäs Sporthall A",3,5,"IBK Härnösand",1
-"171","Robert Mårtensson","Bollnäs Sporthall A",3,5,"Söderhamns IBF",1
-"172","Robert Mårtensson","Idrottshallen, Söderhamn",2,5,"Söderhamns IBF",1
-"173","Robert Mårtensson","Idrottshallen, Söderhamn",2,5,"Sundsvalls IBF 2",1
-"174","Robert Mårtensson","Idrottshallen, Söderhamn",2,5,"Sundsvall FBC",1
-"175","Robert Mårtensson","Idrottshallen, Söderhamn",2,5,"Söderhamns IBF",1
-"176","Roger Lundbäck","Njurundahallen",3,4,"Sundsvalls IBF 2",1
-"177","Roger Lundbäck","Njurundahallen",3,4,"Timrå IBC",1
-"178","Roger Lundbäck","Njurundahallen",3,4,"Klockarbergets BK",2
-"179","Roger Lundbäck","Njurundahallen",3,4,"IBK Härnösand",1
-"180","Roger Lundbäck","Njurundahallen",3,4,"Klockarberget BK Ungdom",1
-"181","Roger Lundbäck","Skönsbergshallen",1,4,"Sundsvall FBC",1
-"182","Roger Lundbäck","Skönsbergshallen",1,4,"Jemtland Innebandy",1
-"183","Santiago Bedoya","Hagahallen",1,1,"Sundsvalls IBF 2",1
-"184","Santiago Bedoya","Hagahallen",1,1,"IBK Härnösand",1
-"185","Sofie Öman","Njurundahallen",1,1,"Klockarberget BK Ungdom",1
-"186","Sofie Öman","Njurundahallen",1,1,"FBC Bollnäs",1
-"187","Teodor Lundgren","Matfors Sporthall",1,3,"Vattjoms IK",1
-"188","Teodor Lundgren","Matfors Sporthall",1,3,"Jemtland Innebandy",1
-"189","Teodor Lundgren","Sundsvalls Sporthall-A",1,3,"Klockarberget BK Ungdom",1
-"190","Teodor Lundgren","Sundsvalls Sporthall-A",1,3,"Sundsvall FBC",1
-"191","Teodor Lundgren","Timrå Sporthall",1,3,"Sundsvall FBC",1
-"192","Teodor Lundgren","Timrå Sporthall",1,3,"Timrå IBC",1
-"193","Thomas Berglund","Hagahallen",1,6,"Sundsvalls IBF 2",1
-"194","Thomas Berglund","Hagahallen",1,6,"IBK Härnösand",1
-"195","Thomas Berglund","Njurundahallen",5,6,"IBK Härnösand",2
-"196","Thomas Berglund","Njurundahallen",5,6,"Klockarberget BK Ungdom",3
-"197","Thomas Berglund","Njurundahallen",5,6,"Sundsvalls IBF 2",1
-"198","Thomas Berglund","Njurundahallen",5,6,"Klockarbergets BK",2
-"199","Thomas Berglund","Njurundahallen",5,6,"Timrå IBC",2
-"200","Tony Strindlund","Öbacka SC",1,1,"IBK Härnösand",1
-"201","Tony Strindlund","Öbacka SC",1,1,"Söderhamns IBF",1
-"202","Urban Larsson","Torvallaskolans sporthall",5,5,"FBC Bollnäs",1
-"203","Urban Larsson","Torvallaskolans sporthall",5,5,"IBK Härnösand",1
-"204","Urban Larsson","Torvallaskolans sporthall",5,5,"Jemtland Innebandy",5
-"205","Urban Larsson","Torvallaskolans sporthall",5,5,"Klockarbergets BK",1
-"206","Urban Larsson","Torvallaskolans sporthall",5,5,"Sundsvalls IBF 2",1
-"207","Urban Larsson","Torvallaskolans sporthall",5,5,"Timrå IBC",1
+"9","Alexander Bergman","Njurundahallen",1,4,"Klockarbergets BK",1
+"10","Alexander Bergman","Timrå Sporthall",1,4,"Sundsvalls IBF 2",1
+"11","Alexander Bergman","Timrå Sporthall",1,4,"Timrå IBC",1
+"12","Anders Johansson","Matfors Sporthall",5,5,"Timrå IBC",1
+"13","Anders Johansson","Matfors Sporthall",5,5,"Vattjoms IK",1
+"14","Anders Johansson","Matfors Sporthall",5,5,"FBC Bollnäs",1
+"15","Anders Johansson","Matfors Sporthall",5,5,"Sundsvall FBC",1
+"16","Anders Johansson","Matfors Sporthall",5,5,"Vattjoms IK",4
+"17","Anders Johansson","Matfors Sporthall",5,5,"Klockarberget BK Ungdom",1
+"18","Anders Johansson","Matfors Sporthall",5,5,"Jemtland Innebandy",1
+"19","Anders Öbergh","Öbacka SC",2,2,"Klockarbergets BK",1
+"20","Anders Öbergh","Öbacka SC",2,2,"IBK Härnösand",2
+"21","Anders Öbergh","Öbacka SC",2,2,"FBC Bollnäs",1
+"22","Andreas Bjurman","Timrå Sporthall",1,1,"Timrå IBC",1
+"23","Andreas Bjurman","Timrå Sporthall",1,1,"Vattjoms IK",1
+"24","Andreas Lindberg","Njurundahallen",1,1,"Klockarberget BK Ungdom",1
+"25","Andreas Lindberg","Njurundahallen",1,1,"Söderhamns IBF",1
+"26","Andreas Nyman","Öbacka SC",1,1,"Sundsvalls IBF 2",1
+"27","Andreas Nyman","Öbacka SC",1,1,"IBK Härnösand",1
+"28","Arvid Larsson","Hagahallen",2,9,"Sundsvalls IBF 2",1
+"29","Arvid Larsson","Hagahallen",2,9,"Jemtland Innebandy",1
+"30","Arvid Larsson","Hagahallen",2,9,"Sundsvall FBC",1
+"31","Arvid Larsson","Hagahallen",2,9,"Sundsvalls IBF 2",1
+"32","Arvid Larsson","Matfors Sporthall",2,9,"Söderhamns IBF",1
+"33","Arvid Larsson","Matfors Sporthall",2,9,"Vattjoms IK",1
+"34","Arvid Larsson","Matfors Sporthall",2,9,"Vattjoms IK",1
+"35","Arvid Larsson","Matfors Sporthall",2,9,"Sundsvalls IBF 2",1
+"36","Arvid Larsson","Skönsbergshallen",1,9,"Söderhamns IBF",1
+"37","Arvid Larsson","Skönsbergshallen",1,9,"Sundsvall FBC",1
+"38","Arvid Larsson","Sundsvalls Sporthall-A",2,9,"Sundsvalls IBF 2",1
+"39","Arvid Larsson","Sundsvalls Sporthall-A",2,9,"FBC Bollnäs",1
+"40","Arvid Larsson","Sundsvalls Sporthall-A",2,9,"Sundsvall FBC",1
+"41","Arvid Larsson","Sundsvalls Sporthall-A",2,9,"Klockarberget BK Ungdom",1
+"42","Arvid Larsson","Timrå Sporthall",2,9,"Timrå IBC",1
+"43","Arvid Larsson","Timrå Sporthall",2,9,"Timrå IBC",1
+"44","Arvid Larsson","Timrå Sporthall",2,9,"Jemtland Innebandy",1
+"45","Arvid Larsson","Timrå Sporthall",2,9,"Sundsvalls IBF 2",1
+"46","Dennis Wall","Torvallaskolans sporthall",1,1,"Jemtland Innebandy",1
+"47","Dennis Wall","Torvallaskolans sporthall",1,1,"Söderhamns IBF",1
+"48","Fredrik Strese","Njurundahallen",4,7,"IBK Härnösand",1
+"49","Fredrik Strese","Njurundahallen",4,7,"Timrå IBC",1
+"50","Fredrik Strese","Njurundahallen",4,7,"Klockarbergets BK",1
+"51","Fredrik Strese","Njurundahallen",4,7,"Söderhamns IBF",1
+"52","Fredrik Strese","Njurundahallen",4,7,"Vattjoms IK",1
+"53","Fredrik Strese","Njurundahallen",4,7,"Klockarberget BK Ungdom",3
+"54","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Klockarberget BK Ungdom",1
+"55","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Klockarbergets BK",1
+"56","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Sundsvalls IBF 2",1
+"57","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Sundsvalls IBF 2",2
+"58","Fredrik Strese","Sundsvalls Sporthall-A",3,7,"Sundsvall FBC",1
+"59","Fredrik Söderholm","Öbacka SC",2,2,"Sundsvalls IBF 2",1
+"60","Fredrik Söderholm","Öbacka SC",2,2,"IBK Härnösand",2
+"61","Fredrik Söderholm","Öbacka SC",2,2,"Timrå IBC",1
+"62","Göran Norberg","Öbacka SC",2,2,"IBK Härnösand",1
+"63","Göran Norberg","Öbacka SC",2,2,"Klockarberget BK Ungdom",1
+"64","Göran Norberg","Öbacka SC",2,2,"Vattjoms IK",1
+"65","Göran Norberg","Öbacka SC",2,2,"IBK Härnösand",1
+"66","Hans Söderblom","Sundsvalls Sporthall-A",1,2,"Sundsvall FBC",1
+"67","Hans Söderblom","Sundsvalls Sporthall-A",1,2,"Sundsvalls IBF 2",1
+"68","Hans Söderblom","Timrå Sporthall",1,2,"Jemtland Innebandy",1
+"69","Hans Söderblom","Timrå Sporthall",1,2,"Timrå IBC",1
+"70","Ivica Matanovic","Öbacka SC",1,1,"Söderhamns IBF",1
+"71","Ivica Matanovic","Öbacka SC",1,1,"IBK Härnösand",1
+"72","Jan Öberg","Matfors Sporthall",1,2,"Sundsvalls IBF 2",1
+"73","Jan Öberg","Matfors Sporthall",1,2,"Vattjoms IK",1
+"74","Jan Öberg","Sundsvalls Sporthall-A",1,2,"Klockarbergets BK",1
+"75","Jan Öberg","Sundsvalls Sporthall-A",1,2,"Sundsvalls IBF 2",1
+"76","Jesper Doherty","Skönsbergshallen",1,3,"Sundsvall FBC",1
+"77","Jesper Doherty","Skönsbergshallen",1,3,"Söderhamns IBF",1
+"78","Jesper Doherty","Sundsvalls Sporthall-A",2,3,"Sundsvalls IBF 2",1
+"79","Jesper Doherty","Sundsvalls Sporthall-A",2,3,"Sundsvall FBC",1
+"80","Jesper Doherty","Sundsvalls Sporthall-A",2,3,"FBC Bollnäs",1
+"81","Jesper Doherty","Sundsvalls Sporthall-A",2,3,"Timrå IBC",1
+"82","Jimmy Löfgren","Bollnäs Sporthall A",4,9,"Klockarbergets BK",1
+"83","Jimmy Löfgren","Bollnäs Sporthall A",4,9,"Jemtland Innebandy",1
+"84","Jimmy Löfgren","Bollnäs Sporthall A",4,9,"FBC Bollnäs",2
+"85","Jimmy Löfgren","Bollnäs Sporthall A",4,9,"Klockarberget BK Ungdom",1
+"86","Jimmy Löfgren","Bollnäs Sporthall A",4,9,"FBC Bollnäs",2
+"87","Jimmy Löfgren","Bollnäs Sporthall A",4,9,"Söderhamns IBF",1
+"88","Jimmy Löfgren","Idrottshallen, Söderhamn",5,9,"Timrå IBC",1
+"89","Jimmy Löfgren","Idrottshallen, Söderhamn",5,9,"FBC Bollnäs",1
+"90","Jimmy Löfgren","Idrottshallen, Söderhamn",5,9,"Sundsvall FBC",1
+"91","Jimmy Löfgren","Idrottshallen, Söderhamn",5,9,"Klockarbergets BK",1
+"92","Jimmy Löfgren","Idrottshallen, Söderhamn",5,9,"Söderhamns IBF",4
+"93","Jimmy Löfgren","Idrottshallen, Söderhamn",5,9,"Söderhamns IBF",1
+"94","Jimmy Löfgren","Idrottshallen, Söderhamn",5,9,"Klockarberget BK Ungdom",1
+"95","Johnnie Lundmark","Öbacka SC",1,1,"IBK Härnösand",1
+"96","Johnnie Lundmark","Öbacka SC",1,1,"Timrå IBC",1
+"97","Johnny Sundberg","Bollnäs Sporthall A",2,2,"Timrå IBC",1
+"98","Johnny Sundberg","Bollnäs Sporthall A",2,2,"Vattjoms IK",1
+"99","Johnny Sundberg","Bollnäs Sporthall A",2,2,"FBC Bollnäs",2
+"100","Josephine Eriksson","Njurundahallen",2,3,"Jemtland Innebandy",1
+"101","Josephine Eriksson","Njurundahallen",2,3,"Klockarbergets BK",2
+"102","Josephine Eriksson","Njurundahallen",2,3,"Sundsvalls IBF 2",1
+"103","Josephine Eriksson","Timrå Sporthall",1,3,"Klockarberget BK Ungdom",1
+"104","Josephine Eriksson","Timrå Sporthall",1,3,"Timrå IBC",1
+"105","Leif Sundberg","Bollnäs Sporthall A",2,2,"FBC Bollnäs",2
+"106","Leif Sundberg","Bollnäs Sporthall A",2,2,"Timrå IBC",1
+"107","Leif Sundberg","Bollnäs Sporthall A",2,2,"Vattjoms IK",1
+"108","Markus Helsing","Njurundahallen",5,10,"Sundsvall FBC",1
+"109","Markus Helsing","Njurundahallen",5,10,"Klockarberget BK Ungdom",4
+"110","Markus Helsing","Njurundahallen",5,10,"Klockarbergets BK",2
+"111","Markus Helsing","Njurundahallen",5,10,"FBC Bollnäs",1
+"112","Markus Helsing","Njurundahallen",5,10,"Vattjoms IK",1
+"113","Markus Helsing","Njurundahallen",5,10,"Jemtland Innebandy",1
+"114","Markus Helsing","Skönsbergshallen",2,10,"Vattjoms IK",1
+"115","Markus Helsing","Skönsbergshallen",2,10,"Klockarbergets BK",1
+"116","Markus Helsing","Skönsbergshallen",2,10,"Sundsvall FBC",2
+"117","Markus Helsing","Sundsvalls Sporthall-A",2,10,"FBC Bollnäs",1
+"118","Markus Helsing","Sundsvalls Sporthall-A",2,10,"Klockarberget BK Ungdom",1
+"119","Markus Helsing","Sundsvalls Sporthall-A",2,10,"Sundsvall FBC",2
+"120","Markus Helsing","Timrå Sporthall",1,10,"Timrå IBC",1
+"121","Markus Helsing","Timrå Sporthall",1,10,"Klockarberget BK Ungdom",1
+"122","Mats Finke","Torvallaskolans sporthall",5,5,"Jemtland Innebandy",5
+"123","Mats Finke","Torvallaskolans sporthall",5,5,"IBK Härnösand",1
+"124","Mats Finke","Torvallaskolans sporthall",5,5,"Klockarbergets BK",1
+"125","Mats Finke","Torvallaskolans sporthall",5,5,"Sundsvalls IBF 2",1
+"126","Mats Finke","Torvallaskolans sporthall",5,5,"Timrå IBC",1
+"127","Mats Finke","Torvallaskolans sporthall",5,5,"FBC Bollnäs",1
+"128","Mats Sjöqvist","Bollnäs Sporthall A",1,3,"IBK Härnösand",1
+"129","Mats Sjöqvist","Bollnäs Sporthall A",1,3,"FBC Bollnäs",1
+"130","Mats Sjöqvist","Idrottshallen, Söderhamn",2,3,"Jemtland Innebandy",1
+"131","Mats Sjöqvist","Idrottshallen, Söderhamn",2,3,"IBK Härnösand",1
+"132","Mats Sjöqvist","Idrottshallen, Söderhamn",2,3,"Söderhamns IBF",2
+"133","Michael Hoek","Bollnäs Sporthall A",2,5,"Jemtland Innebandy",1
+"134","Michael Hoek","Bollnäs Sporthall A",2,5,"Klockarbergets BK",1
+"135","Michael Hoek","Bollnäs Sporthall A",2,5,"FBC Bollnäs",2
+"136","Michael Hoek","Idrottshallen, Söderhamn",3,5,"Söderhamns IBF",3
+"137","Michael Hoek","Idrottshallen, Söderhamn",3,5,"Timrå IBC",1
+"138","Michael Hoek","Idrottshallen, Söderhamn",3,5,"Klockarberget BK Ungdom",1
+"139","Michael Hoek","Idrottshallen, Söderhamn",3,5,"FBC Bollnäs",1
+"140","Mikael Körning","Öbacka SC",3,3,"Klockarbergets BK",1
+"141","Mikael Körning","Öbacka SC",3,3,"Sundsvall FBC",1
+"142","Mikael Körning","Öbacka SC",3,3,"IBK Härnösand",3
+"143","Mikael Körning","Öbacka SC",3,3,"FBC Bollnäs",1
+"144","Niclas Olsson","Idrottshallen, Söderhamn",3,3,"IBK Härnösand",1
+"145","Niclas Olsson","Idrottshallen, Söderhamn",3,3,"Söderhamns IBF",2
+"146","Niclas Olsson","Idrottshallen, Söderhamn",3,3,"Söderhamns IBF",1
+"147","Niclas Olsson","Idrottshallen, Söderhamn",3,3,"Sundsvalls IBF 2",1
+"148","Niclas Olsson","Idrottshallen, Söderhamn",3,3,"Jemtland Innebandy",1
+"149","Patric Jonsson","Idrottshallen, Söderhamn",1,1,"Söderhamns IBF",1
+"150","Patric Jonsson","Idrottshallen, Söderhamn",1,1,"Klockarbergets BK",1
+"151","Patrick Cederblad","Matfors Sporthall",4,6,"Sundsvall FBC",1
+"152","Patrick Cederblad","Matfors Sporthall",4,6,"FBC Bollnäs",1
+"153","Patrick Cederblad","Matfors Sporthall",4,6,"Timrå IBC",1
+"154","Patrick Cederblad","Matfors Sporthall",4,6,"Vattjoms IK",4
+"155","Patrick Cederblad","Matfors Sporthall",4,6,"Klockarberget BK Ungdom",1
+"156","Patrick Cederblad","Skönsbergshallen",1,6,"Sundsvall FBC",1
+"157","Patrick Cederblad","Skönsbergshallen",1,6,"Jemtland Innebandy",1
+"158","Patrick Cederblad","Timrå Sporthall",1,6,"Sundsvall FBC",1
+"159","Patrick Cederblad","Timrå Sporthall",1,6,"Timrå IBC",1
+"160","Patrik Sjöberg","Matfors Sporthall",1,10,"Vattjoms IK",1
+"161","Patrik Sjöberg","Matfors Sporthall",1,10,"Klockarbergets BK",1
+"162","Patrik Sjöberg","Njurundahallen",5,10,"Klockarberget BK Ungdom",2
+"163","Patrik Sjöberg","Njurundahallen",5,10,"Klockarbergets BK",4
+"164","Patrik Sjöberg","Njurundahallen",5,10,"Jemtland Innebandy",2
+"165","Patrik Sjöberg","Njurundahallen",5,10,"Sundsvall FBC",1
+"166","Patrik Sjöberg","Njurundahallen",5,10,"Sundsvalls IBF 2",1
+"167","Patrik Sjöberg","Skönsbergshallen",1,10,"Klockarbergets BK",1
+"168","Patrik Sjöberg","Skönsbergshallen",1,10,"Sundsvall FBC",1
+"169","Patrik Sjöberg","Sundsvalls Sporthall-A",1,10,"FBC Bollnäs",1
+"170","Patrik Sjöberg","Sundsvalls Sporthall-A",1,10,"Sundsvalls IBF 2",1
+"171","Patrik Sjöberg","Timrå Sporthall",2,10,"FBC Bollnäs",1
+"172","Patrik Sjöberg","Timrå Sporthall",2,10,"Timrå IBC",2
+"173","Patrik Sjöberg","Timrå Sporthall",2,10,"IBK Härnösand",1
+"174","Peder Lövdahl","Öbacka SC",2,2,"IBK Härnösand",1
+"175","Peder Lövdahl","Öbacka SC",2,2,"Vattjoms IK",1
+"176","Peder Lövdahl","Öbacka SC",2,2,"IBK Härnösand",1
+"177","Peder Lövdahl","Öbacka SC",2,2,"Sundsvall FBC",1
+"178","Per Pålsson","Höglunda",1,2,"Sundsvalls IBF 2",1
+"179","Per Pålsson","Höglunda",1,2,"Vattjoms IK",1
+"180","Per Pålsson","Timrå Sporthall",1,2,"Vattjoms IK",1
+"181","Per Pålsson","Timrå Sporthall",1,2,"Timrå IBC",1
+"182","Peter Palander","Hagahallen",1,6,"Sundsvalls IBF 2",1
+"183","Peter Palander","Hagahallen",1,6,"Sundsvall FBC",1
+"184","Peter Palander","Matfors Sporthall",1,6,"Klockarbergets BK",1
+"185","Peter Palander","Matfors Sporthall",1,6,"Vattjoms IK",1
+"186","Peter Palander","Skönsbergshallen",1,6,"Vattjoms IK",1
+"187","Peter Palander","Skönsbergshallen",1,6,"Sundsvall FBC",1
+"188","Peter Palander","Sundsvalls Sporthall-A",1,6,"Sundsvall FBC",1
+"189","Peter Palander","Sundsvalls Sporthall-A",1,6,"Timrå IBC",1
+"190","Peter Palander","Timrå Sporthall",2,6,"IBK Härnösand",1
+"191","Peter Palander","Timrå Sporthall",2,6,"Timrå IBC",2
+"192","Peter Palander","Timrå Sporthall",2,6,"FBC Bollnäs",1
+"193","Robert Lundqvist","Höglunda",1,1,"Vattjoms IK",1
+"194","Robert Lundqvist","Höglunda",1,1,"Sundsvalls IBF 2",1
+"195","Robert Mårtensson","Bollnäs Sporthall A",3,5,"Söderhamns IBF",1
+"196","Robert Mårtensson","Bollnäs Sporthall A",3,5,"FBC Bollnäs",1
+"197","Robert Mårtensson","Bollnäs Sporthall A",3,5,"FBC Bollnäs",2
+"198","Robert Mårtensson","Bollnäs Sporthall A",3,5,"IBK Härnösand",1
+"199","Robert Mårtensson","Bollnäs Sporthall A",3,5,"Klockarberget BK Ungdom",1
+"200","Robert Mårtensson","Idrottshallen, Söderhamn",2,5,"Sundsvall FBC",1
+"201","Robert Mårtensson","Idrottshallen, Söderhamn",2,5,"Söderhamns IBF",1
+"202","Robert Mårtensson","Idrottshallen, Söderhamn",2,5,"Sundsvalls IBF 2",1
+"203","Robert Mårtensson","Idrottshallen, Söderhamn",2,5,"Söderhamns IBF",1
+"204","Robert Olofsson","Torvallaskolans sporthall",1,1,"Jemtland Innebandy",1
+"205","Robert Olofsson","Torvallaskolans sporthall",1,1,"Sundsvall FBC",1
+"206","Roger Lundbäck","Njurundahallen",3,4,"Sundsvalls IBF 2",1
+"207","Roger Lundbäck","Njurundahallen",3,4,"Timrå IBC",1
+"208","Roger Lundbäck","Njurundahallen",3,4,"IBK Härnösand",1
+"209","Roger Lundbäck","Njurundahallen",3,4,"Klockarbergets BK",2
+"210","Roger Lundbäck","Njurundahallen",3,4,"Klockarberget BK Ungdom",1
+"211","Roger Lundbäck","Skönsbergshallen",1,4,"Jemtland Innebandy",1
+"212","Roger Lundbäck","Skönsbergshallen",1,4,"Sundsvall FBC",1
+"213","Santiago Bedoya","Hagahallen",1,1,"Sundsvalls IBF 2",1
+"214","Santiago Bedoya","Hagahallen",1,1,"IBK Härnösand",1
+"215","Sofie Öman","Njurundahallen",2,2,"FBC Bollnäs",1
+"216","Sofie Öman","Njurundahallen",2,2,"Vattjoms IK",1
+"217","Sofie Öman","Njurundahallen",2,2,"Klockarberget BK Ungdom",2
+"218","Teodor Lundgren","Matfors Sporthall",1,3,"Vattjoms IK",1
+"219","Teodor Lundgren","Matfors Sporthall",1,3,"Jemtland Innebandy",1
+"220","Teodor Lundgren","Sundsvalls Sporthall-A",1,3,"Sundsvall FBC",1
+"221","Teodor Lundgren","Sundsvalls Sporthall-A",1,3,"Klockarberget BK Ungdom",1
+"222","Teodor Lundgren","Timrå Sporthall",1,3,"Timrå IBC",1
+"223","Teodor Lundgren","Timrå Sporthall",1,3,"Sundsvall FBC",1
+"224","Thomas Berglund","Hagahallen",1,6,"Sundsvalls IBF 2",1
+"225","Thomas Berglund","Hagahallen",1,6,"IBK Härnösand",1
+"226","Thomas Berglund","Njurundahallen",5,6,"Timrå IBC",2
+"227","Thomas Berglund","Njurundahallen",5,6,"Sundsvalls IBF 2",1
+"228","Thomas Berglund","Njurundahallen",5,6,"IBK Härnösand",2
+"229","Thomas Berglund","Njurundahallen",5,6,"Klockarbergets BK",2
+"230","Thomas Berglund","Njurundahallen",5,6,"Klockarberget BK Ungdom",3
+"231","Tony Strindlund","Öbacka SC",2,2,"Söderhamns IBF",1
+"232","Tony Strindlund","Öbacka SC",2,2,"Klockarberget BK Ungdom",1
+"233","Tony Strindlund","Öbacka SC",2,2,"IBK Härnösand",2
+"234","Urban Larsson","Torvallaskolans sporthall",5,5,"IBK Härnösand",1
+"235","Urban Larsson","Torvallaskolans sporthall",5,5,"FBC Bollnäs",1
+"236","Urban Larsson","Torvallaskolans sporthall",5,5,"Klockarbergets BK",1
+"237","Urban Larsson","Torvallaskolans sporthall",5,5,"Sundsvalls IBF 2",1
+"238","Urban Larsson","Torvallaskolans sporthall",5,5,"Jemtland Innebandy",5
+"239","Urban Larsson","Torvallaskolans sporthall",5,5,"Timrå IBC",1
