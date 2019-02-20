@@ -1,14 +1,14 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Aarre Hietanen","Råstaparkhallen",1,1,"Vendelsö IK (A)",1
-"2","Aarre Hietanen","Råstaparkhallen",1,1,"Råsunda IS",1
+"1","Aarre Hietanen","Råstaparkhallen",1,1,"Råsunda IS",1
+"2","Aarre Hietanen","Råstaparkhallen",1,1,"Vendelsö IK (A)",1
 "3","Aldin Imamovic","Grindtorpshallen",1,8,"Nacka Wallenstam IBK (B)",1
 "4","Aldin Imamovic","Grindtorpshallen",1,8,"Täby FC (A)",1
-"5","Aldin Imamovic","Lyckeby Sporthall",1,8,"Sköndals IK",1
-"6","Aldin Imamovic","Lyckeby Sporthall",1,8,"Vendelsö IK (A)",1
-"7","Aldin Imamovic","Råstaparkhallen",2,8,"Råsunda IS",1
+"5","Aldin Imamovic","Lyckeby Sporthall",1,8,"Vendelsö IK (A)",1
+"6","Aldin Imamovic","Lyckeby Sporthall",1,8,"Sköndals IK",1
+"7","Aldin Imamovic","Råstaparkhallen",2,8,"AIK IBF",1
 "8","Aldin Imamovic","Råstaparkhallen",2,8,"Nacka Wallenstam IBK (B)",1
 "9","Aldin Imamovic","Råstaparkhallen",2,8,"AIK IBF",1
-"10","Aldin Imamovic","Råstaparkhallen",2,8,"AIK IBF",1
+"10","Aldin Imamovic","Råstaparkhallen",2,8,"Råsunda IS",1
 "11","Aldin Imamovic","Sköndalshallen",1,8,"Nacka Wallenstam IBK (B)",1
 "12","Aldin Imamovic","Sköndalshallen",1,8,"Sköndals IK",1
 "13","Aldin Imamovic","Sollentuna sim och sporthall",2,8,"Tyresö Trollbäcken IBK",1
@@ -19,15 +19,15 @@
 "18","Aldin Imamovic","Tyresöhallen",1,8,"Nacka Wallenstam IBK (B)",1
 "19","Alexander Hellström","Sköndalshallen",1,2,"Råsunda IS",1
 "20","Alexander Hellström","Sköndalshallen",1,2,"Sköndals IK",1
-"21","Alexander Hellström","Tyresöhallen",1,2,"Nacka Wallenstam IBK (B)",1
-"22","Alexander Hellström","Tyresöhallen",1,2,"Tyresö Trollbäcken IBK",1
-"23","Alexander Mattsson","Grindtorpshallen",2,6,"Täby FC (A)",1
-"24","Alexander Mattsson","Grindtorpshallen",2,6,"Tyresö Trollbäcken IBK",1
-"25","Alexander Mattsson","Grindtorpshallen",2,6,"Huddinge IBS",1
-"26","Alexander Mattsson","Grindtorpshallen",2,6,"Täby FC (A)",1
-"27","Alexander Mattsson","Hässelbyhallen",2,6,"Hässelby SK IBK (A)",2
+"21","Alexander Hellström","Tyresöhallen",1,2,"Tyresö Trollbäcken IBK",1
+"22","Alexander Hellström","Tyresöhallen",1,2,"Nacka Wallenstam IBK (B)",1
+"23","Alexander Mattsson","Grindtorpshallen",2,6,"Tyresö Trollbäcken IBK",1
+"24","Alexander Mattsson","Grindtorpshallen",2,6,"Täby FC (A)",1
+"25","Alexander Mattsson","Grindtorpshallen",2,6,"Täby FC (A)",1
+"26","Alexander Mattsson","Grindtorpshallen",2,6,"Huddinge IBS",1
+"27","Alexander Mattsson","Hässelbyhallen",2,6,"AIK IBF",1
 "28","Alexander Mattsson","Hässelbyhallen",2,6,"Rotebro IS IBK (A)",1
-"29","Alexander Mattsson","Hässelbyhallen",2,6,"AIK IBF",1
+"29","Alexander Mattsson","Hässelbyhallen",2,6,"Hässelby SK IBK (A)",2
 "30","Alexander Mattsson","Ormingehallen",1,6,"Nacka Wallenstam IBK (B)",1
 "31","Alexander Mattsson","Ormingehallen",1,6,"Huddinge IBS",1
 "32","Alexander Mattsson","Sollentuna sim och sporthall",1,6,"Rotebro IS IBK (A)",1
@@ -36,283 +36,304 @@
 "35","Alexander Sommensjö","Fleminghallen",1,1,"Älvsjö AIK IBF (B)",1
 "36","Amanda Törner","Hässelbyhallen",1,1,"Täby FC (A)",1
 "37","Amanda Törner","Hässelbyhallen",1,1,"Hässelby SK IBK (A)",1
-"38","Anders Asp","Sköndalshallen",1,1,"Täby FC (A)",1
-"39","Anders Asp","Sköndalshallen",1,1,"Sköndals IK",1
+"38","Anders Asp","Sköndalshallen",1,1,"Sköndals IK",1
+"39","Anders Asp","Sköndalshallen",1,1,"Täby FC (A)",1
 "40","Anders Westerberg","Fleminghallen",1,3,"Sköndals IK",1
 "41","Anders Westerberg","Fleminghallen",1,3,"Huddinge IBS",1
-"42","Anders Westerberg","Lyckeby Sporthall",1,3,"Tyresö Trollbäcken IBK",1
-"43","Anders Westerberg","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
-"44","Anders Westerberg","Tyresöhallen",1,3,"Tyresö Trollbäcken IBK",1
-"45","Anders Westerberg","Tyresöhallen",1,3,"Sköndals IK",1
-"46","Andreas Bengtsson","Fleminghallen",1,2,"Råsunda IS",1
-"47","Andreas Bengtsson","Fleminghallen",1,2,"Huddinge IBS",1
+"42","Anders Westerberg","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
+"43","Anders Westerberg","Lyckeby Sporthall",1,3,"Tyresö Trollbäcken IBK",1
+"44","Anders Westerberg","Tyresöhallen",1,3,"Sköndals IK",1
+"45","Anders Westerberg","Tyresöhallen",1,3,"Tyresö Trollbäcken IBK",1
+"46","Andreas Bengtsson","Fleminghallen",1,2,"Huddinge IBS",1
+"47","Andreas Bengtsson","Fleminghallen",1,2,"Råsunda IS",1
 "48","Andreas Bengtsson","Råstaparkhallen",1,2,"Råsunda IS",1
 "49","Andreas Bengtsson","Råstaparkhallen",1,2,"Täby FC (A)",1
 "50","Andreas Mattsson","Grindtorpshallen",1,3,"Tyresö Trollbäcken IBK",1
 "51","Andreas Mattsson","Grindtorpshallen",1,3,"Täby FC (A)",1
-"52","Andreas Mattsson","Hässelbyhallen",2,3,"Rotebro IS IBK (A)",1
-"53","Andreas Mattsson","Hässelbyhallen",2,3,"AIK IBF",1
-"54","Andreas Mattsson","Hässelbyhallen",2,3,"Hässelby SK IBK (A)",2
+"52","Andreas Mattsson","Hässelbyhallen",2,3,"AIK IBF",1
+"53","Andreas Mattsson","Hässelbyhallen",2,3,"Hässelby SK IBK (A)",2
+"54","Andreas Mattsson","Hässelbyhallen",2,3,"Rotebro IS IBK (A)",1
 "55","Arash Sohrevardi","Ormingehallen",1,3,"Tyresö Trollbäcken IBK",1
 "56","Arash Sohrevardi","Ormingehallen",1,3,"Nacka Wallenstam IBK (B)",1
-"57","Arash Sohrevardi","Sköndalshallen",1,3,"Huddinge IBS",1
-"58","Arash Sohrevardi","Sköndalshallen",1,3,"Sköndals IK",1
-"59","Arash Sohrevardi","Västertorpshallen",1,3,"Vendelsö IK (A)",1
-"60","Arash Sohrevardi","Västertorpshallen",1,3,"Älvsjö AIK IBF (B)",1
-"61","Bjarne Hekkelstrand","Lyckeby Sporthall",1,3,"Tyresö Trollbäcken IBK",1
-"62","Bjarne Hekkelstrand","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
+"57","Arash Sohrevardi","Sköndalshallen",1,3,"Sköndals IK",1
+"58","Arash Sohrevardi","Sköndalshallen",1,3,"Huddinge IBS",1
+"59","Arash Sohrevardi","Västertorpshallen",1,3,"Älvsjö AIK IBF (B)",1
+"60","Arash Sohrevardi","Västertorpshallen",1,3,"Vendelsö IK (A)",1
+"61","Bjarne Hekkelstrand","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
+"62","Bjarne Hekkelstrand","Lyckeby Sporthall",1,3,"Tyresö Trollbäcken IBK",1
 "63","Bjarne Hekkelstrand","Tyresöhallen",2,3,"Tyresö Trollbäcken IBK",2
-"64","Bjarne Hekkelstrand","Tyresöhallen",2,3,"AIK IBF",1
-"65","Bjarne Hekkelstrand","Tyresöhallen",2,3,"Huddinge IBS",1
+"64","Bjarne Hekkelstrand","Tyresöhallen",2,3,"Huddinge IBS",1
+"65","Bjarne Hekkelstrand","Tyresöhallen",2,3,"AIK IBF",1
 "66","Björn Landin","Lyckeby Sporthall",1,1,"Huddinge IBS",1
 "67","Björn Landin","Lyckeby Sporthall",1,1,"Vendelsö IK (A)",1
-"68","Björn Söderström","Grindtorpshallen",1,1,"Rotebro IS IBK (A)",1
-"69","Björn Söderström","Grindtorpshallen",1,1,"Täby FC (A)",1
-"70","Christian Högberg","Grindtorpshallen",1,6,"Nacka Wallenstam IBK (B)",1
-"71","Christian Högberg","Grindtorpshallen",1,6,"Täby FC (A)",1
-"72","Christian Högberg","Råstaparkhallen",3,6,"Huddinge IBS",1
-"73","Christian Högberg","Råstaparkhallen",3,6,"Rotebro IS IBK (A)",1
-"74","Christian Högberg","Råstaparkhallen",3,6,"Råsunda IS",2
-"75","Christian Högberg","Råstaparkhallen",3,6,"Tyresö Trollbäcken IBK",1
-"76","Christian Högberg","Råstaparkhallen",3,6,"AIK IBF",1
-"77","Christian Högberg","Sollentuna sim och sporthall",2,6,"Sköndals IK",1
-"78","Christian Högberg","Sollentuna sim och sporthall",2,6,"Rotebro IS IBK (A)",2
-"79","Christian Högberg","Sollentuna sim och sporthall",2,6,"Hässelby SK IBK (A)",1
-"80","Christoffer Markovski","Västertorpshallen",1,1,"Älvsjö AIK IBF (B)",1
-"81","Christoffer Markovski","Västertorpshallen",1,1,"Vendelsö IK (A)",1
-"82","Daniel Enkulla","Sollentuna sim och sporthall",1,1,"Nacka Wallenstam IBK (B)",1
-"83","Daniel Enkulla","Sollentuna sim och sporthall",1,1,"Rotebro IS IBK (A)",1
-"84","Daniel Karlsson","Ormingehallen",1,4,"Nacka Wallenstam IBK (B)",1
-"85","Daniel Karlsson","Ormingehallen",1,4,"Huddinge IBS",1
-"86","Daniel Karlsson","Råstaparkhallen",1,4,"Tyresö Trollbäcken IBK",1
-"87","Daniel Karlsson","Råstaparkhallen",1,4,"AIK IBF",1
-"88","Daniel Karlsson","Tyresöhallen",1,4,"Täby FC (A)",1
-"89","Daniel Karlsson","Tyresöhallen",1,4,"Tyresö Trollbäcken IBK",1
-"90","Daniel Karlsson","Västertorpshallen",1,4,"Täby FC (A)",1
-"91","Daniel Karlsson","Västertorpshallen",1,4,"Älvsjö AIK IBF (B)",1
-"92","Daniel Kölborn","Hässelbyhallen",1,9,"Hässelby SK IBK (A)",1
-"93","Daniel Kölborn","Hässelbyhallen",1,9,"Huddinge IBS",1
-"94","Daniel Kölborn","Lyckeby Sporthall",2,9,"Nacka Wallenstam IBK (B)",1
-"95","Daniel Kölborn","Lyckeby Sporthall",2,9,"Vendelsö IK (A)",2
+"68","Björn Söderström","Grindtorpshallen",1,1,"Täby FC (A)",1
+"69","Björn Söderström","Grindtorpshallen",1,1,"Rotebro IS IBK (A)",1
+"70","Christian Högberg","Grindtorpshallen",1,7,"Nacka Wallenstam IBK (B)",1
+"71","Christian Högberg","Grindtorpshallen",1,7,"Täby FC (A)",1
+"72","Christian Högberg","Råstaparkhallen",3,7,"AIK IBF",1
+"73","Christian Högberg","Råstaparkhallen",3,7,"Råsunda IS",2
+"74","Christian Högberg","Råstaparkhallen",3,7,"Huddinge IBS",1
+"75","Christian Högberg","Råstaparkhallen",3,7,"Tyresö Trollbäcken IBK",1
+"76","Christian Högberg","Råstaparkhallen",3,7,"Rotebro IS IBK (A)",1
+"77","Christian Högberg","Sollentuna sim och sporthall",2,7,"Sköndals IK",1
+"78","Christian Högberg","Sollentuna sim och sporthall",2,7,"Hässelby SK IBK (A)",1
+"79","Christian Högberg","Sollentuna sim och sporthall",2,7,"Rotebro IS IBK (A)",2
+"80","Christian Högberg","Tyresöhallen",1,7,"Tyresö Trollbäcken IBK",1
+"81","Christian Högberg","Tyresöhallen",1,7,"Vendelsö IK (A)",1
+"82","Christoffer Markovski","Västertorpshallen",1,1,"Vendelsö IK (A)",1
+"83","Christoffer Markovski","Västertorpshallen",1,1,"Älvsjö AIK IBF (B)",1
+"84","Daniel Enkulla","Sollentuna sim och sporthall",1,1,"Rotebro IS IBK (A)",1
+"85","Daniel Enkulla","Sollentuna sim och sporthall",1,1,"Nacka Wallenstam IBK (B)",1
+"86","Daniel Karlsson","Ormingehallen",1,4,"Nacka Wallenstam IBK (B)",1
+"87","Daniel Karlsson","Ormingehallen",1,4,"Huddinge IBS",1
+"88","Daniel Karlsson","Råstaparkhallen",1,4,"Tyresö Trollbäcken IBK",1
+"89","Daniel Karlsson","Råstaparkhallen",1,4,"AIK IBF",1
+"90","Daniel Karlsson","Tyresöhallen",1,4,"Täby FC (A)",1
+"91","Daniel Karlsson","Tyresöhallen",1,4,"Tyresö Trollbäcken IBK",1
+"92","Daniel Karlsson","Västertorpshallen",1,4,"Älvsjö AIK IBF (B)",1
+"93","Daniel Karlsson","Västertorpshallen",1,4,"Täby FC (A)",1
+"94","Daniel Kölborn","Hässelbyhallen",1,9,"Hässelby SK IBK (A)",1
+"95","Daniel Kölborn","Hässelbyhallen",1,9,"Huddinge IBS",1
 "96","Daniel Kölborn","Lyckeby Sporthall",2,9,"Hässelby SK IBK (A)",1
-"97","Daniel Kölborn","Ormingehallen",2,9,"Nacka Wallenstam IBK (B)",2
-"98","Daniel Kölborn","Ormingehallen",2,9,"Rotebro IS IBK (A)",1
-"99","Daniel Kölborn","Ormingehallen",2,9,"Vendelsö IK (A)",1
-"100","Daniel Kölborn","Sköndalshallen",1,9,"Älvsjö AIK IBF (B)",1
-"101","Daniel Kölborn","Sköndalshallen",1,9,"Sköndals IK",1
-"102","Daniel Kölborn","Sollentuna sim och sporthall",2,9,"Råsunda IS",1
-"103","Daniel Kölborn","Sollentuna sim och sporthall",2,9,"Sköndals IK",1
-"104","Daniel Kölborn","Sollentuna sim och sporthall",2,9,"Rotebro IS IBK (A)",2
-"105","Daniel Kölborn","Västertorpshallen",1,9,"Hässelby SK IBK (A)",1
-"106","Daniel Kölborn","Västertorpshallen",1,9,"Älvsjö AIK IBF (B)",1
-"107","Dennis Svensson","Sollentuna sim och sporthall",1,1,"Rotebro IS IBK (A)",1
-"108","Dennis Svensson","Sollentuna sim och sporthall",1,1,"Älvsjö AIK IBF (B)",1
-"109","Elin Holm","Grindtorpshallen",1,5,"Täby FC (A)",1
-"110","Elin Holm","Grindtorpshallen",1,5,"Vendelsö IK (A)",1
-"111","Elin Holm","Lyckeby Sporthall",1,5,"Vendelsö IK (A)",1
-"112","Elin Holm","Lyckeby Sporthall",1,5,"Rotebro IS IBK (A)",1
-"113","Elin Holm","Ormingehallen",1,5,"Råsunda IS",1
-"114","Elin Holm","Ormingehallen",1,5,"Nacka Wallenstam IBK (B)",1
-"115","Elin Holm","Tyresöhallen",1,5,"Tyresö Trollbäcken IBK",1
-"116","Elin Holm","Tyresöhallen",1,5,"Hässelby SK IBK (A)",1
-"117","Elin Holm","Västertorpshallen",1,5,"Älvsjö AIK IBF (B)",1
-"118","Elin Holm","Västertorpshallen",1,5,"Råsunda IS",1
-"119","Elis Erbing","Fleminghallen",1,2,"Råsunda IS",1
-"120","Elis Erbing","Fleminghallen",1,2,"Huddinge IBS",1
-"121","Elis Erbing","Råstaparkhallen",1,2,"Råsunda IS",1
-"122","Elis Erbing","Råstaparkhallen",1,2,"Täby FC (A)",1
-"123","Emilia Tuomela","Grindtorpshallen",1,7,"Täby FC (A)",1
-"124","Emilia Tuomela","Grindtorpshallen",1,7,"Vendelsö IK (A)",1
-"125","Emilia Tuomela","Lyckeby Sporthall",2,7,"Vendelsö IK (A)",2
-"126","Emilia Tuomela","Lyckeby Sporthall",2,7,"AIK IBF",1
-"127","Emilia Tuomela","Lyckeby Sporthall",2,7,"Rotebro IS IBK (A)",1
-"128","Emilia Tuomela","Ormingehallen",1,7,"Nacka Wallenstam IBK (B)",1
-"129","Emilia Tuomela","Ormingehallen",1,7,"Råsunda IS",1
-"130","Emilia Tuomela","Rotebrohallen (Nya)",1,7,"Huddinge IBS",1
-"131","Emilia Tuomela","Rotebrohallen (Nya)",1,7,"Rotebro IS IBK (A)",1
-"132","Emilia Tuomela","Tyresöhallen",1,7,"Tyresö Trollbäcken IBK",1
-"133","Emilia Tuomela","Tyresöhallen",1,7,"Hässelby SK IBK (A)",1
-"134","Emilia Tuomela","Västertorpshallen",1,7,"Älvsjö AIK IBF (B)",1
-"135","Emilia Tuomela","Västertorpshallen",1,7,"Råsunda IS",1
-"136","Erik Nyman","Lyckeby Sporthall",1,1,"Vendelsö IK (A)",1
-"137","Erik Nyman","Lyckeby Sporthall",1,1,"Älvsjö AIK IBF (B)",1
-"138","Fabian Fahimi","Grindtorpshallen",1,2,"Täby FC (A)",1
-"139","Fabian Fahimi","Grindtorpshallen",1,2,"Hässelby SK IBK (A)",1
-"140","Fabian Fahimi","Sollentuna sim och sporthall",1,2,"AIK IBF",1
-"141","Fabian Fahimi","Sollentuna sim och sporthall",1,2,"Rotebro IS IBK (A)",1
-"142","Fadi Saffo","Hässelbyhallen",1,1,"Nacka Wallenstam IBK (B)",1
-"143","Fadi Saffo","Hässelbyhallen",1,1,"Hässelby SK IBK (A)",1
-"144","Fredrik Berglund Sonesson","Fleminghallen",1,4,"Huddinge IBS",1
-"145","Fredrik Berglund Sonesson","Fleminghallen",1,4,"Sköndals IK",1
-"146","Fredrik Berglund Sonesson","Råstaparkhallen",1,4,"Råsunda IS",1
-"147","Fredrik Berglund Sonesson","Råstaparkhallen",1,4,"Rotebro IS IBK (A)",1
-"148","Fredrik Berglund Sonesson","Sköndalshallen",2,4,"Sköndals IK",2
-"149","Fredrik Berglund Sonesson","Sköndalshallen",2,4,"Vendelsö IK (A)",1
-"150","Fredrik Berglund Sonesson","Sköndalshallen",2,4,"Nacka Wallenstam IBK (B)",1
-"151","Fredrik Landin","Fleminghallen",1,5,"Huddinge IBS",1
-"152","Fredrik Landin","Fleminghallen",1,5,"Tyresö Trollbäcken IBK",1
-"153","Fredrik Landin","Råstaparkhallen",3,5,"Råsunda IS",1
-"154","Fredrik Landin","Råstaparkhallen",3,5,"AIK IBF",2
-"155","Fredrik Landin","Råstaparkhallen",3,5,"AIK IBF",1
-"156","Fredrik Landin","Råstaparkhallen",3,5,"Täby FC (A)",1
-"157","Fredrik Landin","Råstaparkhallen",3,5,"Vendelsö IK (A)",1
-"158","Fredrik Landin","Tyresöhallen",1,5,"Täby FC (A)",1
-"159","Fredrik Landin","Tyresöhallen",1,5,"Tyresö Trollbäcken IBK",1
-"160","Håkan Augustsson","Sköndalshallen",1,2,"Sköndals IK",1
-"161","Håkan Augustsson","Sköndalshallen",1,2,"AIK IBF",1
-"162","Håkan Augustsson","Västertorpshallen",1,2,"Sköndals IK",1
-"163","Håkan Augustsson","Västertorpshallen",1,2,"Älvsjö AIK IBF (B)",1
-"164","Håkan Taxén","Sköndalshallen",2,3,"Sköndals IK",2
-"165","Håkan Taxén","Sköndalshallen",2,3,"Huddinge IBS",1
-"166","Håkan Taxén","Sköndalshallen",2,3,"AIK IBF",1
-"167","Håkan Taxén","Västertorpshallen",1,3,"Sköndals IK",1
-"168","Håkan Taxén","Västertorpshallen",1,3,"Älvsjö AIK IBF (B)",1
-"169","Ida Nedin","Ormingehallen",1,1,"Rotebro IS IBK (A)",1
-"170","Ida Nedin","Ormingehallen",1,1,"Nacka Wallenstam IBK (B)",1
-"171","Jacob Leijon","Lyckeby Sporthall",1,3,"AIK IBF",1
-"172","Jacob Leijon","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
-"173","Jacob Leijon","Ormingehallen",1,3,"Nacka Wallenstam IBK (B)",1
-"174","Jacob Leijon","Ormingehallen",1,3,"Älvsjö AIK IBF (B)",1
-"175","Jacob Leijon","Västertorpshallen",1,3,"Älvsjö AIK IBF (B)",1
-"176","Jacob Leijon","Västertorpshallen",1,3,"Tyresö Trollbäcken IBK",1
-"177","Jan Lingemark","Hässelbyhallen",1,1,"Hässelby SK IBK (A)",1
-"178","Jan Lingemark","Hässelbyhallen",1,1,"Vendelsö IK (A)",1
-"179","Jimmy Rittervall","Fleminghallen",1,4,"Huddinge IBS",1
-"180","Jimmy Rittervall","Fleminghallen",1,4,"Tyresö Trollbäcken IBK",1
-"181","Jimmy Rittervall","Ormingehallen",1,4,"Nacka Wallenstam IBK (B)",1
-"182","Jimmy Rittervall","Ormingehallen",1,4,"Vendelsö IK (A)",1
-"183","Jimmy Rittervall","Råstaparkhallen",2,4,"Vendelsö IK (A)",1
-"184","Jimmy Rittervall","Råstaparkhallen",2,4,"Täby FC (A)",1
-"185","Jimmy Rittervall","Råstaparkhallen",2,4,"AIK IBF",2
-"186","Johan Larsson","Sköndalshallen",2,2,"Vendelsö IK (A)",1
-"187","Johan Larsson","Sköndalshallen",2,2,"Sköndals IK",1
-"188","Johan Larsson","Sköndalshallen",2,2,"Sköndals IK",1
-"189","Johan Larsson","Sköndalshallen",2,2,"Hässelby SK IBK (A)",1
-"190","Johannes Ekenberg","Råstaparkhallen",2,4,"Älvsjö AIK IBF (B)",1
-"191","Johannes Ekenberg","Råstaparkhallen",2,4,"Sköndals IK",1
-"192","Johannes Ekenberg","Råstaparkhallen",2,4,"AIK IBF",2
-"193","Johannes Ekenberg","Sköndalshallen",1,4,"Sköndals IK",1
-"194","Johannes Ekenberg","Sköndalshallen",1,4,"Täby FC (A)",1
-"195","Johannes Ekenberg","Sollentuna sim och sporthall",1,4,"Tyresö Trollbäcken IBK",1
-"196","Johannes Ekenberg","Sollentuna sim och sporthall",1,4,"Rotebro IS IBK (A)",1
-"197","Jonas Edström","Hässelbyhallen",1,1,"Hässelby SK IBK (A)",1
-"198","Jonas Edström","Hässelbyhallen",1,1,"Råsunda IS",1
-"199","Jonas Håmark","Fleminghallen",1,1,"Huddinge IBS",1
-"200","Jonas Håmark","Fleminghallen",1,1,"Älvsjö AIK IBF (B)",1
-"201","Julius Olesen","Ormingehallen",1,1,"Nacka Wallenstam IBK (B)",1
-"202","Julius Olesen","Ormingehallen",1,1,"Sköndals IK",1
-"203","Kari Karke","Ormingehallen",1,1,"Tyresö Trollbäcken IBK",1
-"204","Kari Karke","Ormingehallen",1,1,"Nacka Wallenstam IBK (B)",1
-"205","Kari Malmros","Fleminghallen",1,4,"Huddinge IBS",1
-"206","Kari Malmros","Fleminghallen",1,4,"Rotebro IS IBK (A)",1
-"207","Kari Malmros","Hässelbyhallen",1,4,"Nacka Wallenstam IBK (B)",1
-"208","Kari Malmros","Hässelbyhallen",1,4,"Hässelby SK IBK (A)",1
-"209","Kari Malmros","Råstaparkhallen",1,4,"Råsunda IS",1
-"210","Kari Malmros","Råstaparkhallen",1,4,"Vendelsö IK (A)",1
-"211","Kari Malmros","Västertorpshallen",1,4,"Älvsjö AIK IBF (B)",1
-"212","Kari Malmros","Västertorpshallen",1,4,"AIK IBF",1
-"213","Kenny Ly","Grindtorpshallen",1,3,"Täby FC (A)",1
-"214","Kenny Ly","Grindtorpshallen",1,3,"Huddinge IBS",1
-"215","Kenny Ly","Lyckeby Sporthall",1,3,"Älvsjö AIK IBF (B)",1
-"216","Kenny Ly","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
-"217","Kenny Ly","Tyresöhallen",1,3,"Älvsjö AIK IBF (B)",1
-"218","Kenny Ly","Tyresöhallen",1,3,"Tyresö Trollbäcken IBK",1
-"219","Kent Budell","Fleminghallen",1,1,"Hässelby SK IBK (A)",1
-"220","Kent Budell","Fleminghallen",1,1,"Huddinge IBS",1
-"221","Linus Löfstedt","Fleminghallen",1,3,"Huddinge IBS",1
-"222","Linus Löfstedt","Fleminghallen",1,3,"Täby FC (A)",1
-"223","Linus Löfstedt","Grindtorpshallen",1,3,"Täby FC (A)",1
-"224","Linus Löfstedt","Grindtorpshallen",1,3,"Hässelby SK IBK (A)",1
-"225","Linus Löfstedt","Råstaparkhallen",1,3,"Råsunda IS",1
-"226","Linus Löfstedt","Råstaparkhallen",1,3,"Nacka Wallenstam IBK (B)",1
-"227","Linus Warrenstein","Råstaparkhallen",3,3,"AIK IBF",3
-"228","Linus Warrenstein","Råstaparkhallen",3,3,"Råsunda IS",1
-"229","Linus Warrenstein","Råstaparkhallen",3,3,"Sköndals IK",1
-"230","Linus Warrenstein","Råstaparkhallen",3,3,"Älvsjö AIK IBF (B)",1
-"231","Madelene Westerberg","Fleminghallen",1,4,"Hässelby SK IBK (A)",1
-"232","Madelene Westerberg","Fleminghallen",1,4,"Huddinge IBS",1
-"233","Madelene Westerberg","Lyckeby Sporthall",2,4,"Hässelby SK IBK (A)",1
-"234","Madelene Westerberg","Lyckeby Sporthall",2,4,"Vendelsö IK (A)",2
-"235","Madelene Westerberg","Lyckeby Sporthall",2,4,"Nacka Wallenstam IBK (B)",1
-"236","Madelene Westerberg","Sköndalshallen",1,4,"Sköndals IK",1
-"237","Madelene Westerberg","Sköndalshallen",1,4,"Älvsjö AIK IBF (B)",1
-"238","Magnus Johansson","Grindtorpshallen",1,1,"Råsunda IS",1
-"239","Magnus Johansson","Grindtorpshallen",1,1,"Täby FC (A)",1
-"240","Marcus Ackefelt","Ormingehallen",1,1,"Sköndals IK",1
-"241","Marcus Ackefelt","Ormingehallen",1,1,"Nacka Wallenstam IBK (B)",1
-"242","Marcus Blomqvist","Sollentuna sim och sporthall",1,1,"Rotebro IS IBK (A)",1
-"243","Marcus Blomqvist","Sollentuna sim och sporthall",1,1,"Nacka Wallenstam IBK (B)",1
-"244","Martin Johansson","Råstaparkhallen",3,5,"Huddinge IBS",1
-"245","Martin Johansson","Råstaparkhallen",3,5,"Råsunda IS",2
-"246","Martin Johansson","Råstaparkhallen",3,5,"Rotebro IS IBK (A)",1
-"247","Martin Johansson","Råstaparkhallen",3,5,"AIK IBF",1
-"248","Martin Johansson","Råstaparkhallen",3,5,"Tyresö Trollbäcken IBK",1
-"249","Martin Johansson","Sollentuna sim och sporthall",1,5,"Hässelby SK IBK (A)",1
-"250","Martin Johansson","Sollentuna sim och sporthall",1,5,"Rotebro IS IBK (A)",1
-"251","Martin Johansson","Västertorpshallen",1,5,"AIK IBF",1
-"252","Martin Johansson","Västertorpshallen",1,5,"Älvsjö AIK IBF (B)",1
-"253","Martin Svensson","Sollentuna sim och sporthall",1,1,"Älvsjö AIK IBF (B)",1
-"254","Martin Svensson","Sollentuna sim och sporthall",1,1,"Rotebro IS IBK (A)",1
-"255","Michael Selg","Hässelbyhallen",1,1,"Hässelby SK IBK (A)",1
-"256","Michael Selg","Hässelbyhallen",1,1,"Älvsjö AIK IBF (B)",1
-"257","Nicklas Sundgren","Fleminghallen",1,2,"Huddinge IBS",1
-"258","Nicklas Sundgren","Fleminghallen",1,2,"Täby FC (A)",1
-"259","Nicklas Sundgren","Råstaparkhallen",1,2,"Råsunda IS",1
-"260","Nicklas Sundgren","Råstaparkhallen",1,2,"Nacka Wallenstam IBK (B)",1
-"261","Nihada Cenanovic","Fleminghallen",1,3,"Huddinge IBS",1
-"262","Nihada Cenanovic","Fleminghallen",1,3,"AIK IBF",1
-"263","Nihada Cenanovic","Hässelbyhallen",1,3,"Huddinge IBS",1
-"264","Nihada Cenanovic","Hässelbyhallen",1,3,"Hässelby SK IBK (A)",1
-"265","Nihada Cenanovic","Råstaparkhallen",1,3,"Nacka Wallenstam IBK (B)",1
-"266","Nihada Cenanovic","Råstaparkhallen",1,3,"AIK IBF",1
-"267","Ola Bigestans","Tyresöhallen",1,1,"Sköndals IK",1
-"268","Ola Bigestans","Tyresöhallen",1,1,"Tyresö Trollbäcken IBK",1
-"269","Patrik Larsson","Grindtorpshallen",1,2,"Rotebro IS IBK (A)",1
-"270","Patrik Larsson","Grindtorpshallen",1,2,"Täby FC (A)",1
-"271","Patrik Larsson","Ormingehallen",1,2,"Älvsjö AIK IBF (B)",1
-"272","Patrik Larsson","Ormingehallen",1,2,"Nacka Wallenstam IBK (B)",1
-"273","Rasmus Jansson","Tyresöhallen",1,1,"Älvsjö AIK IBF (B)",1
-"274","Rasmus Jansson","Tyresöhallen",1,1,"Tyresö Trollbäcken IBK",1
-"275","Roland Nester","Lyckeby Sporthall",1,2,"Huddinge IBS",1
-"276","Roland Nester","Lyckeby Sporthall",1,2,"Vendelsö IK (A)",1
-"277","Roland Nester","Rotebrohallen (Nya)",1,2,"Huddinge IBS",1
-"278","Roland Nester","Rotebrohallen (Nya)",1,2,"Rotebro IS IBK (A)",1
-"279","Sebastian Öhman","Fleminghallen",1,3,"Huddinge IBS",1
-"280","Sebastian Öhman","Fleminghallen",1,3,"AIK IBF",1
-"281","Sebastian Öhman","Lyckeby Sporthall",1,3,"Sköndals IK",1
-"282","Sebastian Öhman","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
-"283","Sebastian Öhman","Sköndalshallen",1,3,"Hässelby SK IBK (A)",1
-"284","Sebastian Öhman","Sköndalshallen",1,3,"Sköndals IK",1
-"285","Shari Tingman","Västertorpshallen",1,1,"Hässelby SK IBK (A)",1
-"286","Shari Tingman","Västertorpshallen",1,1,"Älvsjö AIK IBF (B)",1
-"287","Stefano Bianque","Hässelbyhallen",1,5,"Älvsjö AIK IBF (B)",1
-"288","Stefano Bianque","Hässelbyhallen",1,5,"Hässelby SK IBK (A)",1
-"289","Stefano Bianque","Råstaparkhallen",1,5,"Råsunda IS",1
-"290","Stefano Bianque","Råstaparkhallen",1,5,"AIK IBF",1
-"291","Stefano Bianque","Sköndalshallen",1,5,"Sköndals IK",1
-"292","Stefano Bianque","Sköndalshallen",1,5,"Råsunda IS",1
-"293","Stefano Bianque","Sollentuna sim och sporthall",1,5,"Råsunda IS",1
-"294","Stefano Bianque","Sollentuna sim och sporthall",1,5,"Rotebro IS IBK (A)",1
-"295","Stefano Bianque","Västertorpshallen",1,5,"Tyresö Trollbäcken IBK",1
-"296","Stefano Bianque","Västertorpshallen",1,5,"Älvsjö AIK IBF (B)",1
-"297","Thomas Bégat","Tyresöhallen",2,2,"Huddinge IBS",1
-"298","Thomas Bégat","Tyresöhallen",2,2,"Tyresö Trollbäcken IBK",2
-"299","Thomas Bégat","Tyresöhallen",2,2,"AIK IBF",1
-"300","Tim Sandström","Fleminghallen",1,3,"Rotebro IS IBK (A)",1
-"301","Tim Sandström","Fleminghallen",1,3,"Huddinge IBS",1
-"302","Tim Sandström","Grindtorpshallen",1,3,"Råsunda IS",1
-"303","Tim Sandström","Grindtorpshallen",1,3,"Täby FC (A)",1
-"304","Tim Sandström","Råstaparkhallen",1,3,"Tyresö Trollbäcken IBK",1
-"305","Tim Sandström","Råstaparkhallen",1,3,"AIK IBF",1
-"306","Ulf Jonsson","Hässelbyhallen",2,2,"Hässelby SK IBK (A)",1
-"307","Ulf Jonsson","Hässelbyhallen",2,2,"Hässelby SK IBK (A)",1
-"308","Ulf Jonsson","Hässelbyhallen",2,2,"Råsunda IS",1
-"309","Ulf Jonsson","Hässelbyhallen",2,2,"Vendelsö IK (A)",1
-"310","William Albrecht","Hässelbyhallen",1,4,"Hässelby SK IBK (A)",1
-"311","William Albrecht","Hässelbyhallen",1,4,"Täby FC (A)",1
-"312","William Albrecht","Råstaparkhallen",1,4,"Råsunda IS",1
-"313","William Albrecht","Råstaparkhallen",1,4,"Rotebro IS IBK (A)",1
-"314","William Albrecht","Sollentuna sim och sporthall",1,4,"Rotebro IS IBK (A)",1
-"315","William Albrecht","Sollentuna sim och sporthall",1,4,"AIK IBF",1
-"316","William Albrecht","Västertorpshallen",1,4,"Täby FC (A)",1
-"317","William Albrecht","Västertorpshallen",1,4,"Älvsjö AIK IBF (B)",1
+"97","Daniel Kölborn","Lyckeby Sporthall",2,9,"Vendelsö IK (A)",2
+"98","Daniel Kölborn","Lyckeby Sporthall",2,9,"Nacka Wallenstam IBK (B)",1
+"99","Daniel Kölborn","Ormingehallen",2,9,"Rotebro IS IBK (A)",1
+"100","Daniel Kölborn","Ormingehallen",2,9,"Vendelsö IK (A)",1
+"101","Daniel Kölborn","Ormingehallen",2,9,"Nacka Wallenstam IBK (B)",2
+"102","Daniel Kölborn","Sköndalshallen",1,9,"Älvsjö AIK IBF (B)",1
+"103","Daniel Kölborn","Sköndalshallen",1,9,"Sköndals IK",1
+"104","Daniel Kölborn","Sollentuna sim och sporthall",2,9,"Sköndals IK",1
+"105","Daniel Kölborn","Sollentuna sim och sporthall",2,9,"Rotebro IS IBK (A)",2
+"106","Daniel Kölborn","Sollentuna sim och sporthall",2,9,"Råsunda IS",1
+"107","Daniel Kölborn","Västertorpshallen",1,9,"Älvsjö AIK IBF (B)",1
+"108","Daniel Kölborn","Västertorpshallen",1,9,"Hässelby SK IBK (A)",1
+"109","Dennis Svensson","Sollentuna sim och sporthall",1,1,"Rotebro IS IBK (A)",1
+"110","Dennis Svensson","Sollentuna sim och sporthall",1,1,"Älvsjö AIK IBF (B)",1
+"111","Elin Holm","Grindtorpshallen",1,7,"Täby FC (A)",1
+"112","Elin Holm","Grindtorpshallen",1,7,"Vendelsö IK (A)",1
+"113","Elin Holm","Hässelbyhallen",1,7,"Hässelby SK IBK (A)",1
+"114","Elin Holm","Hässelbyhallen",1,7,"Sköndals IK",1
+"115","Elin Holm","Lyckeby Sporthall",1,7,"Vendelsö IK (A)",1
+"116","Elin Holm","Lyckeby Sporthall",1,7,"Rotebro IS IBK (A)",1
+"117","Elin Holm","Ormingehallen",2,7,"Råsunda IS",1
+"118","Elin Holm","Ormingehallen",2,7,"Nacka Wallenstam IBK (B)",2
+"119","Elin Holm","Ormingehallen",2,7,"Täby FC (A)",1
+"120","Elin Holm","Tyresöhallen",1,7,"Hässelby SK IBK (A)",1
+"121","Elin Holm","Tyresöhallen",1,7,"Tyresö Trollbäcken IBK",1
+"122","Elin Holm","Västertorpshallen",1,7,"Älvsjö AIK IBF (B)",1
+"123","Elin Holm","Västertorpshallen",1,7,"Råsunda IS",1
+"124","Elis Erbing","Fleminghallen",1,2,"Huddinge IBS",1
+"125","Elis Erbing","Fleminghallen",1,2,"Råsunda IS",1
+"126","Elis Erbing","Råstaparkhallen",1,2,"Råsunda IS",1
+"127","Elis Erbing","Råstaparkhallen",1,2,"Täby FC (A)",1
+"128","Emilia Tuomela","Grindtorpshallen",1,9,"Täby FC (A)",1
+"129","Emilia Tuomela","Grindtorpshallen",1,9,"Vendelsö IK (A)",1
+"130","Emilia Tuomela","Hässelbyhallen",1,9,"Sköndals IK",1
+"131","Emilia Tuomela","Hässelbyhallen",1,9,"Hässelby SK IBK (A)",1
+"132","Emilia Tuomela","Lyckeby Sporthall",2,9,"AIK IBF",1
+"133","Emilia Tuomela","Lyckeby Sporthall",2,9,"Rotebro IS IBK (A)",1
+"134","Emilia Tuomela","Lyckeby Sporthall",2,9,"Vendelsö IK (A)",2
+"135","Emilia Tuomela","Ormingehallen",2,9,"Råsunda IS",1
+"136","Emilia Tuomela","Ormingehallen",2,9,"Nacka Wallenstam IBK (B)",2
+"137","Emilia Tuomela","Ormingehallen",2,9,"Täby FC (A)",1
+"138","Emilia Tuomela","Rotebrohallen (Nya)",1,9,"Rotebro IS IBK (A)",1
+"139","Emilia Tuomela","Rotebrohallen (Nya)",1,9,"Huddinge IBS",1
+"140","Emilia Tuomela","Tyresöhallen",1,9,"Tyresö Trollbäcken IBK",1
+"141","Emilia Tuomela","Tyresöhallen",1,9,"Hässelby SK IBK (A)",1
+"142","Emilia Tuomela","Västertorpshallen",1,9,"Råsunda IS",1
+"143","Emilia Tuomela","Västertorpshallen",1,9,"Älvsjö AIK IBF (B)",1
+"144","Erik Nyman","Lyckeby Sporthall",1,1,"Älvsjö AIK IBF (B)",1
+"145","Erik Nyman","Lyckeby Sporthall",1,1,"Vendelsö IK (A)",1
+"146","Fabian Fahimi","Grindtorpshallen",1,2,"Hässelby SK IBK (A)",1
+"147","Fabian Fahimi","Grindtorpshallen",1,2,"Täby FC (A)",1
+"148","Fabian Fahimi","Sollentuna sim och sporthall",1,2,"AIK IBF",1
+"149","Fabian Fahimi","Sollentuna sim och sporthall",1,2,"Rotebro IS IBK (A)",1
+"150","Fadi Saffo","Hässelbyhallen",1,1,"Hässelby SK IBK (A)",1
+"151","Fadi Saffo","Hässelbyhallen",1,1,"Nacka Wallenstam IBK (B)",1
+"152","Fredrik Berglund Sonesson","Fleminghallen",1,4,"Sköndals IK",1
+"153","Fredrik Berglund Sonesson","Fleminghallen",1,4,"Huddinge IBS",1
+"154","Fredrik Berglund Sonesson","Råstaparkhallen",1,4,"Råsunda IS",1
+"155","Fredrik Berglund Sonesson","Råstaparkhallen",1,4,"Rotebro IS IBK (A)",1
+"156","Fredrik Berglund Sonesson","Sköndalshallen",2,4,"Nacka Wallenstam IBK (B)",1
+"157","Fredrik Berglund Sonesson","Sköndalshallen",2,4,"Vendelsö IK (A)",1
+"158","Fredrik Berglund Sonesson","Sköndalshallen",2,4,"Sköndals IK",2
+"159","Fredrik Landin","Fleminghallen",1,5,"Huddinge IBS",1
+"160","Fredrik Landin","Fleminghallen",1,5,"Tyresö Trollbäcken IBK",1
+"161","Fredrik Landin","Råstaparkhallen",3,5,"Vendelsö IK (A)",1
+"162","Fredrik Landin","Råstaparkhallen",3,5,"AIK IBF",1
+"163","Fredrik Landin","Råstaparkhallen",3,5,"AIK IBF",2
+"164","Fredrik Landin","Råstaparkhallen",3,5,"Råsunda IS",1
+"165","Fredrik Landin","Råstaparkhallen",3,5,"Täby FC (A)",1
+"166","Fredrik Landin","Tyresöhallen",1,5,"Tyresö Trollbäcken IBK",1
+"167","Fredrik Landin","Tyresöhallen",1,5,"Täby FC (A)",1
+"168","Håkan Augustsson","Sköndalshallen",1,2,"Sköndals IK",1
+"169","Håkan Augustsson","Sköndalshallen",1,2,"AIK IBF",1
+"170","Håkan Augustsson","Västertorpshallen",1,2,"Sköndals IK",1
+"171","Håkan Augustsson","Västertorpshallen",1,2,"Älvsjö AIK IBF (B)",1
+"172","Håkan Taxén","Råstaparkhallen",1,4,"Råsunda IS",1
+"173","Håkan Taxén","Råstaparkhallen",1,4,"Älvsjö AIK IBF (B)",1
+"174","Håkan Taxén","Sköndalshallen",2,4,"AIK IBF",1
+"175","Håkan Taxén","Sköndalshallen",2,4,"Huddinge IBS",1
+"176","Håkan Taxén","Sköndalshallen",2,4,"Sköndals IK",2
+"177","Håkan Taxén","Västertorpshallen",1,4,"Sköndals IK",1
+"178","Håkan Taxén","Västertorpshallen",1,4,"Älvsjö AIK IBF (B)",1
+"179","Ida Nedin","Ormingehallen",1,1,"Rotebro IS IBK (A)",1
+"180","Ida Nedin","Ormingehallen",1,1,"Nacka Wallenstam IBK (B)",1
+"181","Jacob Leijon","Lyckeby Sporthall",1,3,"AIK IBF",1
+"182","Jacob Leijon","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
+"183","Jacob Leijon","Ormingehallen",1,3,"Nacka Wallenstam IBK (B)",1
+"184","Jacob Leijon","Ormingehallen",1,3,"Älvsjö AIK IBF (B)",1
+"185","Jacob Leijon","Västertorpshallen",1,3,"Tyresö Trollbäcken IBK",1
+"186","Jacob Leijon","Västertorpshallen",1,3,"Älvsjö AIK IBF (B)",1
+"187","Jan Lingemark","Hässelbyhallen",1,1,"Hässelby SK IBK (A)",1
+"188","Jan Lingemark","Hässelbyhallen",1,1,"Vendelsö IK (A)",1
+"189","Jimmy Rittervall","Fleminghallen",2,5,"Huddinge IBS",2
+"190","Jimmy Rittervall","Fleminghallen",2,5,"Tyresö Trollbäcken IBK",1
+"191","Jimmy Rittervall","Fleminghallen",2,5,"Nacka Wallenstam IBK (B)",1
+"192","Jimmy Rittervall","Ormingehallen",1,5,"Nacka Wallenstam IBK (B)",1
+"193","Jimmy Rittervall","Ormingehallen",1,5,"Vendelsö IK (A)",1
+"194","Jimmy Rittervall","Råstaparkhallen",2,5,"Vendelsö IK (A)",1
+"195","Jimmy Rittervall","Råstaparkhallen",2,5,"Täby FC (A)",1
+"196","Jimmy Rittervall","Råstaparkhallen",2,5,"AIK IBF",2
+"197","Johan Jäderlund","Fleminghallen",1,2,"Nacka Wallenstam IBK (B)",1
+"198","Johan Jäderlund","Fleminghallen",1,2,"Huddinge IBS",1
+"199","Johan Jäderlund","Råstaparkhallen",1,2,"Råsunda IS",1
+"200","Johan Jäderlund","Råstaparkhallen",1,2,"Älvsjö AIK IBF (B)",1
+"201","Johan Larsson","Sköndalshallen",2,2,"Sköndals IK",1
+"202","Johan Larsson","Sköndalshallen",2,2,"Hässelby SK IBK (A)",1
+"203","Johan Larsson","Sköndalshallen",2,2,"Sköndals IK",1
+"204","Johan Larsson","Sköndalshallen",2,2,"Vendelsö IK (A)",1
+"205","Johannes Ekenberg","Råstaparkhallen",2,4,"Sköndals IK",1
+"206","Johannes Ekenberg","Råstaparkhallen",2,4,"AIK IBF",2
+"207","Johannes Ekenberg","Råstaparkhallen",2,4,"Älvsjö AIK IBF (B)",1
+"208","Johannes Ekenberg","Sköndalshallen",1,4,"Sköndals IK",1
+"209","Johannes Ekenberg","Sköndalshallen",1,4,"Täby FC (A)",1
+"210","Johannes Ekenberg","Sollentuna sim och sporthall",1,4,"Rotebro IS IBK (A)",1
+"211","Johannes Ekenberg","Sollentuna sim och sporthall",1,4,"Tyresö Trollbäcken IBK",1
+"212","Jonas Edström","Hässelbyhallen",1,1,"Hässelby SK IBK (A)",1
+"213","Jonas Edström","Hässelbyhallen",1,1,"Råsunda IS",1
+"214","Jonas Håmark","Fleminghallen",1,1,"Älvsjö AIK IBF (B)",1
+"215","Jonas Håmark","Fleminghallen",1,1,"Huddinge IBS",1
+"216","Julius Olesen","Ormingehallen",1,1,"Sköndals IK",1
+"217","Julius Olesen","Ormingehallen",1,1,"Nacka Wallenstam IBK (B)",1
+"218","Kari Karke","Ormingehallen",1,1,"Nacka Wallenstam IBK (B)",1
+"219","Kari Karke","Ormingehallen",1,1,"Tyresö Trollbäcken IBK",1
+"220","Kari Malmros","Fleminghallen",1,4,"Huddinge IBS",1
+"221","Kari Malmros","Fleminghallen",1,4,"Rotebro IS IBK (A)",1
+"222","Kari Malmros","Hässelbyhallen",1,4,"Nacka Wallenstam IBK (B)",1
+"223","Kari Malmros","Hässelbyhallen",1,4,"Hässelby SK IBK (A)",1
+"224","Kari Malmros","Råstaparkhallen",1,4,"Vendelsö IK (A)",1
+"225","Kari Malmros","Råstaparkhallen",1,4,"Råsunda IS",1
+"226","Kari Malmros","Västertorpshallen",1,4,"Älvsjö AIK IBF (B)",1
+"227","Kari Malmros","Västertorpshallen",1,4,"AIK IBF",1
+"228","Kenny Ly","Grindtorpshallen",1,3,"Huddinge IBS",1
+"229","Kenny Ly","Grindtorpshallen",1,3,"Täby FC (A)",1
+"230","Kenny Ly","Lyckeby Sporthall",1,3,"Älvsjö AIK IBF (B)",1
+"231","Kenny Ly","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
+"232","Kenny Ly","Tyresöhallen",1,3,"Älvsjö AIK IBF (B)",1
+"233","Kenny Ly","Tyresöhallen",1,3,"Tyresö Trollbäcken IBK",1
+"234","Kent Budell","Fleminghallen",1,2,"Hässelby SK IBK (A)",1
+"235","Kent Budell","Fleminghallen",1,2,"Huddinge IBS",1
+"236","Kent Budell","Grindtorpshallen",1,2,"Täby FC (A)",1
+"237","Kent Budell","Grindtorpshallen",1,2,"AIK IBF",1
+"238","Linus Löfstedt","Fleminghallen",1,3,"Täby FC (A)",1
+"239","Linus Löfstedt","Fleminghallen",1,3,"Huddinge IBS",1
+"240","Linus Löfstedt","Grindtorpshallen",1,3,"Täby FC (A)",1
+"241","Linus Löfstedt","Grindtorpshallen",1,3,"Hässelby SK IBK (A)",1
+"242","Linus Löfstedt","Råstaparkhallen",1,3,"Råsunda IS",1
+"243","Linus Löfstedt","Råstaparkhallen",1,3,"Nacka Wallenstam IBK (B)",1
+"244","Linus Warrenstein","Råstaparkhallen",3,3,"Sköndals IK",1
+"245","Linus Warrenstein","Råstaparkhallen",3,3,"AIK IBF",3
+"246","Linus Warrenstein","Råstaparkhallen",3,3,"Älvsjö AIK IBF (B)",1
+"247","Linus Warrenstein","Råstaparkhallen",3,3,"Råsunda IS",1
+"248","Madelene Westerberg","Fleminghallen",1,4,"Hässelby SK IBK (A)",1
+"249","Madelene Westerberg","Fleminghallen",1,4,"Huddinge IBS",1
+"250","Madelene Westerberg","Lyckeby Sporthall",2,4,"Hässelby SK IBK (A)",1
+"251","Madelene Westerberg","Lyckeby Sporthall",2,4,"Vendelsö IK (A)",2
+"252","Madelene Westerberg","Lyckeby Sporthall",2,4,"Nacka Wallenstam IBK (B)",1
+"253","Madelene Westerberg","Sköndalshallen",1,4,"Älvsjö AIK IBF (B)",1
+"254","Madelene Westerberg","Sköndalshallen",1,4,"Sköndals IK",1
+"255","Magnus Johansson","Grindtorpshallen",1,1,"Råsunda IS",1
+"256","Magnus Johansson","Grindtorpshallen",1,1,"Täby FC (A)",1
+"257","Marcus Ackefelt","Ormingehallen",1,1,"Sköndals IK",1
+"258","Marcus Ackefelt","Ormingehallen",1,1,"Nacka Wallenstam IBK (B)",1
+"259","Marcus Blomqvist","Sollentuna sim och sporthall",1,1,"Nacka Wallenstam IBK (B)",1
+"260","Marcus Blomqvist","Sollentuna sim och sporthall",1,1,"Rotebro IS IBK (A)",1
+"261","Martin Johansson","Råstaparkhallen",3,6,"Råsunda IS",2
+"262","Martin Johansson","Råstaparkhallen",3,6,"Rotebro IS IBK (A)",1
+"263","Martin Johansson","Råstaparkhallen",3,6,"AIK IBF",1
+"264","Martin Johansson","Råstaparkhallen",3,6,"Tyresö Trollbäcken IBK",1
+"265","Martin Johansson","Råstaparkhallen",3,6,"Huddinge IBS",1
+"266","Martin Johansson","Sollentuna sim och sporthall",1,6,"Hässelby SK IBK (A)",1
+"267","Martin Johansson","Sollentuna sim och sporthall",1,6,"Rotebro IS IBK (A)",1
+"268","Martin Johansson","Tyresöhallen",1,6,"Vendelsö IK (A)",1
+"269","Martin Johansson","Tyresöhallen",1,6,"Tyresö Trollbäcken IBK",1
+"270","Martin Johansson","Västertorpshallen",1,6,"Älvsjö AIK IBF (B)",1
+"271","Martin Johansson","Västertorpshallen",1,6,"AIK IBF",1
+"272","Martin Svensson","Sollentuna sim och sporthall",1,1,"Älvsjö AIK IBF (B)",1
+"273","Martin Svensson","Sollentuna sim och sporthall",1,1,"Rotebro IS IBK (A)",1
+"274","Martin Åkesson","Grindtorpshallen",1,1,"Täby FC (A)",1
+"275","Martin Åkesson","Grindtorpshallen",1,1,"AIK IBF",1
+"276","Michael Selg","Hässelbyhallen",1,1,"Hässelby SK IBK (A)",1
+"277","Michael Selg","Hässelbyhallen",1,1,"Älvsjö AIK IBF (B)",1
+"278","Nicklas Sundgren","Fleminghallen",1,2,"Täby FC (A)",1
+"279","Nicklas Sundgren","Fleminghallen",1,2,"Huddinge IBS",1
+"280","Nicklas Sundgren","Råstaparkhallen",1,2,"Nacka Wallenstam IBK (B)",1
+"281","Nicklas Sundgren","Råstaparkhallen",1,2,"Råsunda IS",1
+"282","Nihada Cenanovic","Fleminghallen",1,3,"Huddinge IBS",1
+"283","Nihada Cenanovic","Fleminghallen",1,3,"AIK IBF",1
+"284","Nihada Cenanovic","Hässelbyhallen",1,3,"Hässelby SK IBK (A)",1
+"285","Nihada Cenanovic","Hässelbyhallen",1,3,"Huddinge IBS",1
+"286","Nihada Cenanovic","Råstaparkhallen",1,3,"Nacka Wallenstam IBK (B)",1
+"287","Nihada Cenanovic","Råstaparkhallen",1,3,"AIK IBF",1
+"288","Ola Bigestans","Tyresöhallen",1,1,"Sköndals IK",1
+"289","Ola Bigestans","Tyresöhallen",1,1,"Tyresö Trollbäcken IBK",1
+"290","Patrik Larsson","Grindtorpshallen",1,2,"Rotebro IS IBK (A)",1
+"291","Patrik Larsson","Grindtorpshallen",1,2,"Täby FC (A)",1
+"292","Patrik Larsson","Ormingehallen",1,2,"Älvsjö AIK IBF (B)",1
+"293","Patrik Larsson","Ormingehallen",1,2,"Nacka Wallenstam IBK (B)",1
+"294","Rasmus Jansson","Tyresöhallen",1,1,"Tyresö Trollbäcken IBK",1
+"295","Rasmus Jansson","Tyresöhallen",1,1,"Älvsjö AIK IBF (B)",1
+"296","Roland Nester","Lyckeby Sporthall",1,2,"Huddinge IBS",1
+"297","Roland Nester","Lyckeby Sporthall",1,2,"Vendelsö IK (A)",1
+"298","Roland Nester","Rotebrohallen (Nya)",1,2,"Rotebro IS IBK (A)",1
+"299","Roland Nester","Rotebrohallen (Nya)",1,2,"Huddinge IBS",1
+"300","Sebastian Öhman","Fleminghallen",1,3,"AIK IBF",1
+"301","Sebastian Öhman","Fleminghallen",1,3,"Huddinge IBS",1
+"302","Sebastian Öhman","Lyckeby Sporthall",1,3,"Sköndals IK",1
+"303","Sebastian Öhman","Lyckeby Sporthall",1,3,"Vendelsö IK (A)",1
+"304","Sebastian Öhman","Sköndalshallen",1,3,"Sköndals IK",1
+"305","Sebastian Öhman","Sköndalshallen",1,3,"Hässelby SK IBK (A)",1
+"306","Shari Tingman","Västertorpshallen",1,1,"Hässelby SK IBK (A)",1
+"307","Shari Tingman","Västertorpshallen",1,1,"Älvsjö AIK IBF (B)",1
+"308","Stefano Bianque","Hässelbyhallen",1,5,"Älvsjö AIK IBF (B)",1
+"309","Stefano Bianque","Hässelbyhallen",1,5,"Hässelby SK IBK (A)",1
+"310","Stefano Bianque","Råstaparkhallen",1,5,"Råsunda IS",1
+"311","Stefano Bianque","Råstaparkhallen",1,5,"AIK IBF",1
+"312","Stefano Bianque","Sköndalshallen",1,5,"Sköndals IK",1
+"313","Stefano Bianque","Sköndalshallen",1,5,"Råsunda IS",1
+"314","Stefano Bianque","Sollentuna sim och sporthall",1,5,"Rotebro IS IBK (A)",1
+"315","Stefano Bianque","Sollentuna sim och sporthall",1,5,"Råsunda IS",1
+"316","Stefano Bianque","Västertorpshallen",1,5,"Älvsjö AIK IBF (B)",1
+"317","Stefano Bianque","Västertorpshallen",1,5,"Tyresö Trollbäcken IBK",1
+"318","Thomas Bégat","Tyresöhallen",2,2,"AIK IBF",1
+"319","Thomas Bégat","Tyresöhallen",2,2,"Huddinge IBS",1
+"320","Thomas Bégat","Tyresöhallen",2,2,"Tyresö Trollbäcken IBK",2
+"321","Tim Sandström","Fleminghallen",1,3,"Rotebro IS IBK (A)",1
+"322","Tim Sandström","Fleminghallen",1,3,"Huddinge IBS",1
+"323","Tim Sandström","Grindtorpshallen",1,3,"Täby FC (A)",1
+"324","Tim Sandström","Grindtorpshallen",1,3,"Råsunda IS",1
+"325","Tim Sandström","Råstaparkhallen",1,3,"Tyresö Trollbäcken IBK",1
+"326","Tim Sandström","Råstaparkhallen",1,3,"AIK IBF",1
+"327","Ulf Jonsson","Hässelbyhallen",2,2,"Hässelby SK IBK (A)",1
+"328","Ulf Jonsson","Hässelbyhallen",2,2,"Vendelsö IK (A)",1
+"329","Ulf Jonsson","Hässelbyhallen",2,2,"Hässelby SK IBK (A)",1
+"330","Ulf Jonsson","Hässelbyhallen",2,2,"Råsunda IS",1
+"331","William Albrecht","Hässelbyhallen",1,4,"Täby FC (A)",1
+"332","William Albrecht","Hässelbyhallen",1,4,"Hässelby SK IBK (A)",1
+"333","William Albrecht","Råstaparkhallen",1,4,"Råsunda IS",1
+"334","William Albrecht","Råstaparkhallen",1,4,"Rotebro IS IBK (A)",1
+"335","William Albrecht","Sollentuna sim och sporthall",1,4,"AIK IBF",1
+"336","William Albrecht","Sollentuna sim och sporthall",1,4,"Rotebro IS IBK (A)",1
+"337","William Albrecht","Västertorpshallen",1,4,"Täby FC (A)",1
+"338","William Albrecht","Västertorpshallen",1,4,"Älvsjö AIK IBF (B)",1
