@@ -1,91 +1,102 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Albin Berglund, Linus Berglund","Storsjöhallen",3,5,"Skellefteå IBK",1
+"1","Albin Berglund, Linus Berglund","Storsjöhallen",3,5,"Sandåkerns SK",1
 "2","Albin Berglund, Linus Berglund","Storsjöhallen",3,5,"Örnsköldsvik IBF",1
-"3","Albin Berglund, Linus Berglund","Storsjöhallen",3,5,"Sandåkerns SK",1
+"3","Albin Berglund, Linus Berglund","Storsjöhallen",3,5,"Skellefteå IBK",1
 "4","Albin Berglund, Linus Berglund","Storsjöhallen",3,5,"Holmsund City IBC",3
-"5","Albin Berglund, Linus Berglund","Sävaråhallen",2,5,"Kågedalens AIF",1
-"6","Albin Berglund, Linus Berglund","Sävaråhallen",2,5,"Röbäcks IF",1
+"5","Albin Berglund, Linus Berglund","Sävaråhallen",2,5,"Röbäcks IF",1
+"6","Albin Berglund, Linus Berglund","Sävaråhallen",2,5,"Kågedalens AIF",1
 "7","Albin Berglund, Linus Berglund","Sävaråhallen",2,5,"Sävar IK",2
-"8","Alvin Gustavsson, Ville Hedsberg","Balderhallen A",2,3,"Sandåkerns SK",1
-"9","Alvin Gustavsson, Ville Hedsberg","Balderhallen A",2,3,"Röbäcks IF",1
-"10","Alvin Gustavsson, Ville Hedsberg","Balderhallen A",2,3,"Skellefteå IBK",1
-"11","Alvin Gustavsson, Ville Hedsberg","Balderhallen A",2,3,"Kågedalens AIF",1
+"8","Alvin Gustavsson, Ville Hedsberg","Balderhallen A",2,3,"Skellefteå IBK",1
+"9","Alvin Gustavsson, Ville Hedsberg","Balderhallen A",2,3,"Kågedalens AIF",1
+"10","Alvin Gustavsson, Ville Hedsberg","Balderhallen A",2,3,"Sandåkerns SK",1
+"11","Alvin Gustavsson, Ville Hedsberg","Balderhallen A",2,3,"Röbäcks IF",1
 "12","Alvin Gustavsson, Ville Hedsberg","Balderhallen B",1,3,"Skellefteå IBK",1
 "13","Alvin Gustavsson, Ville Hedsberg","Balderhallen B",1,3,"Spöland Vännäs IF",1
 "14","Andreas Nyman, Fredrik Söderholm","Skyttis Arena",1,1,"Sävar IK",1
 "15","Andreas Nyman, Fredrik Söderholm","Skyttis Arena",1,1,"Örnsköldsvik IBF",1
-"16","David Jonsson, Johan Rönnberg","Balderhallen A",2,2,"Holmsund City IBC",1
-"17","David Jonsson, Johan Rönnberg","Balderhallen A",2,2,"Kågedalens AIF",2
-"18","David Jonsson, Johan Rönnberg","Balderhallen A",2,2,"Örnsköldsvik IBF",1
-"19","Erik Hörnros, Peter Saari","Storsjöhallen",1,1,"Holmsund City IBC",1
-"20","Erik Hörnros, Peter Saari","Storsjöhallen",1,1,"Kågedalens AIF",1
-"21","Gustav Broadhall, Daniel Johannesson","Musköten 1",1,4,"Sandåkerns SK",1
-"22","Gustav Broadhall, Daniel Johannesson","Musköten 1",1,4,"Sävar IK",1
-"23","Gustav Broadhall, Daniel Johannesson","Musköten 2",1,4,"Sandåkerns SK",1
-"24","Gustav Broadhall, Daniel Johannesson","Musköten 2",1,4,"Holmsund City IBC",1
-"25","Gustav Broadhall, Daniel Johannesson","Storsjöhallen",1,4,"Sävar IK",1
-"26","Gustav Broadhall, Daniel Johannesson","Storsjöhallen",1,4,"Holmsund City IBC",1
-"27","Gustav Broadhall, Daniel Johannesson","Sävaråhallen",1,4,"Örnsköldsvik IBF",1
-"28","Gustav Broadhall, Daniel Johannesson","Sävaråhallen",1,4,"Sävar IK",1
-"29","Henrik Johansson, Fredrik Söderholm","Skyttis Arena",1,1,"Örnsköldsvik IBF",1
-"30","Henrik Johansson, Fredrik Söderholm","Skyttis Arena",1,1,"Holmsund City IBC",1
-"31","Jimmy Halldin, Erik Hörnros","Hammarhallen Vännäs",1,3,"Spöland Vännäs IF",1
-"32","Jimmy Halldin, Erik Hörnros","Hammarhallen Vännäs",1,3,"Holmsund City IBC",1
-"33","Jimmy Halldin, Erik Hörnros","Musköten 2",1,3,"Sandåkerns SK",1
-"34","Jimmy Halldin, Erik Hörnros","Musköten 2",1,3,"Spöland Vännäs IF",1
-"35","Jimmy Halldin, Erik Hörnros","Sävaråhallen",1,3,"Skellefteå IBK",1
-"36","Jimmy Halldin, Erik Hörnros","Sävaråhallen",1,3,"Sävar IK",1
-"37","Joakim Broman, Jens Marklund","Balderhallen B",1,1,"Skellefteå IBK",1
-"38","Joakim Broman, Jens Marklund","Balderhallen B",1,1,"Spöland Vännäs IF",1
-"39","Joakim Nydahl, Andreas Nyman","Skyttis Arena",1,1,"Örnsköldsvik IBF",1
-"40","Joakim Nydahl, Andreas Nyman","Skyttis Arena",1,1,"Kågedalens AIF",1
-"41","Johnnie Lundmark, Fredrik Söderholm","Skyttis Arena",1,1,"Spöland Vännäs IF",1
-"42","Johnnie Lundmark, Fredrik Söderholm","Skyttis Arena",1,1,"Örnsköldsvik IBF",1
-"43","Julia Fältén, Lisa Vestman","Hammarhallen Vännäs",1,3,"Spöland Vännäs IF",1
-"44","Julia Fältén, Lisa Vestman","Hammarhallen Vännäs",1,3,"Sävar IK",1
-"45","Julia Fältén, Lisa Vestman","Musköten 2",1,3,"Kågedalens AIF",1
-"46","Julia Fältén, Lisa Vestman","Musköten 2",1,3,"Sandåkerns SK",1
-"47","Julia Fältén, Lisa Vestman","Storsjöhallen",1,3,"Röbäcks IF",1
-"48","Julia Fältén, Lisa Vestman","Storsjöhallen",1,3,"Holmsund City IBC",1
-"49","Lydia Elstig, David Karlsson","Hammarhallen Vännäs",1,1,"Spöland Vännäs IF",1
-"50","Lydia Elstig, David Karlsson","Hammarhallen Vännäs",1,1,"Kågedalens AIF",1
-"51","Lydia Elstig, Hanna Wendén","Sävaråhallen",1,1,"Sävar IK",1
-"52","Lydia Elstig, Hanna Wendén","Sävaråhallen",1,1,"Holmsund City IBC",1
-"53","Lydia Elstig, Sanna Åslin","Elofssonhallen",1,1,"Holmsund City IBC",1
-"54","Lydia Elstig, Sanna Åslin","Elofssonhallen",1,1,"Röbäcks IF",1
-"55","Manuel Garzon, Rasmus Säfvenberg","Elofssonhallen",1,1,"Skellefteå IBK",1
-"56","Manuel Garzon, Rasmus Säfvenberg","Elofssonhallen",1,1,"Röbäcks IF",1
-"57","Mattias Karlsson, Roger Karlsson","Hammarhallen Vännäs",1,2,"Sandåkerns SK",1
-"58","Mattias Karlsson, Roger Karlsson","Hammarhallen Vännäs",1,2,"Spöland Vännäs IF",1
-"59","Mattias Karlsson, Roger Karlsson","Musköten 2",1,2,"Röbäcks IF",1
-"60","Mattias Karlsson, Roger Karlsson","Musköten 2",1,2,"Sandåkerns SK",1
-"61","Micael Holmbom, Johan Rönnberg","Balderhallen A",1,1,"Skellefteå IBK",1
-"62","Micael Holmbom, Johan Rönnberg","Balderhallen A",1,1,"Kågedalens AIF",1
-"63","Mikael Berglund, Stefan Nyberg","Skyttis Arena",2,2,"Örnsköldsvik IBF",2
-"64","Mikael Berglund, Stefan Nyberg","Skyttis Arena",2,2,"Röbäcks IF",1
-"65","Mikael Berglund, Stefan Nyberg","Skyttis Arena",2,2,"Sandåkerns SK",1
-"66","Mikael Körning, Peder Lövdahl","Skyttis Arena",1,1,"Örnsköldsvik IBF",1
-"67","Mikael Körning, Peder Lövdahl","Skyttis Arena",1,1,"Skellefteå IBK",1
-"68","Olle Eliasson, Thomas Jonsson","Sävaråhallen",1,1,"Spöland Vännäs IF",1
-"69","Olle Eliasson, Thomas Jonsson","Sävaråhallen",1,1,"Sävar IK",1
-"70","Patrik Häggström, Jens Marklund","Balderhallen A",2,2,"Kågedalens AIF",1
-"71","Patrik Häggström, Jens Marklund","Balderhallen A",2,2,"Holmsund City IBC",1
-"72","Patrik Häggström, Jens Marklund","Balderhallen A",2,2,"Skellefteå IBK",2
-"73","Per Fallbjörk, Mattias Karlsson","Elofssonhallen",2,4,"Sandåkerns SK",1
-"74","Per Fallbjörk, Mattias Karlsson","Elofssonhallen",2,4,"Röbäcks IF",2
-"75","Per Fallbjörk, Mattias Karlsson","Elofssonhallen",2,4,"Spöland Vännäs IF",1
-"76","Per Fallbjörk, Mattias Karlsson","Musköten 2",1,4,"Skellefteå IBK",1
-"77","Per Fallbjörk, Mattias Karlsson","Musköten 2",1,4,"Sandåkerns SK",1
-"78","Per Fallbjörk, Mattias Karlsson","Sävaråhallen",1,4,"Sävar IK",1
-"79","Per Fallbjörk, Mattias Karlsson","Sävaråhallen",1,4,"Sandåkerns SK",1
-"80","Per Fallbjörk, Rasmus Säfvenberg","Hammarhallen Vännäs",1,1,"Örnsköldsvik IBF",1
-"81","Per Fallbjörk, Rasmus Säfvenberg","Hammarhallen Vännäs",1,1,"Spöland Vännäs IF",1
-"82","Roger Karlsson, Andreas Weckfors","Elofssonhallen",1,1,"Sävar IK",1
-"83","Roger Karlsson, Andreas Weckfors","Elofssonhallen",1,1,"Röbäcks IF",1
-"84","Tilde Wikström, Sanna Åslin","Elofssonhallen",1,1,"Kågedalens AIF",1
-"85","Tilde Wikström, Sanna Åslin","Elofssonhallen",1,1,"Röbäcks IF",1
-"86","Ville Hedsberg, Micael Holmbom","Balderhallen A",2,2,"Skellefteå IBK",2
-"87","Ville Hedsberg, Micael Holmbom","Balderhallen A",2,2,"Örnsköldsvik IBF",1
-"88","Ville Hedsberg, Micael Holmbom","Balderhallen A",2,2,"Röbäcks IF",1
-"89","Ville Hedsberg, Patrik Häggström","Balderhallen A",1,1,"Kågedalens AIF",1
-"90","Ville Hedsberg, Patrik Häggström","Balderhallen A",1,1,"Sävar IK",1
+"16","Daniel Degerman, Patrik Häggström","Balderhallen A",1,1,"Kågedalens AIF",1
+"17","Daniel Degerman, Patrik Häggström","Balderhallen A",1,1,"Spöland Vännäs IF",1
+"18","Daniel Johannesson, Rasmus Säfvenberg","Elofssonhallen",1,1,"Örnsköldsvik IBF",1
+"19","Daniel Johannesson, Rasmus Säfvenberg","Elofssonhallen",1,1,"Röbäcks IF",1
+"20","David Jonsson, Johan Rönnberg","Balderhallen A",2,2,"Kågedalens AIF",2
+"21","David Jonsson, Johan Rönnberg","Balderhallen A",2,2,"Holmsund City IBC",1
+"22","David Jonsson, Johan Rönnberg","Balderhallen A",2,2,"Örnsköldsvik IBF",1
+"23","Erik Hörnros, Peter Saari","Storsjöhallen",1,1,"Holmsund City IBC",1
+"24","Erik Hörnros, Peter Saari","Storsjöhallen",1,1,"Kågedalens AIF",1
+"25","Gustav Broadhall, Daniel Johannesson","Musköten 1",1,4,"Sävar IK",1
+"26","Gustav Broadhall, Daniel Johannesson","Musköten 1",1,4,"Sandåkerns SK",1
+"27","Gustav Broadhall, Daniel Johannesson","Musköten 2",1,4,"Sandåkerns SK",1
+"28","Gustav Broadhall, Daniel Johannesson","Musköten 2",1,4,"Holmsund City IBC",1
+"29","Gustav Broadhall, Daniel Johannesson","Storsjöhallen",1,4,"Sävar IK",1
+"30","Gustav Broadhall, Daniel Johannesson","Storsjöhallen",1,4,"Holmsund City IBC",1
+"31","Gustav Broadhall, Daniel Johannesson","Sävaråhallen",1,4,"Sävar IK",1
+"32","Gustav Broadhall, Daniel Johannesson","Sävaråhallen",1,4,"Örnsköldsvik IBF",1
+"33","Henrik Johansson, Fredrik Söderholm","Skyttis Arena",1,1,"Holmsund City IBC",1
+"34","Henrik Johansson, Fredrik Söderholm","Skyttis Arena",1,1,"Örnsköldsvik IBF",1
+"35","Jimmy Halldin, Erik Hörnros","Hammarhallen Vännäs",1,3,"Spöland Vännäs IF",1
+"36","Jimmy Halldin, Erik Hörnros","Hammarhallen Vännäs",1,3,"Holmsund City IBC",1
+"37","Jimmy Halldin, Erik Hörnros","Musköten 2",1,3,"Spöland Vännäs IF",1
+"38","Jimmy Halldin, Erik Hörnros","Musköten 2",1,3,"Sandåkerns SK",1
+"39","Jimmy Halldin, Erik Hörnros","Sävaråhallen",1,3,"Sävar IK",1
+"40","Jimmy Halldin, Erik Hörnros","Sävaråhallen",1,3,"Skellefteå IBK",1
+"41","Joakim Broman, Jens Marklund","Balderhallen B",1,1,"Skellefteå IBK",1
+"42","Joakim Broman, Jens Marklund","Balderhallen B",1,1,"Spöland Vännäs IF",1
+"43","Joakim Nydahl, Andreas Nyman","Skyttis Arena",1,1,"Kågedalens AIF",1
+"44","Joakim Nydahl, Andreas Nyman","Skyttis Arena",1,1,"Örnsköldsvik IBF",1
+"45","Johan Rönnberg, Andreas Åström","Balderhallen A",1,1,"Kågedalens AIF",1
+"46","Johan Rönnberg, Andreas Åström","Balderhallen A",1,1,"Sandåkerns SK",1
+"47","Johnnie Lundmark, Fredrik Söderholm","Skyttis Arena",1,1,"Spöland Vännäs IF",1
+"48","Johnnie Lundmark, Fredrik Söderholm","Skyttis Arena",1,1,"Örnsköldsvik IBF",1
+"49","Julia Fältén, Lisa Vestman","Hammarhallen Vännäs",1,4,"Spöland Vännäs IF",1
+"50","Julia Fältén, Lisa Vestman","Hammarhallen Vännäs",1,4,"Sävar IK",1
+"51","Julia Fältén, Lisa Vestman","Musköten 1",1,4,"Örnsköldsvik IBF",1
+"52","Julia Fältén, Lisa Vestman","Musköten 1",1,4,"Sandåkerns SK",1
+"53","Julia Fältén, Lisa Vestman","Musköten 2",1,4,"Sandåkerns SK",1
+"54","Julia Fältén, Lisa Vestman","Musköten 2",1,4,"Kågedalens AIF",1
+"55","Julia Fältén, Lisa Vestman","Storsjöhallen",1,4,"Holmsund City IBC",1
+"56","Julia Fältén, Lisa Vestman","Storsjöhallen",1,4,"Röbäcks IF",1
+"57","Lydia Elstig, David Karlsson","Hammarhallen Vännäs",1,1,"Spöland Vännäs IF",1
+"58","Lydia Elstig, David Karlsson","Hammarhallen Vännäs",1,1,"Kågedalens AIF",1
+"59","Lydia Elstig, Hanna Wendén","Sävaråhallen",1,1,"Sävar IK",1
+"60","Lydia Elstig, Hanna Wendén","Sävaråhallen",1,1,"Holmsund City IBC",1
+"61","Lydia Elstig, Sanna Åslin","Elofssonhallen",1,1,"Röbäcks IF",1
+"62","Lydia Elstig, Sanna Åslin","Elofssonhallen",1,1,"Holmsund City IBC",1
+"63","Manuel Garzon, Rasmus Säfvenberg","Elofssonhallen",1,1,"Skellefteå IBK",1
+"64","Manuel Garzon, Rasmus Säfvenberg","Elofssonhallen",1,1,"Röbäcks IF",1
+"65","Mattias Karlsson, Roger Karlsson","Hammarhallen Vännäs",1,3,"Spöland Vännäs IF",1
+"66","Mattias Karlsson, Roger Karlsson","Hammarhallen Vännäs",1,3,"Sandåkerns SK",1
+"67","Mattias Karlsson, Roger Karlsson","Musköten 2",1,3,"Röbäcks IF",1
+"68","Mattias Karlsson, Roger Karlsson","Musköten 2",1,3,"Sandåkerns SK",1
+"69","Mattias Karlsson, Roger Karlsson","Storsjöhallen",1,3,"Spöland Vännäs IF",1
+"70","Mattias Karlsson, Roger Karlsson","Storsjöhallen",1,3,"Holmsund City IBC",1
+"71","Micael Holmbom, Johan Rönnberg","Balderhallen A",1,1,"Kågedalens AIF",1
+"72","Micael Holmbom, Johan Rönnberg","Balderhallen A",1,1,"Skellefteå IBK",1
+"73","Mikael Berglund, Stefan Nyberg","Skyttis Arena",2,2,"Örnsköldsvik IBF",2
+"74","Mikael Berglund, Stefan Nyberg","Skyttis Arena",2,2,"Röbäcks IF",1
+"75","Mikael Berglund, Stefan Nyberg","Skyttis Arena",2,2,"Sandåkerns SK",1
+"76","Mikael Körning, Peder Lövdahl","Skyttis Arena",1,1,"Skellefteå IBK",1
+"77","Mikael Körning, Peder Lövdahl","Skyttis Arena",1,1,"Örnsköldsvik IBF",1
+"78","Olle Eliasson, Thomas Jonsson","Sävaråhallen",1,1,"Sävar IK",1
+"79","Olle Eliasson, Thomas Jonsson","Sävaråhallen",1,1,"Spöland Vännäs IF",1
+"80","Patrik Häggström, Jens Marklund","Balderhallen A",3,3,"Skellefteå IBK",3
+"81","Patrik Häggström, Jens Marklund","Balderhallen A",3,3,"Kågedalens AIF",1
+"82","Patrik Häggström, Jens Marklund","Balderhallen A",3,3,"Holmsund City IBC",1
+"83","Patrik Häggström, Jens Marklund","Balderhallen A",3,3,"Sävar IK",1
+"84","Per Fallbjörk, Mattias Karlsson","Elofssonhallen",2,4,"Röbäcks IF",2
+"85","Per Fallbjörk, Mattias Karlsson","Elofssonhallen",2,4,"Sandåkerns SK",1
+"86","Per Fallbjörk, Mattias Karlsson","Elofssonhallen",2,4,"Spöland Vännäs IF",1
+"87","Per Fallbjörk, Mattias Karlsson","Musköten 2",1,4,"Skellefteå IBK",1
+"88","Per Fallbjörk, Mattias Karlsson","Musköten 2",1,4,"Sandåkerns SK",1
+"89","Per Fallbjörk, Mattias Karlsson","Sävaråhallen",1,4,"Sävar IK",1
+"90","Per Fallbjörk, Mattias Karlsson","Sävaråhallen",1,4,"Sandåkerns SK",1
+"91","Per Fallbjörk, Rasmus Säfvenberg","Hammarhallen Vännäs",1,1,"Spöland Vännäs IF",1
+"92","Per Fallbjörk, Rasmus Säfvenberg","Hammarhallen Vännäs",1,1,"Örnsköldsvik IBF",1
+"93","Roger Karlsson, Andreas Weckfors","Elofssonhallen",1,1,"Sävar IK",1
+"94","Roger Karlsson, Andreas Weckfors","Elofssonhallen",1,1,"Röbäcks IF",1
+"95","Tilde Wikström, Sanna Åslin","Elofssonhallen",1,1,"Röbäcks IF",1
+"96","Tilde Wikström, Sanna Åslin","Elofssonhallen",1,1,"Kågedalens AIF",1
+"97","Ville Hedsberg, Micael Holmbom","Balderhallen A",2,2,"Röbäcks IF",1
+"98","Ville Hedsberg, Micael Holmbom","Balderhallen A",2,2,"Örnsköldsvik IBF",1
+"99","Ville Hedsberg, Micael Holmbom","Balderhallen A",2,2,"Skellefteå IBK",2
+"100","Ville Hedsberg, Patrik Häggström","Balderhallen A",1,1,"Kågedalens AIF",1
+"101","Ville Hedsberg, Patrik Häggström","Balderhallen A",1,1,"Sävar IK",1

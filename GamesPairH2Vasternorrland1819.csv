@@ -1,171 +1,180 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Alexander Bergman, Arvid Larsson","Sundsvalls Sporthall-A",1,1,"Sundsvall FBC Ungdom",1
-"2","Alexander Bergman, Arvid Larsson","Sundsvalls Sporthall-A",1,1,"FBC Lo",1
-"3","Andreas Lindberg, Robin Palander","Skönsbergshallen",2,3,"Sundsvall FBC Utveckling",2
-"4","Andreas Lindberg, Robin Palander","Skönsbergshallen",2,3,"Sundsvall FBC Ungdom",1
+"1","Alexander Bergman, Arvid Larsson","Sundsvalls Sporthall-A",1,1,"FBC Lo",1
+"2","Alexander Bergman, Arvid Larsson","Sundsvalls Sporthall-A",1,1,"Sundsvall FBC Ungdom",1
+"3","Andreas Lindberg, Robin Palander","Skönsbergshallen",2,3,"Sundsvall FBC Ungdom",1
+"4","Andreas Lindberg, Robin Palander","Skönsbergshallen",2,3,"Sundsvall FBC Utveckling",2
 "5","Andreas Lindberg, Robin Palander","Skönsbergshallen",2,3,"Håsta IBK",1
-"6","Andreas Lindberg, Robin Palander","Sundsvalls Sporthall-A",1,3,"Sundsvall FBC Ungdom",1
-"7","Andreas Lindberg, Robin Palander","Sundsvalls Sporthall-A",1,3,"Alfta IBK",1
+"6","Andreas Lindberg, Robin Palander","Sundsvalls Sporthall-A",1,3,"Alfta IBK",1
+"7","Andreas Lindberg, Robin Palander","Sundsvalls Sporthall-A",1,3,"Sundsvall FBC Ungdom",1
 "8","Andreas Nyman, Fredrik Söderholm","Bollstahallen",1,1,"Fränsta IK",1
 "9","Andreas Nyman, Fredrik Söderholm","Bollstahallen",1,1,"FBC Lo",1
-"10","Göran Norberg, Tony Strindlund","Bollstahallen",1,2,"FBC Lo",1
-"11","Göran Norberg, Tony Strindlund","Bollstahallen",1,2,"IBK Härnösand",1
-"12","Göran Norberg, Tony Strindlund","Öbacka SC",1,2,"IBK Härnösand",1
-"13","Göran Norberg, Tony Strindlund","Öbacka SC",1,2,"Klockarbergets BK",1
-"14","Jesper Doherty, Patrik Sjöberg","Njurundahallen",1,1,"FBC Lo",1
-"15","Jesper Doherty, Patrik Sjöberg","Njurundahallen",1,1,"Klockarbergets BK",1
+"10","Göran Norberg, Tony Strindlund","Bollstahallen",1,2,"IBK Härnösand",1
+"11","Göran Norberg, Tony Strindlund","Bollstahallen",1,2,"FBC Lo",1
+"12","Göran Norberg, Tony Strindlund","Öbacka SC",1,2,"Klockarbergets BK",1
+"13","Göran Norberg, Tony Strindlund","Öbacka SC",1,2,"IBK Härnösand",1
+"14","Jesper Doherty, Patrik Sjöberg","Njurundahallen",1,1,"Klockarbergets BK",1
+"15","Jesper Doherty, Patrik Sjöberg","Njurundahallen",1,1,"FBC Lo",1
 "16","Joakim Nydahl, Fredrik Söderholm","Öbacka SC",1,1,"IBK Härnösand",1
 "17","Joakim Nydahl, Fredrik Söderholm","Öbacka SC",1,1,"Sundsvall City IBC U",1
 "18","Johnnie Lundmark, Fredrik Söderholm","Bollstahallen",1,2,"Jemtland Innebandy Utv",1
 "19","Johnnie Lundmark, Fredrik Söderholm","Bollstahallen",1,2,"FBC Lo",1
-"20","Johnnie Lundmark, Fredrik Söderholm","Öbacka SC",1,2,"Alfta IBK",1
-"21","Johnnie Lundmark, Fredrik Söderholm","Öbacka SC",1,2,"IBK Härnösand",1
-"22","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,23,"FBC Lo",1
-"23","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,23,"Fränsta IK",1
-"24","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,23,"IBK Härnösand",1
-"25","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,23,"Sundsvall FBC Utveckling",1
-"26","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,23,"Hudik/Björkberg U",1
-"27","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,23,"Alfta IBK",6
-"28","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,23,"Sundsvall City IBC U",1
-"29","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,23,"Sundsvall FBC Ungdom",1
-"30","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,23,"Sundsvall City IBC U",2
-"31","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,23,"Hudik/Björkberg U",5
-"32","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,23,"Fränsta IK",1
-"33","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,23,"IBK Härnösand",1
-"34","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,23,"Håsta IBK",6
-"35","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,23,"Sundsvall FBC Utveckling",2
-"36","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,23,"Jemtland Innebandy Utv",1
-"37","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,23,"Alfta IBK",1
-"38","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",7,23,"IBK Härnösand",1
-"39","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",7,23,"Alfta IBK",1
-"40","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",7,23,"Hudik/Björkberg U",1
-"41","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",7,23,"FBC Lo",1
-"42","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",7,23,"Wallviks IK",7
-"43","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",7,23,"Sundsvall FBC Ungdom",1
-"44","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",7,23,"Sundsvall FBC Utveckling",1
-"45","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",7,23,"Klockarbergets BK",1
-"46","Markus Helsing, Patrik Sjöberg","Njurundahallen",1,2,"Wallviks IK",1
-"47","Markus Helsing, Patrik Sjöberg","Njurundahallen",1,2,"Klockarbergets BK",1
-"48","Markus Helsing, Patrik Sjöberg","Sundsvalls Sporthall-A",1,2,"Sundsvall FBC Ungdom",1
+"20","Johnnie Lundmark, Fredrik Söderholm","Öbacka SC",1,2,"IBK Härnösand",1
+"21","Johnnie Lundmark, Fredrik Söderholm","Öbacka SC",1,2,"Alfta IBK",1
+"22","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,24,"Fränsta IK",1
+"23","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,24,"Sundsvall City IBC U",1
+"24","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,24,"IBK Härnösand",1
+"25","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,24,"Alfta IBK",6
+"26","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,24,"Hudik/Björkberg U",1
+"27","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,24,"FBC Lo",1
+"28","Johnny Sundberg, Leif Sundberg","Alfta Sporthall",6,24,"Sundsvall FBC Utveckling",1
+"29","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,24,"IBK Härnösand",1
+"30","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,24,"Håsta IBK",6
+"31","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,24,"Hudik/Björkberg U",5
+"32","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,24,"Sundsvall City IBC U",2
+"33","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,24,"Fränsta IK",1
+"34","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,24,"Jemtland Innebandy Utv",1
+"35","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,24,"Sundsvall FBC Utveckling",2
+"36","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,24,"Alfta IBK",1
+"37","Johnny Sundberg, Leif Sundberg","Håstaholmen",10,24,"Sundsvall FBC Ungdom",1
+"38","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",8,24,"Sundsvall FBC Utveckling",1
+"39","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",8,24,"Wallviks IK",8
+"40","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",8,24,"Alfta IBK",1
+"41","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",8,24,"Håsta IBK",1
+"42","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",8,24,"Sundsvall FBC Ungdom",1
+"43","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",8,24,"FBC Lo",1
+"44","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",8,24,"Klockarbergets BK",1
+"45","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",8,24,"Hudik/Björkberg U",1
+"46","Johnny Sundberg, Leif Sundberg","Ljusne Idrottshall",8,24,"IBK Härnösand",1
+"47","Markus Helsing, Patrik Sjöberg","Njurundahallen",1,2,"Wallviks IK",1
+"48","Markus Helsing, Patrik Sjöberg","Njurundahallen",1,2,"Klockarbergets BK",1
 "49","Markus Helsing, Patrik Sjöberg","Sundsvalls Sporthall-A",1,2,"Jemtland Innebandy Utv",1
-"50","Mats Finke, Urban Larsson","Lugnviks sporthall",1,5,"Jemtland Innebandy Utv",1
-"51","Mats Finke, Urban Larsson","Lugnviks sporthall",1,5,"Hudik/Björkberg U",1
-"52","Mats Finke, Urban Larsson","Torvallaskolans sporthall",4,5,"Sundsvall FBC Ungdom",1
-"53","Mats Finke, Urban Larsson","Torvallaskolans sporthall",4,5,"Jemtland Innebandy Utv",4
-"54","Mats Finke, Urban Larsson","Torvallaskolans sporthall",4,5,"Sundsvall City IBC U",1
-"55","Mats Finke, Urban Larsson","Torvallaskolans sporthall",4,5,"Håsta IBK",1
-"56","Mats Finke, Urban Larsson","Torvallaskolans sporthall",4,5,"Sundsvall FBC Utveckling",1
-"57","Mats Sjöqvist, Leif Sundberg","Alfta Sporthall",1,1,"Klockarbergets BK",1
-"58","Mats Sjöqvist, Leif Sundberg","Alfta Sporthall",1,1,"Alfta IBK",1
-"59","Michael Hoek, Jimmy Löfgren","Håstaholmen",2,2,"Håsta IBK",1
-"60","Michael Hoek, Jimmy Löfgren","Håstaholmen",2,2,"Fränsta IK",1
+"50","Markus Helsing, Patrik Sjöberg","Sundsvalls Sporthall-A",1,2,"Sundsvall FBC Ungdom",1
+"51","Mats Finke, Urban Larsson","Lugnviks sporthall",1,6,"Jemtland Innebandy Utv",1
+"52","Mats Finke, Urban Larsson","Lugnviks sporthall",1,6,"Hudik/Björkberg U",1
+"53","Mats Finke, Urban Larsson","Torvallaskolans sporthall",5,6,"Sundsvall FBC Utveckling",1
+"54","Mats Finke, Urban Larsson","Torvallaskolans sporthall",5,6,"Sundsvall City IBC U",1
+"55","Mats Finke, Urban Larsson","Torvallaskolans sporthall",5,6,"Sundsvall FBC Ungdom",1
+"56","Mats Finke, Urban Larsson","Torvallaskolans sporthall",5,6,"Håsta IBK",1
+"57","Mats Finke, Urban Larsson","Torvallaskolans sporthall",5,6,"Fränsta IK",1
+"58","Mats Finke, Urban Larsson","Torvallaskolans sporthall",5,6,"Jemtland Innebandy Utv",5
+"59","Mats Sjöqvist, Leif Sundberg","Alfta Sporthall",1,1,"Klockarbergets BK",1
+"60","Mats Sjöqvist, Leif Sundberg","Alfta Sporthall",1,1,"Alfta IBK",1
 "61","Michael Hoek, Jimmy Löfgren","Håstaholmen",2,2,"Hudik/Björkberg U",1
 "62","Michael Hoek, Jimmy Löfgren","Håstaholmen",2,2,"IBK Härnösand",1
-"63","Mikael Körning, Anders Öbergh","Bollstahallen",2,3,"Wallviks IK",1
-"64","Mikael Körning, Anders Öbergh","Bollstahallen",2,3,"Hudik/Björkberg U",1
-"65","Mikael Körning, Anders Öbergh","Bollstahallen",2,3,"FBC Lo",2
-"66","Mikael Körning, Anders Öbergh","Öbacka SC",1,3,"IBK Härnösand",1
-"67","Mikael Körning, Anders Öbergh","Öbacka SC",1,3,"Håsta IBK",1
-"68","Mikael Körning, Peder Lövdahl","Bollstahallen",2,5,"Alfta IBK",1
-"69","Mikael Körning, Peder Lövdahl","Bollstahallen",2,5,"Håsta IBK",1
-"70","Mikael Körning, Peder Lövdahl","Bollstahallen",2,5,"FBC Lo",2
-"71","Mikael Körning, Peder Lövdahl","Öbacka SC",3,5,"IBK Härnösand",3
-"72","Mikael Körning, Peder Lövdahl","Öbacka SC",3,5,"Fränsta IK",1
-"73","Mikael Körning, Peder Lövdahl","Öbacka SC",3,5,"Sundsvall FBC Ungdom",1
-"74","Mikael Körning, Peder Lövdahl","Öbacka SC",3,5,"FBC Lo",1
-"75","Niclas Engström, Robert Olofsson","Torvallaskolans sporthall",1,1,"Jemtland Innebandy Utv",1
-"76","Niclas Engström, Robert Olofsson","Torvallaskolans sporthall",1,1,"Alfta IBK",1
-"77","Patric Jonsson, Jimmy Löfgren","Alfta Sporthall",1,3,"Jemtland Innebandy Utv",1
-"78","Patric Jonsson, Jimmy Löfgren","Alfta Sporthall",1,3,"Alfta IBK",1
-"79","Patric Jonsson, Jimmy Löfgren","Håstaholmen",2,3,"Klockarbergets BK",1
-"80","Patric Jonsson, Jimmy Löfgren","Håstaholmen",2,3,"Håsta IBK",2
-"81","Patric Jonsson, Jimmy Löfgren","Håstaholmen",2,3,"Wallviks IK",1
-"82","Patric Jonsson, Johnny Sundberg","Alfta Sporthall",1,4,"Alfta IBK",1
-"83","Patric Jonsson, Johnny Sundberg","Alfta Sporthall",1,4,"Håsta IBK",1
-"84","Patric Jonsson, Johnny Sundberg","Håstaholmen",2,4,"Håsta IBK",1
-"85","Patric Jonsson, Johnny Sundberg","Håstaholmen",2,4,"Hudik/Björkberg U",1
-"86","Patric Jonsson, Johnny Sundberg","Håstaholmen",2,4,"FBC Lo",2
-"87","Patric Jonsson, Johnny Sundberg","Ljusne Idrottshall",1,4,"Sundsvall City IBC U",1
-"88","Patric Jonsson, Johnny Sundberg","Ljusne Idrottshall",1,4,"Wallviks IK",1
-"89","Patric Jonsson, Mats Sjöqvist","Håstaholmen",2,2,"Wallviks IK",1
-"90","Patric Jonsson, Mats Sjöqvist","Håstaholmen",2,2,"Klockarbergets BK",1
-"91","Patric Jonsson, Mats Sjöqvist","Håstaholmen",2,2,"Hudik/Björkberg U",2
-"92","Patric Jonsson, Niclas Olsson","Ljusne Idrottshall",1,1,"Wallviks IK",1
-"93","Patric Jonsson, Niclas Olsson","Ljusne Idrottshall",1,1,"Jemtland Innebandy Utv",1
-"94","Patrick Cederblad, Anders Johansson","Fränsta Sporthall",3,11,"FBC Lo",1
-"95","Patrick Cederblad, Anders Johansson","Fränsta Sporthall",3,11,"Fränsta IK",3
-"96","Patrick Cederblad, Anders Johansson","Fränsta Sporthall",3,11,"Wallviks IK",1
-"97","Patrick Cederblad, Anders Johansson","Fränsta Sporthall",3,11,"Jemtland Innebandy Utv",1
-"98","Patrick Cederblad, Anders Johansson","Hagahallen",2,11,"Sundsvall FBC Utveckling",1
-"99","Patrick Cederblad, Anders Johansson","Hagahallen",2,11,"Hudik/Björkberg U",1
-"100","Patrick Cederblad, Anders Johansson","Hagahallen",2,11,"Klockarbergets BK",1
-"101","Patrick Cederblad, Anders Johansson","Hagahallen",2,11,"Alfta IBK",1
-"102","Patrick Cederblad, Anders Johansson","Njurundahallen",4,11,"Sundsvall FBC Utveckling",1
-"103","Patrick Cederblad, Anders Johansson","Njurundahallen",4,11,"Hudik/Björkberg U",1
-"104","Patrick Cederblad, Anders Johansson","Njurundahallen",4,11,"Fränsta IK",1
-"105","Patrick Cederblad, Anders Johansson","Njurundahallen",4,11,"Jemtland Innebandy Utv",1
-"106","Patrick Cederblad, Anders Johansson","Njurundahallen",4,11,"Klockarbergets BK",4
-"107","Patrick Cederblad, Anders Johansson","Sundsvalls Sporthall-A",2,11,"Wallviks IK",1
-"108","Patrick Cederblad, Anders Johansson","Sundsvalls Sporthall-A",2,11,"Sundsvall FBC Utveckling",1
-"109","Patrick Cederblad, Anders Johansson","Sundsvalls Sporthall-A",2,11,"Sundsvall FBC Ungdom",1
-"110","Patrick Cederblad, Anders Johansson","Sundsvalls Sporthall-A",2,11,"IBK Härnösand",1
-"111","Patrick Cederblad, Roger Lundbäck","Fränsta Sporthall",1,1,"Sundsvall FBC Ungdom",1
-"112","Patrick Cederblad, Roger Lundbäck","Fränsta Sporthall",1,1,"Fränsta IK",1
-"113","Patrik Sjöberg, Hans Söderblom","Skönsbergshallen",1,1,"Sundsvall City IBC U",1
-"114","Patrik Sjöberg, Hans Söderblom","Skönsbergshallen",1,1,"Fränsta IK",1
-"115","Peder Lövdahl, Göran Norberg","Bollstahallen",1,2,"Sundsvall FBC Ungdom",1
-"116","Peder Lövdahl, Göran Norberg","Bollstahallen",1,2,"FBC Lo",1
-"117","Peder Lövdahl, Göran Norberg","Öbacka SC",1,2,"Hudik/Björkberg U",1
-"118","Peder Lövdahl, Göran Norberg","Öbacka SC",1,2,"IBK Härnösand",1
-"119","Peter Boije, Dennis Wall","Torvallaskolans sporthall",1,1,"Jemtland Innebandy Utv",1
-"120","Peter Boije, Dennis Wall","Torvallaskolans sporthall",1,1,"IBK Härnösand",1
-"121","Peter Palander, Patrik Sjöberg","Fränsta Sporthall",2,9,"Fränsta IK",2
-"122","Peter Palander, Patrik Sjöberg","Fränsta Sporthall",2,9,"Håsta IBK",1
-"123","Peter Palander, Patrik Sjöberg","Fränsta Sporthall",2,9,"Klockarbergets BK",1
-"124","Peter Palander, Patrik Sjöberg","Höglunda",4,9,"Alfta IBK",1
-"125","Peter Palander, Patrik Sjöberg","Höglunda",4,9,"Sundsvall FBC Utveckling",1
-"126","Peter Palander, Patrik Sjöberg","Höglunda",4,9,"Sundsvall City IBC U",4
-"127","Peter Palander, Patrik Sjöberg","Höglunda",4,9,"Hudik/Björkberg U",1
-"128","Peter Palander, Patrik Sjöberg","Höglunda",4,9,"Håsta IBK",1
-"129","Peter Palander, Patrik Sjöberg","Njurundahallen",1,9,"Sundsvall City IBC U",1
-"130","Peter Palander, Patrik Sjöberg","Njurundahallen",1,9,"Klockarbergets BK",1
-"131","Peter Palander, Patrik Sjöberg","Sundsvalls Sporthall-A",2,9,"Sundsvall FBC Ungdom",1
-"132","Peter Palander, Patrik Sjöberg","Sundsvalls Sporthall-A",2,9,"Klockarbergets BK",2
-"133","Peter Palander, Patrik Sjöberg","Sundsvalls Sporthall-A",2,9,"Sundsvall FBC Utveckling",1
-"134","Robert Mårtensson, Johnny Sundberg","Håstaholmen",1,1,"Håsta IBK",1
-"135","Robert Mårtensson, Johnny Sundberg","Håstaholmen",1,1,"Jemtland Innebandy Utv",1
-"136","Roger Lundbäck, Hans Söderblom","Höglunda",1,1,"FBC Lo",1
-"137","Roger Lundbäck, Hans Söderblom","Höglunda",1,1,"Sundsvall City IBC U",1
-"138","Roger Lundbäck, Kenny Windahl","Sundsvalls Sporthall-A",1,1,"Wallviks IK",1
-"139","Roger Lundbäck, Kenny Windahl","Sundsvalls Sporthall-A",1,1,"Sundsvall FBC Ungdom",1
-"140","Thomas Berglund, Arvid Larsson","Fränsta Sporthall",1,1,"Fränsta IK",1
-"141","Thomas Berglund, Arvid Larsson","Fränsta Sporthall",1,1,"Sundsvall City IBC U",1
-"142","Thomas Berglund, Fredrik Strese","Sundsvalls Sporthall-A",1,2,"FBC Lo",1
-"143","Thomas Berglund, Fredrik Strese","Sundsvalls Sporthall-A",1,2,"Sundsvall FBC Utveckling",1
-"144","Thomas Berglund, Fredrik Strese","Öbacka SC",1,2,"IBK Härnösand",1
-"145","Thomas Berglund, Fredrik Strese","Öbacka SC",1,2,"Sundsvall FBC Utveckling",1
-"146","Thomas Berglund, Hans Söderblom","Höglunda",1,1,"Wallviks IK",1
-"147","Thomas Berglund, Hans Söderblom","Höglunda",1,1,"Sundsvall City IBC U",1
-"148","Thomas Berglund, Patrick Cederblad","Fränsta Sporthall",1,2,"Fränsta IK",1
-"149","Thomas Berglund, Patrick Cederblad","Fränsta Sporthall",1,2,"IBK Härnösand",1
-"150","Thomas Berglund, Patrick Cederblad","Sundsvalls Sporthall-A",1,2,"Fränsta IK",1
-"151","Thomas Berglund, Patrick Cederblad","Sundsvalls Sporthall-A",1,2,"Sundsvall FBC Utveckling",1
-"152","Thomas Berglund, Peter Palander","Sundsvalls Sporthall-A",1,1,"Fränsta IK",1
-"153","Thomas Berglund, Peter Palander","Sundsvalls Sporthall-A",1,1,"Sundsvall FBC Ungdom",1
-"154","Thomas Berglund, Roger Lundbäck","Fränsta Sporthall",1,8,"Alfta IBK",1
-"155","Thomas Berglund, Roger Lundbäck","Fränsta Sporthall",1,8,"Fränsta IK",1
-"156","Thomas Berglund, Roger Lundbäck","Höglunda",1,8,"Sundsvall FBC Ungdom",1
-"157","Thomas Berglund, Roger Lundbäck","Höglunda",1,8,"Sundsvall City IBC U",1
-"158","Thomas Berglund, Roger Lundbäck","Njurundahallen",1,8,"Klockarbergets BK",1
-"159","Thomas Berglund, Roger Lundbäck","Njurundahallen",1,8,"IBK Härnösand",1
-"160","Thomas Berglund, Roger Lundbäck","Skönsbergshallen",2,8,"Sundsvall FBC Ungdom",2
-"161","Thomas Berglund, Roger Lundbäck","Skönsbergshallen",2,8,"Sundsvall FBC Utveckling",1
-"162","Thomas Berglund, Roger Lundbäck","Skönsbergshallen",2,8,"Sundsvall City IBC U",1
-"163","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Sundsvall City IBC U",1
-"164","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Hudik/Björkberg U",1
-"165","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Sundsvall FBC Utveckling",2
-"166","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Sundsvall FBC Ungdom",1
-"167","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Jemtland Innebandy Utv",1
-"168","Urban Henrixon, Robert Olofsson","Torvallaskolans sporthall",2,2,"Klockarbergets BK",1
-"169","Urban Henrixon, Robert Olofsson","Torvallaskolans sporthall",2,2,"Wallviks IK",1
-"170","Urban Henrixon, Robert Olofsson","Torvallaskolans sporthall",2,2,"Jemtland Innebandy Utv",2
+"63","Michael Hoek, Jimmy Löfgren","Håstaholmen",2,2,"Håsta IBK",1
+"64","Michael Hoek, Jimmy Löfgren","Håstaholmen",2,2,"Fränsta IK",1
+"65","Michael Hoek, Mats Sjöqvist","Håstaholmen",1,1,"Hudik/Björkberg U",1
+"66","Michael Hoek, Mats Sjöqvist","Håstaholmen",1,1,"Sundsvall FBC Ungdom",1
+"67","Mikael Körning, Anders Öbergh","Bollstahallen",2,3,"FBC Lo",2
+"68","Mikael Körning, Anders Öbergh","Bollstahallen",2,3,"Wallviks IK",1
+"69","Mikael Körning, Anders Öbergh","Bollstahallen",2,3,"Hudik/Björkberg U",1
+"70","Mikael Körning, Anders Öbergh","Öbacka SC",1,3,"IBK Härnösand",1
+"71","Mikael Körning, Anders Öbergh","Öbacka SC",1,3,"Håsta IBK",1
+"72","Mikael Körning, Peder Lövdahl","Bollstahallen",2,5,"Håsta IBK",1
+"73","Mikael Körning, Peder Lövdahl","Bollstahallen",2,5,"FBC Lo",2
+"74","Mikael Körning, Peder Lövdahl","Bollstahallen",2,5,"Alfta IBK",1
+"75","Mikael Körning, Peder Lövdahl","Öbacka SC",3,5,"Fränsta IK",1
+"76","Mikael Körning, Peder Lövdahl","Öbacka SC",3,5,"Sundsvall FBC Ungdom",1
+"77","Mikael Körning, Peder Lövdahl","Öbacka SC",3,5,"FBC Lo",1
+"78","Mikael Körning, Peder Lövdahl","Öbacka SC",3,5,"IBK Härnösand",3
+"79","Niclas Engström, Robert Olofsson","Torvallaskolans sporthall",1,1,"Jemtland Innebandy Utv",1
+"80","Niclas Engström, Robert Olofsson","Torvallaskolans sporthall",1,1,"Alfta IBK",1
+"81","Patric Jonsson, Jimmy Löfgren","Alfta Sporthall",1,3,"Jemtland Innebandy Utv",1
+"82","Patric Jonsson, Jimmy Löfgren","Alfta Sporthall",1,3,"Alfta IBK",1
+"83","Patric Jonsson, Jimmy Löfgren","Håstaholmen",2,3,"Håsta IBK",2
+"84","Patric Jonsson, Jimmy Löfgren","Håstaholmen",2,3,"Klockarbergets BK",1
+"85","Patric Jonsson, Jimmy Löfgren","Håstaholmen",2,3,"Wallviks IK",1
+"86","Patric Jonsson, Johnny Sundberg","Alfta Sporthall",1,4,"Alfta IBK",1
+"87","Patric Jonsson, Johnny Sundberg","Alfta Sporthall",1,4,"Håsta IBK",1
+"88","Patric Jonsson, Johnny Sundberg","Håstaholmen",2,4,"Hudik/Björkberg U",1
+"89","Patric Jonsson, Johnny Sundberg","Håstaholmen",2,4,"Håsta IBK",1
+"90","Patric Jonsson, Johnny Sundberg","Håstaholmen",2,4,"FBC Lo",2
+"91","Patric Jonsson, Johnny Sundberg","Ljusne Idrottshall",1,4,"Sundsvall City IBC U",1
+"92","Patric Jonsson, Johnny Sundberg","Ljusne Idrottshall",1,4,"Wallviks IK",1
+"93","Patric Jonsson, Mats Sjöqvist","Håstaholmen",2,2,"Hudik/Björkberg U",2
+"94","Patric Jonsson, Mats Sjöqvist","Håstaholmen",2,2,"Wallviks IK",1
+"95","Patric Jonsson, Mats Sjöqvist","Håstaholmen",2,2,"Klockarbergets BK",1
+"96","Patric Jonsson, Niclas Olsson","Ljusne Idrottshall",1,1,"Wallviks IK",1
+"97","Patric Jonsson, Niclas Olsson","Ljusne Idrottshall",1,1,"Jemtland Innebandy Utv",1
+"98","Patrick Cederblad, Anders Johansson","Fränsta Sporthall",3,12,"Fränsta IK",3
+"99","Patrick Cederblad, Anders Johansson","Fränsta Sporthall",3,12,"Wallviks IK",1
+"100","Patrick Cederblad, Anders Johansson","Fränsta Sporthall",3,12,"FBC Lo",1
+"101","Patrick Cederblad, Anders Johansson","Fränsta Sporthall",3,12,"Jemtland Innebandy Utv",1
+"102","Patrick Cederblad, Anders Johansson","Hagahallen",2,12,"Sundsvall FBC Utveckling",1
+"103","Patrick Cederblad, Anders Johansson","Hagahallen",2,12,"Klockarbergets BK",1
+"104","Patrick Cederblad, Anders Johansson","Hagahallen",2,12,"Hudik/Björkberg U",1
+"105","Patrick Cederblad, Anders Johansson","Hagahallen",2,12,"Alfta IBK",1
+"106","Patrick Cederblad, Anders Johansson","Höglunda",1,12,"Sundsvall City IBC U",1
+"107","Patrick Cederblad, Anders Johansson","Höglunda",1,12,"IBK Härnösand",1
+"108","Patrick Cederblad, Anders Johansson","Njurundahallen",4,12,"Fränsta IK",1
+"109","Patrick Cederblad, Anders Johansson","Njurundahallen",4,12,"Hudik/Björkberg U",1
+"110","Patrick Cederblad, Anders Johansson","Njurundahallen",4,12,"Klockarbergets BK",4
+"111","Patrick Cederblad, Anders Johansson","Njurundahallen",4,12,"Jemtland Innebandy Utv",1
+"112","Patrick Cederblad, Anders Johansson","Njurundahallen",4,12,"Sundsvall FBC Utveckling",1
+"113","Patrick Cederblad, Anders Johansson","Sundsvalls Sporthall-A",2,12,"Sundsvall FBC Utveckling",1
+"114","Patrick Cederblad, Anders Johansson","Sundsvalls Sporthall-A",2,12,"Sundsvall FBC Ungdom",1
+"115","Patrick Cederblad, Anders Johansson","Sundsvalls Sporthall-A",2,12,"IBK Härnösand",1
+"116","Patrick Cederblad, Anders Johansson","Sundsvalls Sporthall-A",2,12,"Wallviks IK",1
+"117","Patrick Cederblad, Roger Lundbäck","Fränsta Sporthall",1,1,"Fränsta IK",1
+"118","Patrick Cederblad, Roger Lundbäck","Fränsta Sporthall",1,1,"Sundsvall FBC Ungdom",1
+"119","Patrik Sjöberg, Hans Söderblom","Skönsbergshallen",1,1,"Sundsvall City IBC U",1
+"120","Patrik Sjöberg, Hans Söderblom","Skönsbergshallen",1,1,"Fränsta IK",1
+"121","Peder Lövdahl, Göran Norberg","Bollstahallen",1,2,"FBC Lo",1
+"122","Peder Lövdahl, Göran Norberg","Bollstahallen",1,2,"Sundsvall FBC Ungdom",1
+"123","Peder Lövdahl, Göran Norberg","Öbacka SC",1,2,"IBK Härnösand",1
+"124","Peder Lövdahl, Göran Norberg","Öbacka SC",1,2,"Hudik/Björkberg U",1
+"125","Peter Boije, Dennis Wall","Torvallaskolans sporthall",1,1,"IBK Härnösand",1
+"126","Peter Boije, Dennis Wall","Torvallaskolans sporthall",1,1,"Jemtland Innebandy Utv",1
+"127","Peter Palander, Patrik Sjöberg","Fränsta Sporthall",2,10,"Håsta IBK",1
+"128","Peter Palander, Patrik Sjöberg","Fränsta Sporthall",2,10,"Klockarbergets BK",1
+"129","Peter Palander, Patrik Sjöberg","Fränsta Sporthall",2,10,"Fränsta IK",2
+"130","Peter Palander, Patrik Sjöberg","Höglunda",4,10,"Håsta IBK",1
+"131","Peter Palander, Patrik Sjöberg","Höglunda",4,10,"Hudik/Björkberg U",1
+"132","Peter Palander, Patrik Sjöberg","Höglunda",4,10,"Sundsvall City IBC U",4
+"133","Peter Palander, Patrik Sjöberg","Höglunda",4,10,"Alfta IBK",1
+"134","Peter Palander, Patrik Sjöberg","Höglunda",4,10,"Sundsvall FBC Utveckling",1
+"135","Peter Palander, Patrik Sjöberg","Njurundahallen",1,10,"Klockarbergets BK",1
+"136","Peter Palander, Patrik Sjöberg","Njurundahallen",1,10,"Sundsvall City IBC U",1
+"137","Peter Palander, Patrik Sjöberg","Sundsvalls Sporthall-A",3,10,"Sundsvall FBC Utveckling",2
+"138","Peter Palander, Patrik Sjöberg","Sundsvalls Sporthall-A",3,10,"Klockarbergets BK",2
+"139","Peter Palander, Patrik Sjöberg","Sundsvalls Sporthall-A",3,10,"Sundsvall FBC Ungdom",1
+"140","Peter Palander, Patrik Sjöberg","Sundsvalls Sporthall-A",3,10,"Alfta IBK",1
+"141","Robert Mårtensson, Johnny Sundberg","Håstaholmen",1,1,"Håsta IBK",1
+"142","Robert Mårtensson, Johnny Sundberg","Håstaholmen",1,1,"Jemtland Innebandy Utv",1
+"143","Roger Lundbäck, Hans Söderblom","Höglunda",1,1,"FBC Lo",1
+"144","Roger Lundbäck, Hans Söderblom","Höglunda",1,1,"Sundsvall City IBC U",1
+"145","Roger Lundbäck, Kenny Windahl","Sundsvalls Sporthall-A",1,1,"Sundsvall FBC Ungdom",1
+"146","Roger Lundbäck, Kenny Windahl","Sundsvalls Sporthall-A",1,1,"Wallviks IK",1
+"147","Simon Hedkvist, Fredrik Söderholm","Bollstahallen",1,1,"Klockarbergets BK",1
+"148","Simon Hedkvist, Fredrik Söderholm","Bollstahallen",1,1,"FBC Lo",1
+"149","Thomas Berglund, Arvid Larsson","Fränsta Sporthall",1,1,"Sundsvall City IBC U",1
+"150","Thomas Berglund, Arvid Larsson","Fränsta Sporthall",1,1,"Fränsta IK",1
+"151","Thomas Berglund, Fredrik Strese","Sundsvalls Sporthall-A",1,2,"Sundsvall FBC Utveckling",1
+"152","Thomas Berglund, Fredrik Strese","Sundsvalls Sporthall-A",1,2,"FBC Lo",1
+"153","Thomas Berglund, Fredrik Strese","Öbacka SC",1,2,"IBK Härnösand",1
+"154","Thomas Berglund, Fredrik Strese","Öbacka SC",1,2,"Sundsvall FBC Utveckling",1
+"155","Thomas Berglund, Hans Söderblom","Höglunda",1,1,"Sundsvall City IBC U",1
+"156","Thomas Berglund, Hans Söderblom","Höglunda",1,1,"Wallviks IK",1
+"157","Thomas Berglund, Patrick Cederblad","Fränsta Sporthall",1,2,"IBK Härnösand",1
+"158","Thomas Berglund, Patrick Cederblad","Fränsta Sporthall",1,2,"Fränsta IK",1
+"159","Thomas Berglund, Patrick Cederblad","Sundsvalls Sporthall-A",1,2,"Sundsvall FBC Utveckling",1
+"160","Thomas Berglund, Patrick Cederblad","Sundsvalls Sporthall-A",1,2,"Fränsta IK",1
+"161","Thomas Berglund, Peter Palander","Sundsvalls Sporthall-A",1,1,"Fränsta IK",1
+"162","Thomas Berglund, Peter Palander","Sundsvalls Sporthall-A",1,1,"Sundsvall FBC Ungdom",1
+"163","Thomas Berglund, Roger Lundbäck","Fränsta Sporthall",1,8,"Fränsta IK",1
+"164","Thomas Berglund, Roger Lundbäck","Fränsta Sporthall",1,8,"Alfta IBK",1
+"165","Thomas Berglund, Roger Lundbäck","Höglunda",1,8,"Sundsvall FBC Ungdom",1
+"166","Thomas Berglund, Roger Lundbäck","Höglunda",1,8,"Sundsvall City IBC U",1
+"167","Thomas Berglund, Roger Lundbäck","Njurundahallen",1,8,"Klockarbergets BK",1
+"168","Thomas Berglund, Roger Lundbäck","Njurundahallen",1,8,"IBK Härnösand",1
+"169","Thomas Berglund, Roger Lundbäck","Skönsbergshallen",2,8,"Sundsvall City IBC U",1
+"170","Thomas Berglund, Roger Lundbäck","Skönsbergshallen",2,8,"Sundsvall FBC Utveckling",1
+"171","Thomas Berglund, Roger Lundbäck","Skönsbergshallen",2,8,"Sundsvall FBC Ungdom",2
+"172","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Sundsvall FBC Ungdom",1
+"173","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Hudik/Björkberg U",1
+"174","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Sundsvall City IBC U",1
+"175","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Jemtland Innebandy Utv",1
+"176","Thomas Berglund, Roger Lundbäck","Sundsvalls Sporthall-A",3,8,"Sundsvall FBC Utveckling",2
+"177","Urban Henrixon, Robert Olofsson","Torvallaskolans sporthall",2,2,"Klockarbergets BK",1
+"178","Urban Henrixon, Robert Olofsson","Torvallaskolans sporthall",2,2,"Wallviks IK",1
+"179","Urban Henrixon, Robert Olofsson","Torvallaskolans sporthall",2,2,"Jemtland Innebandy Utv",2
