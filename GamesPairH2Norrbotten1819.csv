@@ -1,109 +1,129 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Alexander Pettersson, Gustaf Vallgren","Pajala Sp",1,1,"Pajala IF H2",1
-"2","Alexander Pettersson, Gustaf Vallgren","Pajala Sp",1,1,"IBK Luleå H2",1
-"3","Christer Uggla, Pär Wårell","Idrottshuset Haparanda",1,1,"K 4 IF H 2",1
-"4","Christer Uggla, Pär Wårell","Idrottshuset Haparanda",1,1,"Haparanda AIK H2",1
-"5","Conny Björnfot, Daniel Persson","Kronanhallen",2,4,"IBK Luleå H2",1
-"6","Conny Björnfot, Daniel Persson","Kronanhallen",2,4,"Bergnäsets AIK H2",1
-"7","Conny Björnfot, Daniel Persson","Kronanhallen",2,4,"Haparanda AIK H2",2
-"8","Conny Björnfot, Daniel Persson","Pajala Sp",1,4,"Pajala IF H2",1
-"9","Conny Björnfot, Daniel Persson","Pajala Sp",1,4,"K 4 IF H 2",1
-"10","Conny Björnfot, Daniel Persson","Rakethallen Kiruna",1,4,"Kiruna AIF H2",1
-"11","Conny Björnfot, Daniel Persson","Rakethallen Kiruna",1,4,"Öjebyns IBF H2",1
-"12","Conny Björnfot, Gustaf Vallgren","Sunderby Sp",1,1,"Sunderby SK H2",1
-"13","Conny Björnfot, Gustaf Vallgren","Sunderby Sp",1,1,"Bergnäsets AIK H2",1
-"14","Conny Björnfot, Magnus Grahn","ND Hallen",1,4,"K 4 IF H 2",1
-"15","Conny Björnfot, Magnus Grahn","ND Hallen",1,4,"Öjebyns IBF H2",1
-"16","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,4,"Wibax IBF Piteå H2",1
-"17","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,4,"Sunderby SK H2",1
-"18","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,4,"Kiruna AIF H2",1
-"19","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,4,"Öjebyns IBF H2",2
-"20","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,4,"Bergnäsets AIK H2",1
-"21","Conny Björnfot, Tobias Skogsberg","Hälsans hus",1,5,"IBK Luleå H2",1
-"22","Conny Björnfot, Tobias Skogsberg","Hälsans hus",1,5,"Bergnäsets AIK H2",1
-"23","Conny Björnfot, Tobias Skogsberg","Idrottshuset Haparanda",1,5,"Bergnäsets AIK H2",1
-"24","Conny Björnfot, Tobias Skogsberg","Idrottshuset Haparanda",1,5,"Haparanda AIK H2",1
-"25","Conny Björnfot, Tobias Skogsberg","Kronanhallen",1,5,"IBK Luleå H2",1
-"26","Conny Björnfot, Tobias Skogsberg","Kronanhallen",1,5,"Sunderby SK H2",1
-"27","Conny Björnfot, Tobias Skogsberg","Pajala Sp",2,5,"Bergnäsets AIK H2",1
-"28","Conny Björnfot, Tobias Skogsberg","Pajala Sp",2,5,"Öjebyns IBF H2",1
-"29","Conny Björnfot, Tobias Skogsberg","Pajala Sp",2,5,"Pajala IF H2",2
-"30","Dick Sandberg, André Selander","Sunderby Sp",1,1,"Sunderby SK H2",1
-"31","Dick Sandberg, André Selander","Sunderby Sp",1,1,"Pajala IF H2",1
-"32","Dick Sandberg, Pär Wårell","Sunderby Sp",1,2,"Kiruna AIF H2",1
-"33","Dick Sandberg, Pär Wårell","Sunderby Sp",1,2,"Sunderby SK H2",1
-"34","Dick Sandberg, Pär Wårell","Örnäsets Sp",1,2,"Bergnäsets AIK H2",1
-"35","Dick Sandberg, Pär Wårell","Örnäsets Sp",1,2,"Kiruna AIF H2",1
-"36","Gustaf Vallgren, Pär Wårell","Norrmalmia Sph",1,1,"Wibax IBF Piteå H2",1
-"37","Gustaf Vallgren, Pär Wårell","Norrmalmia Sph",1,1,"K 4 IF H 2",1
-"38","Johan Krispinsson, Gustaf Vallgren","Idrottshuset Haparanda",2,6,"Sunderby SK H2",1
-"39","Johan Krispinsson, Gustaf Vallgren","Idrottshuset Haparanda",2,6,"Haparanda AIK H2",2
-"40","Johan Krispinsson, Gustaf Vallgren","Idrottshuset Haparanda",2,6,"IBK Luleå H2",1
-"41","Johan Krispinsson, Gustaf Vallgren","Kronanhallen",1,6,"IBK Luleå H2",1
-"42","Johan Krispinsson, Gustaf Vallgren","Kronanhallen",1,6,"K 4 IF H 2",1
-"43","Johan Krispinsson, Gustaf Vallgren","Norrmalmia Sph",1,6,"Öjebyns IBF H2",1
-"44","Johan Krispinsson, Gustaf Vallgren","Norrmalmia Sph",1,6,"Wibax IBF Piteå H2",1
-"45","Johan Krispinsson, Gustaf Vallgren","Pajala Sp",1,6,"Pajala IF H2",1
-"46","Johan Krispinsson, Gustaf Vallgren","Pajala Sp",1,6,"Kiruna AIF H2",1
-"47","Johan Krispinsson, Gustaf Vallgren","Rakethallen Kiruna",1,6,"Kiruna AIF H2",1
-"48","Johan Krispinsson, Gustaf Vallgren","Rakethallen Kiruna",1,6,"Pajala IF H2",1
-"49","Johan Nyström, Dick Sandberg","Norrmalmia Sph",1,1,"IBK Luleå H2",1
-"50","Johan Nyström, Dick Sandberg","Norrmalmia Sph",1,1,"Wibax IBF Piteå H2",1
-"51","Johan Nyström, Pasi Ronkainen","ND Hallen",1,1,"K 4 IF H 2",1
-"52","Johan Nyström, Pasi Ronkainen","ND Hallen",1,1,"Wibax IBF Piteå H2",1
-"53","Juha Pasma, Pasi Ronkainen","Idrottshuset Haparanda",1,4,"Haparanda AIK H2",1
-"54","Juha Pasma, Pasi Ronkainen","Idrottshuset Haparanda",1,4,"Wibax IBF Piteå H2",1
-"55","Juha Pasma, Pasi Ronkainen","Kronanhallen",1,4,"IBK Luleå H2",1
-"56","Juha Pasma, Pasi Ronkainen","Kronanhallen",1,4,"Öjebyns IBF H2",1
-"57","Juha Pasma, Pasi Ronkainen","Rakethallen Kiruna",1,4,"Wibax IBF Piteå H2",1
-"58","Juha Pasma, Pasi Ronkainen","Rakethallen Kiruna",1,4,"Kiruna AIF H2",1
-"59","Juha Pasma, Pasi Ronkainen","Sunderby Sp",1,4,"Sunderby SK H2",1
-"60","Juha Pasma, Pasi Ronkainen","Sunderby Sp",1,4,"Wibax IBF Piteå H2",1
-"61","Jörgen Eriksson, Gustaf Vallgren","Norrmalmia Sph",1,1,"Sunderby SK H2",1
-"62","Jörgen Eriksson, Gustaf Vallgren","Norrmalmia Sph",1,1,"Wibax IBF Piteå H2",1
-"63","Jörgen Eriksson, Jari Korpi","Idrottshuset Haparanda",2,10,"Öjebyns IBF H2",1
-"64","Jörgen Eriksson, Jari Korpi","Idrottshuset Haparanda",2,10,"Haparanda AIK H2",2
-"65","Jörgen Eriksson, Jari Korpi","Idrottshuset Haparanda",2,10,"Kiruna AIF H2",1
-"66","Jörgen Eriksson, Jari Korpi","Kronanhallen",1,10,"IBK Luleå H2",1
-"67","Jörgen Eriksson, Jari Korpi","Kronanhallen",1,10,"Pajala IF H2",1
-"68","Jörgen Eriksson, Jari Korpi","ND Hallen",2,10,"Bergnäsets AIK H2",1
-"69","Jörgen Eriksson, Jari Korpi","ND Hallen",2,10,"Kiruna AIF H2",1
-"70","Jörgen Eriksson, Jari Korpi","ND Hallen",2,10,"K 4 IF H 2",2
-"71","Jörgen Eriksson, Jari Korpi","Norrmalmia Sph",1,10,"Öjebyns IBF H2",1
-"72","Jörgen Eriksson, Jari Korpi","Norrmalmia Sph",1,10,"IBK Luleå H2",1
-"73","Jörgen Eriksson, Jari Korpi","Rakethallen Kiruna",3,10,"Bergnäsets AIK H2",1
-"74","Jörgen Eriksson, Jari Korpi","Rakethallen Kiruna",3,10,"Kiruna AIF H2",3
-"75","Jörgen Eriksson, Jari Korpi","Rakethallen Kiruna",3,10,"IBK Luleå H2",1
-"76","Jörgen Eriksson, Jari Korpi","Rakethallen Kiruna",3,10,"Sunderby SK H2",1
-"77","Jörgen Eriksson, Jari Korpi","Sunderby Sp",1,10,"Haparanda AIK H2",1
-"78","Jörgen Eriksson, Jari Korpi","Sunderby Sp",1,10,"Sunderby SK H2",1
-"79","Jörgen Eriksson, Johan Nyström","Hälsans hus",1,1,"Sunderby SK H2",1
-"80","Jörgen Eriksson, Johan Nyström","Hälsans hus",1,1,"Bergnäsets AIK H2",1
-"81","Jörgen Eriksson, Magnus Grahn","Pajala Sp",1,1,"Pajala IF H2",1
-"82","Jörgen Eriksson, Magnus Grahn","Pajala Sp",1,1,"Haparanda AIK H2",1
-"83","Jörgen Eriksson, Pär Wårell","Norrmalmia Sph",1,1,"Öjebyns IBF H2",1
-"84","Jörgen Eriksson, Pär Wårell","Norrmalmia Sph",1,1,"K 4 IF H 2",1
-"85","Jörgen Eriksson, Tobias Skogsberg","Kronanhallen",1,1,"K 4 IF H 2",1
-"86","Jörgen Eriksson, Tobias Skogsberg","Kronanhallen",1,1,"Bergnäsets AIK H2",1
-"87","Magnus Grahn, Daniel Persson","Sunderby Sp",1,1,"K 4 IF H 2",1
-"88","Magnus Grahn, Daniel Persson","Sunderby Sp",1,1,"Sunderby SK H2",1
-"89","Magnus Grahn, Gustaf Vallgren","Sunderby Sp",1,1,"Öjebyns IBF H2",1
-"90","Magnus Grahn, Gustaf Vallgren","Sunderby Sp",1,1,"Sunderby SK H2",1
-"91","Magnus Grahn, Johan Nyström","Hälsans hus",1,3,"Bergnäsets AIK H2",1
-"92","Magnus Grahn, Johan Nyström","Hälsans hus",1,3,"Pajala IF H2",1
-"93","Magnus Grahn, Johan Nyström","Norrmalmia Sph",2,3,"Haparanda AIK H2",1
-"94","Magnus Grahn, Johan Nyström","Norrmalmia Sph",2,3,"Pajala IF H2",1
-"95","Magnus Grahn, Johan Nyström","Norrmalmia Sph",2,3,"Wibax IBF Piteå H2",2
-"96","Magnus Grahn, Pasi Ronkainen","Norrmalmia Sph",2,2,"Öjebyns IBF H2",1
-"97","Magnus Grahn, Pasi Ronkainen","Norrmalmia Sph",2,2,"Bergnäsets AIK H2",1
-"98","Magnus Grahn, Pasi Ronkainen","Norrmalmia Sph",2,2,"Pajala IF H2",1
-"99","Magnus Grahn, Pasi Ronkainen","Norrmalmia Sph",2,2,"Wibax IBF Piteå H2",1
-"100","Magnus Grahn, Pär Wårell","Kronanhallen",1,4,"Wibax IBF Piteå H2",1
-"101","Magnus Grahn, Pär Wårell","Kronanhallen",1,4,"IBK Luleå H2",1
-"102","Magnus Grahn, Pär Wårell","ND Hallen",2,4,"IBK Luleå H2",1
-"103","Magnus Grahn, Pär Wårell","ND Hallen",2,4,"Pajala IF H2",1
-"104","Magnus Grahn, Pär Wårell","ND Hallen",2,4,"K 4 IF H 2",2
-"105","Magnus Grahn, Pär Wårell","Pajala Sp",1,4,"Pajala IF H2",1
-"106","Magnus Grahn, Pär Wårell","Pajala Sp",1,4,"Wibax IBF Piteå H2",1
-"107","Petter Lindkvist, Johan Nyström","ND Hallen",1,1,"K 4 IF H 2",1
-"108","Petter Lindkvist, Johan Nyström","ND Hallen",1,1,"Haparanda AIK H2",1
+"1","Alexander Pettersson, Gustaf Vallgren","Pajala Sp",1,1,"IBK Luleå H2",1
+"2","Alexander Pettersson, Gustaf Vallgren","Pajala Sp",1,1,"Pajala IF H2",1
+"3","Christer Uggla, Pär Wårell","Hälsans hus",1,2,"Bergnäsets AIK H2",1
+"4","Christer Uggla, Pär Wårell","Hälsans hus",1,2,"Wibax IBF Piteå H2",1
+"5","Christer Uggla, Pär Wårell","Idrottshuset Haparanda",1,2,"K 4 IF H 2",1
+"6","Christer Uggla, Pär Wårell","Idrottshuset Haparanda",1,2,"Haparanda AIK H2",1
+"7","Conny Björnfot, Daniel Persson","Kronanhallen",2,4,"Bergnäsets AIK H2",1
+"8","Conny Björnfot, Daniel Persson","Kronanhallen",2,4,"IBK Luleå H2",1
+"9","Conny Björnfot, Daniel Persson","Kronanhallen",2,4,"Haparanda AIK H2",2
+"10","Conny Björnfot, Daniel Persson","Pajala Sp",1,4,"K 4 IF H 2",1
+"11","Conny Björnfot, Daniel Persson","Pajala Sp",1,4,"Pajala IF H2",1
+"12","Conny Björnfot, Daniel Persson","Rakethallen Kiruna",1,4,"Kiruna AIF H2",1
+"13","Conny Björnfot, Daniel Persson","Rakethallen Kiruna",1,4,"Öjebyns IBF H2",1
+"14","Conny Björnfot, Gustaf Vallgren","Sunderby Sp",1,1,"Bergnäsets AIK H2",1
+"15","Conny Björnfot, Gustaf Vallgren","Sunderby Sp",1,1,"Sunderby SK H2",1
+"16","Conny Björnfot, Magnus Grahn","ND Hallen",1,6,"Öjebyns IBF H2",1
+"17","Conny Björnfot, Magnus Grahn","ND Hallen",1,6,"K 4 IF H 2",1
+"18","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,6,"Öjebyns IBF H2",2
+"19","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,6,"Bergnäsets AIK H2",1
+"20","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,6,"Sunderby SK H2",1
+"21","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,6,"Wibax IBF Piteå H2",1
+"22","Conny Björnfot, Magnus Grahn","Norrmalmia Sph",3,6,"Kiruna AIF H2",1
+"23","Conny Björnfot, Magnus Grahn","Pajala Sp",1,6,"Sunderby SK H2",1
+"24","Conny Björnfot, Magnus Grahn","Pajala Sp",1,6,"Pajala IF H2",1
+"25","Conny Björnfot, Magnus Grahn","Sunderby Sp",1,6,"Sunderby SK H2",1
+"26","Conny Björnfot, Magnus Grahn","Sunderby Sp",1,6,"IBK Luleå H2",1
+"27","Conny Björnfot, Tobias Skogsberg","Hälsans hus",1,7,"IBK Luleå H2",1
+"28","Conny Björnfot, Tobias Skogsberg","Hälsans hus",1,7,"Bergnäsets AIK H2",1
+"29","Conny Björnfot, Tobias Skogsberg","Idrottshuset Haparanda",2,7,"Bergnäsets AIK H2",1
+"30","Conny Björnfot, Tobias Skogsberg","Idrottshuset Haparanda",2,7,"Pajala IF H2",1
+"31","Conny Björnfot, Tobias Skogsberg","Idrottshuset Haparanda",2,7,"Haparanda AIK H2",2
+"32","Conny Björnfot, Tobias Skogsberg","Kronanhallen",2,7,"Sunderby SK H2",1
+"33","Conny Björnfot, Tobias Skogsberg","Kronanhallen",2,7,"IBK Luleå H2",2
+"34","Conny Björnfot, Tobias Skogsberg","Kronanhallen",2,7,"Bergnäsets AIK H2",1
+"35","Conny Björnfot, Tobias Skogsberg","Pajala Sp",2,7,"Öjebyns IBF H2",1
+"36","Conny Björnfot, Tobias Skogsberg","Pajala Sp",2,7,"Pajala IF H2",2
+"37","Conny Björnfot, Tobias Skogsberg","Pajala Sp",2,7,"Bergnäsets AIK H2",1
+"38","Dick Sandberg, André Selander","Sunderby Sp",1,1,"Pajala IF H2",1
+"39","Dick Sandberg, André Selander","Sunderby Sp",1,1,"Sunderby SK H2",1
+"40","Dick Sandberg, Pär Wårell","Sunderby Sp",1,2,"Sunderby SK H2",1
+"41","Dick Sandberg, Pär Wårell","Sunderby Sp",1,2,"Kiruna AIF H2",1
+"42","Dick Sandberg, Pär Wårell","Örnäsets Sp",1,2,"Bergnäsets AIK H2",1
+"43","Dick Sandberg, Pär Wårell","Örnäsets Sp",1,2,"Kiruna AIF H2",1
+"44","Gustaf Vallgren, Pär Wårell","Norrmalmia Sph",1,1,"K 4 IF H 2",1
+"45","Gustaf Vallgren, Pär Wårell","Norrmalmia Sph",1,1,"Wibax IBF Piteå H2",1
+"46","Johan Krispinsson, Gustaf Vallgren","Hälsans hus",1,8,"Bergnäsets AIK H2",1
+"47","Johan Krispinsson, Gustaf Vallgren","Hälsans hus",1,8,"Öjebyns IBF H2",1
+"48","Johan Krispinsson, Gustaf Vallgren","Idrottshuset Haparanda",2,8,"Sunderby SK H2",1
+"49","Johan Krispinsson, Gustaf Vallgren","Idrottshuset Haparanda",2,8,"Haparanda AIK H2",2
+"50","Johan Krispinsson, Gustaf Vallgren","Idrottshuset Haparanda",2,8,"IBK Luleå H2",1
+"51","Johan Krispinsson, Gustaf Vallgren","Kronanhallen",1,8,"IBK Luleå H2",1
+"52","Johan Krispinsson, Gustaf Vallgren","Kronanhallen",1,8,"K 4 IF H 2",1
+"53","Johan Krispinsson, Gustaf Vallgren","Norrmalmia Sph",1,8,"Öjebyns IBF H2",1
+"54","Johan Krispinsson, Gustaf Vallgren","Norrmalmia Sph",1,8,"Wibax IBF Piteå H2",1
+"55","Johan Krispinsson, Gustaf Vallgren","Pajala Sp",1,8,"Kiruna AIF H2",1
+"56","Johan Krispinsson, Gustaf Vallgren","Pajala Sp",1,8,"Pajala IF H2",1
+"57","Johan Krispinsson, Gustaf Vallgren","Rakethallen Kiruna",2,8,"Haparanda AIK H2",1
+"58","Johan Krispinsson, Gustaf Vallgren","Rakethallen Kiruna",2,8,"Kiruna AIF H2",2
+"59","Johan Krispinsson, Gustaf Vallgren","Rakethallen Kiruna",2,8,"Pajala IF H2",1
+"60","Johan Nyström, Dick Sandberg","Norrmalmia Sph",1,1,"IBK Luleå H2",1
+"61","Johan Nyström, Dick Sandberg","Norrmalmia Sph",1,1,"Wibax IBF Piteå H2",1
+"62","Johan Nyström, Pasi Ronkainen","ND Hallen",1,1,"K 4 IF H 2",1
+"63","Johan Nyström, Pasi Ronkainen","ND Hallen",1,1,"Wibax IBF Piteå H2",1
+"64","Juha Pasma, Pasi Ronkainen","Idrottshuset Haparanda",1,4,"Haparanda AIK H2",1
+"65","Juha Pasma, Pasi Ronkainen","Idrottshuset Haparanda",1,4,"Wibax IBF Piteå H2",1
+"66","Juha Pasma, Pasi Ronkainen","Kronanhallen",1,4,"Öjebyns IBF H2",1
+"67","Juha Pasma, Pasi Ronkainen","Kronanhallen",1,4,"IBK Luleå H2",1
+"68","Juha Pasma, Pasi Ronkainen","Rakethallen Kiruna",1,4,"Wibax IBF Piteå H2",1
+"69","Juha Pasma, Pasi Ronkainen","Rakethallen Kiruna",1,4,"Kiruna AIF H2",1
+"70","Juha Pasma, Pasi Ronkainen","Sunderby Sp",1,4,"Sunderby SK H2",1
+"71","Juha Pasma, Pasi Ronkainen","Sunderby Sp",1,4,"Wibax IBF Piteå H2",1
+"72","Jörgen Eriksson, Gustaf Vallgren","Norrmalmia Sph",1,1,"Sunderby SK H2",1
+"73","Jörgen Eriksson, Gustaf Vallgren","Norrmalmia Sph",1,1,"Wibax IBF Piteå H2",1
+"74","Jörgen Eriksson, Jari Korpi","Idrottshuset Haparanda",2,12,"Öjebyns IBF H2",1
+"75","Jörgen Eriksson, Jari Korpi","Idrottshuset Haparanda",2,12,"Haparanda AIK H2",2
+"76","Jörgen Eriksson, Jari Korpi","Idrottshuset Haparanda",2,12,"Kiruna AIF H2",1
+"77","Jörgen Eriksson, Jari Korpi","Kronanhallen",1,12,"IBK Luleå H2",1
+"78","Jörgen Eriksson, Jari Korpi","Kronanhallen",1,12,"Pajala IF H2",1
+"79","Jörgen Eriksson, Jari Korpi","ND Hallen",2,12,"Bergnäsets AIK H2",1
+"80","Jörgen Eriksson, Jari Korpi","ND Hallen",2,12,"K 4 IF H 2",2
+"81","Jörgen Eriksson, Jari Korpi","ND Hallen",2,12,"Kiruna AIF H2",1
+"82","Jörgen Eriksson, Jari Korpi","Norrmalmia Sph",3,12,"Haparanda AIK H2",1
+"83","Jörgen Eriksson, Jari Korpi","Norrmalmia Sph",3,12,"IBK Luleå H2",1
+"84","Jörgen Eriksson, Jari Korpi","Norrmalmia Sph",3,12,"Wibax IBF Piteå H2",1
+"85","Jörgen Eriksson, Jari Korpi","Norrmalmia Sph",3,12,"Öjebyns IBF H2",3
+"86","Jörgen Eriksson, Jari Korpi","Rakethallen Kiruna",3,12,"IBK Luleå H2",1
+"87","Jörgen Eriksson, Jari Korpi","Rakethallen Kiruna",3,12,"Sunderby SK H2",1
+"88","Jörgen Eriksson, Jari Korpi","Rakethallen Kiruna",3,12,"Kiruna AIF H2",3
+"89","Jörgen Eriksson, Jari Korpi","Rakethallen Kiruna",3,12,"Bergnäsets AIK H2",1
+"90","Jörgen Eriksson, Jari Korpi","Sunderby Sp",1,12,"Sunderby SK H2",1
+"91","Jörgen Eriksson, Jari Korpi","Sunderby Sp",1,12,"Haparanda AIK H2",1
+"92","Jörgen Eriksson, Johan Nyström","Hälsans hus",1,1,"Sunderby SK H2",1
+"93","Jörgen Eriksson, Johan Nyström","Hälsans hus",1,1,"Bergnäsets AIK H2",1
+"94","Jörgen Eriksson, Magnus Grahn","Pajala Sp",1,1,"Pajala IF H2",1
+"95","Jörgen Eriksson, Magnus Grahn","Pajala Sp",1,1,"Haparanda AIK H2",1
+"96","Jörgen Eriksson, Pär Wårell","Norrmalmia Sph",2,2,"K 4 IF H 2",1
+"97","Jörgen Eriksson, Pär Wårell","Norrmalmia Sph",2,2,"Kiruna AIF H2",1
+"98","Jörgen Eriksson, Pär Wårell","Norrmalmia Sph",2,2,"Öjebyns IBF H2",2
+"99","Jörgen Eriksson, Tobias Skogsberg","Kronanhallen",2,2,"Kiruna AIF H2",1
+"100","Jörgen Eriksson, Tobias Skogsberg","Kronanhallen",2,2,"K 4 IF H 2",1
+"101","Jörgen Eriksson, Tobias Skogsberg","Kronanhallen",2,2,"IBK Luleå H2",1
+"102","Jörgen Eriksson, Tobias Skogsberg","Kronanhallen",2,2,"Bergnäsets AIK H2",1
+"103","Magnus Grahn, Daniel Persson","Sunderby Sp",1,1,"K 4 IF H 2",1
+"104","Magnus Grahn, Daniel Persson","Sunderby Sp",1,1,"Sunderby SK H2",1
+"105","Magnus Grahn, Gustaf Vallgren","Sunderby Sp",1,1,"Öjebyns IBF H2",1
+"106","Magnus Grahn, Gustaf Vallgren","Sunderby Sp",1,1,"Sunderby SK H2",1
+"107","Magnus Grahn, Jari Korpi","ND Hallen",1,1,"Sunderby SK H2",1
+"108","Magnus Grahn, Jari Korpi","ND Hallen",1,1,"K 4 IF H 2",1
+"109","Magnus Grahn, Johan Nyström","Hälsans hus",1,3,"Pajala IF H2",1
+"110","Magnus Grahn, Johan Nyström","Hälsans hus",1,3,"Bergnäsets AIK H2",1
+"111","Magnus Grahn, Johan Nyström","Norrmalmia Sph",2,3,"Wibax IBF Piteå H2",2
+"112","Magnus Grahn, Johan Nyström","Norrmalmia Sph",2,3,"Pajala IF H2",1
+"113","Magnus Grahn, Johan Nyström","Norrmalmia Sph",2,3,"Haparanda AIK H2",1
+"114","Magnus Grahn, Pasi Ronkainen","Norrmalmia Sph",2,2,"Pajala IF H2",1
+"115","Magnus Grahn, Pasi Ronkainen","Norrmalmia Sph",2,2,"Bergnäsets AIK H2",1
+"116","Magnus Grahn, Pasi Ronkainen","Norrmalmia Sph",2,2,"Öjebyns IBF H2",1
+"117","Magnus Grahn, Pasi Ronkainen","Norrmalmia Sph",2,2,"Wibax IBF Piteå H2",1
+"118","Magnus Grahn, Pär Wårell","Kronanhallen",1,4,"Wibax IBF Piteå H2",1
+"119","Magnus Grahn, Pär Wårell","Kronanhallen",1,4,"IBK Luleå H2",1
+"120","Magnus Grahn, Pär Wårell","ND Hallen",2,4,"IBK Luleå H2",1
+"121","Magnus Grahn, Pär Wårell","ND Hallen",2,4,"K 4 IF H 2",2
+"122","Magnus Grahn, Pär Wårell","ND Hallen",2,4,"Pajala IF H2",1
+"123","Magnus Grahn, Pär Wårell","Pajala Sp",1,4,"Pajala IF H2",1
+"124","Magnus Grahn, Pär Wårell","Pajala Sp",1,4,"Wibax IBF Piteå H2",1
+"125","Petter Lindkvist, Johan Nyström","ND Hallen",1,2,"Haparanda AIK H2",1
+"126","Petter Lindkvist, Johan Nyström","ND Hallen",1,2,"K 4 IF H 2",1
+"127","Petter Lindkvist, Johan Nyström","Rakethallen Kiruna",1,2,"Kiruna AIF H2",1
+"128","Petter Lindkvist, Johan Nyström","Rakethallen Kiruna",1,2,"K 4 IF H 2",1

@@ -1,184 +1,212 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
 "1","Admir Brkic","Västergård Arena A",1,1,"Boxholms IBK",1
 "2","Admir Brkic","Västergård Arena A",1,1,"Telge SIBK U-lag",1
-"3","Agnieszka Kozanecka","Lagmanshallen",1,2,"Boxholms IBK ",1
-"4","Agnieszka Kozanecka","Lagmanshallen",1,2,"Telge SIBK U-lag",1
-"5","Agnieszka Kozanecka","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"6","Agnieszka Kozanecka","Motala Sporthall",1,2,"BK Vingen /IBF Norrköping",1
-"7","Andreas A Karlsson","Billbäcks Arena",2,2,"Telge SIBK U-lag",1
-"8","Andreas A Karlsson","Billbäcks Arena",2,2,"BK Vingen /IBF Norrköping",2
+"3","Agnieszka Kozanecka","Lagmanshallen",1,2,"Telge SIBK U-lag",1
+"4","Agnieszka Kozanecka","Lagmanshallen",1,2,"Boxholms IBK ",1
+"5","Agnieszka Kozanecka","Motala Sporthall",1,2,"BK Vingen /IBF Norrköping",1
+"6","Agnieszka Kozanecka","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
+"7","Andreas A Karlsson","Billbäcks Arena",2,2,"BK Vingen /IBF Norrköping",2
+"8","Andreas A Karlsson","Billbäcks Arena",2,2,"Telge SIBK U-lag",1
 "9","Andreas A Karlsson","Billbäcks Arena",2,2,"Boxholms IBK",1
-"10","Arne Brattehag","Björkestahallen",1,2,"Nykvarns IBF Ungdom ",1
-"11","Arne Brattehag","Björkestahallen",1,2,"Linköpings Universitets AIF IBK",1
+"10","Arne Brattehag","Björkestahallen",1,2,"Linköpings Universitets AIF IBK",1
+"11","Arne Brattehag","Björkestahallen",1,2,"Nykvarns IBF Ungdom ",1
 "12","Arne Brattehag","Nyköpings Sporthall",1,2,"Linköpings Universitets AIF IBK",1
 "13","Arne Brattehag","Nyköpings Sporthall",1,2,"FBC Nyköping",1
-"14","Bemir Brkic","Björkestahallen",2,3,"Nykvarns IBF Ungdom ",2
-"15","Bemir Brkic","Björkestahallen",2,3,"Boxholms IBK",1
-"16","Bemir Brkic","Björkestahallen",2,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"17","Bemir Brkic","Nyköpings Sporthall",1,3,"Boxholms IBK",1
-"18","Bemir Brkic","Nyköpings Sporthall",1,3,"FBC Nyköping",1
-"19","Camilla Örnebro","Västergård Arena A",1,1,"Telge SIBK U-lag",1
-"20","Camilla Örnebro","Västergård Arena A",1,1,"Boxholms IBK",1
-"21","Christer Avasjö","Nyköpings Sporthall",1,2,"FBC Nyköping",1
-"22","Christer Avasjö","Nyköpings Sporthall",1,2,"Linköpings Universitets AIF IBK",1
-"23","Christer Avasjö","Västergård Arena A",1,2,"Telge SIBK U-lag",1
-"24","Christer Avasjö","Västergård Arena A",1,2,"FBC Nyköping",1
-"25","Claes Waernholm","Boxholm Sporthall",1,2,"FBC Nyköping",1
-"26","Claes Waernholm","Boxholm Sporthall",1,2,"Boxholms IBK ",1
-"27","Claes Waernholm","Rydshallen",1,2,"Nykvarns IBF Ungdom",1
+"14","Bemir Brkic","Björkestahallen",2,4,"Nykvarns IBF Ungdom ",2
+"15","Bemir Brkic","Björkestahallen",2,4,"Boxholms IBK",1
+"16","Bemir Brkic","Björkestahallen",2,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"17","Bemir Brkic","Nyköpings Sporthall",2,4,"FBC Nyköping",2
+"18","Bemir Brkic","Nyköpings Sporthall",2,4,"Boxholms IBK",1
+"19","Bemir Brkic","Nyköpings Sporthall",2,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"20","Camilla Örnebro","Västergård Arena A",1,1,"Telge SIBK U-lag",1
+"21","Camilla Örnebro","Västergård Arena A",1,1,"Boxholms IBK",1
+"22","Christer Avasjö","Nyköpings Sporthall",1,2,"FBC Nyköping",1
+"23","Christer Avasjö","Nyköpings Sporthall",1,2,"Linköpings Universitets AIF IBK",1
+"24","Christer Avasjö","Västergård Arena A",1,2,"Telge SIBK U-lag",1
+"25","Christer Avasjö","Västergård Arena A",1,2,"FBC Nyköping",1
+"26","Claes Waernholm","Boxholm Sporthall",1,2,"FBC Nyköping",1
+"27","Claes Waernholm","Boxholm Sporthall",1,2,"Boxholms IBK ",1
 "28","Claes Waernholm","Rydshallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"29","Daniel Hermansson","Lagmanshallen",1,1,"Telge SIBK U-lag",1
-"30","Daniel Hermansson","Lagmanshallen",1,1,"Boxholms IBK ",1
-"31","Daniel Lindbom-Rydell","Rydshallen",1,1,"Linköpings Universitets AIF IBK",1
+"29","Claes Waernholm","Rydshallen",1,2,"Nykvarns IBF Ungdom",1
+"30","Daniel Hermansson","Lagmanshallen",1,1,"Telge SIBK U-lag",1
+"31","Daniel Hermansson","Lagmanshallen",1,1,"Boxholms IBK ",1
 "32","Daniel Lindbom-Rydell","Rydshallen",1,1,"Telge SIBK U-lag",1
-"33","Daniel Pettersson","Björkestahallen",1,3,"Nykvarns IBF Ungdom ",1
-"34","Daniel Pettersson","Björkestahallen",1,3,"Boxholms IBK",1
-"35","Daniel Pettersson","Nyköpings Sporthall",2,3,"Telge SIBK U-lag",1
-"36","Daniel Pettersson","Nyköpings Sporthall",2,3,"BK Vingen /IBF Norrköping",1
-"37","Daniel Pettersson","Nyköpings Sporthall",2,3,"FBC Nyköping",2
-"38","Denis Ogresevic","Folkungahallen",1,2,"Linköpings Universitets AIF IBK",1
-"39","Denis Ogresevic","Folkungahallen",1,2,"FBC Nyköping",1
-"40","Denis Ogresevic","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"41","Denis Ogresevic","Motala Sporthall",1,2,"Telge SIBK U-lag",1
-"42","Ellen Brunnström","Rydshallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"43","Ellen Brunnström","Rydshallen",1,1,"Telge SIBK U-lag",1
-"44","Elvis Ogresevic","Folkungahallen",1,2,"Linköpings Universitets AIF IBK",1
-"45","Elvis Ogresevic","Folkungahallen",1,2,"FBC Nyköping",1
-"46","Elvis Ogresevic","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"47","Elvis Ogresevic","Motala Sporthall",1,2,"Telge SIBK U-lag",1
-"48","Emil Glenngård","Borgsmohallen",1,3,"BK Vingen /IBF Norrköping",1
-"49","Emil Glenngård","Borgsmohallen",1,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"50","Emil Glenngård","Boxholm Sporthall",1,3,"Boxholms IBK ",1
-"51","Emil Glenngård","Boxholm Sporthall",1,3,"Linköpings Universitets AIF IBK",1
-"52","Emil Glenngård","Motala Sporthall",1,3,"Solfjäderstaden IBK/Bergs IK",1
-"53","Emil Glenngård","Motala Sporthall",1,3,"Nykvarns IBF Ungdom",1
-"54","Emil Lindhe","Nyköpings Sporthall",1,1,"Telge SIBK U-lag",1
-"55","Emil Lindhe","Nyköpings Sporthall",1,1,"FBC Nyköping",1
-"56","Emil Magnusson","Billbäcks Arena",1,1,"Boxholms IBK",1
-"57","Emil Magnusson","Billbäcks Arena",1,1,"BK Vingen /IBF Norrköping",1
-"58","Hampus Larsson","Boxholm Sporthall",2,3,"Boxholms IBK ",2
-"59","Hampus Larsson","Boxholm Sporthall",2,3,"Nykvarns IBF Ungdom",1
-"60","Hampus Larsson","Boxholm Sporthall",2,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"61","Hampus Larsson","Motala Sporthall",1,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"62","Hampus Larsson","Motala Sporthall",1,3,"Solfjäderstaden IBK/Bergs IK",1
-"63","Henric Lundeborg","Kärnahallen",1,1,"Boxholms IBK",1
-"64","Henric Lundeborg","Kärnahallen",1,1,"Linköpings Universitets AIF IBK",1
-"65","Henrik Ibjer","Nyköpings Sporthall",1,1,"FBC Nyköping",1
-"66","Henrik Ibjer","Nyköpings Sporthall",1,1,"Nykvarns IBF Ungdom",1
-"67","Håkan Karlsson","Kärnahallen",1,2,"BK Vingen /IBF Norrköping",1
-"68","Håkan Karlsson","Kärnahallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"69","Håkan Karlsson","Motala Sporthall",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"70","Håkan Karlsson","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"71","Ivan Wahlström","Björkestahallen",2,3,"Solfjäderstaden IBK/Bergs IK",1
-"72","Ivan Wahlström","Björkestahallen",2,3,"Nykvarns IBF Ungdom ",2
-"73","Ivan Wahlström","Björkestahallen",2,3,"Telge SIBK U-lag",1
-"74","Ivan Wahlström","Västergård Arena A",1,3,"Linköpings Universitets AIF IBK",1
-"75","Ivan Wahlström","Västergård Arena A",1,3,"Telge SIBK U-lag",1
-"76","Jesper Asplund","Västergård Arena A",1,1,"BK Vingen /IBF Norrköping",1
-"77","Jesper Asplund","Västergård Arena A",1,1,"Telge SIBK U-lag",1
-"78","Jesper Jonsson","Kärnahallen",1,1,"Linköpings Universitets AIF IBK",1
-"79","Jesper Jonsson","Kärnahallen",1,1,"Nykvarns IBF Ungdom",1
-"80","Jimmy Eliasson","Kärnahallen",1,2,"Nykvarns IBF Ungdom",1
-"81","Jimmy Eliasson","Kärnahallen",1,2,"Linköpings Universitets AIF IBK",1
-"82","Jimmy Eliasson","Rydshallen",1,2,"Telge SIBK U-lag",1
-"83","Jimmy Eliasson","Rydshallen",1,2,"Linköpings Universitets AIF IBK",1
-"84","Jimmy Lindell","Folkungahallen",1,2,"Linköpings Universitets AIF IBK",1
-"85","Jimmy Lindell","Folkungahallen",1,2,"BK Vingen /IBF Norrköping",1
-"86","Jimmy Lindell","Rydshallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"87","Jimmy Lindell","Rydshallen",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"88","Johan Wiggur","Kärnahallen",1,3,"Linköpings Universitets AIF IBK",1
-"89","Johan Wiggur","Kärnahallen",1,3,"Boxholms IBK",1
-"90","Johan Wiggur","Mässhallen A",1,3,"BK Vingen /IBF Norrköping",1
-"91","Johan Wiggur","Mässhallen A",1,3,"Nykvarns IBF Ungdom",1
-"92","Johan Wiggur","Rydshallen",1,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"93","Johan Wiggur","Rydshallen",1,3,"Linköpings Universitets AIF IBK",1
-"94","Jonas Holm","Västergård Arena A",2,2,"BK Vingen /IBF Norrköping",1
-"95","Jonas Holm","Västergård Arena A",2,2,"Telge SIBK U-lag",2
-"96","Jonas Holm","Västergård Arena A",2,2,"FBC Nyköping",1
-"97","Josef Celik","Björkestahallen",1,1,"Nykvarns IBF Ungdom ",1
-"98","Josef Celik","Björkestahallen",1,1,"FBC Nyköping",1
-"99","Kent Erlandsson","Nyköpings Sporthall",1,1,"FBC Nyköping",1
-"100","Kent Erlandsson","Nyköpings Sporthall",1,1,"Nykvarns IBF Ungdom",1
-"101","Magnus Jakobsson","Mässhallen A",1,1,"Nykvarns IBF Ungdom",1
-"102","Magnus Jakobsson","Mässhallen A",1,1,"BK Vingen /IBF Norrköping",1
-"103","Malin Gelin","Boxholm Sporthall",1,2,"Boxholms IBK ",1
-"104","Malin Gelin","Boxholm Sporthall",1,2,"FBC Nyköping",1
-"105","Malin Gelin","Rydshallen",1,2,"Nykvarns IBF Ungdom",1
-"106","Malin Gelin","Rydshallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"107","Markus Hilmerson","Kärnahallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"108","Markus Hilmerson","Kärnahallen",1,1,"BK Vingen /IBF Norrköping",1
-"109","Martin Dahl","Boxholm Sporthall",1,1,"Boxholms IBK ",1
-"110","Martin Dahl","Boxholm Sporthall",1,1,"Solfjäderstaden IBK/Bergs IK",1
-"111","Martin Eriksson","Borgsmohallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"112","Martin Eriksson","Borgsmohallen",1,2,"BK Vingen /IBF Norrköping",1
-"113","Martin Eriksson","Motala Sporthall",1,2,"Nykvarns IBF Ungdom",1
-"114","Martin Eriksson","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"115","Martin Palmqvist","Rydshallen",1,1,"FBC Nyköping",1
-"116","Martin Palmqvist","Rydshallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"117","Mathias Lindvall","Björkestahallen",2,3,"Telge SIBK U-lag",1
-"118","Mathias Lindvall","Björkestahallen",2,3,"Solfjäderstaden IBK/Bergs IK",1
-"119","Mathias Lindvall","Björkestahallen",2,3,"Nykvarns IBF Ungdom ",2
-"120","Mathias Lindvall","Västergård Arena A",1,3,"Telge SIBK U-lag",1
-"121","Mathias Lindvall","Västergård Arena A",1,3,"Linköpings Universitets AIF IBK",1
-"122","Mats Jernmo","Nyköpings Sporthall",1,2,"FBC Nyköping",1
-"123","Mats Jernmo","Nyköpings Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"124","Mats Jernmo","Västergård Arena A",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"125","Mats Jernmo","Västergård Arena A",1,2,"Telge SIBK U-lag",1
-"126","Mikael Celik","Björkestahallen",1,1,"FBC Nyköping",1
-"127","Mikael Celik","Björkestahallen",1,1,"Nykvarns IBF Ungdom ",1
-"128","Oscar Bard","Boxholm Sporthall",2,3,"Nykvarns IBF Ungdom",1
-"129","Oscar Bard","Boxholm Sporthall",2,3,"Boxholms IBK ",2
-"130","Oscar Bard","Boxholm Sporthall",2,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"131","Oscar Bard","Rydshallen",1,3,"Linköpings Universitets AIF IBK",1
-"132","Oscar Bard","Rydshallen",1,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"133","Oskar Åblad","Rydshallen",1,1,"FBC Nyköping",1
-"134","Oskar Åblad","Rydshallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"135","Patricio Boiardt","Billbäcks Arena",1,1,"BK Vingen /IBF Norrköping",1
-"136","Patricio Boiardt","Billbäcks Arena",1,1,"Solfjäderstaden IBK/Bergs IK",1
-"137","Peter Persson","Billbäcks Arena",1,2,"BK Vingen /IBF Norrköping",1
-"138","Peter Persson","Billbäcks Arena",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"139","Peter Persson","Boxholm Sporthall",1,2,"Boxholms IBK ",1
-"140","Peter Persson","Boxholm Sporthall",1,2,"BK Vingen /IBF Norrköping",1
-"141","Peter Ström","Friidrottshallen",1,1,"Linköpings Universitets AIF IBK",1
-"142","Peter Ström","Friidrottshallen",1,1,"Solfjäderstaden IBK/Bergs IK",1
-"143","Pierre Hultsten","Folkungahallen",1,1,"BK Vingen /IBF Norrköping",1
-"144","Pierre Hultsten","Folkungahallen",1,1,"Linköpings Universitets AIF IBK",1
-"145","Rasmus Widén","Björkestahallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"146","Rasmus Widén","Björkestahallen",1,1,"Nykvarns IBF Ungdom ",1
-"147","Robin Andersson","Motala Sporthall",2,2,"Solfjäderstaden IBK/Bergs IK",2
-"148","Robin Andersson","Motala Sporthall",2,2,"Boxholms IBK",1
-"149","Robin Andersson","Motala Sporthall",2,2,"FBC Nyköping",1
-"150","Robin Hynninen","Nyköpings Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"151","Robin Hynninen","Nyköpings Sporthall",1,2,"FBC Nyköping",1
-"152","Robin Hynninen","Västergård Arena A",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"153","Robin Hynninen","Västergård Arena A",1,2,"Telge SIBK U-lag",1
-"154","Roger Balogh","Boxholm Sporthall",1,1,"Boxholms IBK ",1
-"155","Roger Balogh","Boxholm Sporthall",1,1,"BK Vingen /IBF Norrköping",1
-"156","Rågher Godin","Boxholm Sporthall",1,4,"Boxholms IBK ",1
-"157","Rågher Godin","Boxholm Sporthall",1,4,"Solfjäderstaden IBK/Bergs IK",1
-"158","Rågher Godin","Motala Sporthall",2,4,"Solfjäderstaden IBK/Bergs IK",1
-"159","Rågher Godin","Motala Sporthall",2,4,"BK Vingen /IBF Norrköping",1
-"160","Rågher Godin","Motala Sporthall",2,4,"Solfjäderstaden IBK/Bergs IK",1
-"161","Rågher Godin","Motala Sporthall",2,4,"FBC Nyköping",1
-"162","Rågher Godin","Rydshallen",1,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"163","Rågher Godin","Rydshallen",1,4,"Telge SIBK U-lag",1
-"164","Sigge Maurer","Björkestahallen",1,2,"Linköpings Universitets AIF IBK",1
-"165","Sigge Maurer","Björkestahallen",1,2,"Nykvarns IBF Ungdom ",1
-"166","Sigge Maurer","Nyköpings Sporthall",1,2,"FBC Nyköping",1
-"167","Sigge Maurer","Nyköpings Sporthall",1,2,"BK Vingen /IBF Norrköping",1
-"168","Sonny Weideborg","Mässhallen A",1,2,"Linköpings Universitets AIF IBK",1
-"169","Sonny Weideborg","Mässhallen A",1,2,"BK Vingen /IBF Norrköping",1
-"170","Sonny Weideborg","Rydshallen",1,2,"Solfjäderstaden IBK/Bergs IK",1
-"171","Sonny Weideborg","Rydshallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
-"172","Stefan Öberg","Nyköpings Sporthall",1,1,"FBC Nyköping",1
-"173","Stefan Öberg","Nyköpings Sporthall",1,1,"Boxholms IBK",1
-"174","Thomas Nystrand","Boxholm Sporthall",1,3,"Linköpings Universitets AIF IBK",1
-"175","Thomas Nystrand","Boxholm Sporthall",1,3,"Boxholms IBK ",1
-"176","Thomas Nystrand","Friidrottshallen",1,3,"Linköpings Universitets AIF IBK",1
-"177","Thomas Nystrand","Friidrottshallen",1,3,"Solfjäderstaden IBK/Bergs IK",1
-"178","Thomas Nystrand","Motala Sporthall",1,3,"Solfjäderstaden IBK/Bergs IK",1
-"179","Thomas Nystrand","Motala Sporthall",1,3,"Boxholms IBK",1
-"180","Tom Nilsson","Mässhallen A",1,1,"Linköpings Universitets AIF IBK",1
-"181","Tom Nilsson","Mässhallen A",1,1,"BK Vingen /IBF Norrköping",1
-"182","William Wengelin","Billbäcks Arena",1,1,"Telge SIBK U-lag",1
-"183","William Wengelin","Billbäcks Arena",1,1,"BK Vingen /IBF Norrköping",1
+"33","Daniel Lindbom-Rydell","Rydshallen",1,1,"Linköpings Universitets AIF IBK",1
+"34","Daniel Pettersson","Björkestahallen",1,4,"Boxholms IBK",1
+"35","Daniel Pettersson","Björkestahallen",1,4,"Nykvarns IBF Ungdom ",1
+"36","Daniel Pettersson","Nyköpings Sporthall",2,4,"FBC Nyköping",2
+"37","Daniel Pettersson","Nyköpings Sporthall",2,4,"BK Vingen /IBF Norrköping",1
+"38","Daniel Pettersson","Nyköpings Sporthall",2,4,"Telge SIBK U-lag",1
+"39","Daniel Pettersson","Västergård Arena A",1,4,"Nykvarns IBF Ungdom",1
+"40","Daniel Pettersson","Västergård Arena A",1,4,"Telge SIBK U-lag",1
+"41","Denis Ogresevic","Folkungahallen",1,2,"FBC Nyköping",1
+"42","Denis Ogresevic","Folkungahallen",1,2,"Linköpings Universitets AIF IBK",1
+"43","Denis Ogresevic","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
+"44","Denis Ogresevic","Motala Sporthall",1,2,"Telge SIBK U-lag",1
+"45","Ellen Brunnström","Rydshallen",1,1,"Telge SIBK U-lag",1
+"46","Ellen Brunnström","Rydshallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"47","Elvis Ogresevic","Folkungahallen",1,2,"Linköpings Universitets AIF IBK",1
+"48","Elvis Ogresevic","Folkungahallen",1,2,"FBC Nyköping",1
+"49","Elvis Ogresevic","Motala Sporthall",1,2,"Telge SIBK U-lag",1
+"50","Elvis Ogresevic","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
+"51","Emil Glenngård","Borgsmohallen",1,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"52","Emil Glenngård","Borgsmohallen",1,3,"BK Vingen /IBF Norrköping",1
+"53","Emil Glenngård","Boxholm Sporthall",1,3,"Linköpings Universitets AIF IBK",1
+"54","Emil Glenngård","Boxholm Sporthall",1,3,"Boxholms IBK ",1
+"55","Emil Glenngård","Motala Sporthall",1,3,"Solfjäderstaden IBK/Bergs IK",1
+"56","Emil Glenngård","Motala Sporthall",1,3,"Nykvarns IBF Ungdom",1
+"57","Emil Lindhe","Nyköpings Sporthall",1,1,"FBC Nyköping",1
+"58","Emil Lindhe","Nyköpings Sporthall",1,1,"Telge SIBK U-lag",1
+"59","Emil Magnusson","Billbäcks Arena",1,1,"BK Vingen /IBF Norrköping",1
+"60","Emil Magnusson","Billbäcks Arena",1,1,"Boxholms IBK",1
+"61","Hampus Larsson","Boxholm Sporthall",2,4,"Nykvarns IBF Ungdom",1
+"62","Hampus Larsson","Boxholm Sporthall",2,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"63","Hampus Larsson","Boxholm Sporthall",2,4,"Boxholms IBK ",2
+"64","Hampus Larsson","Motala Sporthall",2,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"65","Hampus Larsson","Motala Sporthall",2,4,"Solfjäderstaden IBK/Bergs IK",2
+"66","Hampus Larsson","Motala Sporthall",2,4,"Linköpings Universitets AIF IBK",1
+"67","Henric Lundeborg","Kärnahallen",1,1,"Boxholms IBK",1
+"68","Henric Lundeborg","Kärnahallen",1,1,"Linköpings Universitets AIF IBK",1
+"69","Henrik Ibjer","Nyköpings Sporthall",1,1,"Nykvarns IBF Ungdom",1
+"70","Henrik Ibjer","Nyköpings Sporthall",1,1,"FBC Nyköping",1
+"71","Håkan Karlsson","Kärnahallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"72","Håkan Karlsson","Kärnahallen",1,2,"BK Vingen /IBF Norrköping",1
+"73","Håkan Karlsson","Motala Sporthall",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"74","Håkan Karlsson","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
+"75","Ivan Wahlström","Björkestahallen",2,3,"Solfjäderstaden IBK/Bergs IK",1
+"76","Ivan Wahlström","Björkestahallen",2,3,"Telge SIBK U-lag",1
+"77","Ivan Wahlström","Björkestahallen",2,3,"Nykvarns IBF Ungdom ",2
+"78","Ivan Wahlström","Västergård Arena A",1,3,"Telge SIBK U-lag",1
+"79","Ivan Wahlström","Västergård Arena A",1,3,"Linköpings Universitets AIF IBK",1
+"80","Jesper Asplund","Västergård Arena A",1,1,"Telge SIBK U-lag",1
+"81","Jesper Asplund","Västergård Arena A",1,1,"BK Vingen /IBF Norrköping",1
+"82","Jesper Jonsson","Kärnahallen",1,1,"Nykvarns IBF Ungdom",1
+"83","Jesper Jonsson","Kärnahallen",1,1,"Linköpings Universitets AIF IBK",1
+"84","Jimmy Eliasson","Kärnahallen",1,2,"Nykvarns IBF Ungdom",1
+"85","Jimmy Eliasson","Kärnahallen",1,2,"Linköpings Universitets AIF IBK",1
+"86","Jimmy Eliasson","Rydshallen",1,2,"Linköpings Universitets AIF IBK",1
+"87","Jimmy Eliasson","Rydshallen",1,2,"Telge SIBK U-lag",1
+"88","Jimmy Lindell","Folkungahallen",1,2,"Linköpings Universitets AIF IBK",1
+"89","Jimmy Lindell","Folkungahallen",1,2,"BK Vingen /IBF Norrköping",1
+"90","Jimmy Lindell","Rydshallen",1,2,"Solfjäderstaden IBK/Bergs IK",1
+"91","Jimmy Lindell","Rydshallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"92","Johan Wiggur","Kärnahallen",1,3,"Linköpings Universitets AIF IBK",1
+"93","Johan Wiggur","Kärnahallen",1,3,"Boxholms IBK",1
+"94","Johan Wiggur","Mässhallen A",1,3,"Nykvarns IBF Ungdom",1
+"95","Johan Wiggur","Mässhallen A",1,3,"BK Vingen /IBF Norrköping",1
+"96","Johan Wiggur","Rydshallen",1,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"97","Johan Wiggur","Rydshallen",1,3,"Linköpings Universitets AIF IBK",1
+"98","Jonas Holm","Västergård Arena A",2,2,"FBC Nyköping",1
+"99","Jonas Holm","Västergård Arena A",2,2,"Telge SIBK U-lag",2
+"100","Jonas Holm","Västergård Arena A",2,2,"BK Vingen /IBF Norrköping",1
+"101","Josef Celik","Björkestahallen",1,1,"Nykvarns IBF Ungdom ",1
+"102","Josef Celik","Björkestahallen",1,1,"FBC Nyköping",1
+"103","Kent Erlandsson","Nyköpings Sporthall",1,1,"Nykvarns IBF Ungdom",1
+"104","Kent Erlandsson","Nyköpings Sporthall",1,1,"FBC Nyköping",1
+"105","Magnus Jakobsson","Mässhallen A",1,1,"BK Vingen /IBF Norrköping",1
+"106","Magnus Jakobsson","Mässhallen A",1,1,"Nykvarns IBF Ungdom",1
+"107","Malin Gelin","Boxholm Sporthall",1,2,"FBC Nyköping",1
+"108","Malin Gelin","Boxholm Sporthall",1,2,"Boxholms IBK ",1
+"109","Malin Gelin","Rydshallen",1,2,"Nykvarns IBF Ungdom",1
+"110","Malin Gelin","Rydshallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"111","Markus Hilmerson","Kärnahallen",1,1,"BK Vingen /IBF Norrköping",1
+"112","Markus Hilmerson","Kärnahallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"113","Martin Dahl","Boxholm Sporthall",1,1,"Solfjäderstaden IBK/Bergs IK",1
+"114","Martin Dahl","Boxholm Sporthall",1,1,"Boxholms IBK ",1
+"115","Martin Eriksson","Borgsmohallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"116","Martin Eriksson","Borgsmohallen",1,2,"BK Vingen /IBF Norrköping",1
+"117","Martin Eriksson","Motala Sporthall",1,2,"Nykvarns IBF Ungdom",1
+"118","Martin Eriksson","Motala Sporthall",1,2,"Solfjäderstaden IBK/Bergs IK",1
+"119","Martin Palmqvist","Rydshallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"120","Martin Palmqvist","Rydshallen",1,1,"FBC Nyköping",1
+"121","Mathias Lindvall","Björkestahallen",2,3,"Solfjäderstaden IBK/Bergs IK",1
+"122","Mathias Lindvall","Björkestahallen",2,3,"Nykvarns IBF Ungdom ",2
+"123","Mathias Lindvall","Björkestahallen",2,3,"Telge SIBK U-lag",1
+"124","Mathias Lindvall","Västergård Arena A",1,3,"Linköpings Universitets AIF IBK",1
+"125","Mathias Lindvall","Västergård Arena A",1,3,"Telge SIBK U-lag",1
+"126","Mats Jernmo","Björkestahallen",1,3,"BK Vingen /IBF Norrköping",1
+"127","Mats Jernmo","Björkestahallen",1,3,"Nykvarns IBF Ungdom ",1
+"128","Mats Jernmo","Nyköpings Sporthall",1,3,"Solfjäderstaden IBK/Bergs IK",1
+"129","Mats Jernmo","Nyköpings Sporthall",1,3,"FBC Nyköping",1
+"130","Mats Jernmo","Västergård Arena A",1,3,"Telge SIBK U-lag",1
+"131","Mats Jernmo","Västergård Arena A",1,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"132","Mattias Lönnborg","Västergård Arena A",1,1,"Telge SIBK U-lag",1
+"133","Mattias Lönnborg","Västergård Arena A",1,1,"Nykvarns IBF Ungdom",1
+"134","Mikael Celik","Björkestahallen",1,1,"FBC Nyköping",1
+"135","Mikael Celik","Björkestahallen",1,1,"Nykvarns IBF Ungdom ",1
+"136","Oscar Bard","Boxholm Sporthall",2,4,"Nykvarns IBF Ungdom",1
+"137","Oscar Bard","Boxholm Sporthall",2,4,"Boxholms IBK ",2
+"138","Oscar Bard","Boxholm Sporthall",2,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"139","Oscar Bard","Motala Sporthall",1,4,"Linköpings Universitets AIF IBK",1
+"140","Oscar Bard","Motala Sporthall",1,4,"Solfjäderstaden IBK/Bergs IK",1
+"141","Oscar Bard","Rydshallen",1,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"142","Oscar Bard","Rydshallen",1,4,"Linköpings Universitets AIF IBK",1
+"143","Oskar Åblad","Rydshallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"144","Oskar Åblad","Rydshallen",1,1,"FBC Nyköping",1
+"145","Patricio Boiardt","Billbäcks Arena",1,1,"Solfjäderstaden IBK/Bergs IK",1
+"146","Patricio Boiardt","Billbäcks Arena",1,1,"BK Vingen /IBF Norrköping",1
+"147","Patrik Andersén","Västergård Arena A",1,1,"Telge SIBK U-lag",1
+"148","Patrik Andersén","Västergård Arena A",1,1,"Solfjäderstaden IBK/Bergs IK",1
+"149","Peter Persson","Billbäcks Arena",1,2,"Solfjäderstaden IBK/Bergs IK",1
+"150","Peter Persson","Billbäcks Arena",1,2,"BK Vingen /IBF Norrköping",1
+"151","Peter Persson","Boxholm Sporthall",1,2,"Boxholms IBK ",1
+"152","Peter Persson","Boxholm Sporthall",1,2,"BK Vingen /IBF Norrköping",1
+"153","Peter Ström","Friidrottshallen",1,1,"Solfjäderstaden IBK/Bergs IK",1
+"154","Peter Ström","Friidrottshallen",1,1,"Linköpings Universitets AIF IBK",1
+"155","Pierre Hultsten","Folkungahallen",1,1,"Linköpings Universitets AIF IBK",1
+"156","Pierre Hultsten","Folkungahallen",1,1,"BK Vingen /IBF Norrköping",1
+"157","Rasmus Widén","Björkestahallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"158","Rasmus Widén","Björkestahallen",1,2,"Nykvarns IBF Ungdom ",1
+"159","Rasmus Widén","Nyköpings Sporthall",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"160","Rasmus Widén","Nyköpings Sporthall",1,2,"FBC Nyköping",1
+"161","Robin Andersson","Motala Sporthall",2,2,"Boxholms IBK",1
+"162","Robin Andersson","Motala Sporthall",2,2,"Solfjäderstaden IBK/Bergs IK",2
+"163","Robin Andersson","Motala Sporthall",2,2,"FBC Nyköping",1
+"164","Robin Hynninen","Björkestahallen",1,3,"Nykvarns IBF Ungdom ",1
+"165","Robin Hynninen","Björkestahallen",1,3,"BK Vingen /IBF Norrköping",1
+"166","Robin Hynninen","Nyköpings Sporthall",1,3,"Solfjäderstaden IBK/Bergs IK",1
+"167","Robin Hynninen","Nyköpings Sporthall",1,3,"FBC Nyköping",1
+"168","Robin Hynninen","Västergård Arena A",1,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"169","Robin Hynninen","Västergård Arena A",1,3,"Telge SIBK U-lag",1
+"170","Roger Balogh","Boxholm Sporthall",1,1,"Boxholms IBK ",1
+"171","Roger Balogh","Boxholm Sporthall",1,1,"BK Vingen /IBF Norrköping",1
+"172","Rågher Godin","Boxholm Sporthall",1,4,"Solfjäderstaden IBK/Bergs IK",1
+"173","Rågher Godin","Boxholm Sporthall",1,4,"Boxholms IBK ",1
+"174","Rågher Godin","Motala Sporthall",2,4,"Solfjäderstaden IBK/Bergs IK",1
+"175","Rågher Godin","Motala Sporthall",2,4,"FBC Nyköping",1
+"176","Rågher Godin","Motala Sporthall",2,4,"Solfjäderstaden IBK/Bergs IK",1
+"177","Rågher Godin","Motala Sporthall",2,4,"BK Vingen /IBF Norrköping",1
+"178","Rågher Godin","Rydshallen",1,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"179","Rågher Godin","Rydshallen",1,4,"Telge SIBK U-lag",1
+"180","Sigge Maurer","Björkestahallen",1,3,"Linköpings Universitets AIF IBK",1
+"181","Sigge Maurer","Björkestahallen",1,3,"Nykvarns IBF Ungdom ",1
+"182","Sigge Maurer","Nyköpings Sporthall",1,3,"BK Vingen /IBF Norrköping",1
+"183","Sigge Maurer","Nyköpings Sporthall",1,3,"FBC Nyköping",1
+"184","Sigge Maurer","Västergård Arena A",1,3,"Telge SIBK U-lag",1
+"185","Sigge Maurer","Västergård Arena A",1,3,"Solfjäderstaden IBK/Bergs IK",1
+"186","Sonny Weideborg","Folkungahallen",1,4,"Linköpings Universitets AIF IBK",1
+"187","Sonny Weideborg","Folkungahallen",1,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"188","Sonny Weideborg","Mässhallen A",2,4,"FBC Nyköping",1
+"189","Sonny Weideborg","Mässhallen A",2,4,"Linköpings Universitets AIF IBK",1
+"190","Sonny Weideborg","Mässhallen A",2,4,"BK Vingen /IBF Norrköping",2
+"191","Sonny Weideborg","Rydshallen",1,4,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"192","Sonny Weideborg","Rydshallen",1,4,"Solfjäderstaden IBK/Bergs IK",1
+"193","Stefan Öberg","Nyköpings Sporthall",1,1,"FBC Nyköping",1
+"194","Stefan Öberg","Nyköpings Sporthall",1,1,"Boxholms IBK",1
+"195","Thomas Nystrand","Boxholm Sporthall",1,3,"Linköpings Universitets AIF IBK",1
+"196","Thomas Nystrand","Boxholm Sporthall",1,3,"Boxholms IBK ",1
+"197","Thomas Nystrand","Friidrottshallen",1,3,"Solfjäderstaden IBK/Bergs IK",1
+"198","Thomas Nystrand","Friidrottshallen",1,3,"Linköpings Universitets AIF IBK",1
+"199","Thomas Nystrand","Motala Sporthall",1,3,"Solfjäderstaden IBK/Bergs IK",1
+"200","Thomas Nystrand","Motala Sporthall",1,3,"Boxholms IBK",1
+"201","Tim Andersson","Rydshallen",1,1,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"202","Tim Andersson","Rydshallen",1,1,"Boxholms IBK",1
+"203","Tom Nilsson","Folkungahallen",1,3,"Linköpings Universitets AIF IBK",1
+"204","Tom Nilsson","Folkungahallen",1,3,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"205","Tom Nilsson","Mässhallen A",2,3,"Linköpings Universitets AIF IBK",1
+"206","Tom Nilsson","Mässhallen A",2,3,"FBC Nyköping",1
+"207","Tom Nilsson","Mässhallen A",2,3,"BK Vingen /IBF Norrköping",2
+"208","William Wengelin","Billbäcks Arena",1,2,"BK Vingen /IBF Norrköping",1
+"209","William Wengelin","Billbäcks Arena",1,2,"Telge SIBK U-lag",1
+"210","William Wengelin","Rydshallen",1,2,"IBK Åtvidaberg/IBF Linköping U-lag",1
+"211","William Wengelin","Rydshallen",1,2,"Boxholms IBK",1

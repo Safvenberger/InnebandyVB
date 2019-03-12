@@ -1,173 +1,206 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Carl Larsson, Harri Tjäder","Almåshallen - Borås",1,1,"Mullsjö AIS",1
-"2","Carl Larsson, Harri Tjäder","Almåshallen - Borås",1,1,"Sandareds IBS",1
-"3","Carl Larsson, Pavle Velcov","Stadsskogshallen, Alingsås",1,1,"IBK Alingsås ",1
-"4","Carl Larsson, Pavle Velcov","Stadsskogshallen, Alingsås",1,1,"IBK Lidköping",1
+"1","Carl Larsson, Harri Tjäder","Almåshallen - Borås",1,1,"Sandareds IBS",1
+"2","Carl Larsson, Harri Tjäder","Almåshallen - Borås",1,1,"Mullsjö AIS",1
+"3","Carl Larsson, Pavle Velcov","Stadsskogshallen, Alingsås",1,1,"IBK Lidköping",1
+"4","Carl Larsson, Pavle Velcov","Stadsskogshallen, Alingsås",1,1,"IBK Alingsås ",1
 "5","Christoffer Danielsson, Johan Thaning","Habo Sporthall A-hall",1,1,"Fagerhult Habo IBK ",1
 "6","Christoffer Danielsson, Johan Thaning","Habo Sporthall A-hall",1,1,"Sandareds IBS",1
-"7","Christoffer Danielsson, Kronoslav Kis","Idrottshallen, Töreboda",1,3,"Fagerhult Habo IBK",1
-"8","Christoffer Danielsson, Kronoslav Kis","Idrottshallen, Töreboda",1,3,"BK Halna",1
+"7","Christoffer Danielsson, Kronoslav Kis","Idrottshallen, Töreboda",1,3,"BK Halna",1
+"8","Christoffer Danielsson, Kronoslav Kis","Idrottshallen, Töreboda",1,3,"Fagerhult Habo IBK",1
 "9","Christoffer Danielsson, Kronoslav Kis","LF-hallen, Mariestad",1,3,"Mullsjö AIS",1
 "10","Christoffer Danielsson, Kronoslav Kis","LF-hallen, Mariestad",1,3,"IBK Lockerud Mariestad U",1
-"11","Christoffer Danielsson, Kronoslav Kis","Nyhemshallen - Mullsjö",1,3,"Mullsjö AIS",1
-"12","Christoffer Danielsson, Kronoslav Kis","Nyhemshallen - Mullsjö",1,3,"Fagerhult Habo IBK",1
+"11","Christoffer Danielsson, Kronoslav Kis","Nyhemshallen - Mullsjö",1,3,"Fagerhult Habo IBK",1
+"12","Christoffer Danielsson, Kronoslav Kis","Nyhemshallen - Mullsjö",1,3,"Mullsjö AIS",1
 "13","Christoffer Danielsson, Linus Svensson","Idrottens hus i Lidköping",1,1,"Fristads GoIF",1
 "14","Christoffer Danielsson, Linus Svensson","Idrottens hus i Lidköping",1,1,"IBK Lidköping",1
-"15","Christoffer Danielsson, Mikael Magnusson","Arena C, Skövde 35",1,2,"Fristads GoIF",1
-"16","Christoffer Danielsson, Mikael Magnusson","Arena C, Skövde 35",1,2,"Skövde IBF",1
+"15","Christoffer Danielsson, Mikael Magnusson","Arena C, Skövde 35",1,2,"Skövde IBF",1
+"16","Christoffer Danielsson, Mikael Magnusson","Arena C, Skövde 35",1,2,"Fristads GoIF",1
 "17","Christoffer Danielsson, Mikael Magnusson","Nyhemshallen - Mullsjö",1,2,"Mullsjö AIS",1
 "18","Christoffer Danielsson, Mikael Magnusson","Nyhemshallen - Mullsjö",1,2,"IBK Alingsås",1
-"19","Dan Pettersson, Nebojsa Stefanovski","Stadsskogshallen, Alingsås",1,1,"BK Halna",1
-"20","Dan Pettersson, Nebojsa Stefanovski","Stadsskogshallen, Alingsås",1,1,"IBK Alingsås ",1
+"19","Dan Pettersson, Nebojsa Stefanovski","Stadsskogshallen, Alingsås",1,1,"IBK Alingsås ",1
+"20","Dan Pettersson, Nebojsa Stefanovski","Stadsskogshallen, Alingsås",1,1,"BK Halna",1
 "21","Daniel Dimitrovski, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"Fristads GoIF",1
 "22","Daniel Dimitrovski, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"Tvåstad KIK",1
-"23","Daniel Dimitrovski, Nebojsa Stefanovski","Arena C, Skövde",1,7,"Skövde IBF",1
-"24","Daniel Dimitrovski, Nebojsa Stefanovski","Arena C, Skövde",1,7,"Sandareds IBS",1
-"25","Daniel Dimitrovski, Nebojsa Stefanovski","Fristadhallen, Fristad",1,7,"Fristads GoIF",1
-"26","Daniel Dimitrovski, Nebojsa Stefanovski","Fristadhallen, Fristad",1,7,"Fagerhult Habo IBK",1
-"27","Daniel Dimitrovski, Nebojsa Stefanovski","Habo Sporthall A-hall",2,7,"Mullsjö AIS",1
-"28","Daniel Dimitrovski, Nebojsa Stefanovski","Habo Sporthall A-hall",2,7,"IBK Tygriket 99",1
-"29","Daniel Dimitrovski, Nebojsa Stefanovski","Habo Sporthall A-hall",2,7,"Fagerhult Habo IBK ",2
-"30","Daniel Dimitrovski, Nebojsa Stefanovski","Kungabergshallen, Fritsla",1,7,"IBK Lidköping",1
-"31","Daniel Dimitrovski, Nebojsa Stefanovski","Kungabergshallen, Fritsla",1,7,"IBK Tygriket 99",1
-"32","Daniel Dimitrovski, Nebojsa Stefanovski","Nyhemshallen - Mullsjö",1,7,"Sandareds IBS",1
-"33","Daniel Dimitrovski, Nebojsa Stefanovski","Nyhemshallen - Mullsjö",1,7,"Mullsjö AIS",1
-"34","Daniel Dimitrovski, Nebojsa Stefanovski","Öxabäckshallen",1,7,"IBK Tygriket 99",1
-"35","Daniel Dimitrovski, Nebojsa Stefanovski","Öxabäckshallen",1,7,"Skövde IBF",1
-"36","David Karlsson, Dan Pettersson","Habo Sporthall A-hall",1,3,"Fagerhult Habo IBK ",1
-"37","David Karlsson, Dan Pettersson","Habo Sporthall A-hall",1,3,"IBK Lidköping",1
-"38","David Karlsson, Dan Pettersson","Idrottshuset, Vänersborg",1,3,"Tvåstad KIK",1
-"39","David Karlsson, Dan Pettersson","Idrottshuset, Vänersborg",1,3,"Skövde IBF",1
-"40","David Karlsson, Dan Pettersson","Stadsskogshallen, Alingsås",1,3,"IBK Alingsås ",1
-"41","David Karlsson, Dan Pettersson","Stadsskogshallen, Alingsås",1,3,"Tvåstad KIK",1
-"42","David Karlsson, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"IBK Tygriket 99",1
-"43","David Karlsson, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"Tvåstad KIK",1
-"44","David Persson, Harri Tjäder","Almåshallen - Borås",1,4,"Sandareds IBS",1
-"45","David Persson, Harri Tjäder","Almåshallen - Borås",1,4,"IBK Lockerud Mariestad U",1
-"46","David Persson, Harri Tjäder","Arena C, Skövde",1,4,"Skövde IBF",1
-"47","David Persson, Harri Tjäder","Arena C, Skövde",1,4,"IBK Alingsås",1
-"48","David Persson, Harri Tjäder","Fristadhallen, Fristad",1,4,"IBK Tygriket 99",1
-"49","David Persson, Harri Tjäder","Fristadhallen, Fristad",1,4,"Fristads GoIF",1
-"50","David Persson, Harri Tjäder","Habo Sporthall A-hall",1,4,"Fagerhult Habo IBK ",1
-"51","David Persson, Harri Tjäder","Habo Sporthall A-hall",1,4,"Fristads GoIF",1
-"52","Erling Josefsson, Joakim Mattsson","Almåshallen - Borås",1,3,"IBK Alingsås",1
-"53","Erling Josefsson, Joakim Mattsson","Almåshallen - Borås",1,3,"Sandareds IBS",1
-"54","Erling Josefsson, Joakim Mattsson","Arena C, Skövde",1,3,"Skövde IBF",1
-"55","Erling Josefsson, Joakim Mattsson","Arena C, Skövde",1,3,"IBK Tygriket 99",1
-"56","Erling Josefsson, Joakim Mattsson","Öxabäckshallen",1,3,"IBK Tygriket 99",1
-"57","Erling Josefsson, Joakim Mattsson","Öxabäckshallen",1,3,"Sandareds IBS",1
-"58","Erling Josefsson, Pedram Koublani","Fristadhallen, Fristad",1,1,"Fristads GoIF",1
-"59","Erling Josefsson, Pedram Koublani","Fristadhallen, Fristad",1,1,"IBK Lockerud Mariestad U",1
-"60","Esko Leppimaa, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"Tvåstad KIK",1
-"61","Esko Leppimaa, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"IBK Lidköping",1
-"62","Henrik Carlsson, Bjarne Wesenlund","Almåshallen - Borås",1,2,"Fristads GoIF",1
-"63","Henrik Carlsson, Bjarne Wesenlund","Almåshallen - Borås",1,2,"Sandareds IBS",1
-"64","Henrik Carlsson, Bjarne Wesenlund","Idrottshuset, Vänersborg",1,2,"Tvåstad KIK",1
-"65","Henrik Carlsson, Bjarne Wesenlund","Idrottshuset, Vänersborg",1,2,"Fagerhult Habo IBK",1
-"66","Henrik Carlsson, Dan Pettersson","Fristadhallen, Fristad",1,2,"IBK Alingsås",1
-"67","Henrik Carlsson, Dan Pettersson","Fristadhallen, Fristad",1,2,"Fristads GoIF",1
-"68","Henrik Carlsson, Dan Pettersson","Stadsskogshallen, Alingsås",1,2,"IBK Alingsås ",1
-"69","Henrik Carlsson, Dan Pettersson","Stadsskogshallen, Alingsås",1,2,"Mullsjö AIS",1
-"70","Henrik Carlsson, Magnus Jansson","Idrottshuset, Vänersborg",1,1,"Tvåstad KIK",1
-"71","Henrik Carlsson, Magnus Jansson","Idrottshuset, Vänersborg",1,1,"IBK Lockerud Mariestad U",1
-"72","Iza Hederdahl, Johan Thaning","Idrottens hus i Lidköping",1,2,"Mullsjö AIS",1
-"73","Iza Hederdahl, Johan Thaning","Idrottens hus i Lidköping",1,2,"IBK Lidköping",1
-"74","Iza Hederdahl, Johan Thaning","Nyhemshallen - Mullsjö",1,2,"Mullsjö AIS",1
-"75","Iza Hederdahl, Johan Thaning","Nyhemshallen - Mullsjö",1,2,"BK Halna",1
-"76","Kenth Lindqvist, Dan Pettersson","Idrottshuset, Vänersborg",1,1,"Mullsjö AIS",1
-"77","Kenth Lindqvist, Dan Pettersson","Idrottshuset, Vänersborg",1,1,"Tvåstad KIK",1
-"78","Kenth Lindqvist, Sven Persson","Stadsskogshallen, Alingsås",1,1,"IBK Tygriket 99",1
-"79","Kenth Lindqvist, Sven Persson","Stadsskogshallen, Alingsås",1,1,"IBK Alingsås ",1
-"80","Kronoslav Kis, Esko Leppimaa","Entréhallen, Trollhättan",1,1,"Tvåstad KIK",1
-"81","Kronoslav Kis, Esko Leppimaa","Entréhallen, Trollhättan",1,1,"BK Halna",1
-"82","Kronoslav Kis, Johan Thaning","ICA-kvantum hallen, Mariestad",1,1,"IBK Lockerud Mariestad U",1
-"83","Kronoslav Kis, Johan Thaning","ICA-kvantum hallen, Mariestad",1,1,"BK Halna",1
-"84","Kronoslav Kis, Mikael Magnusson","Almåshallen - Borås",1,8,"Tvåstad KIK",1
-"85","Kronoslav Kis, Mikael Magnusson","Almåshallen - Borås",1,8,"Sandareds IBS",1
-"86","Kronoslav Kis, Mikael Magnusson","Arena C, Skövde",1,8,"Skövde IBF",1
-"87","Kronoslav Kis, Mikael Magnusson","Arena C, Skövde",1,8,"Fagerhult Habo IBK",1
-"88","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",4,8,"IBK Lidköping",1
-"89","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",4,8,"IBK Alingsås",1
-"90","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",4,8,"IBK Lockerud Mariestad U",1
-"91","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",4,8,"BK Halna",4
-"92","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",4,8,"Fristads GoIF",1
-"93","Kronoslav Kis, Mikael Magnusson","UW-Elasthallen, Mariestad",2,8,"IBK Lidköping",1
-"94","Kronoslav Kis, Mikael Magnusson","UW-Elasthallen, Mariestad",2,8,"Tvåstad KIK",1
-"95","Kronoslav Kis, Mikael Magnusson","UW-Elasthallen, Mariestad",2,8,"IBK Lockerud Mariestad U",2
-"96","Kronoslav Kis, Pedram Koublani","Arena C, Skövde",1,1,"Skövde IBF",1
-"97","Kronoslav Kis, Pedram Koublani","Arena C, Skövde",1,1,"Tvåstad KIK",1
-"98","Linus Svensson, Eino Vuoluterä","Idrottshallen, Töreboda",1,1,"BK Halna",1
-"99","Linus Svensson, Eino Vuoluterä","Idrottshallen, Töreboda",1,1,"Mullsjö AIS",1
-"100","Magnus Jansson, Henrik Sjöberg","Idrottens hus i Lidköping",1,1,"IBK Lockerud Mariestad U",1
-"101","Magnus Jansson, Henrik Sjöberg","Idrottens hus i Lidköping",1,1,"IBK Lidköping",1
-"102","Magnus Jansson, Pedram Koublani","Arena C, Skövde",1,8,"IBK Lockerud Mariestad U",1
-"103","Magnus Jansson, Pedram Koublani","Arena C, Skövde",1,8,"Skövde IBF",1
-"104","Magnus Jansson, Pedram Koublani","Habo Sporthall A-hall",1,8,"Fagerhult Habo IBK ",1
-"105","Magnus Jansson, Pedram Koublani","Habo Sporthall A-hall",1,8,"Tvåstad KIK",1
-"106","Magnus Jansson, Pedram Koublani","Idrottens hus i Lidköping",2,8,"IBK Alingsås",1
-"107","Magnus Jansson, Pedram Koublani","Idrottens hus i Lidköping",2,8,"IBK Lidköping",2
-"108","Magnus Jansson, Pedram Koublani","Idrottens hus i Lidköping",2,8,"Tvåstad KIK",1
-"109","Magnus Jansson, Pedram Koublani","Kungabergshallen, Fritsla",1,8,"IBK Tygriket 99",1
-"110","Magnus Jansson, Pedram Koublani","Kungabergshallen, Fritsla",1,8,"Tvåstad KIK",1
-"111","Magnus Jansson, Pedram Koublani","Nyhemshallen - Mullsjö",1,8,"IBK Lidköping",1
-"112","Magnus Jansson, Pedram Koublani","Nyhemshallen - Mullsjö",1,8,"Mullsjö AIS",1
-"113","Magnus Jansson, Pedram Koublani","Stadsskogshallen, Alingsås",1,8,"Sandareds IBS",1
-"114","Magnus Jansson, Pedram Koublani","Stadsskogshallen, Alingsås",1,8,"IBK Alingsås ",1
-"115","Magnus Jansson, Pedram Koublani","UW-Elasthallen, Mariestad",1,8,"Sandareds IBS",1
-"116","Magnus Jansson, Pedram Koublani","UW-Elasthallen, Mariestad",1,8,"IBK Lockerud Mariestad U",1
-"117","Mattias Furbo, Esko Leppimaa","Entréhallen, Trollhättan",1,1,"Tvåstad KIK",1
-"118","Mattias Furbo, Esko Leppimaa","Entréhallen, Trollhättan",1,1,"Sandareds IBS",1
-"119","Mattias Furbo, Pedram Koublani","Idrottens hus i Lidköping",1,1,"IBK Lidköping",1
-"120","Mattias Furbo, Pedram Koublani","Idrottens hus i Lidköping",1,1,"IBK Tygriket 99",1
-"121","Mattias Furbo, Sven Persson","Idrottens hus i Lidköping",2,3,"Skövde IBF",1
-"122","Mattias Furbo, Sven Persson","Idrottens hus i Lidköping",2,3,"IBK Lidköping",2
-"123","Mattias Furbo, Sven Persson","Idrottens hus i Lidköping",2,3,"Sandareds IBS",1
-"124","Mattias Furbo, Sven Persson","UW-Elasthallen, Mariestad",1,3,"Skövde IBF",1
-"125","Mattias Furbo, Sven Persson","UW-Elasthallen, Mariestad",1,3,"IBK Lockerud Mariestad U",1
-"126","Ola Forsberg, Bjarne Wesenlund","Almåshallen - Borås",2,2,"IBK Lidköping",1
-"127","Ola Forsberg, Bjarne Wesenlund","Almåshallen - Borås",2,2,"BK Halna",1
-"128","Ola Forsberg, Bjarne Wesenlund","Almåshallen - Borås",2,2,"Sandareds IBS",2
-"129","Ola Forsberg, Carl Larsson","Fristadhallen, Fristad",1,4,"Fristads GoIF",1
-"130","Ola Forsberg, Carl Larsson","Fristadhallen, Fristad",1,4,"BK Halna",1
-"131","Ola Forsberg, Carl Larsson","Habo Sporthall A-hall",1,4,"Fagerhult Habo IBK ",1
-"132","Ola Forsberg, Carl Larsson","Habo Sporthall A-hall",1,4,"IBK Alingsås",1
-"133","Ola Forsberg, Carl Larsson","Nyhemshallen - Mullsjö",1,4,"IBK Lockerud Mariestad U",1
-"134","Ola Forsberg, Carl Larsson","Nyhemshallen - Mullsjö",1,4,"Mullsjö AIS",1
-"135","Ola Forsberg, Carl Larsson","Öxabäckshallen",1,4,"BK Halna",1
-"136","Ola Forsberg, Carl Larsson","Öxabäckshallen",1,4,"IBK Tygriket 99",1
-"137","Ola Forsberg, David Karlsson","Fristadhallen, Fristad",1,1,"IBK Lidköping",1
-"138","Ola Forsberg, David Karlsson","Fristadhallen, Fristad",1,1,"Fristads GoIF",1
-"139","Ola Forsberg, Harri Tjäder","Nyhemshallen - Mullsjö",1,1,"Mullsjö AIS",1
-"140","Ola Forsberg, Harri Tjäder","Nyhemshallen - Mullsjö",1,1,"IBK Tygriket 99",1
-"141","Ola Forsberg, Pedram Koublani","Fristadhallen, Fristad",1,1,"Sandareds IBS",1
-"142","Ola Forsberg, Pedram Koublani","Fristadhallen, Fristad",1,1,"Fristads GoIF",1
-"143","Pedram Koublani, Dan Pettersson","Arena C, Skövde",1,2,"BK Halna",1
-"144","Pedram Koublani, Dan Pettersson","Arena C, Skövde",1,2,"Skövde IBF",1
-"145","Pedram Koublani, Dan Pettersson","Stadsskogshallen, Alingsås",1,2,"Fagerhult Habo IBK",1
-"146","Pedram Koublani, Dan Pettersson","Stadsskogshallen, Alingsås",1,2,"IBK Alingsås ",1
-"147","Per Johansson, Eino Vuoluterä","Arena C, Skövde",1,6,"Mullsjö AIS",1
-"148","Per Johansson, Eino Vuoluterä","Arena C, Skövde",1,6,"Skövde IBF",1
-"149","Per Johansson, Eino Vuoluterä","ICA-kvantum hallen, Mariestad",1,6,"IBK Lockerud Mariestad U",1
-"150","Per Johansson, Eino Vuoluterä","ICA-kvantum hallen, Mariestad",1,6,"Fristads GoIF",1
-"151","Per Johansson, Eino Vuoluterä","Idrottshallen, Töreboda",1,6,"BK Halna",1
-"152","Per Johansson, Eino Vuoluterä","Idrottshallen, Töreboda",1,6,"IBK Tygriket 99",1
-"153","Per Johansson, Eino Vuoluterä","UW-Elasthallen, Mariestad",3,6,"Fagerhult Habo IBK",1
-"154","Per Johansson, Eino Vuoluterä","UW-Elasthallen, Mariestad",3,6,"IBK Tygriket 99",1
-"155","Per Johansson, Eino Vuoluterä","UW-Elasthallen, Mariestad",3,6,"IBK Lockerud Mariestad U",3
-"156","Per Johansson, Eino Vuoluterä","UW-Elasthallen, Mariestad",3,6,"IBK Alingsås",1
-"157","Per Johansson, Kronoslav Kis","Idrottshallen, Töreboda",1,1,"BK Halna",1
-"158","Per Johansson, Kronoslav Kis","Idrottshallen, Töreboda",1,1,"Tvåstad KIK",1
-"159","Richard Claesson, Carl Larsson","Habo Sporthall A-hall",1,1,"Fagerhult Habo IBK ",1
-"160","Richard Claesson, Carl Larsson","Habo Sporthall A-hall",1,1,"Skövde IBF",1
-"161","Richard Claesson, Erling Josefsson","Kungabergshallen, Fritsla",1,2,"IBK Tygriket 99",1
-"162","Richard Claesson, Erling Josefsson","Kungabergshallen, Fritsla",1,2,"Fristads GoIF",1
-"163","Richard Claesson, Erling Josefsson","Öxabäckshallen",1,2,"IBK Tygriket 99",1
-"164","Richard Claesson, Erling Josefsson","Öxabäckshallen",1,2,"Mullsjö AIS",1
-"165","Richard Claesson, Harri Tjäder","Almåshallen - Borås",1,1,"Skövde IBF",1
-"166","Richard Claesson, Harri Tjäder","Almåshallen - Borås",1,1,"Sandareds IBS",1
-"167","Richard Claesson, Joakim Mattsson","Öxabäckshallen",1,1,"Fagerhult Habo IBK",1
-"168","Richard Claesson, Joakim Mattsson","Öxabäckshallen",1,1,"IBK Tygriket 99",1
-"169","Richard Claesson, Pedram Koublani","Stadsskogshallen, Alingsås",1,1,"Skövde IBF",1
-"170","Richard Claesson, Pedram Koublani","Stadsskogshallen, Alingsås",1,1,"IBK Alingsås ",1
-"171","Thomas Atting, Anders Everstrand","Nyhemshallen - Mullsjö",1,1,"Fristads GoIF",1
-"172","Thomas Atting, Anders Everstrand","Nyhemshallen - Mullsjö",1,1,"Mullsjö AIS",1
+"23","Daniel Dimitrovski, Nebojsa Stefanovski","Arena C, Skövde",1,10,"Sandareds IBS",1
+"24","Daniel Dimitrovski, Nebojsa Stefanovski","Arena C, Skövde",1,10,"Skövde IBF",1
+"25","Daniel Dimitrovski, Nebojsa Stefanovski","Fristadhallen, Fristad",1,10,"Fagerhult Habo IBK",1
+"26","Daniel Dimitrovski, Nebojsa Stefanovski","Fristadhallen, Fristad",1,10,"Fristads GoIF",1
+"27","Daniel Dimitrovski, Nebojsa Stefanovski","Habo Sporthall A-hall",3,10,"BK Halna",1
+"28","Daniel Dimitrovski, Nebojsa Stefanovski","Habo Sporthall A-hall",3,10,"Mullsjö AIS",1
+"29","Daniel Dimitrovski, Nebojsa Stefanovski","Habo Sporthall A-hall",3,10,"Fagerhult Habo IBK ",3
+"30","Daniel Dimitrovski, Nebojsa Stefanovski","Habo Sporthall A-hall",3,10,"IBK Tygriket 99",1
+"31","Daniel Dimitrovski, Nebojsa Stefanovski","Kungabergshallen, Fritsla",1,10,"IBK Lidköping",1
+"32","Daniel Dimitrovski, Nebojsa Stefanovski","Kungabergshallen, Fritsla",1,10,"IBK Tygriket 99",1
+"33","Daniel Dimitrovski, Nebojsa Stefanovski","Nyhemshallen - Mullsjö",1,10,"Mullsjö AIS",1
+"34","Daniel Dimitrovski, Nebojsa Stefanovski","Nyhemshallen - Mullsjö",1,10,"Sandareds IBS",1
+"35","Daniel Dimitrovski, Nebojsa Stefanovski","Stadsskogshallen, Alingsås",1,10,"IBK Alingsås ",1
+"36","Daniel Dimitrovski, Nebojsa Stefanovski","Stadsskogshallen, Alingsås",1,10,"Fristads GoIF",1
+"37","Daniel Dimitrovski, Nebojsa Stefanovski","Öxabäckshallen",2,10,"IBK Tygriket 99",2
+"38","Daniel Dimitrovski, Nebojsa Stefanovski","Öxabäckshallen",2,10,"Skövde IBF",1
+"39","Daniel Dimitrovski, Nebojsa Stefanovski","Öxabäckshallen",2,10,"IBK Lockerud Mariestad U",1
+"40","David Karlsson, Dan Pettersson","Habo Sporthall A-hall",1,4,"IBK Lidköping",1
+"41","David Karlsson, Dan Pettersson","Habo Sporthall A-hall",1,4,"Fagerhult Habo IBK ",1
+"42","David Karlsson, Dan Pettersson","Idrottens hus i Lidköping",1,4,"IBK Lidköping",1
+"43","David Karlsson, Dan Pettersson","Idrottens hus i Lidköping",1,4,"BK Halna",1
+"44","David Karlsson, Dan Pettersson","Idrottshuset, Vänersborg",1,4,"Tvåstad KIK",1
+"45","David Karlsson, Dan Pettersson","Idrottshuset, Vänersborg",1,4,"Skövde IBF",1
+"46","David Karlsson, Dan Pettersson","Stadsskogshallen, Alingsås",1,4,"Tvåstad KIK",1
+"47","David Karlsson, Dan Pettersson","Stadsskogshallen, Alingsås",1,4,"IBK Alingsås ",1
+"48","David Karlsson, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"IBK Tygriket 99",1
+"49","David Karlsson, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"Tvåstad KIK",1
+"50","David Persson, Harri Tjäder","Almåshallen - Borås",1,5,"Sandareds IBS",1
+"51","David Persson, Harri Tjäder","Almåshallen - Borås",1,5,"IBK Lockerud Mariestad U",1
+"52","David Persson, Harri Tjäder","Arena C, Skövde",1,5,"Skövde IBF",1
+"53","David Persson, Harri Tjäder","Arena C, Skövde",1,5,"IBK Alingsås",1
+"54","David Persson, Harri Tjäder","Fristadhallen, Fristad",1,5,"IBK Tygriket 99",1
+"55","David Persson, Harri Tjäder","Fristadhallen, Fristad",1,5,"Fristads GoIF",1
+"56","David Persson, Harri Tjäder","Habo Sporthall A-hall",1,5,"Fagerhult Habo IBK ",1
+"57","David Persson, Harri Tjäder","Habo Sporthall A-hall",1,5,"Fristads GoIF",1
+"58","David Persson, Harri Tjäder","Öxabäckshallen",1,5,"IBK Tygriket 99",1
+"59","David Persson, Harri Tjäder","Öxabäckshallen",1,5,"IBK Alingsås",1
+"60","Erling Josefsson, Joakim Mattsson","Almåshallen - Borås",1,5,"IBK Alingsås",1
+"61","Erling Josefsson, Joakim Mattsson","Almåshallen - Borås",1,5,"Sandareds IBS",1
+"62","Erling Josefsson, Joakim Mattsson","Arena C, Skövde",1,5,"IBK Tygriket 99",1
+"63","Erling Josefsson, Joakim Mattsson","Arena C, Skövde",1,5,"Skövde IBF",1
+"64","Erling Josefsson, Joakim Mattsson","Fristadhallen, Fristad",2,5,"Mullsjö AIS",1
+"65","Erling Josefsson, Joakim Mattsson","Fristadhallen, Fristad",2,5,"Fristads GoIF",2
+"66","Erling Josefsson, Joakim Mattsson","Fristadhallen, Fristad",2,5,"Skövde IBF",1
+"67","Erling Josefsson, Joakim Mattsson","Öxabäckshallen",1,5,"IBK Tygriket 99",1
+"68","Erling Josefsson, Joakim Mattsson","Öxabäckshallen",1,5,"Sandareds IBS",1
+"69","Erling Josefsson, Pedram Koublani","Fristadhallen, Fristad",1,1,"Fristads GoIF",1
+"70","Erling Josefsson, Pedram Koublani","Fristadhallen, Fristad",1,1,"IBK Lockerud Mariestad U",1
+"71","Esko Leppimaa, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"IBK Lidköping",1
+"72","Esko Leppimaa, Kenth Lindqvist","Idrottshuset, Vänersborg",1,1,"Tvåstad KIK",1
+"73","Henrik Carlsson, Bjarne Wesenlund","Almåshallen - Borås",1,3,"Fristads GoIF",1
+"74","Henrik Carlsson, Bjarne Wesenlund","Almåshallen - Borås",1,3,"Sandareds IBS",1
+"75","Henrik Carlsson, Bjarne Wesenlund","Idrottshuset, Vänersborg",1,3,"Fagerhult Habo IBK",1
+"76","Henrik Carlsson, Bjarne Wesenlund","Idrottshuset, Vänersborg",1,3,"Tvåstad KIK",1
+"77","Henrik Carlsson, Bjarne Wesenlund","Stadsskogshallen, Alingsås",1,3,"IBK Lockerud Mariestad U",1
+"78","Henrik Carlsson, Bjarne Wesenlund","Stadsskogshallen, Alingsås",1,3,"IBK Alingsås ",1
+"79","Henrik Carlsson, Dan Pettersson","Fristadhallen, Fristad",1,2,"IBK Alingsås",1
+"80","Henrik Carlsson, Dan Pettersson","Fristadhallen, Fristad",1,2,"Fristads GoIF",1
+"81","Henrik Carlsson, Dan Pettersson","Stadsskogshallen, Alingsås",1,2,"Mullsjö AIS",1
+"82","Henrik Carlsson, Dan Pettersson","Stadsskogshallen, Alingsås",1,2,"IBK Alingsås ",1
+"83","Henrik Carlsson, Magnus Jansson","Idrottshuset, Vänersborg",1,1,"IBK Lockerud Mariestad U",1
+"84","Henrik Carlsson, Magnus Jansson","Idrottshuset, Vänersborg",1,1,"Tvåstad KIK",1
+"85","Iza Hederdahl, Johan Thaning","Idrottens hus i Lidköping",1,2,"Mullsjö AIS",1
+"86","Iza Hederdahl, Johan Thaning","Idrottens hus i Lidköping",1,2,"IBK Lidköping",1
+"87","Iza Hederdahl, Johan Thaning","Nyhemshallen - Mullsjö",1,2,"Mullsjö AIS",1
+"88","Iza Hederdahl, Johan Thaning","Nyhemshallen - Mullsjö",1,2,"BK Halna",1
+"89","Joakim Mattsson, Dan Pettersson","Almåshallen - Borås",1,1,"IBK Tygriket 99",1
+"90","Joakim Mattsson, Dan Pettersson","Almåshallen - Borås",1,1,"Sandareds IBS",1
+"91","Kenth Lindqvist, Dan Pettersson","Idrottshuset, Vänersborg",1,1,"Tvåstad KIK",1
+"92","Kenth Lindqvist, Dan Pettersson","Idrottshuset, Vänersborg",1,1,"Mullsjö AIS",1
+"93","Kenth Lindqvist, Sven Persson","Stadsskogshallen, Alingsås",1,1,"IBK Tygriket 99",1
+"94","Kenth Lindqvist, Sven Persson","Stadsskogshallen, Alingsås",1,1,"IBK Alingsås ",1
+"95","Kronoslav Kis, Esko Leppimaa","Entréhallen, Trollhättan",1,1,"Tvåstad KIK",1
+"96","Kronoslav Kis, Esko Leppimaa","Entréhallen, Trollhättan",1,1,"BK Halna",1
+"97","Kronoslav Kis, Johan Thaning","ICA-kvantum hallen, Mariestad",1,1,"BK Halna",1
+"98","Kronoslav Kis, Johan Thaning","ICA-kvantum hallen, Mariestad",1,1,"IBK Lockerud Mariestad U",1
+"99","Kronoslav Kis, Mikael Magnusson","Almåshallen - Borås",1,11,"Sandareds IBS",1
+"100","Kronoslav Kis, Mikael Magnusson","Almåshallen - Borås",1,11,"Tvåstad KIK",1
+"101","Kronoslav Kis, Mikael Magnusson","Arena A, Skövde",1,11,"IBK Lidköping",1
+"102","Kronoslav Kis, Mikael Magnusson","Arena A, Skövde",1,11,"Skövde IBF",1
+"103","Kronoslav Kis, Mikael Magnusson","Arena C, Skövde",1,11,"Skövde IBF",1
+"104","Kronoslav Kis, Mikael Magnusson","Arena C, Skövde",1,11,"Fagerhult Habo IBK",1
+"105","Kronoslav Kis, Mikael Magnusson","Habo Sporthall A-hall",1,11,"Fagerhult Habo IBK ",1
+"106","Kronoslav Kis, Mikael Magnusson","Habo Sporthall A-hall",1,11,"IBK Lockerud Mariestad U",1
+"107","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",5,11,"IBK Lockerud Mariestad U",1
+"108","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",5,11,"IBK Alingsås",1
+"109","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",5,11,"Fristads GoIF",1
+"110","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",5,11,"IBK Lidköping",1
+"111","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",5,11,"BK Halna",5
+"112","Kronoslav Kis, Mikael Magnusson","Idrottshallen, Töreboda",5,11,"Sandareds IBS",1
+"113","Kronoslav Kis, Mikael Magnusson","UW-Elasthallen, Mariestad",2,11,"IBK Lidköping",1
+"114","Kronoslav Kis, Mikael Magnusson","UW-Elasthallen, Mariestad",2,11,"IBK Lockerud Mariestad U",2
+"115","Kronoslav Kis, Mikael Magnusson","UW-Elasthallen, Mariestad",2,11,"Tvåstad KIK",1
+"116","Kronoslav Kis, Pedram Koublani","Arena C, Skövde",1,1,"Tvåstad KIK",1
+"117","Kronoslav Kis, Pedram Koublani","Arena C, Skövde",1,1,"Skövde IBF",1
+"118","Linus Svensson, Eino Vuoluterä","Idrottshallen, Töreboda",1,1,"Mullsjö AIS",1
+"119","Linus Svensson, Eino Vuoluterä","Idrottshallen, Töreboda",1,1,"BK Halna",1
+"120","Magnus Jansson, Henrik Sjöberg","Idrottens hus i Lidköping",1,1,"IBK Lidköping",1
+"121","Magnus Jansson, Henrik Sjöberg","Idrottens hus i Lidköping",1,1,"IBK Lockerud Mariestad U",1
+"122","Magnus Jansson, Pedram Koublani","Arena C, Skövde",1,8,"Skövde IBF",1
+"123","Magnus Jansson, Pedram Koublani","Arena C, Skövde",1,8,"IBK Lockerud Mariestad U",1
+"124","Magnus Jansson, Pedram Koublani","Habo Sporthall A-hall",1,8,"Tvåstad KIK",1
+"125","Magnus Jansson, Pedram Koublani","Habo Sporthall A-hall",1,8,"Fagerhult Habo IBK ",1
+"126","Magnus Jansson, Pedram Koublani","Idrottens hus i Lidköping",2,8,"IBK Lidköping",2
+"127","Magnus Jansson, Pedram Koublani","Idrottens hus i Lidköping",2,8,"Tvåstad KIK",1
+"128","Magnus Jansson, Pedram Koublani","Idrottens hus i Lidköping",2,8,"IBK Alingsås",1
+"129","Magnus Jansson, Pedram Koublani","Kungabergshallen, Fritsla",1,8,"Tvåstad KIK",1
+"130","Magnus Jansson, Pedram Koublani","Kungabergshallen, Fritsla",1,8,"IBK Tygriket 99",1
+"131","Magnus Jansson, Pedram Koublani","Nyhemshallen - Mullsjö",1,8,"IBK Lidköping",1
+"132","Magnus Jansson, Pedram Koublani","Nyhemshallen - Mullsjö",1,8,"Mullsjö AIS",1
+"133","Magnus Jansson, Pedram Koublani","Stadsskogshallen, Alingsås",1,8,"IBK Alingsås ",1
+"134","Magnus Jansson, Pedram Koublani","Stadsskogshallen, Alingsås",1,8,"Sandareds IBS",1
+"135","Magnus Jansson, Pedram Koublani","UW-Elasthallen, Mariestad",1,8,"IBK Lockerud Mariestad U",1
+"136","Magnus Jansson, Pedram Koublani","UW-Elasthallen, Mariestad",1,8,"Sandareds IBS",1
+"137","Mattias Furbo, Esko Leppimaa","Entréhallen, Trollhättan",1,1,"Tvåstad KIK",1
+"138","Mattias Furbo, Esko Leppimaa","Entréhallen, Trollhättan",1,1,"Sandareds IBS",1
+"139","Mattias Furbo, Kenth Lindqvist","Idrottens hus i Lidköping",1,1,"IBK Lidköping",1
+"140","Mattias Furbo, Kenth Lindqvist","Idrottens hus i Lidköping",1,1,"Fagerhult Habo IBK",1
+"141","Mattias Furbo, Mikael Magnusson","Idrottshallen, Töreboda",1,1,"BK Halna",1
+"142","Mattias Furbo, Mikael Magnusson","Idrottshallen, Töreboda",1,1,"Skövde IBF",1
+"143","Mattias Furbo, Pedram Koublani","Idrottens hus i Lidköping",1,1,"IBK Lidköping",1
+"144","Mattias Furbo, Pedram Koublani","Idrottens hus i Lidköping",1,1,"IBK Tygriket 99",1
+"145","Mattias Furbo, Sven Persson","Idrottens hus i Lidköping",2,4,"Skövde IBF",1
+"146","Mattias Furbo, Sven Persson","Idrottens hus i Lidköping",2,4,"IBK Lidköping",2
+"147","Mattias Furbo, Sven Persson","Idrottens hus i Lidköping",2,4,"Sandareds IBS",1
+"148","Mattias Furbo, Sven Persson","Idrottshuset, Vänersborg",1,4,"IBK Alingsås",1
+"149","Mattias Furbo, Sven Persson","Idrottshuset, Vänersborg",1,4,"Tvåstad KIK",1
+"150","Mattias Furbo, Sven Persson","UW-Elasthallen, Mariestad",1,4,"Skövde IBF",1
+"151","Mattias Furbo, Sven Persson","UW-Elasthallen, Mariestad",1,4,"IBK Lockerud Mariestad U",1
+"152","Ola Forsberg, Bjarne Wesenlund","Almåshallen - Borås",2,2,"Sandareds IBS",2
+"153","Ola Forsberg, Bjarne Wesenlund","Almåshallen - Borås",2,2,"BK Halna",1
+"154","Ola Forsberg, Bjarne Wesenlund","Almåshallen - Borås",2,2,"IBK Lidköping",1
+"155","Ola Forsberg, Carl Larsson","Fristadhallen, Fristad",1,4,"Fristads GoIF",1
+"156","Ola Forsberg, Carl Larsson","Fristadhallen, Fristad",1,4,"BK Halna",1
+"157","Ola Forsberg, Carl Larsson","Habo Sporthall A-hall",1,4,"IBK Alingsås",1
+"158","Ola Forsberg, Carl Larsson","Habo Sporthall A-hall",1,4,"Fagerhult Habo IBK ",1
+"159","Ola Forsberg, Carl Larsson","Nyhemshallen - Mullsjö",1,4,"IBK Lockerud Mariestad U",1
+"160","Ola Forsberg, Carl Larsson","Nyhemshallen - Mullsjö",1,4,"Mullsjö AIS",1
+"161","Ola Forsberg, Carl Larsson","Öxabäckshallen",1,4,"IBK Tygriket 99",1
+"162","Ola Forsberg, Carl Larsson","Öxabäckshallen",1,4,"BK Halna",1
+"163","Ola Forsberg, David Karlsson","Fristadhallen, Fristad",1,1,"IBK Lidköping",1
+"164","Ola Forsberg, David Karlsson","Fristadhallen, Fristad",1,1,"Fristads GoIF",1
+"165","Ola Forsberg, Harri Tjäder","Nyhemshallen - Mullsjö",1,1,"IBK Tygriket 99",1
+"166","Ola Forsberg, Harri Tjäder","Nyhemshallen - Mullsjö",1,1,"Mullsjö AIS",1
+"167","Ola Forsberg, Pedram Koublani","Fristadhallen, Fristad",1,1,"Fristads GoIF",1
+"168","Ola Forsberg, Pedram Koublani","Fristadhallen, Fristad",1,1,"Sandareds IBS",1
+"169","Pedram Koublani, Dan Pettersson","Arena C, Skövde",1,2,"BK Halna",1
+"170","Pedram Koublani, Dan Pettersson","Arena C, Skövde",1,2,"Skövde IBF",1
+"171","Pedram Koublani, Dan Pettersson","Stadsskogshallen, Alingsås",1,2,"Fagerhult Habo IBK",1
+"172","Pedram Koublani, Dan Pettersson","Stadsskogshallen, Alingsås",1,2,"IBK Alingsås ",1
+"173","Per Johansson, Eino Vuoluterä","Arena C, Skövde",1,8,"Mullsjö AIS",1
+"174","Per Johansson, Eino Vuoluterä","Arena C, Skövde",1,8,"Skövde IBF",1
+"175","Per Johansson, Eino Vuoluterä","ICA-kvantum hallen, Mariestad",1,8,"IBK Lockerud Mariestad U",1
+"176","Per Johansson, Eino Vuoluterä","ICA-kvantum hallen, Mariestad",1,8,"Fristads GoIF",1
+"177","Per Johansson, Eino Vuoluterä","Idrottshallen, Töreboda",1,8,"BK Halna",1
+"178","Per Johansson, Eino Vuoluterä","Idrottshallen, Töreboda",1,8,"IBK Tygriket 99",1
+"179","Per Johansson, Eino Vuoluterä","Nyhemshallen - Mullsjö",2,8,"Skövde IBF",1
+"180","Per Johansson, Eino Vuoluterä","Nyhemshallen - Mullsjö",2,8,"Tvåstad KIK",1
+"181","Per Johansson, Eino Vuoluterä","Nyhemshallen - Mullsjö",2,8,"Mullsjö AIS",2
+"182","Per Johansson, Eino Vuoluterä","UW-Elasthallen, Mariestad",3,8,"IBK Lockerud Mariestad U",3
+"183","Per Johansson, Eino Vuoluterä","UW-Elasthallen, Mariestad",3,8,"Fagerhult Habo IBK",1
+"184","Per Johansson, Eino Vuoluterä","UW-Elasthallen, Mariestad",3,8,"IBK Tygriket 99",1
+"185","Per Johansson, Eino Vuoluterä","UW-Elasthallen, Mariestad",3,8,"IBK Alingsås",1
+"186","Per Johansson, Kronoslav Kis","Idrottshallen, Töreboda",1,1,"BK Halna",1
+"187","Per Johansson, Kronoslav Kis","Idrottshallen, Töreboda",1,1,"Tvåstad KIK",1
+"188","Richard Claesson, Carl Larsson","Habo Sporthall A-hall",1,1,"Skövde IBF",1
+"189","Richard Claesson, Carl Larsson","Habo Sporthall A-hall",1,1,"Fagerhult Habo IBK ",1
+"190","Richard Claesson, Dan Pettersson","Almåshallen - Borås",1,1,"Sandareds IBS",1
+"191","Richard Claesson, Dan Pettersson","Almåshallen - Borås",1,1,"Fagerhult Habo IBK",1
+"192","Richard Claesson, Erling Josefsson","Kungabergshallen, Fritsla",1,2,"Fristads GoIF",1
+"193","Richard Claesson, Erling Josefsson","Kungabergshallen, Fritsla",1,2,"IBK Tygriket 99",1
+"194","Richard Claesson, Erling Josefsson","Öxabäckshallen",1,2,"Mullsjö AIS",1
+"195","Richard Claesson, Erling Josefsson","Öxabäckshallen",1,2,"IBK Tygriket 99",1
+"196","Richard Claesson, Harri Tjäder","Almåshallen - Borås",1,1,"Sandareds IBS",1
+"197","Richard Claesson, Harri Tjäder","Almåshallen - Borås",1,1,"Skövde IBF",1
+"198","Richard Claesson, Joakim Mattsson","Öxabäckshallen",1,1,"Fagerhult Habo IBK",1
+"199","Richard Claesson, Joakim Mattsson","Öxabäckshallen",1,1,"IBK Tygriket 99",1
+"200","Richard Claesson, Pedram Koublani","Fristadhallen, Fristad",1,2,"Tvåstad KIK",1
+"201","Richard Claesson, Pedram Koublani","Fristadhallen, Fristad",1,2,"Fristads GoIF",1
+"202","Richard Claesson, Pedram Koublani","Stadsskogshallen, Alingsås",1,2,"Skövde IBF",1
+"203","Richard Claesson, Pedram Koublani","Stadsskogshallen, Alingsås",1,2,"IBK Alingsås ",1
+"204","Thomas Atting, Anders Everstrand","Nyhemshallen - Mullsjö",1,1,"Mullsjö AIS",1
+"205","Thomas Atting, Anders Everstrand","Nyhemshallen - Mullsjö",1,1,"Fristads GoIF",1
