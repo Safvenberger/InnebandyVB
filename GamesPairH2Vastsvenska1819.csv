@@ -1,216 +1,236 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Adam Kruse, Torbjörn Zahner","Torpahallen",1,1,"Partille IBS H2",1
-"2","Adam Kruse, Torbjörn Zahner","Torpahallen",1,1,"IBK Göteborg H2",1
-"3","Adnan Tongur, Roger Zahnér","Almåshallen B",1,1,"Landvetter IBK H2",1
-"4","Adnan Tongur, Roger Zahnér","Almåshallen B",1,1,"Lindome IBK H2",1
-"5","Aldin Hadziselmovic, Adnan Tongur","Almåshallen B",1,1,"Hovås IBK",1
-"6","Aldin Hadziselmovic, Adnan Tongur","Almåshallen B",1,1,"Lindome IBK H2",1
-"7","Aldin Hadziselmovic, Alexander Pavlovic","Almåshallen A",1,7,"Lindome IBK H2",1
-"8","Aldin Hadziselmovic, Alexander Pavlovic","Almåshallen A",1,7,"Frölunda IBK H2",1
-"9","Aldin Hadziselmovic, Alexander Pavlovic","Lundbystrand 1",1,7,"IBK Göteborg H2",1
-"10","Aldin Hadziselmovic, Alexander Pavlovic","Lundbystrand 1",1,7,"IBF Backadalen",1
-"11","Aldin Hadziselmovic, Alexander Pavlovic","Mimershus A-hallen",3,7,"Partille IBS H2",1
-"12","Aldin Hadziselmovic, Alexander Pavlovic","Mimershus A-hallen",3,7,"IBK Kungälv H2",2
+"1","Adam Kruse, Adnan Tongur","Mimershus A-hallen",1,1,"Romelanda UF H2",1
+"2","Adam Kruse, Adnan Tongur","Mimershus A-hallen",1,1,"Landvetter IBK H2",1
+"3","Adam Kruse, Torbjörn Zahner","Torpahallen",1,1,"IBK Göteborg H2",1
+"4","Adam Kruse, Torbjörn Zahner","Torpahallen",1,1,"Partille IBS H2",1
+"5","Adnan Tongur, Roger Zahnér","Almåshallen B",1,1,"Lindome IBK H2",1
+"6","Adnan Tongur, Roger Zahnér","Almåshallen B",1,1,"Landvetter IBK H2",1
+"7","Aldin Hadziselmovic, Adnan Tongur","Almåshallen B",1,1,"Lindome IBK H2",1
+"8","Aldin Hadziselmovic, Adnan Tongur","Almåshallen B",1,1,"Hovås IBK",1
+"9","Aldin Hadziselmovic, Alexander Pavlovic","Almåshallen A",1,7,"Frölunda IBK H2",1
+"10","Aldin Hadziselmovic, Alexander Pavlovic","Almåshallen A",1,7,"Lindome IBK H2",1
+"11","Aldin Hadziselmovic, Alexander Pavlovic","Lundbystrand 1",1,7,"IBK Göteborg H2",1
+"12","Aldin Hadziselmovic, Alexander Pavlovic","Lundbystrand 1",1,7,"IBF Backadalen",1
 "13","Aldin Hadziselmovic, Alexander Pavlovic","Mimershus A-hallen",3,7,"Frölunda IBK H2",1
 "14","Aldin Hadziselmovic, Alexander Pavlovic","Mimershus A-hallen",3,7,"IBF Backadalen",1
-"15","Aldin Hadziselmovic, Alexander Pavlovic","Mimershus A-hallen",3,7,"Romelanda UF H2",1
-"16","Aldin Hadziselmovic, Alexander Pavlovic","Svingelns Sporthall",2,7,"Lindome IBK H2",1
-"17","Aldin Hadziselmovic, Alexander Pavlovic","Svingelns Sporthall",2,7,"Burås IK H2",2
-"18","Aldin Hadziselmovic, Alexander Pavlovic","Svingelns Sporthall",2,7,"IBK Göteborg H2",1
-"19","Aldin Hadziselmovic, Besim Mehmedagic","Pinntorps Idrottshall",1,1,"Landvetter IBK H2",1
-"20","Aldin Hadziselmovic, Besim Mehmedagic","Pinntorps Idrottshall",1,1,"Lindome IBK H2",1
-"21","Alexander Pavlovic, Walter Wästhage","Svingelns Sporthall",1,1,"IBF Backadalen",1
-"22","Alexander Pavlovic, Walter Wästhage","Svingelns Sporthall",1,1,"Burås IK H2",1
-"23","Apilou Dragin, Catrin Kleist","Almåshallen A",1,14,"Lindome IBK H2",1
-"24","Apilou Dragin, Catrin Kleist","Almåshallen A",1,14,"IBF Backadalen",1
-"25","Apilou Dragin, Catrin Kleist","Björlanda Idrottshall",2,14,"Torslanda IBF H2",2
-"26","Apilou Dragin, Catrin Kleist","Björlanda Idrottshall",2,14,"IBK Kungälv H2",1
-"27","Apilou Dragin, Catrin Kleist","Björlanda Idrottshall",2,14,"Frölunda IBK H2",1
-"28","Apilou Dragin, Catrin Kleist","Frölunda Kulturhus",1,14,"Frölunda IBK H2",1
-"29","Apilou Dragin, Catrin Kleist","Frölunda Kulturhus",1,14,"Hovås IBK",1
-"30","Apilou Dragin, Catrin Kleist","Lundbystrand 1",2,14,"IBF Backadalen",2
-"31","Apilou Dragin, Catrin Kleist","Lundbystrand 1",2,14,"Landvetter IBK H2",1
-"32","Apilou Dragin, Catrin Kleist","Lundbystrand 1",2,14,"Hovås IBK",1
-"33","Apilou Dragin, Catrin Kleist","Lundbystrand 3",1,14,"Hovås IBK",1
-"34","Apilou Dragin, Catrin Kleist","Lundbystrand 3",1,14,"Romelanda UF H2",1
-"35","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,14,"Romelanda UF H2",1
-"36","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,14,"IBK Göteborg H2",1
-"37","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,14,"Hovås IBK",1
-"38","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,14,"IBK Kungälv H2",2
-"39","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,14,"Burås IK H2",1
-"40","Apilou Dragin, Catrin Kleist","Svingelns Sporthall",1,14,"Torslanda IBF H2",1
-"41","Apilou Dragin, Catrin Kleist","Svingelns Sporthall",1,14,"Burås IK H2",1
-"42","Apilou Dragin, Catrin Kleist","Torpahallen",1,14,"IBK Göteborg H2",1
-"43","Apilou Dragin, Catrin Kleist","Torpahallen",1,14,"Romelanda UF H2",1
-"44","Apilou Dragin, Catrin Kleist","Valhalla A-hall",2,14,"Landvetter IBK H2",1
-"45","Apilou Dragin, Catrin Kleist","Valhalla A-hall",2,14,"Frölunda IBK H2",1
-"46","Apilou Dragin, Catrin Kleist","Valhalla A-hall",2,14,"Guldhedens IK H2",2
-"47","Besim Mehmedagic, Adnan Tongur","Mimershus A-hallen",1,3,"IBK Kungälv H2",1
-"48","Besim Mehmedagic, Adnan Tongur","Mimershus A-hallen",1,3,"Torslanda IBF H2",1
-"49","Besim Mehmedagic, Adnan Tongur","Pinntorps Idrottshall",1,3,"IBF Backadalen",1
-"50","Besim Mehmedagic, Adnan Tongur","Pinntorps Idrottshall",1,3,"Landvetter IBK H2",1
-"51","Besim Mehmedagic, Adnan Tongur","Valhalla A-hall",1,3,"IBK Kungälv H2",1
-"52","Besim Mehmedagic, Adnan Tongur","Valhalla A-hall",1,3,"Guldhedens IK H2",1
-"53","Besim Mehmedagic, Alexander Pavlovic","Lundenhallen",1,1,"Frölunda IBK H2",1
-"54","Besim Mehmedagic, Alexander Pavlovic","Lundenhallen",1,1,"Hovås IBK",1
-"55","Christian Jensen, Adam Kruse","Lundbystrand 1",1,1,"IBF Backadalen",1
-"56","Christian Jensen, Adam Kruse","Lundbystrand 1",1,1,"Lindome IBK H2",1
-"57","Gustav Glansén, Adnan Tongur","Almåshallen A",1,2,"Guldhedens IK H2",1
-"58","Gustav Glansén, Adnan Tongur","Almåshallen A",1,2,"Lindome IBK H2",1
-"59","Gustav Glansén, Adnan Tongur","Lundbystrand 1",1,2,"Guldhedens IK H2",1
-"60","Gustav Glansén, Adnan Tongur","Lundbystrand 1",1,2,"IBF Backadalen",1
-"61","Gustav Glansén, Christian Jensen","Lundbystrand 1",1,3,"IBF Backadalen",1
-"62","Gustav Glansén, Christian Jensen","Lundbystrand 1",1,3,"Romelanda UF H2",1
-"63","Gustav Glansén, Christian Jensen","Mimershus A-hallen",1,3,"IBK Kungälv H2",1
-"64","Gustav Glansén, Christian Jensen","Mimershus A-hallen",1,3,"Lindome IBK H2",1
-"65","Gustav Glansén, Christian Jensen","Pinntorps Idrottshall",1,3,"IBK Göteborg H2",1
-"66","Gustav Glansén, Christian Jensen","Pinntorps Idrottshall",1,3,"Landvetter IBK H2",1
-"67","Hajrudin Begic, Adam Kruse","Lundenhallen",1,1,"IBK Göteborg H2",1
-"68","Hajrudin Begic, Adam Kruse","Lundenhallen",1,1,"Torslanda IBF H2",1
-"69","Hajrudin Begic, Adnan Tongur","Björlanda Idrottshall",1,2,"Lindome IBK H2",1
-"70","Hajrudin Begic, Adnan Tongur","Björlanda Idrottshall",1,2,"Torslanda IBF H2",1
-"71","Hajrudin Begic, Adnan Tongur","Pinntorps Idrottshall",1,2,"Burås IK H2",1
-"72","Hajrudin Begic, Adnan Tongur","Pinntorps Idrottshall",1,2,"Landvetter IBK H2",1
-"73","Hajrudin Begic, Alexander Pavlovic","Mimershus A-hallen",2,2,"IBK Kungälv H2",1
-"74","Hajrudin Begic, Alexander Pavlovic","Mimershus A-hallen",2,2,"Romelanda UF H2",1
-"75","Hajrudin Begic, Alexander Pavlovic","Mimershus A-hallen",2,2,"Guldhedens IK H2",1
-"76","Hajrudin Begic, Alexander Pavlovic","Mimershus A-hallen",2,2,"Torslanda IBF H2",1
-"77","Hajrudin Begic, Besim Mehmedagic","Almåshallen A",1,13,"Torslanda IBF H2",1
-"78","Hajrudin Begic, Besim Mehmedagic","Almåshallen A",1,13,"Lindome IBK H2",1
-"79","Hajrudin Begic, Besim Mehmedagic","Björlanda Idrottshall",1,13,"Landvetter IBK H2",1
-"80","Hajrudin Begic, Besim Mehmedagic","Björlanda Idrottshall",1,13,"Torslanda IBF H2",1
-"81","Hajrudin Begic, Besim Mehmedagic","Lisebergshallen",2,13,"Hovås IBK",2
-"82","Hajrudin Begic, Besim Mehmedagic","Lisebergshallen",2,13,"Guldhedens IK H2",1
-"83","Hajrudin Begic, Besim Mehmedagic","Lisebergshallen",2,13,"Torslanda IBF H2",1
-"84","Hajrudin Begic, Besim Mehmedagic","Lundenhallen",2,13,"Hovås IBK",2
-"85","Hajrudin Begic, Besim Mehmedagic","Lundenhallen",2,13,"Partille IBS H2",1
-"86","Hajrudin Begic, Besim Mehmedagic","Lundenhallen",2,13,"IBK Kungälv H2",1
-"87","Hajrudin Begic, Besim Mehmedagic","Pinntorps Idrottshall",1,13,"Frölunda IBK H2",1
-"88","Hajrudin Begic, Besim Mehmedagic","Pinntorps Idrottshall",1,13,"Landvetter IBK H2",1
-"89","Hajrudin Begic, Besim Mehmedagic","Qvisthallen",2,13,"IBK Göteborg H2",1
-"90","Hajrudin Begic, Besim Mehmedagic","Qvisthallen",2,13,"Torslanda IBF H2",1
-"91","Hajrudin Begic, Besim Mehmedagic","Qvisthallen",2,13,"Partille IBS H2",2
-"92","Hajrudin Begic, Besim Mehmedagic","Svingelns Sporthall",1,13,"Burås IK H2",1
-"93","Hajrudin Begic, Besim Mehmedagic","Svingelns Sporthall",1,13,"Hovås IBK",1
-"94","Hajrudin Begic, Besim Mehmedagic","Valhalla A-hall",3,13,"Torslanda IBF H2",1
-"95","Hajrudin Begic, Besim Mehmedagic","Valhalla A-hall",3,13,"Hovås IBK",1
-"96","Hajrudin Begic, Besim Mehmedagic","Valhalla A-hall",3,13,"Guldhedens IK H2",3
-"97","Hajrudin Begic, Besim Mehmedagic","Valhalla A-hall",3,13,"Burås IK H2",1
-"98","Hajrudin Begic, Christian Jensen","Pinntorps Idrottshall",1,1,"Romelanda UF H2",1
-"99","Hajrudin Begic, Christian Jensen","Pinntorps Idrottshall",1,1,"Landvetter IBK H2",1
-"100","Hajrudin Begic, Pontus Ekengränd","Mimershus A-hallen",1,1,"Landvetter IBK H2",1
-"101","Hajrudin Begic, Pontus Ekengränd","Mimershus A-hallen",1,1,"IBK Kungälv H2",1
-"102","Jesper Axelsson, Hajrudin Begic","Svingelns Sporthall",1,1,"Partille IBS H2",1
-"103","Jesper Axelsson, Hajrudin Begic","Svingelns Sporthall",1,1,"Burås IK H2",1
-"104","Jesper Axelsson, Jesper Dammert","Lundenhallen",1,1,"IBK Göteborg H2",1
-"105","Jesper Axelsson, Jesper Dammert","Lundenhallen",1,1,"Burås IK H2",1
-"106","Jesper Dammert, Besim Mehmedagic","Almåshallen A",1,2,"Partille IBS H2",1
-"107","Jesper Dammert, Besim Mehmedagic","Almåshallen A",1,2,"Lindome IBK H2",1
-"108","Jesper Dammert, Besim Mehmedagic","Björlanda Idrottshall",1,2,"Partille IBS H2",1
-"109","Jesper Dammert, Besim Mehmedagic","Björlanda Idrottshall",1,2,"Torslanda IBF H2",1
-"110","Jesper Dammert, Carl Flyning","Björlanda Idrottshall",2,4,"Romelanda UF H2",1
-"111","Jesper Dammert, Carl Flyning","Björlanda Idrottshall",2,4,"Torslanda IBF H2",2
-"112","Jesper Dammert, Carl Flyning","Björlanda Idrottshall",2,4,"Guldhedens IK H2",1
-"113","Jesper Dammert, Carl Flyning","Lundbystrand 1",1,4,"Partille IBS H2",1
-"114","Jesper Dammert, Carl Flyning","Lundbystrand 1",1,4,"IBF Backadalen",1
-"115","Jesper Dammert, Carl Flyning","Valhalla A-hall",1,4,"Partille IBS H2",1
-"116","Jesper Dammert, Carl Flyning","Valhalla A-hall",1,4,"Guldhedens IK H2",1
-"117","Jesper Dammert, Christian Jensen","Mimershus A-hallen",1,1,"Romelanda UF H2",1
-"118","Jesper Dammert, Christian Jensen","Mimershus A-hallen",1,1,"Hovås IBK",1
-"119","Jesper Dammert, Gustav Glansén","Mimershus A-hallen",1,1,"Romelanda UF H2",1
-"120","Jesper Dammert, Gustav Glansén","Mimershus A-hallen",1,1,"IBF Backadalen",1
-"121","Jesper Dammert, Pelle Hellberg","Pinntorps Idrottshall",1,1,"Guldhedens IK H2",1
-"122","Jesper Dammert, Pelle Hellberg","Pinntorps Idrottshall",1,1,"Landvetter IBK H2",1
-"123","Jesper Dammert, Pierre Eberhard Berg","Björlanda Idrottshall",1,1,"Hovås IBK",1
-"124","Jesper Dammert, Pierre Eberhard Berg","Björlanda Idrottshall",1,1,"Torslanda IBF H2",1
-"125","Joakim Amri Nilsson, Adnan Tongur","Almåshallen A",2,19,"Romelanda UF H2",1
-"126","Joakim Amri Nilsson, Adnan Tongur","Almåshallen A",2,19,"Lindome IBK H2",2
-"127","Joakim Amri Nilsson, Adnan Tongur","Almåshallen A",2,19,"Burås IK H2",1
-"128","Joakim Amri Nilsson, Adnan Tongur","Almåshallen B",1,19,"Lindome IBK H2",1
-"129","Joakim Amri Nilsson, Adnan Tongur","Almåshallen B",1,19,"IBK Göteborg H2",1
-"130","Joakim Amri Nilsson, Adnan Tongur","Frölunda Kulturhus",3,19,"IBF Backadalen",1
-"131","Joakim Amri Nilsson, Adnan Tongur","Frölunda Kulturhus",3,19,"Frölunda IBK H2",3
-"132","Joakim Amri Nilsson, Adnan Tongur","Frölunda Kulturhus",3,19,"Torslanda IBF H2",1
-"133","Joakim Amri Nilsson, Adnan Tongur","Frölunda Kulturhus",3,19,"Burås IK H2",1
-"134","Joakim Amri Nilsson, Adnan Tongur","Lisebergshallen",1,19,"IBF Backadalen",1
-"135","Joakim Amri Nilsson, Adnan Tongur","Lisebergshallen",1,19,"Hovås IBK",1
-"136","Joakim Amri Nilsson, Adnan Tongur","Lundbystrand 1",1,19,"IBK Kungälv H2",1
-"137","Joakim Amri Nilsson, Adnan Tongur","Lundbystrand 1",1,19,"IBF Backadalen",1
-"138","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,19,"Lindome IBK H2",1
-"139","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,19,"IBK Göteborg H2",2
-"140","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,19,"Frölunda IBK H2",1
-"141","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,19,"Hovås IBK",1
-"142","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,19,"Landvetter IBK H2",1
-"143","Joakim Amri Nilsson, Adnan Tongur","Mimershus A-hallen",3,19,"Frölunda IBK H2",1
-"144","Joakim Amri Nilsson, Adnan Tongur","Mimershus A-hallen",3,19,"Romelanda UF H2",2
-"145","Joakim Amri Nilsson, Adnan Tongur","Mimershus A-hallen",3,19,"Partille IBS H2",1
-"146","Joakim Amri Nilsson, Adnan Tongur","Mimershus A-hallen",3,19,"IBK Kungälv H2",2
-"147","Joakim Amri Nilsson, Adnan Tongur","Munkegärdehallen",1,19,"Romelanda UF H2",1
-"148","Joakim Amri Nilsson, Adnan Tongur","Munkegärdehallen",1,19,"Burås IK H2",1
-"149","Joakim Amri Nilsson, Adnan Tongur","Pinntorps Idrottshall",2,19,"Hovås IBK",1
-"150","Joakim Amri Nilsson, Adnan Tongur","Pinntorps Idrottshall",2,19,"Partille IBS H2",1
-"151","Joakim Amri Nilsson, Adnan Tongur","Pinntorps Idrottshall",2,19,"Landvetter IBK H2",2
-"152","Joakim Amri Nilsson, Adnan Tongur","Valhalla A-hall",1,19,"IBF Backadalen",1
-"153","Joakim Amri Nilsson, Adnan Tongur","Valhalla A-hall",1,19,"Guldhedens IK H2",1
-"154","Joakim Amri Nilsson, Adnan Tongur","Vallhamra Sportcenter",1,19,"Landvetter IBK H2",1
-"155","Joakim Amri Nilsson, Adnan Tongur","Vallhamra Sportcenter",1,19,"Partille IBS H2",1
-"156","Joakim Amri Nilsson, Hajrudin Begic","Mimershus A-hallen",2,3,"IBK Kungälv H2",1
-"157","Joakim Amri Nilsson, Hajrudin Begic","Mimershus A-hallen",2,3,"IBK Göteborg H2",1
-"158","Joakim Amri Nilsson, Hajrudin Begic","Mimershus A-hallen",2,3,"Romelanda UF H2",1
-"159","Joakim Amri Nilsson, Hajrudin Begic","Mimershus A-hallen",2,3,"Lindome IBK H2",1
-"160","Joakim Amri Nilsson, Hajrudin Begic","Svingelns Sporthall 2",1,3,"Burås IK H2",1
-"161","Joakim Amri Nilsson, Hajrudin Begic","Svingelns Sporthall 2",1,3,"Hovås IBK",1
-"162","Joakim Amri Nilsson, Joakim Jögi","Pinntorps Idrottshall",1,1,"IBK Kungälv H2",1
-"163","Joakim Amri Nilsson, Joakim Jögi","Pinntorps Idrottshall",1,1,"Landvetter IBK H2",1
-"164","Pelle Hellberg, Catrin Kleist","Frölunda Kulturhus",1,3,"Guldhedens IK H2",1
-"165","Pelle Hellberg, Catrin Kleist","Frölunda Kulturhus",1,3,"Frölunda IBK H2",1
-"166","Pelle Hellberg, Catrin Kleist","Lundbystrand 1",1,3,"IBF Backadalen",1
-"167","Pelle Hellberg, Catrin Kleist","Lundbystrand 1",1,3,"Torslanda IBF H2",1
-"168","Pelle Hellberg, Catrin Kleist","Lundenhallen",1,3,"IBK Göteborg H2",1
-"169","Pelle Hellberg, Catrin Kleist","Lundenhallen",1,3,"Landvetter IBK H2",1
-"170","Pelle Hellberg, Joakim Jögi","Björlanda Idrottshall",1,4,"Burås IK H2",1
-"171","Pelle Hellberg, Joakim Jögi","Björlanda Idrottshall",1,4,"Torslanda IBF H2",1
-"172","Pelle Hellberg, Joakim Jögi","Qvisthallen",1,4,"Frölunda IBK H2",1
-"173","Pelle Hellberg, Joakim Jögi","Qvisthallen",1,4,"Partille IBS H2",1
-"174","Pelle Hellberg, Joakim Jögi","Svingelns Sporthall",1,4,"Guldhedens IK H2",1
-"175","Pelle Hellberg, Joakim Jögi","Svingelns Sporthall",1,4,"Burås IK H2",1
-"176","Pelle Hellberg, Joakim Jögi","Ugglumshallen",1,4,"Partille IBS H2",1
-"177","Pelle Hellberg, Joakim Jögi","Ugglumshallen",1,4,"Burås IK H2",1
-"178","Peter Axelsson, Håkan Krafft","Partille Arena B-hallen",1,3,"Partille IBS H2",1
-"179","Peter Axelsson, Håkan Krafft","Partille Arena B-hallen",1,3,"Guldhedens IK H2",1
-"180","Peter Axelsson, Håkan Krafft","Svingelns Sporthall",1,3,"Romelanda UF H2",1
-"181","Peter Axelsson, Håkan Krafft","Svingelns Sporthall",1,3,"Burås IK H2",1
-"182","Peter Axelsson, Håkan Krafft","Ugglumshallen",1,3,"Partille IBS H2",1
-"183","Peter Axelsson, Håkan Krafft","Ugglumshallen",1,3,"IBF Backadalen",1
-"184","Pierre Eberhard Berg, Adnan Tongur","Björlanda Idrottshall",1,3,"IBK Göteborg H2",1
-"185","Pierre Eberhard Berg, Adnan Tongur","Björlanda Idrottshall",1,3,"Torslanda IBF H2",1
-"186","Pierre Eberhard Berg, Adnan Tongur","Frölunda Kulturhus",1,3,"Frölunda IBK H2",1
-"187","Pierre Eberhard Berg, Adnan Tongur","Frölunda Kulturhus",1,3,"IBK Kungälv H2",1
-"188","Pierre Eberhard Berg, Adnan Tongur","Lundbystrand 1",1,3,"Frölunda IBK H2",1
-"189","Pierre Eberhard Berg, Adnan Tongur","Lundbystrand 1",1,3,"IBF Backadalen",1
-"190","Pierre Eberhard Berg, Roger Zahnér","Lundenhallen",1,2,"IBK Göteborg H2",1
-"191","Pierre Eberhard Berg, Roger Zahnér","Lundenhallen",1,2,"Hovås IBK",1
-"192","Pierre Eberhard Berg, Roger Zahnér","Svingelns Sporthall",1,2,"IBK Kungälv H2",1
-"193","Pierre Eberhard Berg, Roger Zahnér","Svingelns Sporthall",1,2,"Burås IK H2",1
-"194","Pontus Ekengränd, Adam Kruse","Frölunda Kulturhus",3,11,"Romelanda UF H2",1
-"195","Pontus Ekengränd, Adam Kruse","Frölunda Kulturhus",3,11,"Landvetter IBK H2",1
-"196","Pontus Ekengränd, Adam Kruse","Frölunda Kulturhus",3,11,"Lindome IBK H2",1
-"197","Pontus Ekengränd, Adam Kruse","Frölunda Kulturhus",3,11,"Frölunda IBK H2",3
-"198","Pontus Ekengränd, Adam Kruse","Lisebergshallen",1,11,"Lindome IBK H2",1
-"199","Pontus Ekengränd, Adam Kruse","Lisebergshallen",1,11,"Hovås IBK",1
-"200","Pontus Ekengränd, Adam Kruse","Lundenhallen",1,11,"IBF Backadalen",1
-"201","Pontus Ekengränd, Adam Kruse","Lundenhallen",1,11,"IBK Göteborg H2",1
-"202","Pontus Ekengränd, Adam Kruse","Qvisthallen",2,11,"Partille IBS H2",2
-"203","Pontus Ekengränd, Adam Kruse","Qvisthallen",2,11,"Romelanda UF H2",1
-"204","Pontus Ekengränd, Adam Kruse","Qvisthallen",2,11,"IBK Kungälv H2",1
-"205","Pontus Ekengränd, Adam Kruse","Svingelns Sporthall",1,11,"Landvetter IBK H2",1
-"206","Pontus Ekengränd, Adam Kruse","Svingelns Sporthall",1,11,"Burås IK H2",1
-"207","Pontus Ekengränd, Adam Kruse","Torpahallen",1,11,"IBK Göteborg H2",1
-"208","Pontus Ekengränd, Adam Kruse","Torpahallen",1,11,"IBK Kungälv H2",1
-"209","Pontus Ekengränd, Adam Kruse","Valhalla A-hall",2,11,"Romelanda UF H2",1
-"210","Pontus Ekengränd, Adam Kruse","Valhalla A-hall",2,11,"Guldhedens IK H2",2
-"211","Pontus Ekengränd, Adam Kruse","Valhalla A-hall",2,11,"IBK Göteborg H2",1
-"212","Pontus Ekengränd, Besim Mehmedagic","Vallhamra Sportcenter",1,1,"Partille IBS H2",1
-"213","Pontus Ekengränd, Besim Mehmedagic","Vallhamra Sportcenter",1,1,"Lindome IBK H2",1
-"214","Roger Zahnér, Torbjörn Zahner","Frölunda Kulturhus",1,1,"IBK Göteborg H2",1
-"215","Roger Zahnér, Torbjörn Zahner","Frölunda Kulturhus",1,1,"Frölunda IBK H2",1
+"15","Aldin Hadziselmovic, Alexander Pavlovic","Mimershus A-hallen",3,7,"Partille IBS H2",1
+"16","Aldin Hadziselmovic, Alexander Pavlovic","Mimershus A-hallen",3,7,"IBK Kungälv H2",2
+"17","Aldin Hadziselmovic, Alexander Pavlovic","Mimershus A-hallen",3,7,"Romelanda UF H2",1
+"18","Aldin Hadziselmovic, Alexander Pavlovic","Svingelns Sporthall",2,7,"Lindome IBK H2",1
+"19","Aldin Hadziselmovic, Alexander Pavlovic","Svingelns Sporthall",2,7,"IBK Göteborg H2",1
+"20","Aldin Hadziselmovic, Alexander Pavlovic","Svingelns Sporthall",2,7,"Burås IK H2",2
+"21","Aldin Hadziselmovic, Besim Mehmedagic","Pinntorps Idrottshall",1,1,"Lindome IBK H2",1
+"22","Aldin Hadziselmovic, Besim Mehmedagic","Pinntorps Idrottshall",1,1,"Landvetter IBK H2",1
+"23","Alexander Pavlovic, Walter Wästhage","Svingelns Sporthall",1,1,"Burås IK H2",1
+"24","Alexander Pavlovic, Walter Wästhage","Svingelns Sporthall",1,1,"IBF Backadalen",1
+"25","Apilou Dragin, Catrin Kleist","Almåshallen A",1,15,"Lindome IBK H2",1
+"26","Apilou Dragin, Catrin Kleist","Almåshallen A",1,15,"IBF Backadalen",1
+"27","Apilou Dragin, Catrin Kleist","Björlanda Idrottshall",2,15,"Frölunda IBK H2",1
+"28","Apilou Dragin, Catrin Kleist","Björlanda Idrottshall",2,15,"IBK Kungälv H2",1
+"29","Apilou Dragin, Catrin Kleist","Björlanda Idrottshall",2,15,"Torslanda IBF H2",2
+"30","Apilou Dragin, Catrin Kleist","Frölunda Kulturhus",1,15,"Frölunda IBK H2",1
+"31","Apilou Dragin, Catrin Kleist","Frölunda Kulturhus",1,15,"Hovås IBK",1
+"32","Apilou Dragin, Catrin Kleist","Lundbystrand 1",2,15,"Landvetter IBK H2",1
+"33","Apilou Dragin, Catrin Kleist","Lundbystrand 1",2,15,"Hovås IBK",1
+"34","Apilou Dragin, Catrin Kleist","Lundbystrand 1",2,15,"IBF Backadalen",2
+"35","Apilou Dragin, Catrin Kleist","Lundbystrand 3",1,15,"Hovås IBK",1
+"36","Apilou Dragin, Catrin Kleist","Lundbystrand 3",1,15,"Romelanda UF H2",1
+"37","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,15,"IBK Kungälv H2",2
+"38","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,15,"IBK Göteborg H2",1
+"39","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,15,"Romelanda UF H2",1
+"40","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,15,"Hovås IBK",1
+"41","Apilou Dragin, Catrin Kleist","Mimershus A-hallen",3,15,"Burås IK H2",1
+"42","Apilou Dragin, Catrin Kleist","Qvisthallen",1,15,"Partille IBS H2",1
+"43","Apilou Dragin, Catrin Kleist","Qvisthallen",1,15,"Hovås IBK",1
+"44","Apilou Dragin, Catrin Kleist","Svingelns Sporthall",1,15,"Torslanda IBF H2",1
+"45","Apilou Dragin, Catrin Kleist","Svingelns Sporthall",1,15,"Burås IK H2",1
+"46","Apilou Dragin, Catrin Kleist","Torpahallen",1,15,"IBK Göteborg H2",1
+"47","Apilou Dragin, Catrin Kleist","Torpahallen",1,15,"Romelanda UF H2",1
+"48","Apilou Dragin, Catrin Kleist","Valhalla A-hall",2,15,"Landvetter IBK H2",1
+"49","Apilou Dragin, Catrin Kleist","Valhalla A-hall",2,15,"Guldhedens IK H2",2
+"50","Apilou Dragin, Catrin Kleist","Valhalla A-hall",2,15,"Frölunda IBK H2",1
+"51","Besim Mehmedagic, Adnan Tongur","Mimershus A-hallen",1,3,"IBK Kungälv H2",1
+"52","Besim Mehmedagic, Adnan Tongur","Mimershus A-hallen",1,3,"Torslanda IBF H2",1
+"53","Besim Mehmedagic, Adnan Tongur","Pinntorps Idrottshall",1,3,"IBF Backadalen",1
+"54","Besim Mehmedagic, Adnan Tongur","Pinntorps Idrottshall",1,3,"Landvetter IBK H2",1
+"55","Besim Mehmedagic, Adnan Tongur","Valhalla A-hall",1,3,"Guldhedens IK H2",1
+"56","Besim Mehmedagic, Adnan Tongur","Valhalla A-hall",1,3,"IBK Kungälv H2",1
+"57","Besim Mehmedagic, Alexander Pavlovic","Lundenhallen",1,1,"Hovås IBK",1
+"58","Besim Mehmedagic, Alexander Pavlovic","Lundenhallen",1,1,"Frölunda IBK H2",1
+"59","Christian Jensen, Adam Kruse","Lundbystrand 1",1,1,"IBF Backadalen",1
+"60","Christian Jensen, Adam Kruse","Lundbystrand 1",1,1,"Lindome IBK H2",1
+"61","Frans Dahlstedt, Josefine Hedelind","Almåshallen A",1,1,"Lindome IBK H2",1
+"62","Frans Dahlstedt, Josefine Hedelind","Almåshallen A",1,1,"IBK Kungälv H2",1
+"63","Gustav Glansén, Adnan Tongur","Almåshallen A",1,2,"Lindome IBK H2",1
+"64","Gustav Glansén, Adnan Tongur","Almåshallen A",1,2,"Guldhedens IK H2",1
+"65","Gustav Glansén, Adnan Tongur","Lundbystrand 1",1,2,"IBF Backadalen",1
+"66","Gustav Glansén, Adnan Tongur","Lundbystrand 1",1,2,"Guldhedens IK H2",1
+"67","Gustav Glansén, Christian Jensen","Lundbystrand 1",1,3,"IBF Backadalen",1
+"68","Gustav Glansén, Christian Jensen","Lundbystrand 1",1,3,"Romelanda UF H2",1
+"69","Gustav Glansén, Christian Jensen","Mimershus A-hallen",1,3,"Lindome IBK H2",1
+"70","Gustav Glansén, Christian Jensen","Mimershus A-hallen",1,3,"IBK Kungälv H2",1
+"71","Gustav Glansén, Christian Jensen","Pinntorps Idrottshall",1,3,"Landvetter IBK H2",1
+"72","Gustav Glansén, Christian Jensen","Pinntorps Idrottshall",1,3,"IBK Göteborg H2",1
+"73","Hajrudin Begic, Adam Kruse","Lundenhallen",1,1,"Torslanda IBF H2",1
+"74","Hajrudin Begic, Adam Kruse","Lundenhallen",1,1,"IBK Göteborg H2",1
+"75","Hajrudin Begic, Adnan Tongur","Björlanda Idrottshall",1,2,"Lindome IBK H2",1
+"76","Hajrudin Begic, Adnan Tongur","Björlanda Idrottshall",1,2,"Torslanda IBF H2",1
+"77","Hajrudin Begic, Adnan Tongur","Pinntorps Idrottshall",1,2,"Landvetter IBK H2",1
+"78","Hajrudin Begic, Adnan Tongur","Pinntorps Idrottshall",1,2,"Burås IK H2",1
+"79","Hajrudin Begic, Alexander Pavlovic","Mimershus A-hallen",2,2,"Guldhedens IK H2",1
+"80","Hajrudin Begic, Alexander Pavlovic","Mimershus A-hallen",2,2,"Torslanda IBF H2",1
+"81","Hajrudin Begic, Alexander Pavlovic","Mimershus A-hallen",2,2,"IBK Kungälv H2",1
+"82","Hajrudin Begic, Alexander Pavlovic","Mimershus A-hallen",2,2,"Romelanda UF H2",1
+"83","Hajrudin Begic, Besim Mehmedagic","Almåshallen A",1,14,"Torslanda IBF H2",1
+"84","Hajrudin Begic, Besim Mehmedagic","Almåshallen A",1,14,"Lindome IBK H2",1
+"85","Hajrudin Begic, Besim Mehmedagic","Björlanda Idrottshall",1,14,"Torslanda IBF H2",1
+"86","Hajrudin Begic, Besim Mehmedagic","Björlanda Idrottshall",1,14,"Landvetter IBK H2",1
+"87","Hajrudin Begic, Besim Mehmedagic","Lisebergshallen",2,14,"Guldhedens IK H2",1
+"88","Hajrudin Begic, Besim Mehmedagic","Lisebergshallen",2,14,"Hovås IBK",2
+"89","Hajrudin Begic, Besim Mehmedagic","Lisebergshallen",2,14,"Torslanda IBF H2",1
+"90","Hajrudin Begic, Besim Mehmedagic","Lundenhallen",2,14,"IBK Kungälv H2",1
+"91","Hajrudin Begic, Besim Mehmedagic","Lundenhallen",2,14,"Hovås IBK",2
+"92","Hajrudin Begic, Besim Mehmedagic","Lundenhallen",2,14,"Partille IBS H2",1
+"93","Hajrudin Begic, Besim Mehmedagic","Pinntorps Idrottshall",2,14,"Landvetter IBK H2",2
+"94","Hajrudin Begic, Besim Mehmedagic","Pinntorps Idrottshall",2,14,"Torslanda IBF H2",1
+"95","Hajrudin Begic, Besim Mehmedagic","Pinntorps Idrottshall",2,14,"Frölunda IBK H2",1
+"96","Hajrudin Begic, Besim Mehmedagic","Qvisthallen",2,14,"Torslanda IBF H2",1
+"97","Hajrudin Begic, Besim Mehmedagic","Qvisthallen",2,14,"IBK Göteborg H2",1
+"98","Hajrudin Begic, Besim Mehmedagic","Qvisthallen",2,14,"Partille IBS H2",2
+"99","Hajrudin Begic, Besim Mehmedagic","Svingelns Sporthall",1,14,"Burås IK H2",1
+"100","Hajrudin Begic, Besim Mehmedagic","Svingelns Sporthall",1,14,"Hovås IBK",1
+"101","Hajrudin Begic, Besim Mehmedagic","Valhalla A-hall",3,14,"Guldhedens IK H2",3
+"102","Hajrudin Begic, Besim Mehmedagic","Valhalla A-hall",3,14,"Hovås IBK",1
+"103","Hajrudin Begic, Besim Mehmedagic","Valhalla A-hall",3,14,"Torslanda IBF H2",1
+"104","Hajrudin Begic, Besim Mehmedagic","Valhalla A-hall",3,14,"Burås IK H2",1
+"105","Hajrudin Begic, Christian Jensen","Pinntorps Idrottshall",1,1,"Romelanda UF H2",1
+"106","Hajrudin Begic, Christian Jensen","Pinntorps Idrottshall",1,1,"Landvetter IBK H2",1
+"107","Hajrudin Begic, Pontus Ekengränd","Mimershus A-hallen",1,1,"IBK Kungälv H2",1
+"108","Hajrudin Begic, Pontus Ekengränd","Mimershus A-hallen",1,1,"Landvetter IBK H2",1
+"109","Henrik Carlsson, Bjarne Wesenlund","Svingelns Sporthall",1,1,"Burås IK H2",1
+"110","Henrik Carlsson, Bjarne Wesenlund","Svingelns Sporthall",1,1,"Frölunda IBK H2",1
+"111","Jesper Axelsson, Hajrudin Begic","Svingelns Sporthall",1,1,"Burås IK H2",1
+"112","Jesper Axelsson, Hajrudin Begic","Svingelns Sporthall",1,1,"Partille IBS H2",1
+"113","Jesper Axelsson, Henrik Lord Johansson","Mimershus A-hallen",1,1,"Romelanda UF H2",1
+"114","Jesper Axelsson, Henrik Lord Johansson","Mimershus A-hallen",1,1,"IBK Kungälv H2",1
+"115","Jesper Axelsson, Jesper Dammert","Lundenhallen",1,1,"Burås IK H2",1
+"116","Jesper Axelsson, Jesper Dammert","Lundenhallen",1,1,"IBK Göteborg H2",1
+"117","Jesper Dammert, Besim Mehmedagic","Almåshallen A",1,2,"Partille IBS H2",1
+"118","Jesper Dammert, Besim Mehmedagic","Almåshallen A",1,2,"Lindome IBK H2",1
+"119","Jesper Dammert, Besim Mehmedagic","Björlanda Idrottshall",1,2,"Partille IBS H2",1
+"120","Jesper Dammert, Besim Mehmedagic","Björlanda Idrottshall",1,2,"Torslanda IBF H2",1
+"121","Jesper Dammert, Carl Flyning","Björlanda Idrottshall",3,5,"IBF Backadalen",1
+"122","Jesper Dammert, Carl Flyning","Björlanda Idrottshall",3,5,"Guldhedens IK H2",1
+"123","Jesper Dammert, Carl Flyning","Björlanda Idrottshall",3,5,"Romelanda UF H2",1
+"124","Jesper Dammert, Carl Flyning","Björlanda Idrottshall",3,5,"Torslanda IBF H2",3
+"125","Jesper Dammert, Carl Flyning","Lundbystrand 1",1,5,"IBF Backadalen",1
+"126","Jesper Dammert, Carl Flyning","Lundbystrand 1",1,5,"Partille IBS H2",1
+"127","Jesper Dammert, Carl Flyning","Valhalla A-hall",1,5,"Partille IBS H2",1
+"128","Jesper Dammert, Carl Flyning","Valhalla A-hall",1,5,"Guldhedens IK H2",1
+"129","Jesper Dammert, Christian Jensen","Mimershus A-hallen",1,1,"Romelanda UF H2",1
+"130","Jesper Dammert, Christian Jensen","Mimershus A-hallen",1,1,"Hovås IBK",1
+"131","Jesper Dammert, Gustav Glansén","Mimershus A-hallen",1,1,"IBF Backadalen",1
+"132","Jesper Dammert, Gustav Glansén","Mimershus A-hallen",1,1,"Romelanda UF H2",1
+"133","Jesper Dammert, Pelle Hellberg","Pinntorps Idrottshall",1,1,"Landvetter IBK H2",1
+"134","Jesper Dammert, Pelle Hellberg","Pinntorps Idrottshall",1,1,"Guldhedens IK H2",1
+"135","Jesper Dammert, Pierre Eberhard Berg","Björlanda Idrottshall",1,1,"Hovås IBK",1
+"136","Jesper Dammert, Pierre Eberhard Berg","Björlanda Idrottshall",1,1,"Torslanda IBF H2",1
+"137","Joakim Amri Nilsson, Adnan Tongur","Almåshallen A",2,21,"Lindome IBK H2",2
+"138","Joakim Amri Nilsson, Adnan Tongur","Almåshallen A",2,21,"Romelanda UF H2",1
+"139","Joakim Amri Nilsson, Adnan Tongur","Almåshallen A",2,21,"Burås IK H2",1
+"140","Joakim Amri Nilsson, Adnan Tongur","Almåshallen B",1,21,"Lindome IBK H2",1
+"141","Joakim Amri Nilsson, Adnan Tongur","Almåshallen B",1,21,"IBK Göteborg H2",1
+"142","Joakim Amri Nilsson, Adnan Tongur","Frölunda Kulturhus",4,21,"Frölunda IBK H2",4
+"143","Joakim Amri Nilsson, Adnan Tongur","Frölunda Kulturhus",4,21,"Burås IK H2",1
+"144","Joakim Amri Nilsson, Adnan Tongur","Frölunda Kulturhus",4,21,"Torslanda IBF H2",1
+"145","Joakim Amri Nilsson, Adnan Tongur","Frölunda Kulturhus",4,21,"Partille IBS H2",1
+"146","Joakim Amri Nilsson, Adnan Tongur","Frölunda Kulturhus",4,21,"IBF Backadalen",1
+"147","Joakim Amri Nilsson, Adnan Tongur","Lisebergshallen",1,21,"Hovås IBK",1
+"148","Joakim Amri Nilsson, Adnan Tongur","Lisebergshallen",1,21,"IBF Backadalen",1
+"149","Joakim Amri Nilsson, Adnan Tongur","Lundbystrand 1",1,21,"IBF Backadalen",1
+"150","Joakim Amri Nilsson, Adnan Tongur","Lundbystrand 1",1,21,"IBK Kungälv H2",1
+"151","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,21,"Hovås IBK",1
+"152","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,21,"Lindome IBK H2",1
+"153","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,21,"Landvetter IBK H2",1
+"154","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,21,"Frölunda IBK H2",1
+"155","Joakim Amri Nilsson, Adnan Tongur","Lundenhallen",3,21,"IBK Göteborg H2",2
+"156","Joakim Amri Nilsson, Adnan Tongur","Mimershus A-hallen",3,21,"IBK Kungälv H2",2
+"157","Joakim Amri Nilsson, Adnan Tongur","Mimershus A-hallen",3,21,"Romelanda UF H2",2
+"158","Joakim Amri Nilsson, Adnan Tongur","Mimershus A-hallen",3,21,"Frölunda IBK H2",1
+"159","Joakim Amri Nilsson, Adnan Tongur","Mimershus A-hallen",3,21,"Partille IBS H2",1
+"160","Joakim Amri Nilsson, Adnan Tongur","Munkegärdehallen",1,21,"Burås IK H2",1
+"161","Joakim Amri Nilsson, Adnan Tongur","Munkegärdehallen",1,21,"Romelanda UF H2",1
+"162","Joakim Amri Nilsson, Adnan Tongur","Pinntorps Idrottshall",2,21,"Hovås IBK",1
+"163","Joakim Amri Nilsson, Adnan Tongur","Pinntorps Idrottshall",2,21,"Partille IBS H2",1
+"164","Joakim Amri Nilsson, Adnan Tongur","Pinntorps Idrottshall",2,21,"Landvetter IBK H2",2
+"165","Joakim Amri Nilsson, Adnan Tongur","Valhalla A-hall",2,21,"Lindome IBK H2",1
+"166","Joakim Amri Nilsson, Adnan Tongur","Valhalla A-hall",2,21,"IBF Backadalen",1
+"167","Joakim Amri Nilsson, Adnan Tongur","Valhalla A-hall",2,21,"Guldhedens IK H2",2
+"168","Joakim Amri Nilsson, Adnan Tongur","Vallhamra Sportcenter",1,21,"Landvetter IBK H2",1
+"169","Joakim Amri Nilsson, Adnan Tongur","Vallhamra Sportcenter",1,21,"Partille IBS H2",1
+"170","Joakim Amri Nilsson, Alexander Pavlovic","Lundenhallen",1,1,"Hovås IBK",1
+"171","Joakim Amri Nilsson, Alexander Pavlovic","Lundenhallen",1,1,"IBK Göteborg H2",1
+"172","Joakim Amri Nilsson, Hajrudin Begic","Mimershus A-hallen",2,3,"Romelanda UF H2",1
+"173","Joakim Amri Nilsson, Hajrudin Begic","Mimershus A-hallen",2,3,"IBK Kungälv H2",1
+"174","Joakim Amri Nilsson, Hajrudin Begic","Mimershus A-hallen",2,3,"Lindome IBK H2",1
+"175","Joakim Amri Nilsson, Hajrudin Begic","Mimershus A-hallen",2,3,"IBK Göteborg H2",1
+"176","Joakim Amri Nilsson, Hajrudin Begic","Svingelns Sporthall 2",1,3,"Burås IK H2",1
+"177","Joakim Amri Nilsson, Hajrudin Begic","Svingelns Sporthall 2",1,3,"Hovås IBK",1
+"178","Joakim Amri Nilsson, Joakim Jögi","Pinntorps Idrottshall",1,1,"Landvetter IBK H2",1
+"179","Joakim Amri Nilsson, Joakim Jögi","Pinntorps Idrottshall",1,1,"IBK Kungälv H2",1
+"180","Pelle Hellberg, Catrin Kleist","Frölunda Kulturhus",1,3,"Guldhedens IK H2",1
+"181","Pelle Hellberg, Catrin Kleist","Frölunda Kulturhus",1,3,"Frölunda IBK H2",1
+"182","Pelle Hellberg, Catrin Kleist","Lundbystrand 1",1,3,"IBF Backadalen",1
+"183","Pelle Hellberg, Catrin Kleist","Lundbystrand 1",1,3,"Torslanda IBF H2",1
+"184","Pelle Hellberg, Catrin Kleist","Lundenhallen",1,3,"Landvetter IBK H2",1
+"185","Pelle Hellberg, Catrin Kleist","Lundenhallen",1,3,"IBK Göteborg H2",1
+"186","Pelle Hellberg, Joakim Jögi","Björlanda Idrottshall",1,6,"Torslanda IBF H2",1
+"187","Pelle Hellberg, Joakim Jögi","Björlanda Idrottshall",1,6,"Burås IK H2",1
+"188","Pelle Hellberg, Joakim Jögi","Lundbystrand 1",1,6,"Burås IK H2",1
+"189","Pelle Hellberg, Joakim Jögi","Lundbystrand 1",1,6,"IBF Backadalen",1
+"190","Pelle Hellberg, Joakim Jögi","Lundenhallen",1,6,"Guldhedens IK H2",1
+"191","Pelle Hellberg, Joakim Jögi","Lundenhallen",1,6,"IBK Göteborg H2",1
+"192","Pelle Hellberg, Joakim Jögi","Qvisthallen",1,6,"Frölunda IBK H2",1
+"193","Pelle Hellberg, Joakim Jögi","Qvisthallen",1,6,"Partille IBS H2",1
+"194","Pelle Hellberg, Joakim Jögi","Svingelns Sporthall",1,6,"Guldhedens IK H2",1
+"195","Pelle Hellberg, Joakim Jögi","Svingelns Sporthall",1,6,"Burås IK H2",1
+"196","Pelle Hellberg, Joakim Jögi","Ugglumshallen",1,6,"Partille IBS H2",1
+"197","Pelle Hellberg, Joakim Jögi","Ugglumshallen",1,6,"Burås IK H2",1
+"198","Peter Axelsson, Håkan Krafft","Partille Arena B-hallen",1,3,"Partille IBS H2",1
+"199","Peter Axelsson, Håkan Krafft","Partille Arena B-hallen",1,3,"Guldhedens IK H2",1
+"200","Peter Axelsson, Håkan Krafft","Svingelns Sporthall",1,3,"Romelanda UF H2",1
+"201","Peter Axelsson, Håkan Krafft","Svingelns Sporthall",1,3,"Burås IK H2",1
+"202","Peter Axelsson, Håkan Krafft","Ugglumshallen",1,3,"IBF Backadalen",1
+"203","Peter Axelsson, Håkan Krafft","Ugglumshallen",1,3,"Partille IBS H2",1
+"204","Pierre Eberhard Berg, Adnan Tongur","Björlanda Idrottshall",1,3,"Torslanda IBF H2",1
+"205","Pierre Eberhard Berg, Adnan Tongur","Björlanda Idrottshall",1,3,"IBK Göteborg H2",1
+"206","Pierre Eberhard Berg, Adnan Tongur","Frölunda Kulturhus",1,3,"IBK Kungälv H2",1
+"207","Pierre Eberhard Berg, Adnan Tongur","Frölunda Kulturhus",1,3,"Frölunda IBK H2",1
+"208","Pierre Eberhard Berg, Adnan Tongur","Lundbystrand 1",1,3,"IBF Backadalen",1
+"209","Pierre Eberhard Berg, Adnan Tongur","Lundbystrand 1",1,3,"Frölunda IBK H2",1
+"210","Pierre Eberhard Berg, Roger Zahnér","Lundenhallen",1,2,"IBK Göteborg H2",1
+"211","Pierre Eberhard Berg, Roger Zahnér","Lundenhallen",1,2,"Hovås IBK",1
+"212","Pierre Eberhard Berg, Roger Zahnér","Svingelns Sporthall",1,2,"Burås IK H2",1
+"213","Pierre Eberhard Berg, Roger Zahnér","Svingelns Sporthall",1,2,"IBK Kungälv H2",1
+"214","Pontus Ekengränd, Adam Kruse","Frölunda Kulturhus",3,11,"Frölunda IBK H2",3
+"215","Pontus Ekengränd, Adam Kruse","Frölunda Kulturhus",3,11,"Landvetter IBK H2",1
+"216","Pontus Ekengränd, Adam Kruse","Frölunda Kulturhus",3,11,"Lindome IBK H2",1
+"217","Pontus Ekengränd, Adam Kruse","Frölunda Kulturhus",3,11,"Romelanda UF H2",1
+"218","Pontus Ekengränd, Adam Kruse","Lisebergshallen",1,11,"Hovås IBK",1
+"219","Pontus Ekengränd, Adam Kruse","Lisebergshallen",1,11,"Lindome IBK H2",1
+"220","Pontus Ekengränd, Adam Kruse","Lundenhallen",1,11,"IBK Göteborg H2",1
+"221","Pontus Ekengränd, Adam Kruse","Lundenhallen",1,11,"IBF Backadalen",1
+"222","Pontus Ekengränd, Adam Kruse","Qvisthallen",2,11,"Partille IBS H2",2
+"223","Pontus Ekengränd, Adam Kruse","Qvisthallen",2,11,"Romelanda UF H2",1
+"224","Pontus Ekengränd, Adam Kruse","Qvisthallen",2,11,"IBK Kungälv H2",1
+"225","Pontus Ekengränd, Adam Kruse","Svingelns Sporthall",1,11,"Burås IK H2",1
+"226","Pontus Ekengränd, Adam Kruse","Svingelns Sporthall",1,11,"Landvetter IBK H2",1
+"227","Pontus Ekengränd, Adam Kruse","Torpahallen",1,11,"IBK Kungälv H2",1
+"228","Pontus Ekengränd, Adam Kruse","Torpahallen",1,11,"IBK Göteborg H2",1
+"229","Pontus Ekengränd, Adam Kruse","Valhalla A-hall",2,11,"IBK Göteborg H2",1
+"230","Pontus Ekengränd, Adam Kruse","Valhalla A-hall",2,11,"Guldhedens IK H2",2
+"231","Pontus Ekengränd, Adam Kruse","Valhalla A-hall",2,11,"Romelanda UF H2",1
+"232","Pontus Ekengränd, Besim Mehmedagic","Vallhamra Sportcenter",1,1,"Lindome IBK H2",1
+"233","Pontus Ekengränd, Besim Mehmedagic","Vallhamra Sportcenter",1,1,"Partille IBS H2",1
+"234","Roger Zahnér, Torbjörn Zahner","Frölunda Kulturhus",1,1,"Frölunda IBK H2",1
+"235","Roger Zahnér, Torbjörn Zahner","Frölunda Kulturhus",1,1,"IBK Göteborg H2",1

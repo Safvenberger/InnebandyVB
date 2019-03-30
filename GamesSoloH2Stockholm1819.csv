@@ -1,496 +1,538 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
-"1","Aldin Imamovic","Råstaparkhallen",1,3,"Råsunda IS",1
-"2","Aldin Imamovic","Råstaparkhallen",1,3,"Ekerö IK",1
-"3","Aldin Imamovic","Smedsgärdshallen",1,3,"Råsunda IS",1
-"4","Aldin Imamovic","Smedsgärdshallen",1,3,"Grimsta AIK",1
-"5","Aldin Imamovic","Storvretens Sporthall",1,3,"Ekerö IK",1
-"6","Aldin Imamovic","Storvretens Sporthall",1,3,"Tumba GOIF",1
-"7","Aleksi Partanen","Ingarö Sporthall",1,1,"Ingarö IF (A)",1
-"8","Aleksi Partanen","Ingarö Sporthall",1,1,"Balrog B/S IK",1
-"9","Alexander Sommensjö","Fleminghallen",1,4,"Balrog B/S IK",1
-"10","Alexander Sommensjö","Fleminghallen",1,4,"Huddinge IBS ",1
-"11","Alexander Sommensjö","Värmdö sporthall",1,4,"Ingarö IF (A)",1
-"12","Alexander Sommensjö","Värmdö sporthall",1,4,"Värmdö IF (B)",1
-"13","Alexander Sommensjö","Väsby skolan",2,4,"Ingarö IF (A)",1
-"14","Alexander Sommensjö","Väsby skolan",2,4,"Runby IBK",2
-"15","Alexander Sommensjö","Väsby skolan",2,4,"Åkersberga IBF (A)",1
-"16","Anders Westerberg","Fleminghallen",1,2,"Råsunda IS",1
-"17","Anders Westerberg","Fleminghallen",1,2,"Huddinge IBS ",1
-"18","Anders Westerberg","Ormingehallen",1,2,"Nacka Wallenstam IBK",1
-"19","Anders Westerberg","Ormingehallen",1,2,"Ingarö IF (A)",1
-"20","Andreas Bengtsson","Bodals Bollhall",1,12,"Tumba GOIF",1
-"21","Andreas Bengtsson","Bodals Bollhall",1,12,"IBF Offensiv Lidingö (A)",1
-"22","Andreas Bengtsson","Botkyrkahallen",1,12,"Nacka Wallenstam IBK",1
-"23","Andreas Bengtsson","Botkyrkahallen",1,12,"Balrog B/S IK",1
-"24","Andreas Bengtsson","Fleminghallen",3,12,"Huddinge IBS ",3
-"25","Andreas Bengtsson","Fleminghallen",3,12,"Runby IBK",1
+"1","Aldin Imamovic","Idrottshuset Tumba",1,4,"Tumba GOIF",1
+"2","Aldin Imamovic","Idrottshuset Tumba",1,4,"Råsunda IS",1
+"3","Aldin Imamovic","Råstaparkhallen",1,4,"Råsunda IS",1
+"4","Aldin Imamovic","Råstaparkhallen",1,4,"Ekerö IK",1
+"5","Aldin Imamovic","Smedsgärdshallen",1,4,"Grimsta AIK",1
+"6","Aldin Imamovic","Smedsgärdshallen",1,4,"Råsunda IS",1
+"7","Aldin Imamovic","Storvretens Sporthall",1,4,"Ekerö IK",1
+"8","Aldin Imamovic","Storvretens Sporthall",1,4,"Tumba GOIF",1
+"9","Aleksi Partanen","Ingarö Sporthall",1,1,"Ingarö IF (A)",1
+"10","Aleksi Partanen","Ingarö Sporthall",1,1,"Balrog B/S IK",1
+"11","Alexander Sommensjö","Fleminghallen",1,4,"Huddinge IBS ",1
+"12","Alexander Sommensjö","Fleminghallen",1,4,"Balrog B/S IK",1
+"13","Alexander Sommensjö","Värmdö sporthall",1,4,"Värmdö IF (B)",1
+"14","Alexander Sommensjö","Värmdö sporthall",1,4,"Ingarö IF (A)",1
+"15","Alexander Sommensjö","Väsby skolan",2,4,"Ingarö IF (A)",1
+"16","Alexander Sommensjö","Väsby skolan",2,4,"Runby IBK",2
+"17","Alexander Sommensjö","Väsby skolan",2,4,"Åkersberga IBF (A)",1
+"18","Anders Westerberg","Fleminghallen",1,2,"Råsunda IS",1
+"19","Anders Westerberg","Fleminghallen",1,2,"Huddinge IBS ",1
+"20","Anders Westerberg","Ormingehallen",1,2,"Ingarö IF (A)",1
+"21","Anders Westerberg","Ormingehallen",1,2,"Nacka Wallenstam IBK",1
+"22","Andreas Bengtsson","Bodals Bollhall",1,12,"IBF Offensiv Lidingö (A)",1
+"23","Andreas Bengtsson","Bodals Bollhall",1,12,"Tumba GOIF",1
+"24","Andreas Bengtsson","Botkyrkahallen",1,12,"Balrog B/S IK",1
+"25","Andreas Bengtsson","Botkyrkahallen",1,12,"Nacka Wallenstam IBK",1
 "26","Andreas Bengtsson","Fleminghallen",3,12,"Ingarö IF (A)",1
 "27","Andreas Bengtsson","Fleminghallen",3,12,"IBF Offensiv Lidingö (A)",1
-"28","Andreas Bengtsson","Mälaröhallen",1,12,"Nacka Wallenstam IBK",1
-"29","Andreas Bengtsson","Mälaröhallen",1,12,"Ekerö IK ",1
-"30","Andreas Bengtsson","Råstaparkhallen",2,12,"Råsunda IS",2
-"31","Andreas Bengtsson","Råstaparkhallen",2,12,"Värmdö IF (B)",1
+"28","Andreas Bengtsson","Fleminghallen",3,12,"Runby IBK",1
+"29","Andreas Bengtsson","Fleminghallen",3,12,"Huddinge IBS ",3
+"30","Andreas Bengtsson","Mälaröhallen",1,12,"Ekerö IK ",1
+"31","Andreas Bengtsson","Mälaröhallen",1,12,"Nacka Wallenstam IBK",1
 "32","Andreas Bengtsson","Råstaparkhallen",2,12,"Grimsta AIK",1
-"33","Andreas Bengtsson","Smedsgärdshallen",1,12,"Grimsta AIK",1
-"34","Andreas Bengtsson","Smedsgärdshallen",1,12,"Nacka Wallenstam IBK",1
-"35","Andreas Bengtsson","Väsby skolan",1,12,"Huddinge IBS",1
-"36","Andreas Bengtsson","Väsby skolan",1,12,"Runby IBK",1
-"37","Andreas Bengtsson","Västertorpshallen",2,12,"Grimsta AIK",1
-"38","Andreas Bengtsson","Västertorpshallen",2,12,"Balrog B/S IK",1
-"39","Andreas Bengtsson","Västertorpshallen",2,12,"Hammarbyhöjden IBK",2
-"40","Arash Sohrevardi","Smedsgärdshallen",2,4,"Grimsta AIK",2
-"41","Arash Sohrevardi","Smedsgärdshallen",2,4,"Ingarö IF (A)",1
+"33","Andreas Bengtsson","Råstaparkhallen",2,12,"Råsunda IS",2
+"34","Andreas Bengtsson","Råstaparkhallen",2,12,"Värmdö IF (B)",1
+"35","Andreas Bengtsson","Smedsgärdshallen",1,12,"Grimsta AIK",1
+"36","Andreas Bengtsson","Smedsgärdshallen",1,12,"Nacka Wallenstam IBK",1
+"37","Andreas Bengtsson","Väsby skolan",1,12,"Runby IBK",1
+"38","Andreas Bengtsson","Väsby skolan",1,12,"Huddinge IBS",1
+"39","Andreas Bengtsson","Västertorpshallen",2,12,"Balrog B/S IK",1
+"40","Andreas Bengtsson","Västertorpshallen",2,12,"Grimsta AIK",1
+"41","Andreas Bengtsson","Västertorpshallen",2,12,"Hammarbyhöjden IBK",2
 "42","Arash Sohrevardi","Smedsgärdshallen",2,4,"Balrog B/S IK",1
-"43","Arash Sohrevardi","Västertorpshallen",2,4,"Balrog B/S IK",1
-"44","Arash Sohrevardi","Västertorpshallen",2,4,"Värmdö IF (B)",1
-"45","Arash Sohrevardi","Västertorpshallen",2,4,"Hammarbyhöjden IBK",2
-"46","Björn Landin","Mälaröhallen",1,2,"Ekerö IK ",1
-"47","Björn Landin","Mälaröhallen",1,2,"Huddinge IBS",1
-"48","Björn Landin","Smedsgärdshallen",1,2,"Grimsta AIK",1
-"49","Björn Landin","Smedsgärdshallen",1,2,"Ekerö IK",1
-"50","Christian Högberg","Bodals Bollhall",2,22,"Runby IBK",1
-"51","Christian Högberg","Bodals Bollhall",2,22,"Grimsta AIK",1
-"52","Christian Högberg","Bodals Bollhall",2,22,"IBF Offensiv Lidingö (A)",2
-"53","Christian Högberg","Botkyrkahallen",1,22,"Balrog B/S IK",1
-"54","Christian Högberg","Botkyrkahallen",1,22,"Ingarö IF (A)",1
-"55","Christian Högberg","Ingarö Sporthall",1,22,"Grimsta AIK",1
-"56","Christian Högberg","Ingarö Sporthall",1,22,"Ingarö IF (A)",1
-"57","Christian Högberg","Mälaröhallen",2,22,"Ekerö IK ",2
-"58","Christian Högberg","Mälaröhallen",2,22,"Ingarö IF (A)",1
-"59","Christian Högberg","Mälaröhallen",2,22,"Runby IBK",1
-"60","Christian Högberg","Ormingehallen",4,22,"Nacka Wallenstam IBK",4
-"61","Christian Högberg","Ormingehallen",4,22,"Balrog B/S IK",1
-"62","Christian Högberg","Ormingehallen",4,22,"Åkersberga IBF (A)",1
-"63","Christian Högberg","Ormingehallen",4,22,"Värmdö IF (B)",1
-"64","Christian Högberg","Ormingehallen",4,22,"Ingarö IF (A)",1
-"65","Christian Högberg","Råstaparkhallen",2,22,"Hammarbyhöjden IBK",1
-"66","Christian Högberg","Råstaparkhallen",2,22,"Nacka Wallenstam IBK",1
-"67","Christian Högberg","Råstaparkhallen",2,22,"Råsunda IS",2
-"68","Christian Högberg","Smedsgärdshallen",3,22,"Tumba GOIF",1
-"69","Christian Högberg","Smedsgärdshallen",3,22,"Grimsta AIK",2
-"70","Christian Högberg","Smedsgärdshallen",3,22,"Råsunda IS",1
-"71","Christian Högberg","Smedsgärdshallen",3,22,"Nacka Wallenstam IBK",1
-"72","Christian Högberg","Smedsgärdshallen",3,22,"Runby IBK",1
-"73","Christian Högberg","Väsby skolan",2,22,"Runby IBK",1
-"74","Christian Högberg","Väsby skolan",2,22,"Värmdö IF (B)",1
-"75","Christian Högberg","Väsby skolan",2,22,"Tumba GOIF",1
-"76","Christian Högberg","Väsby skolan",2,22,"Runby IBK",1
-"77","Christian Högberg","Åkersberga Sporthall A",5,22,"IBF Offensiv Lidingö (A)",1
-"78","Christian Högberg","Åkersberga Sporthall A",5,22,"Ingarö IF (A)",1
-"79","Christian Högberg","Åkersberga Sporthall A",5,22,"Åkersberga IBF (A)",2
-"80","Christian Högberg","Åkersberga Sporthall A",5,22,"Huddinge IBS",1
-"81","Christian Högberg","Åkersberga Sporthall A",5,22,"Åkersberga IBF (A)",3
-"82","Christian Högberg","Åkersberga Sporthall A",5,22,"Ekerö IK",1
-"83","Christian Högberg","Åkersberga Sporthall A",5,22,"Grimsta AIK",1
-"84","Christoffer Markovski","Bodals Bollhall",1,4,"Balrog B/S IK",1
-"85","Christoffer Markovski","Bodals Bollhall",1,4,"IBF Offensiv Lidingö (A)",1
-"86","Christoffer Markovski","Fleminghallen",2,4,"Huddinge IBS ",2
-"87","Christoffer Markovski","Fleminghallen",2,4,"Ekerö IK",1
-"88","Christoffer Markovski","Fleminghallen",2,4,"Runby IBK",1
-"89","Christoffer Markovski","Ingarö Sporthall",1,4,"Nacka Wallenstam IBK",1
-"90","Christoffer Markovski","Ingarö Sporthall",1,4,"Ingarö IF (A)",1
-"91","Daniel Kölborn","Fleminghallen",1,1,"Huddinge IBS ",1
-"92","Daniel Kölborn","Fleminghallen",1,1,"Värmdö IF (B)",1
-"93","Daniel Mårtensson","Bodals Bollhall",2,5,"Grimsta AIK",1
-"94","Daniel Mårtensson","Bodals Bollhall",2,5,"IBF Offensiv Lidingö (A)",2
-"95","Daniel Mårtensson","Bodals Bollhall",2,5,"Runby IBK",1
-"96","Daniel Mårtensson","Botkyrkahallen",1,5,"Balrog B/S IK",1
-"97","Daniel Mårtensson","Botkyrkahallen",1,5,"Värmdö IF (B)",1
-"98","Daniel Mårtensson","Idrottshuset Tumba",1,5,"Värmdö IF (B)",1
-"99","Daniel Mårtensson","Idrottshuset Tumba",1,5,"Tumba GOIF",1
-"100","Daniel Mårtensson","Smedsgärdshallen",1,5,"Hammarbyhöjden IBK",1
-"101","Daniel Mårtensson","Smedsgärdshallen",1,5,"Grimsta AIK",1
-"102","David Berger","Idrottshuset Tumba",1,3,"Tumba GOIF",1
-"103","David Berger","Idrottshuset Tumba",1,3,"Åkersberga IBF (A)",1
-"104","David Berger","Ingarö Sporthall",1,3,"Ingarö IF (A)",1
-"105","David Berger","Ingarö Sporthall",1,3,"Tumba GOIF",1
-"106","David Berger","Ormingehallen",1,3,"Nacka Wallenstam IBK",1
-"107","David Berger","Ormingehallen",1,3,"Runby IBK",1
-"108","Elis Erbing","Eriksdalshallen",1,10,"Hammarbyhöjden IBK",1
-"109","Elis Erbing","Eriksdalshallen",1,10,"Råsunda IS",1
-"110","Elis Erbing","Fleminghallen",2,10,"Huddinge IBS ",2
-"111","Elis Erbing","Fleminghallen",2,10,"IBF Offensiv Lidingö (A)",1
-"112","Elis Erbing","Fleminghallen",2,10,"Nacka Wallenstam IBK",1
-"113","Elis Erbing","Idrottshuset Tumba",1,10,"Tumba GOIF",1
-"114","Elis Erbing","Idrottshuset Tumba",1,10,"Huddinge IBS",1
-"115","Elis Erbing","Råstaparkhallen",2,10,"Värmdö IF (B)",1
-"116","Elis Erbing","Råstaparkhallen",2,10,"Råsunda IS",2
-"117","Elis Erbing","Råstaparkhallen",2,10,"Grimsta AIK",1
-"118","Elis Erbing","Smedsgärdshallen",2,10,"Hammarbyhöjden IBK",1
-"119","Elis Erbing","Smedsgärdshallen",2,10,"Nacka Wallenstam IBK",1
-"120","Elis Erbing","Smedsgärdshallen",2,10,"Grimsta AIK",1
-"121","Elis Erbing","Smedsgärdshallen",2,10,"Grimsta AIK",1
-"122","Elis Erbing","Väsby skolan",1,10,"Balrog B/S IK",1
-"123","Elis Erbing","Väsby skolan",1,10,"Runby IBK",1
-"124","Elis Erbing","Västertorpshallen",1,10,"Hammarbyhöjden IBK",1
-"125","Elis Erbing","Västertorpshallen",1,10,"Åkersberga IBF (A)",1
-"126","Emil Glenngård","Väsby skolan",1,1,"Tumba GOIF",1
-"127","Emil Glenngård","Väsby skolan",1,1,"Runby IBK",1
-"128","Emilia Tuomela","Idrottshuset Tumba",1,1,"Tumba GOIF",1
-"129","Emilia Tuomela","Idrottshuset Tumba",1,1,"Grimsta AIK",1
-"130","Fabian Fahimi","Fleminghallen",1,4,"Huddinge IBS ",1
-"131","Fabian Fahimi","Fleminghallen",1,4,"Ingarö IF (A)",1
-"132","Fabian Fahimi","Smedsgärdshallen",1,4,"Grimsta AIK",1
-"133","Fabian Fahimi","Smedsgärdshallen",1,4,"Balrog B/S IK",1
-"134","Fabian Fahimi","Väsby skolan",1,4,"Grimsta AIK",1
-"135","Fabian Fahimi","Väsby skolan",1,4,"Runby IBK",1
-"136","Fabian Fahimi","Åkersberga Sporthall A",1,4,"Tumba GOIF",1
-"137","Fabian Fahimi","Åkersberga Sporthall A",1,4,"Åkersberga IBF (A)",1
-"138","Fredrik Berglund Sonesson","Bodals Bollhall",1,11,"IBF Offensiv Lidingö (A)",1
-"139","Fredrik Berglund Sonesson","Bodals Bollhall",1,11,"Ekerö IK",1
-"140","Fredrik Berglund Sonesson","Botkyrkahallen",1,11,"Ekerö IK",1
-"141","Fredrik Berglund Sonesson","Botkyrkahallen",1,11,"Balrog B/S IK",1
-"142","Fredrik Berglund Sonesson","Fleminghallen",1,11,"Råsunda IS",1
-"143","Fredrik Berglund Sonesson","Fleminghallen",1,11,"Huddinge IBS ",1
-"144","Fredrik Berglund Sonesson","Ingarö Sporthall",3,11,"Ekerö IK",1
-"145","Fredrik Berglund Sonesson","Ingarö Sporthall",3,11,"Råsunda IS",1
-"146","Fredrik Berglund Sonesson","Ingarö Sporthall",3,11,"Huddinge IBS",1
-"147","Fredrik Berglund Sonesson","Ingarö Sporthall",3,11,"Ingarö IF (A)",3
-"148","Fredrik Berglund Sonesson","Smedsgärdshallen",2,11,"Grimsta AIK",2
-"149","Fredrik Berglund Sonesson","Smedsgärdshallen",2,11,"IBF Offensiv Lidingö (A)",1
-"150","Fredrik Berglund Sonesson","Smedsgärdshallen",2,11,"Värmdö IF (B)",1
-"151","Fredrik Berglund Sonesson","Värmdö sporthall",2,11,"Åkersberga IBF (A)",1
-"152","Fredrik Berglund Sonesson","Värmdö sporthall",2,11,"Värmdö IF (B)",2
-"153","Fredrik Berglund Sonesson","Värmdö sporthall",2,11,"IBF Offensiv Lidingö (A)",1
-"154","Fredrik Berglund Sonesson","Västertorpshallen",1,11,"Ingarö IF (A)",1
-"155","Fredrik Berglund Sonesson","Västertorpshallen",1,11,"Hammarbyhöjden IBK",1
-"156","Fredrik Landin","Bodals Bollhall",1,24,"IBF Offensiv Lidingö (A)",1
-"157","Fredrik Landin","Bodals Bollhall",1,24,"Huddinge IBS",1
-"158","Fredrik Landin","Botkyrkahallen",1,24,"Råsunda IS",1
-"159","Fredrik Landin","Botkyrkahallen",1,24,"Balrog B/S IK",1
-"160","Fredrik Landin","Fleminghallen",1,24,"Åkersberga IBF (A)",1
-"161","Fredrik Landin","Fleminghallen",1,24,"Huddinge IBS ",1
-"162","Fredrik Landin","Idrottshuset Tumba",3,24,"Huddinge IBS",1
-"163","Fredrik Landin","Idrottshuset Tumba",3,24,"Runby IBK",1
-"164","Fredrik Landin","Idrottshuset Tumba",3,24,"Nacka Wallenstam IBK",1
-"165","Fredrik Landin","Idrottshuset Tumba",3,24,"Tumba GOIF",1
-"166","Fredrik Landin","Idrottshuset Tumba",3,24,"Tumba GOIF",2
-"167","Fredrik Landin","Ormingehallen",3,24,"IBF Offensiv Lidingö (A)",1
-"168","Fredrik Landin","Ormingehallen",3,24,"Grimsta AIK",1
-"169","Fredrik Landin","Ormingehallen",3,24,"Huddinge IBS",1
-"170","Fredrik Landin","Ormingehallen",3,24,"Nacka Wallenstam IBK",3
-"171","Fredrik Landin","Råstaparkhallen",4,24,"Huddinge IBS",1
-"172","Fredrik Landin","Råstaparkhallen",4,24,"Åkersberga IBF (A)",1
-"173","Fredrik Landin","Råstaparkhallen",4,24,"Balrog B/S IK",1
-"174","Fredrik Landin","Råstaparkhallen",4,24,"Råsunda IS",4
-"175","Fredrik Landin","Råstaparkhallen",4,24,"IBF Offensiv Lidingö (A)",1
-"176","Fredrik Landin","Smedsgärdshallen",2,24,"IBF Offensiv Lidingö (A)",1
-"177","Fredrik Landin","Smedsgärdshallen",2,24,"Grimsta AIK",1
-"178","Fredrik Landin","Smedsgärdshallen",2,24,"Grimsta AIK",1
-"179","Fredrik Landin","Smedsgärdshallen",2,24,"Runby IBK",1
-"180","Fredrik Landin","Värmdö sporthall",3,24,"Värmdö IF (B)",1
-"181","Fredrik Landin","Värmdö sporthall",3,24,"Tumba GOIF",1
-"182","Fredrik Landin","Värmdö sporthall",3,24,"Värmdö IF (B)",2
-"183","Fredrik Landin","Värmdö sporthall",3,24,"Huddinge IBS",1
-"184","Fredrik Landin","Värmdö sporthall",3,24,"Ekerö IK",1
-"185","Fredrik Landin","Väsby skolan",2,24,"Hammarbyhöjden IBK",1
-"186","Fredrik Landin","Väsby skolan",2,24,"Runby IBK",1
-"187","Fredrik Landin","Väsby skolan",2,24,"Runby IBK",1
-"188","Fredrik Landin","Väsby skolan",2,24,"Värmdö IF (B)",1
-"189","Fredrik Landin","Västertorpshallen",3,24,"Ekerö IK",1
-"190","Fredrik Landin","Västertorpshallen",3,24,"Värmdö IF (B)",1
-"191","Fredrik Landin","Västertorpshallen",3,24,"Runby IBK",1
-"192","Fredrik Landin","Västertorpshallen",3,24,"Hammarbyhöjden IBK",3
-"193","Fredrik Landin","Åkersberga Sporthall A",1,24,"Hammarbyhöjden IBK",1
-"194","Fredrik Landin","Åkersberga Sporthall A",1,24,"Åkersberga IBF (A)",1
-"195","Håkan Augustsson","Bodals Bollhall",1,3,"Balrog B/S IK",1
-"196","Håkan Augustsson","Bodals Bollhall",1,3,"IBF Offensiv Lidingö (A)",1
-"197","Håkan Augustsson","Värmdö sporthall",2,3,"Nacka Wallenstam IBK",1
-"198","Håkan Augustsson","Värmdö sporthall",2,3,"Råsunda IS",1
-"199","Håkan Augustsson","Värmdö sporthall",2,3,"Värmdö IF (B)",2
-"200","Håkan Taxén","Råstaparkhallen",1,2,"Råsunda IS",1
-"201","Håkan Taxén","Råstaparkhallen",1,2,"Tumba GOIF",1
-"202","Håkan Taxén","Värmdö sporthall",1,2,"Värmdö IF (B)",1
-"203","Håkan Taxén","Värmdö sporthall",1,2,"Nacka Wallenstam IBK",1
-"204","Janne Ahonen","Ingarö Sporthall",1,1,"Balrog B/S IK",1
-"205","Janne Ahonen","Ingarö Sporthall",1,1,"Ingarö IF (A)",1
-"206","Jimmy Rittervall","Botkyrkahallen",1,19,"Balrog B/S IK",1
-"207","Jimmy Rittervall","Botkyrkahallen",1,19,"Råsunda IS",1
-"208","Jimmy Rittervall","Fleminghallen",2,19,"Tumba GOIF",1
-"209","Jimmy Rittervall","Fleminghallen",2,19,"Huddinge IBS ",2
-"210","Jimmy Rittervall","Fleminghallen",2,19,"Åkersberga IBF (A)",1
-"211","Jimmy Rittervall","Idrottshuset Tumba",2,19,"Tumba GOIF",2
-"212","Jimmy Rittervall","Idrottshuset Tumba",2,19,"Runby IBK",1
-"213","Jimmy Rittervall","Idrottshuset Tumba",2,19,"Nacka Wallenstam IBK",1
-"214","Jimmy Rittervall","Ormingehallen",3,19,"IBF Offensiv Lidingö (A)",1
-"215","Jimmy Rittervall","Ormingehallen",3,19,"Nacka Wallenstam IBK",3
-"216","Jimmy Rittervall","Ormingehallen",3,19,"Grimsta AIK",1
-"217","Jimmy Rittervall","Ormingehallen",3,19,"Huddinge IBS",1
-"218","Jimmy Rittervall","Råstaparkhallen",4,19,"Balrog B/S IK",1
-"219","Jimmy Rittervall","Råstaparkhallen",4,19,"Huddinge IBS",1
-"220","Jimmy Rittervall","Råstaparkhallen",4,19,"Åkersberga IBF (A)",1
-"221","Jimmy Rittervall","Råstaparkhallen",4,19,"IBF Offensiv Lidingö (A)",1
-"222","Jimmy Rittervall","Råstaparkhallen",4,19,"Råsunda IS",4
-"223","Jimmy Rittervall","Smedsgärdshallen",1,19,"Grimsta AIK",1
-"224","Jimmy Rittervall","Smedsgärdshallen",1,19,"Runby IBK",1
-"225","Jimmy Rittervall","Värmdö sporthall",2,19,"Huddinge IBS",1
-"226","Jimmy Rittervall","Värmdö sporthall",2,19,"Värmdö IF (B)",2
-"227","Jimmy Rittervall","Värmdö sporthall",2,19,"Åkersberga IBF (A)",1
-"228","Jimmy Rittervall","Väsby skolan",1,19,"Runby IBK",1
-"229","Jimmy Rittervall","Väsby skolan",1,19,"Hammarbyhöjden IBK",1
-"230","Jimmy Rittervall","Västertorpshallen",2,19,"Runby IBK",1
-"231","Jimmy Rittervall","Västertorpshallen",2,19,"Ekerö IK",1
-"232","Jimmy Rittervall","Västertorpshallen",2,19,"Hammarbyhöjden IBK",2
-"233","Jimmy Rittervall","Åkersberga Sporthall A",1,19,"Åkersberga IBF (A)",1
-"234","Jimmy Rittervall","Åkersberga Sporthall A",1,19,"Hammarbyhöjden IBK",1
-"235","Johan Jäderlund","Bodals Bollhall",1,6,"IBF Offensiv Lidingö (A)",1
-"236","Johan Jäderlund","Bodals Bollhall",1,6,"Tumba GOIF",1
-"237","Johan Jäderlund","Ingarö Sporthall",1,6,"Runby IBK",1
-"238","Johan Jäderlund","Ingarö Sporthall",1,6,"Ingarö IF (A)",1
-"239","Johan Jäderlund","Mälaröhallen",1,6,"Ekerö IK ",1
-"240","Johan Jäderlund","Mälaröhallen",1,6,"Råsunda IS",1
-"241","Johan Jäderlund","Ormingehallen",1,6,"Ekerö IK",1
-"242","Johan Jäderlund","Ormingehallen",1,6,"Nacka Wallenstam IBK",1
-"243","Johan Jäderlund","Smedsgärdshallen",1,6,"Åkersberga IBF (A)",1
-"244","Johan Jäderlund","Smedsgärdshallen",1,6,"Grimsta AIK",1
-"245","Johan Jäderlund","Värmdö sporthall",1,6,"Värmdö IF (B)",1
-"246","Johan Jäderlund","Värmdö sporthall",1,6,"IBF Offensiv Lidingö (A)",1
-"247","Johan Larsson","Botkyrkahallen",1,4,"Balrog B/S IK",1
-"248","Johan Larsson","Botkyrkahallen",1,4,"Ekerö IK",1
-"249","Johan Larsson","Ingarö Sporthall",1,4,"Ingarö IF (A)",1
-"250","Johan Larsson","Ingarö Sporthall",1,4,"Råsunda IS",1
-"251","Johan Larsson","Mälaröhallen",1,4,"Ekerö IK ",1
-"252","Johan Larsson","Mälaröhallen",1,4,"Åkersberga IBF (A)",1
-"253","Johan Larsson","Västertorpshallen",1,4,"Ingarö IF (A)",1
-"254","Johan Larsson","Västertorpshallen",1,4,"Hammarbyhöjden IBK",1
-"255","Johannes Ekenberg","Bodals Bollhall",3,17,"Hammarbyhöjden IBK",1
-"256","Johannes Ekenberg","Bodals Bollhall",3,17,"Värmdö IF (B)",1
-"257","Johannes Ekenberg","Bodals Bollhall",3,17,"Ekerö IK",1
-"258","Johannes Ekenberg","Bodals Bollhall",3,17,"IBF Offensiv Lidingö (A)",3
-"259","Johannes Ekenberg","Botkyrkahallen",1,17,"Balrog B/S IK",1
-"260","Johannes Ekenberg","Botkyrkahallen",1,17,"Nacka Wallenstam IBK",1
-"261","Johannes Ekenberg","Fleminghallen",1,17,"Nacka Wallenstam IBK",1
-"262","Johannes Ekenberg","Fleminghallen",1,17,"Huddinge IBS ",1
-"263","Johannes Ekenberg","Ingarö Sporthall",3,17,"Ingarö IF (A)",1
-"264","Johannes Ekenberg","Ingarö Sporthall",3,17,"Hammarbyhöjden IBK",1
-"265","Johannes Ekenberg","Ingarö Sporthall",3,17,"Ekerö IK",1
-"266","Johannes Ekenberg","Ingarö Sporthall",3,17,"Ingarö IF (A)",2
-"267","Johannes Ekenberg","Ingarö Sporthall",3,17,"Runby IBK",1
-"268","Johannes Ekenberg","Ormingehallen",1,17,"Råsunda IS",1
-"269","Johannes Ekenberg","Ormingehallen",1,17,"Nacka Wallenstam IBK",1
-"270","Johannes Ekenberg","Smedsgärdshallen",1,17,"Grimsta AIK",1
-"271","Johannes Ekenberg","Smedsgärdshallen",1,17,"Åkersberga IBF (A)",1
-"272","Johannes Ekenberg","Storvretens Sporthall",1,17,"Balrog B/S IK",1
-"273","Johannes Ekenberg","Storvretens Sporthall",1,17,"Åkersberga IBF (A)",1
-"274","Johannes Ekenberg","Värmdö sporthall",2,17,"Råsunda IS",1
-"275","Johannes Ekenberg","Värmdö sporthall",2,17,"Balrog B/S IK",1
-"276","Johannes Ekenberg","Värmdö sporthall",2,17,"Värmdö IF (B)",1
-"277","Johannes Ekenberg","Värmdö sporthall",2,17,"Värmdö IF (B)",1
-"278","Johannes Ekenberg","Väsby skolan",2,17,"Huddinge IBS",1
-"279","Johannes Ekenberg","Väsby skolan",2,17,"Runby IBK",1
-"280","Johannes Ekenberg","Väsby skolan",2,17,"Runby IBK",1
-"281","Johannes Ekenberg","Väsby skolan",2,17,"Grimsta AIK",1
-"282","Johannes Ekenberg","Västertorpshallen",1,17,"Hammarbyhöjden IBK",1
-"283","Johannes Ekenberg","Västertorpshallen",1,17,"Grimsta AIK",1
-"284","Johannes Ekenberg","Åkersberga Sporthall A",1,17,"Åkersberga IBF (A)",1
-"285","Johannes Ekenberg","Åkersberga Sporthall A",1,17,"Runby IBK",1
-"286","John Awabdeh","Bodals Bollhall",2,19,"Ingarö IF (A)",1
-"287","John Awabdeh","Bodals Bollhall",2,19,"Nacka Wallenstam IBK",1
-"288","John Awabdeh","Bodals Bollhall",2,19,"IBF Offensiv Lidingö (A)",2
-"289","John Awabdeh","Botkyrkahallen",2,19,"Värmdö IF (B)",1
-"290","John Awabdeh","Botkyrkahallen",2,19,"Balrog B/S IK",2
-"291","John Awabdeh","Botkyrkahallen",2,19,"IBF Offensiv Lidingö (A)",1
-"292","John Awabdeh","Idrottshuset Tumba",2,19,"Ingarö IF (A)",1
-"293","John Awabdeh","Idrottshuset Tumba",2,19,"Hammarbyhöjden IBK",1
-"294","John Awabdeh","Idrottshuset Tumba",2,19,"Tumba GOIF",2
-"295","John Awabdeh","Ingarö Sporthall",2,19,"Åkersberga IBF (A)",1
-"296","John Awabdeh","Ingarö Sporthall",2,19,"Ingarö IF (A)",2
-"297","John Awabdeh","Ingarö Sporthall",2,19,"IBF Offensiv Lidingö (A)",1
-"298","John Awabdeh","Mälaröhallen",1,19,"Ekerö IK ",1
-"299","John Awabdeh","Mälaröhallen",1,19,"Grimsta AIK",1
-"300","John Awabdeh","Råstaparkhallen",2,19,"Runby IBK",1
-"301","John Awabdeh","Råstaparkhallen",2,19,"Ingarö IF (A)",1
-"302","John Awabdeh","Råstaparkhallen",2,19,"Råsunda IS",2
-"303","John Awabdeh","Värmdö sporthall",2,19,"Värmdö IF (B)",2
-"304","John Awabdeh","Värmdö sporthall",2,19,"Grimsta AIK",1
-"305","John Awabdeh","Värmdö sporthall",2,19,"Hammarbyhöjden IBK",1
-"306","John Awabdeh","Väsby skolan",1,19,"Ekerö IK",1
-"307","John Awabdeh","Väsby skolan",1,19,"Runby IBK",1
-"308","John Awabdeh","Västertorpshallen",3,19,"Huddinge IBS",1
-"309","John Awabdeh","Västertorpshallen",3,19,"Nacka Wallenstam IBK",1
-"310","John Awabdeh","Västertorpshallen",3,19,"Hammarbyhöjden IBK",3
-"311","John Awabdeh","Västertorpshallen",3,19,"Tumba GOIF",1
-"312","John Awabdeh","Åkersberga Sporthall A",2,19,"Råsunda IS",1
-"313","John Awabdeh","Åkersberga Sporthall A",2,19,"Balrog B/S IK",1
-"314","John Awabdeh","Åkersberga Sporthall A",2,19,"Åkersberga IBF (A)",2
-"315","Jonas Edström","Bodals Bollhall",1,10,"Värmdö IF (B)",1
-"316","Jonas Edström","Bodals Bollhall",1,10,"IBF Offensiv Lidingö (A)",1
-"317","Jonas Edström","Botkyrkahallen",2,10,"Huddinge IBS",1
-"318","Jonas Edström","Botkyrkahallen",2,10,"Runby IBK",1
-"319","Jonas Edström","Botkyrkahallen",2,10,"Balrog B/S IK",2
-"320","Jonas Edström","Ingarö Sporthall",1,10,"Ingarö IF (A)",1
-"321","Jonas Edström","Ingarö Sporthall",1,10,"Huddinge IBS",1
-"322","Jonas Edström","Mälaröhallen",2,10,"Ekerö IK ",1
-"323","Jonas Edström","Mälaröhallen",2,10,"Värmdö IF (B)",1
-"324","Jonas Edström","Mälaröhallen",2,10,"Ekerö IK ",1
-"325","Jonas Edström","Mälaröhallen",2,10,"Nacka Wallenstam IBK",1
-"326","Jonas Edström","Råstaparkhallen",1,10,"Tumba GOIF",1
-"327","Jonas Edström","Råstaparkhallen",1,10,"Råsunda IS",1
-"328","Jonas Edström","Storvretens Sporthall",1,10,"Åkersberga IBF (A)",1
-"329","Jonas Edström","Storvretens Sporthall",1,10,"Balrog B/S IK",1
-"330","Jonas Edström","Åkersberga Sporthall A",2,10,"Runby IBK",1
-"331","Jonas Edström","Åkersberga Sporthall A",2,10,"Ingarö IF (A)",1
-"332","Jonas Edström","Åkersberga Sporthall A",2,10,"Åkersberga IBF (A)",2
-"333","Jonas Holm","Idrottshuset Tumba",1,1,"Grimsta AIK",1
-"334","Jonas Holm","Idrottshuset Tumba",1,1,"Tumba GOIF",1
-"335","Jonas Håmark","Fleminghallen",1,5,"Huddinge IBS ",1
-"336","Jonas Håmark","Fleminghallen",1,5,"Balrog B/S IK",1
-"337","Jonas Håmark","Ormingehallen",1,5,"Råsunda IS",1
-"338","Jonas Håmark","Ormingehallen",1,5,"Nacka Wallenstam IBK",1
-"339","Jonas Håmark","Värmdö sporthall",1,5,"Värmdö IF (B)",1
-"340","Jonas Håmark","Värmdö sporthall",1,5,"Ingarö IF (A)",1
-"341","Jonas Håmark","Väsby skolan",2,5,"Runby IBK",2
-"342","Jonas Håmark","Väsby skolan",2,5,"Ingarö IF (A)",1
-"343","Jonas Håmark","Väsby skolan",2,5,"Åkersberga IBF (A)",1
-"344","Jonathan Varli","Bodals Bollhall",2,17,"IBF Offensiv Lidingö (A)",2
-"345","Jonathan Varli","Bodals Bollhall",2,17,"Nacka Wallenstam IBK",1
-"346","Jonathan Varli","Bodals Bollhall",2,17,"Ingarö IF (A)",1
-"347","Jonathan Varli","Botkyrkahallen",1,17,"Balrog B/S IK",1
-"348","Jonathan Varli","Botkyrkahallen",1,17,"IBF Offensiv Lidingö (A)",1
-"349","Jonathan Varli","Idrottshuset Tumba",2,17,"Ingarö IF (A)",1
-"350","Jonathan Varli","Idrottshuset Tumba",2,17,"Hammarbyhöjden IBK",1
-"351","Jonathan Varli","Idrottshuset Tumba",2,17,"Tumba GOIF",2
-"352","Jonathan Varli","Ingarö Sporthall",2,17,"IBF Offensiv Lidingö (A)",1
-"353","Jonathan Varli","Ingarö Sporthall",2,17,"Ingarö IF (A)",2
-"354","Jonathan Varli","Ingarö Sporthall",2,17,"Åkersberga IBF (A)",1
-"355","Jonathan Varli","Mälaröhallen",1,17,"Ekerö IK ",1
-"356","Jonathan Varli","Mälaröhallen",1,17,"Grimsta AIK",1
-"357","Jonathan Varli","Råstaparkhallen",2,17,"Runby IBK",1
-"358","Jonathan Varli","Råstaparkhallen",2,17,"Råsunda IS",2
-"359","Jonathan Varli","Råstaparkhallen",2,17,"Ingarö IF (A)",1
-"360","Jonathan Varli","Värmdö sporthall",2,17,"Värmdö IF (B)",2
-"361","Jonathan Varli","Värmdö sporthall",2,17,"Grimsta AIK",1
-"362","Jonathan Varli","Värmdö sporthall",2,17,"Hammarbyhöjden IBK",1
-"363","Jonathan Varli","Väsby skolan",1,17,"Runby IBK",1
-"364","Jonathan Varli","Väsby skolan",1,17,"Ekerö IK",1
-"365","Jonathan Varli","Västertorpshallen",2,17,"Hammarbyhöjden IBK",2
-"366","Jonathan Varli","Västertorpshallen",2,17,"Huddinge IBS",1
-"367","Jonathan Varli","Västertorpshallen",2,17,"Nacka Wallenstam IBK",1
-"368","Jonathan Varli","Åkersberga Sporthall A",2,17,"Balrog B/S IK",1
-"369","Jonathan Varli","Åkersberga Sporthall A",2,17,"Åkersberga IBF (A)",2
-"370","Jonathan Varli","Åkersberga Sporthall A",2,17,"Råsunda IS",1
-"371","Kari Karke","Botkyrkahallen",1,7,"Balrog B/S IK",1
-"372","Kari Karke","Botkyrkahallen",1,7,"Ingarö IF (A)",1
-"373","Kari Karke","Fleminghallen",2,7,"Huddinge IBS ",2
-"374","Kari Karke","Fleminghallen",2,7,"Grimsta AIK",1
-"375","Kari Karke","Fleminghallen",2,7,"Värmdö IF (B)",1
-"376","Kari Karke","Ormingehallen",1,7,"Hammarbyhöjden IBK",1
-"377","Kari Karke","Ormingehallen",1,7,"Nacka Wallenstam IBK",1
-"378","Kari Karke","Smedsgärdshallen",2,7,"Ingarö IF (A)",1
-"379","Kari Karke","Smedsgärdshallen",2,7,"Nacka Wallenstam IBK",1
-"380","Kari Karke","Smedsgärdshallen",2,7,"Runby IBK",1
-"381","Kari Karke","Smedsgärdshallen",2,7,"Grimsta AIK",1
-"382","Kari Karke","Västertorpshallen",1,7,"Hammarbyhöjden IBK",1
-"383","Kari Karke","Västertorpshallen",1,7,"IBF Offensiv Lidingö (A)",1
-"384","Kari Malmros","Väsby skolan",1,1,"IBF Offensiv Lidingö (A)",1
-"385","Kari Malmros","Väsby skolan",1,1,"Runby IBK",1
-"386","Linus Löfstedt","Smedsgärdshallen",1,2,"Värmdö IF (B)",1
-"387","Linus Löfstedt","Smedsgärdshallen",1,2,"Grimsta AIK",1
-"388","Linus Löfstedt","Åkersberga Sporthall A",1,2,"Åkersberga IBF (A)",1
-"389","Linus Löfstedt","Åkersberga Sporthall A",1,2,"Tumba GOIF",1
-"390","Linus Warrenstein","Bodals Bollhall",1,1,"Råsunda IS",1
-"391","Linus Warrenstein","Bodals Bollhall",1,1,"IBF Offensiv Lidingö (A)",1
-"392","Magnus Johansson","Botkyrkahallen",1,4,"Balrog B/S IK",1
-"393","Magnus Johansson","Botkyrkahallen",1,4,"Tumba GOIF",1
-"394","Magnus Johansson","Mälaröhallen",1,4,"Tumba GOIF",1
-"395","Magnus Johansson","Mälaröhallen",1,4,"Ekerö IK ",1
-"396","Magnus Johansson","Storvretens Sporthall",1,4,"IBF Offensiv Lidingö (A)",1
-"397","Magnus Johansson","Storvretens Sporthall",1,4,"Tumba GOIF",1
-"398","Magnus Johansson","Åkersberga Sporthall A",1,4,"Värmdö IF (B)",1
-"399","Magnus Johansson","Åkersberga Sporthall A",1,4,"Åkersberga IBF (A)",1
-"400","Martin Johansson","Ingarö Sporthall",1,17,"Ingarö IF (A)",1
-"401","Martin Johansson","Ingarö Sporthall",1,17,"Grimsta AIK",1
-"402","Martin Johansson","Mälaröhallen",3,17,"Ekerö IK ",1
-"403","Martin Johansson","Mälaröhallen",3,17,"Råsunda IS",1
-"404","Martin Johansson","Mälaröhallen",3,17,"Runby IBK",1
-"405","Martin Johansson","Mälaröhallen",3,17,"Ingarö IF (A)",1
-"406","Martin Johansson","Mälaröhallen",3,17,"Ekerö IK ",2
-"407","Martin Johansson","Ormingehallen",4,17,"Värmdö IF (B)",1
-"408","Martin Johansson","Ormingehallen",4,17,"Åkersberga IBF (A)",1
-"409","Martin Johansson","Ormingehallen",4,17,"Balrog B/S IK",1
-"410","Martin Johansson","Ormingehallen",4,17,"Nacka Wallenstam IBK",4
-"411","Martin Johansson","Ormingehallen",4,17,"Runby IBK",1
-"412","Martin Johansson","Råstaparkhallen",2,17,"Råsunda IS",2
-"413","Martin Johansson","Råstaparkhallen",2,17,"Nacka Wallenstam IBK",1
-"414","Martin Johansson","Råstaparkhallen",2,17,"Hammarbyhöjden IBK",1
-"415","Martin Johansson","Smedsgärdshallen",1,17,"Grimsta AIK",1
-"416","Martin Johansson","Smedsgärdshallen",1,17,"Tumba GOIF",1
-"417","Martin Johansson","Värmdö sporthall",2,17,"Tumba GOIF",1
-"418","Martin Johansson","Värmdö sporthall",2,17,"Balrog B/S IK",1
-"419","Martin Johansson","Värmdö sporthall",2,17,"Värmdö IF (B)",1
-"420","Martin Johansson","Värmdö sporthall",2,17,"Värmdö IF (B)",1
-"421","Martin Johansson","Västertorpshallen",2,17,"Tumba GOIF",1
-"422","Martin Johansson","Västertorpshallen",2,17,"Hammarbyhöjden IBK",2
-"423","Martin Johansson","Västertorpshallen",2,17,"Åkersberga IBF (A)",1
-"424","Martin Johansson","Åkersberga Sporthall A",2,17,"Åkersberga IBF (A)",2
-"425","Martin Johansson","Åkersberga Sporthall A",2,17,"IBF Offensiv Lidingö (A)",1
-"426","Martin Johansson","Åkersberga Sporthall A",2,17,"Grimsta AIK",1
-"427","Mattias Lönnborg","Fleminghallen",1,2,"Tumba GOIF",1
-"428","Mattias Lönnborg","Fleminghallen",1,2,"Huddinge IBS ",1
-"429","Mattias Lönnborg","Idrottshuset Tumba",1,2,"Värmdö IF (B)",1
-"430","Mattias Lönnborg","Idrottshuset Tumba",1,2,"Tumba GOIF",1
-"431","Mikael Andersson","Idrottshuset Tumba",1,1,"Tumba GOIF",1
-"432","Mikael Andersson","Idrottshuset Tumba",1,1,"Balrog B/S IK",1
-"433","Nicklas Sundgren","Fleminghallen",1,2,"Hammarbyhöjden IBK",1
-"434","Nicklas Sundgren","Fleminghallen",1,2,"Huddinge IBS ",1
-"435","Nicklas Sundgren","Väsby skolan",1,2,"Runby IBK",1
-"436","Nicklas Sundgren","Väsby skolan",1,2,"IBF Offensiv Lidingö (A)",1
-"437","Nihada Cenanovic","Råstaparkhallen",1,2,"Ekerö IK",1
-"438","Nihada Cenanovic","Råstaparkhallen",1,2,"Råsunda IS",1
-"439","Nihada Cenanovic","Storvretens Sporthall",1,2,"Tumba GOIF",1
-"440","Nihada Cenanovic","Storvretens Sporthall",1,2,"Ekerö IK",1
-"441","Patric Terelius","Fleminghallen",1,3,"Huddinge IBS ",1
-"442","Patric Terelius","Fleminghallen",1,3,"Grimsta AIK",1
-"443","Patric Terelius","Ingarö Sporthall",1,3,"Nacka Wallenstam IBK",1
-"444","Patric Terelius","Ingarö Sporthall",1,3,"Ingarö IF (A)",1
-"445","Patric Terelius","Ormingehallen",1,3,"Hammarbyhöjden IBK",1
-"446","Patric Terelius","Ormingehallen",1,3,"Nacka Wallenstam IBK",1
-"447","Roland Nester","Mälaröhallen",2,4,"Huddinge IBS",1
-"448","Roland Nester","Mälaröhallen",2,4,"Ekerö IK ",2
-"449","Roland Nester","Mälaröhallen",2,4,"Värmdö IF (B)",1
-"450","Roland Nester","Smedsgärdshallen",1,4,"Ekerö IK",1
-"451","Roland Nester","Smedsgärdshallen",1,4,"Grimsta AIK",1
-"452","Roland Nester","Åkersberga Sporthall A",1,4,"Huddinge IBS",1
-"453","Roland Nester","Åkersberga Sporthall A",1,4,"Åkersberga IBF (A)",1
-"454","Sebastian Öhman","Mälaröhallen",1,1,"Åkersberga IBF (A)",1
-"455","Sebastian Öhman","Mälaröhallen",1,1,"Ekerö IK ",1
-"456","Shari Tingman","Botkyrkahallen",1,4,"Runby IBK",1
-"457","Shari Tingman","Botkyrkahallen",1,4,"Balrog B/S IK",1
-"458","Shari Tingman","Eriksdalshallen",1,4,"Råsunda IS",1
-"459","Shari Tingman","Eriksdalshallen",1,4,"Hammarbyhöjden IBK",1
-"460","Shari Tingman","Idrottshuset Tumba",1,4,"Balrog B/S IK",1
-"461","Shari Tingman","Idrottshuset Tumba",1,4,"Tumba GOIF",1
-"462","Shari Tingman","Väsby skolan",1,4,"Runby IBK",1
-"463","Shari Tingman","Väsby skolan",1,4,"Balrog B/S IK",1
-"464","Stefano Bianque","Bodals Bollhall",3,6,"Huddinge IBS",1
-"465","Stefano Bianque","Bodals Bollhall",3,6,"IBF Offensiv Lidingö (A)",3
-"466","Stefano Bianque","Bodals Bollhall",3,6,"Råsunda IS",1
-"467","Stefano Bianque","Bodals Bollhall",3,6,"Hammarbyhöjden IBK",1
-"468","Stefano Bianque","Fleminghallen",1,6,"Huddinge IBS ",1
-"469","Stefano Bianque","Fleminghallen",1,6,"Ekerö IK",1
-"470","Stefano Bianque","Ingarö Sporthall",1,6,"Hammarbyhöjden IBK",1
-"471","Stefano Bianque","Ingarö Sporthall",1,6,"Ingarö IF (A)",1
-"472","Stefano Bianque","Värmdö sporthall",1,6,"Ekerö IK",1
-"473","Stefano Bianque","Värmdö sporthall",1,6,"Värmdö IF (B)",1
-"474","Therese Jensen","Botkyrkahallen",1,2,"Huddinge IBS",1
-"475","Therese Jensen","Botkyrkahallen",1,2,"Balrog B/S IK",1
-"476","Therese Jensen","Fleminghallen",1,2,"Hammarbyhöjden IBK",1
-"477","Therese Jensen","Fleminghallen",1,2,"Huddinge IBS ",1
-"478","Tim Sandström","Botkyrkahallen",1,4,"Balrog B/S IK",1
-"479","Tim Sandström","Botkyrkahallen",1,4,"Tumba GOIF",1
-"480","Tim Sandström","Mälaröhallen",1,4,"Ekerö IK ",1
-"481","Tim Sandström","Mälaröhallen",1,4,"Tumba GOIF",1
-"482","Tim Sandström","Storvretens Sporthall",1,4,"Tumba GOIF",1
-"483","Tim Sandström","Storvretens Sporthall",1,4,"IBF Offensiv Lidingö (A)",1
-"484","Tim Sandström","Åkersberga Sporthall A",1,4,"Värmdö IF (B)",1
-"485","Tim Sandström","Åkersberga Sporthall A",1,4,"Åkersberga IBF (A)",1
-"486","Tobias Berger","Idrottshuset Tumba",1,4,"Åkersberga IBF (A)",1
-"487","Tobias Berger","Idrottshuset Tumba",1,4,"Tumba GOIF",1
-"488","Tobias Berger","Ingarö Sporthall",1,4,"Ingarö IF (A)",1
-"489","Tobias Berger","Ingarö Sporthall",1,4,"Tumba GOIF",1
-"490","Tobias Berger","Ormingehallen",1,4,"Ekerö IK",1
-"491","Tobias Berger","Ormingehallen",1,4,"Nacka Wallenstam IBK",1
-"492","Tobias Berger","Västertorpshallen",1,4,"Hammarbyhöjden IBK",1
-"493","Tobias Berger","Västertorpshallen",1,4,"IBF Offensiv Lidingö (A)",1
-"494","Tobias Ekmark","Åkersberga Sporthall A",1,1,"Ekerö IK",1
-"495","Tobias Ekmark","Åkersberga Sporthall A",1,1,"Åkersberga IBF (A)",1
+"43","Arash Sohrevardi","Smedsgärdshallen",2,4,"Grimsta AIK",2
+"44","Arash Sohrevardi","Smedsgärdshallen",2,4,"Ingarö IF (A)",1
+"45","Arash Sohrevardi","Västertorpshallen",2,4,"Balrog B/S IK",1
+"46","Arash Sohrevardi","Västertorpshallen",2,4,"Värmdö IF (B)",1
+"47","Arash Sohrevardi","Västertorpshallen",2,4,"Hammarbyhöjden IBK",2
+"48","Björn Landin","Bodals Bollhall",1,3,"IBF Offensiv Lidingö (A)",1
+"49","Björn Landin","Bodals Bollhall",1,3,"Åkersberga IBF (A)",1
+"50","Björn Landin","Mälaröhallen",1,3,"Huddinge IBS",1
+"51","Björn Landin","Mälaröhallen",1,3,"Ekerö IK ",1
+"52","Björn Landin","Smedsgärdshallen",1,3,"Ekerö IK",1
+"53","Björn Landin","Smedsgärdshallen",1,3,"Grimsta AIK",1
+"54","Christian Högberg","Bodals Bollhall",2,25,"Grimsta AIK",1
+"55","Christian Högberg","Bodals Bollhall",2,25,"Runby IBK",1
+"56","Christian Högberg","Bodals Bollhall",2,25,"IBF Offensiv Lidingö (A)",2
+"57","Christian Högberg","Botkyrkahallen",1,25,"Balrog B/S IK",1
+"58","Christian Högberg","Botkyrkahallen",1,25,"Ingarö IF (A)",1
+"59","Christian Högberg","Ingarö Sporthall",2,25,"Ingarö IF (A)",2
+"60","Christian Högberg","Ingarö Sporthall",2,25,"Grimsta AIK",1
+"61","Christian Högberg","Ingarö Sporthall",2,25,"Värmdö IF (B)",1
+"62","Christian Högberg","Mälaröhallen",3,25,"Ekerö IK ",3
+"63","Christian Högberg","Mälaröhallen",3,25,"Ingarö IF (A)",1
+"64","Christian Högberg","Mälaröhallen",3,25,"Runby IBK",1
+"65","Christian Högberg","Mälaröhallen",3,25,"Balrog B/S IK",1
+"66","Christian Högberg","Ormingehallen",4,25,"Ingarö IF (A)",1
+"67","Christian Högberg","Ormingehallen",4,25,"Nacka Wallenstam IBK",4
+"68","Christian Högberg","Ormingehallen",4,25,"Åkersberga IBF (A)",1
+"69","Christian Högberg","Ormingehallen",4,25,"Balrog B/S IK",1
+"70","Christian Högberg","Ormingehallen",4,25,"Värmdö IF (B)",1
+"71","Christian Högberg","Råstaparkhallen",2,25,"Hammarbyhöjden IBK",1
+"72","Christian Högberg","Råstaparkhallen",2,25,"Nacka Wallenstam IBK",1
+"73","Christian Högberg","Råstaparkhallen",2,25,"Råsunda IS",2
+"74","Christian Högberg","Smedsgärdshallen",4,25,"Grimsta AIK",3
+"75","Christian Högberg","Smedsgärdshallen",4,25,"Huddinge IBS",1
+"76","Christian Högberg","Smedsgärdshallen",4,25,"Runby IBK",1
+"77","Christian Högberg","Smedsgärdshallen",4,25,"Nacka Wallenstam IBK",1
+"78","Christian Högberg","Smedsgärdshallen",4,25,"Råsunda IS",1
+"79","Christian Högberg","Smedsgärdshallen",4,25,"Tumba GOIF",1
+"80","Christian Högberg","Väsby skolan",2,25,"Runby IBK",1
+"81","Christian Högberg","Väsby skolan",2,25,"Tumba GOIF",1
+"82","Christian Högberg","Väsby skolan",2,25,"Runby IBK",1
+"83","Christian Högberg","Väsby skolan",2,25,"Värmdö IF (B)",1
+"84","Christian Högberg","Åkersberga Sporthall A",5,25,"Åkersberga IBF (A)",2
+"85","Christian Högberg","Åkersberga Sporthall A",5,25,"Åkersberga IBF (A)",3
+"86","Christian Högberg","Åkersberga Sporthall A",5,25,"Ekerö IK",1
+"87","Christian Högberg","Åkersberga Sporthall A",5,25,"Huddinge IBS",1
+"88","Christian Högberg","Åkersberga Sporthall A",5,25,"IBF Offensiv Lidingö (A)",1
+"89","Christian Högberg","Åkersberga Sporthall A",5,25,"Grimsta AIK",1
+"90","Christian Högberg","Åkersberga Sporthall A",5,25,"Ingarö IF (A)",1
+"91","Christoffer Markovski","Bodals Bollhall",1,4,"IBF Offensiv Lidingö (A)",1
+"92","Christoffer Markovski","Bodals Bollhall",1,4,"Balrog B/S IK",1
+"93","Christoffer Markovski","Fleminghallen",2,4,"Runby IBK",1
+"94","Christoffer Markovski","Fleminghallen",2,4,"Ekerö IK",1
+"95","Christoffer Markovski","Fleminghallen",2,4,"Huddinge IBS ",2
+"96","Christoffer Markovski","Ingarö Sporthall",1,4,"Nacka Wallenstam IBK",1
+"97","Christoffer Markovski","Ingarö Sporthall",1,4,"Ingarö IF (A)",1
+"98","Daniel Kölborn","Fleminghallen",1,1,"Huddinge IBS ",1
+"99","Daniel Kölborn","Fleminghallen",1,1,"Värmdö IF (B)",1
+"100","Daniel Mårtensson","Bodals Bollhall",2,6,"Runby IBK",1
+"101","Daniel Mårtensson","Bodals Bollhall",2,6,"Grimsta AIK",1
+"102","Daniel Mårtensson","Bodals Bollhall",2,6,"IBF Offensiv Lidingö (A)",2
+"103","Daniel Mårtensson","Botkyrkahallen",1,6,"Värmdö IF (B)",1
+"104","Daniel Mårtensson","Botkyrkahallen",1,6,"Balrog B/S IK",1
+"105","Daniel Mårtensson","Idrottshuset Tumba",1,6,"Värmdö IF (B)",1
+"106","Daniel Mårtensson","Idrottshuset Tumba",1,6,"Tumba GOIF",1
+"107","Daniel Mårtensson","Ormingehallen",1,6,"Nacka Wallenstam IBK",1
+"108","Daniel Mårtensson","Ormingehallen",1,6,"Tumba GOIF",1
+"109","Daniel Mårtensson","Smedsgärdshallen",1,6,"Hammarbyhöjden IBK",1
+"110","Daniel Mårtensson","Smedsgärdshallen",1,6,"Grimsta AIK",1
+"111","Dawan Mofak","Mälaröhallen",1,1,"Ekerö IK ",1
+"112","Dawan Mofak","Mälaröhallen",1,1,"IBF Offensiv Lidingö (A)",1
+"113","David Berger","Idrottshuset Tumba",1,3,"Tumba GOIF",1
+"114","David Berger","Idrottshuset Tumba",1,3,"Åkersberga IBF (A)",1
+"115","David Berger","Ingarö Sporthall",1,3,"Ingarö IF (A)",1
+"116","David Berger","Ingarö Sporthall",1,3,"Tumba GOIF",1
+"117","David Berger","Ormingehallen",1,3,"Nacka Wallenstam IBK",1
+"118","David Berger","Ormingehallen",1,3,"Runby IBK",1
+"119","Elis Erbing","Eriksdalshallen",1,10,"Råsunda IS",1
+"120","Elis Erbing","Eriksdalshallen",1,10,"Hammarbyhöjden IBK",1
+"121","Elis Erbing","Fleminghallen",2,10,"Huddinge IBS ",2
+"122","Elis Erbing","Fleminghallen",2,10,"IBF Offensiv Lidingö (A)",1
+"123","Elis Erbing","Fleminghallen",2,10,"Nacka Wallenstam IBK",1
+"124","Elis Erbing","Idrottshuset Tumba",1,10,"Huddinge IBS",1
+"125","Elis Erbing","Idrottshuset Tumba",1,10,"Tumba GOIF",1
+"126","Elis Erbing","Råstaparkhallen",2,10,"Värmdö IF (B)",1
+"127","Elis Erbing","Råstaparkhallen",2,10,"Grimsta AIK",1
+"128","Elis Erbing","Råstaparkhallen",2,10,"Råsunda IS",2
+"129","Elis Erbing","Smedsgärdshallen",2,10,"Nacka Wallenstam IBK",1
+"130","Elis Erbing","Smedsgärdshallen",2,10,"Hammarbyhöjden IBK",1
+"131","Elis Erbing","Smedsgärdshallen",2,10,"Grimsta AIK",1
+"132","Elis Erbing","Smedsgärdshallen",2,10,"Grimsta AIK",1
+"133","Elis Erbing","Väsby skolan",1,10,"Balrog B/S IK",1
+"134","Elis Erbing","Väsby skolan",1,10,"Runby IBK",1
+"135","Elis Erbing","Västertorpshallen",1,10,"Hammarbyhöjden IBK",1
+"136","Elis Erbing","Västertorpshallen",1,10,"Åkersberga IBF (A)",1
+"137","Emil Glenngård","Väsby skolan",1,1,"Tumba GOIF",1
+"138","Emil Glenngård","Väsby skolan",1,1,"Runby IBK",1
+"139","Emilia Tuomela","Idrottshuset Tumba",1,1,"Grimsta AIK",1
+"140","Emilia Tuomela","Idrottshuset Tumba",1,1,"Tumba GOIF",1
+"141","Fabian Fahimi","Fleminghallen",1,4,"Huddinge IBS ",1
+"142","Fabian Fahimi","Fleminghallen",1,4,"Ingarö IF (A)",1
+"143","Fabian Fahimi","Smedsgärdshallen",1,4,"Balrog B/S IK",1
+"144","Fabian Fahimi","Smedsgärdshallen",1,4,"Grimsta AIK",1
+"145","Fabian Fahimi","Väsby skolan",1,4,"Runby IBK",1
+"146","Fabian Fahimi","Väsby skolan",1,4,"Grimsta AIK",1
+"147","Fabian Fahimi","Åkersberga Sporthall A",1,4,"Åkersberga IBF (A)",1
+"148","Fabian Fahimi","Åkersberga Sporthall A",1,4,"Tumba GOIF",1
+"149","Fadi Saffo","Botkyrkahallen",1,1,"Balrog B/S IK",1
+"150","Fadi Saffo","Botkyrkahallen",1,1,"Grimsta AIK",1
+"151","Fredrik Berglund Sonesson","Bodals Bollhall",1,11,"IBF Offensiv Lidingö (A)",1
+"152","Fredrik Berglund Sonesson","Bodals Bollhall",1,11,"Ekerö IK",1
+"153","Fredrik Berglund Sonesson","Botkyrkahallen",1,11,"Balrog B/S IK",1
+"154","Fredrik Berglund Sonesson","Botkyrkahallen",1,11,"Ekerö IK",1
+"155","Fredrik Berglund Sonesson","Fleminghallen",1,11,"Huddinge IBS ",1
+"156","Fredrik Berglund Sonesson","Fleminghallen",1,11,"Råsunda IS",1
+"157","Fredrik Berglund Sonesson","Ingarö Sporthall",3,11,"Ingarö IF (A)",3
+"158","Fredrik Berglund Sonesson","Ingarö Sporthall",3,11,"Ekerö IK",1
+"159","Fredrik Berglund Sonesson","Ingarö Sporthall",3,11,"Huddinge IBS",1
+"160","Fredrik Berglund Sonesson","Ingarö Sporthall",3,11,"Råsunda IS",1
+"161","Fredrik Berglund Sonesson","Smedsgärdshallen",2,11,"Värmdö IF (B)",1
+"162","Fredrik Berglund Sonesson","Smedsgärdshallen",2,11,"IBF Offensiv Lidingö (A)",1
+"163","Fredrik Berglund Sonesson","Smedsgärdshallen",2,11,"Grimsta AIK",2
+"164","Fredrik Berglund Sonesson","Värmdö sporthall",2,11,"Värmdö IF (B)",2
+"165","Fredrik Berglund Sonesson","Värmdö sporthall",2,11,"IBF Offensiv Lidingö (A)",1
+"166","Fredrik Berglund Sonesson","Värmdö sporthall",2,11,"Åkersberga IBF (A)",1
+"167","Fredrik Berglund Sonesson","Västertorpshallen",1,11,"Ingarö IF (A)",1
+"168","Fredrik Berglund Sonesson","Västertorpshallen",1,11,"Hammarbyhöjden IBK",1
+"169","Fredrik Landin","Bodals Bollhall",1,26,"Huddinge IBS",1
+"170","Fredrik Landin","Bodals Bollhall",1,26,"IBF Offensiv Lidingö (A)",1
+"171","Fredrik Landin","Botkyrkahallen",2,26,"Balrog B/S IK",2
+"172","Fredrik Landin","Botkyrkahallen",2,26,"Råsunda IS",1
+"173","Fredrik Landin","Botkyrkahallen",2,26,"Hammarbyhöjden IBK",1
+"174","Fredrik Landin","Fleminghallen",1,26,"Huddinge IBS ",1
+"175","Fredrik Landin","Fleminghallen",1,26,"Åkersberga IBF (A)",1
+"176","Fredrik Landin","Idrottshuset Tumba",3,26,"Tumba GOIF",1
+"177","Fredrik Landin","Idrottshuset Tumba",3,26,"Tumba GOIF",2
+"178","Fredrik Landin","Idrottshuset Tumba",3,26,"Runby IBK",1
+"179","Fredrik Landin","Idrottshuset Tumba",3,26,"Nacka Wallenstam IBK",1
+"180","Fredrik Landin","Idrottshuset Tumba",3,26,"Huddinge IBS",1
+"181","Fredrik Landin","Mälaröhallen",1,26,"Hammarbyhöjden IBK",1
+"182","Fredrik Landin","Mälaröhallen",1,26,"Ekerö IK ",1
+"183","Fredrik Landin","Ormingehallen",3,26,"Nacka Wallenstam IBK",3
+"184","Fredrik Landin","Ormingehallen",3,26,"IBF Offensiv Lidingö (A)",1
+"185","Fredrik Landin","Ormingehallen",3,26,"Grimsta AIK",1
+"186","Fredrik Landin","Ormingehallen",3,26,"Huddinge IBS",1
+"187","Fredrik Landin","Råstaparkhallen",4,26,"Åkersberga IBF (A)",1
+"188","Fredrik Landin","Råstaparkhallen",4,26,"Huddinge IBS",1
+"189","Fredrik Landin","Råstaparkhallen",4,26,"IBF Offensiv Lidingö (A)",1
+"190","Fredrik Landin","Råstaparkhallen",4,26,"Balrog B/S IK",1
+"191","Fredrik Landin","Råstaparkhallen",4,26,"Råsunda IS",4
+"192","Fredrik Landin","Smedsgärdshallen",2,26,"Runby IBK",1
+"193","Fredrik Landin","Smedsgärdshallen",2,26,"IBF Offensiv Lidingö (A)",1
+"194","Fredrik Landin","Smedsgärdshallen",2,26,"Grimsta AIK",1
+"195","Fredrik Landin","Smedsgärdshallen",2,26,"Grimsta AIK",1
+"196","Fredrik Landin","Värmdö sporthall",3,26,"Tumba GOIF",1
+"197","Fredrik Landin","Värmdö sporthall",3,26,"Huddinge IBS",1
+"198","Fredrik Landin","Värmdö sporthall",3,26,"Värmdö IF (B)",1
+"199","Fredrik Landin","Värmdö sporthall",3,26,"Värmdö IF (B)",2
+"200","Fredrik Landin","Värmdö sporthall",3,26,"Ekerö IK",1
+"201","Fredrik Landin","Väsby skolan",2,26,"Hammarbyhöjden IBK",1
+"202","Fredrik Landin","Väsby skolan",2,26,"Värmdö IF (B)",1
+"203","Fredrik Landin","Väsby skolan",2,26,"Runby IBK",1
+"204","Fredrik Landin","Väsby skolan",2,26,"Runby IBK",1
+"205","Fredrik Landin","Västertorpshallen",3,26,"Värmdö IF (B)",1
+"206","Fredrik Landin","Västertorpshallen",3,26,"Hammarbyhöjden IBK",3
+"207","Fredrik Landin","Västertorpshallen",3,26,"Ekerö IK",1
+"208","Fredrik Landin","Västertorpshallen",3,26,"Runby IBK",1
+"209","Fredrik Landin","Åkersberga Sporthall A",1,26,"Hammarbyhöjden IBK",1
+"210","Fredrik Landin","Åkersberga Sporthall A",1,26,"Åkersberga IBF (A)",1
+"211","Håkan Augustsson","Bodals Bollhall",1,3,"IBF Offensiv Lidingö (A)",1
+"212","Håkan Augustsson","Bodals Bollhall",1,3,"Balrog B/S IK",1
+"213","Håkan Augustsson","Värmdö sporthall",2,3,"Nacka Wallenstam IBK",1
+"214","Håkan Augustsson","Värmdö sporthall",2,3,"Värmdö IF (B)",2
+"215","Håkan Augustsson","Värmdö sporthall",2,3,"Råsunda IS",1
+"216","Håkan Taxén","Råstaparkhallen",1,2,"Tumba GOIF",1
+"217","Håkan Taxén","Råstaparkhallen",1,2,"Råsunda IS",1
+"218","Håkan Taxén","Värmdö sporthall",1,2,"Värmdö IF (B)",1
+"219","Håkan Taxén","Värmdö sporthall",1,2,"Nacka Wallenstam IBK",1
+"220","Janne Ahonen","Ingarö Sporthall",1,1,"Ingarö IF (A)",1
+"221","Janne Ahonen","Ingarö Sporthall",1,1,"Balrog B/S IK",1
+"222","Jesper Rygert","Mälaröhallen",1,1,"Ekerö IK ",1
+"223","Jesper Rygert","Mälaröhallen",1,1,"IBF Offensiv Lidingö (A)",1
+"224","Jimmy Rittervall","Botkyrkahallen",2,21,"Råsunda IS",1
+"225","Jimmy Rittervall","Botkyrkahallen",2,21,"Hammarbyhöjden IBK",1
+"226","Jimmy Rittervall","Botkyrkahallen",2,21,"Balrog B/S IK",2
+"227","Jimmy Rittervall","Fleminghallen",2,21,"Huddinge IBS ",2
+"228","Jimmy Rittervall","Fleminghallen",2,21,"Tumba GOIF",1
+"229","Jimmy Rittervall","Fleminghallen",2,21,"Åkersberga IBF (A)",1
+"230","Jimmy Rittervall","Idrottshuset Tumba",2,21,"Nacka Wallenstam IBK",1
+"231","Jimmy Rittervall","Idrottshuset Tumba",2,21,"Runby IBK",1
+"232","Jimmy Rittervall","Idrottshuset Tumba",2,21,"Tumba GOIF",2
+"233","Jimmy Rittervall","Mälaröhallen",1,21,"Ekerö IK ",1
+"234","Jimmy Rittervall","Mälaröhallen",1,21,"Hammarbyhöjden IBK",1
+"235","Jimmy Rittervall","Ormingehallen",3,21,"Grimsta AIK",1
+"236","Jimmy Rittervall","Ormingehallen",3,21,"Huddinge IBS",1
+"237","Jimmy Rittervall","Ormingehallen",3,21,"IBF Offensiv Lidingö (A)",1
+"238","Jimmy Rittervall","Ormingehallen",3,21,"Nacka Wallenstam IBK",3
+"239","Jimmy Rittervall","Råstaparkhallen",4,21,"Balrog B/S IK",1
+"240","Jimmy Rittervall","Råstaparkhallen",4,21,"IBF Offensiv Lidingö (A)",1
+"241","Jimmy Rittervall","Råstaparkhallen",4,21,"Huddinge IBS",1
+"242","Jimmy Rittervall","Råstaparkhallen",4,21,"Åkersberga IBF (A)",1
+"243","Jimmy Rittervall","Råstaparkhallen",4,21,"Råsunda IS",4
+"244","Jimmy Rittervall","Smedsgärdshallen",1,21,"Grimsta AIK",1
+"245","Jimmy Rittervall","Smedsgärdshallen",1,21,"Runby IBK",1
+"246","Jimmy Rittervall","Värmdö sporthall",2,21,"Värmdö IF (B)",2
+"247","Jimmy Rittervall","Värmdö sporthall",2,21,"Åkersberga IBF (A)",1
+"248","Jimmy Rittervall","Värmdö sporthall",2,21,"Huddinge IBS",1
+"249","Jimmy Rittervall","Väsby skolan",1,21,"Runby IBK",1
+"250","Jimmy Rittervall","Väsby skolan",1,21,"Hammarbyhöjden IBK",1
+"251","Jimmy Rittervall","Västertorpshallen",2,21,"Ekerö IK",1
+"252","Jimmy Rittervall","Västertorpshallen",2,21,"Runby IBK",1
+"253","Jimmy Rittervall","Västertorpshallen",2,21,"Hammarbyhöjden IBK",2
+"254","Jimmy Rittervall","Åkersberga Sporthall A",1,21,"Åkersberga IBF (A)",1
+"255","Jimmy Rittervall","Åkersberga Sporthall A",1,21,"Hammarbyhöjden IBK",1
+"256","Johan Jäderlund","Bodals Bollhall",1,7,"Tumba GOIF",1
+"257","Johan Jäderlund","Bodals Bollhall",1,7,"IBF Offensiv Lidingö (A)",1
+"258","Johan Jäderlund","Idrottshuset Tumba",1,7,"Tumba GOIF",1
+"259","Johan Jäderlund","Idrottshuset Tumba",1,7,"Råsunda IS",1
+"260","Johan Jäderlund","Ingarö Sporthall",1,7,"Ingarö IF (A)",1
+"261","Johan Jäderlund","Ingarö Sporthall",1,7,"Runby IBK",1
+"262","Johan Jäderlund","Mälaröhallen",1,7,"Ekerö IK ",1
+"263","Johan Jäderlund","Mälaröhallen",1,7,"Råsunda IS",1
+"264","Johan Jäderlund","Ormingehallen",1,7,"Nacka Wallenstam IBK",1
+"265","Johan Jäderlund","Ormingehallen",1,7,"Ekerö IK",1
+"266","Johan Jäderlund","Smedsgärdshallen",1,7,"Åkersberga IBF (A)",1
+"267","Johan Jäderlund","Smedsgärdshallen",1,7,"Grimsta AIK",1
+"268","Johan Jäderlund","Värmdö sporthall",1,7,"Värmdö IF (B)",1
+"269","Johan Jäderlund","Värmdö sporthall",1,7,"IBF Offensiv Lidingö (A)",1
+"270","Johan Larsson","Botkyrkahallen",1,4,"Ekerö IK",1
+"271","Johan Larsson","Botkyrkahallen",1,4,"Balrog B/S IK",1
+"272","Johan Larsson","Ingarö Sporthall",1,4,"Ingarö IF (A)",1
+"273","Johan Larsson","Ingarö Sporthall",1,4,"Råsunda IS",1
+"274","Johan Larsson","Mälaröhallen",1,4,"Åkersberga IBF (A)",1
+"275","Johan Larsson","Mälaröhallen",1,4,"Ekerö IK ",1
+"276","Johan Larsson","Västertorpshallen",1,4,"Hammarbyhöjden IBK",1
+"277","Johan Larsson","Västertorpshallen",1,4,"Ingarö IF (A)",1
+"278","Johannes Ekenberg","Bodals Bollhall",3,17,"Ekerö IK",1
+"279","Johannes Ekenberg","Bodals Bollhall",3,17,"Hammarbyhöjden IBK",1
+"280","Johannes Ekenberg","Bodals Bollhall",3,17,"IBF Offensiv Lidingö (A)",3
+"281","Johannes Ekenberg","Bodals Bollhall",3,17,"Värmdö IF (B)",1
+"282","Johannes Ekenberg","Botkyrkahallen",1,17,"Nacka Wallenstam IBK",1
+"283","Johannes Ekenberg","Botkyrkahallen",1,17,"Balrog B/S IK",1
+"284","Johannes Ekenberg","Fleminghallen",1,17,"Nacka Wallenstam IBK",1
+"285","Johannes Ekenberg","Fleminghallen",1,17,"Huddinge IBS ",1
+"286","Johannes Ekenberg","Ingarö Sporthall",3,17,"Hammarbyhöjden IBK",1
+"287","Johannes Ekenberg","Ingarö Sporthall",3,17,"Ingarö IF (A)",1
+"288","Johannes Ekenberg","Ingarö Sporthall",3,17,"Ekerö IK",1
+"289","Johannes Ekenberg","Ingarö Sporthall",3,17,"Runby IBK",1
+"290","Johannes Ekenberg","Ingarö Sporthall",3,17,"Ingarö IF (A)",2
+"291","Johannes Ekenberg","Ormingehallen",1,17,"Råsunda IS",1
+"292","Johannes Ekenberg","Ormingehallen",1,17,"Nacka Wallenstam IBK",1
+"293","Johannes Ekenberg","Smedsgärdshallen",1,17,"Åkersberga IBF (A)",1
+"294","Johannes Ekenberg","Smedsgärdshallen",1,17,"Grimsta AIK",1
+"295","Johannes Ekenberg","Storvretens Sporthall",1,17,"Åkersberga IBF (A)",1
+"296","Johannes Ekenberg","Storvretens Sporthall",1,17,"Balrog B/S IK",1
+"297","Johannes Ekenberg","Värmdö sporthall",2,17,"Värmdö IF (B)",1
+"298","Johannes Ekenberg","Värmdö sporthall",2,17,"Råsunda IS",1
+"299","Johannes Ekenberg","Värmdö sporthall",2,17,"Balrog B/S IK",1
+"300","Johannes Ekenberg","Värmdö sporthall",2,17,"Värmdö IF (B)",1
+"301","Johannes Ekenberg","Väsby skolan",2,17,"Grimsta AIK",1
+"302","Johannes Ekenberg","Väsby skolan",2,17,"Huddinge IBS",1
+"303","Johannes Ekenberg","Väsby skolan",2,17,"Runby IBK",1
+"304","Johannes Ekenberg","Väsby skolan",2,17,"Runby IBK",1
+"305","Johannes Ekenberg","Västertorpshallen",1,17,"Grimsta AIK",1
+"306","Johannes Ekenberg","Västertorpshallen",1,17,"Hammarbyhöjden IBK",1
+"307","Johannes Ekenberg","Åkersberga Sporthall A",1,17,"Åkersberga IBF (A)",1
+"308","Johannes Ekenberg","Åkersberga Sporthall A",1,17,"Runby IBK",1
+"309","John Awabdeh","Bodals Bollhall",2,19,"IBF Offensiv Lidingö (A)",2
+"310","John Awabdeh","Bodals Bollhall",2,19,"Nacka Wallenstam IBK",1
+"311","John Awabdeh","Bodals Bollhall",2,19,"Ingarö IF (A)",1
+"312","John Awabdeh","Botkyrkahallen",2,19,"Värmdö IF (B)",1
+"313","John Awabdeh","Botkyrkahallen",2,19,"Balrog B/S IK",2
+"314","John Awabdeh","Botkyrkahallen",2,19,"IBF Offensiv Lidingö (A)",1
+"315","John Awabdeh","Idrottshuset Tumba",2,19,"Hammarbyhöjden IBK",1
+"316","John Awabdeh","Idrottshuset Tumba",2,19,"Tumba GOIF",2
+"317","John Awabdeh","Idrottshuset Tumba",2,19,"Ingarö IF (A)",1
+"318","John Awabdeh","Ingarö Sporthall",2,19,"Ingarö IF (A)",2
+"319","John Awabdeh","Ingarö Sporthall",2,19,"IBF Offensiv Lidingö (A)",1
+"320","John Awabdeh","Ingarö Sporthall",2,19,"Åkersberga IBF (A)",1
+"321","John Awabdeh","Mälaröhallen",1,19,"Grimsta AIK",1
+"322","John Awabdeh","Mälaröhallen",1,19,"Ekerö IK ",1
+"323","John Awabdeh","Råstaparkhallen",2,19,"Ingarö IF (A)",1
+"324","John Awabdeh","Råstaparkhallen",2,19,"Runby IBK",1
+"325","John Awabdeh","Råstaparkhallen",2,19,"Råsunda IS",2
+"326","John Awabdeh","Värmdö sporthall",2,19,"Grimsta AIK",1
+"327","John Awabdeh","Värmdö sporthall",2,19,"Hammarbyhöjden IBK",1
+"328","John Awabdeh","Värmdö sporthall",2,19,"Värmdö IF (B)",2
+"329","John Awabdeh","Väsby skolan",1,19,"Ekerö IK",1
+"330","John Awabdeh","Väsby skolan",1,19,"Runby IBK",1
+"331","John Awabdeh","Västertorpshallen",3,19,"Huddinge IBS",1
+"332","John Awabdeh","Västertorpshallen",3,19,"Hammarbyhöjden IBK",3
+"333","John Awabdeh","Västertorpshallen",3,19,"Nacka Wallenstam IBK",1
+"334","John Awabdeh","Västertorpshallen",3,19,"Tumba GOIF",1
+"335","John Awabdeh","Åkersberga Sporthall A",2,19,"Balrog B/S IK",1
+"336","John Awabdeh","Åkersberga Sporthall A",2,19,"Åkersberga IBF (A)",2
+"337","John Awabdeh","Åkersberga Sporthall A",2,19,"Råsunda IS",1
+"338","Jonas Edström","Bodals Bollhall",1,11,"IBF Offensiv Lidingö (A)",1
+"339","Jonas Edström","Bodals Bollhall",1,11,"Värmdö IF (B)",1
+"340","Jonas Edström","Botkyrkahallen",2,11,"Balrog B/S IK",2
+"341","Jonas Edström","Botkyrkahallen",2,11,"Huddinge IBS",1
+"342","Jonas Edström","Botkyrkahallen",2,11,"Runby IBK",1
+"343","Jonas Edström","Ingarö Sporthall",1,11,"Ingarö IF (A)",1
+"344","Jonas Edström","Ingarö Sporthall",1,11,"Huddinge IBS",1
+"345","Jonas Edström","Mälaröhallen",2,11,"Ekerö IK ",1
+"346","Jonas Edström","Mälaröhallen",2,11,"Ekerö IK ",1
+"347","Jonas Edström","Mälaröhallen",2,11,"Värmdö IF (B)",1
+"348","Jonas Edström","Mälaröhallen",2,11,"Nacka Wallenstam IBK",1
+"349","Jonas Edström","Råstaparkhallen",1,11,"Råsunda IS",1
+"350","Jonas Edström","Råstaparkhallen",1,11,"Tumba GOIF",1
+"351","Jonas Edström","Storvretens Sporthall",1,11,"Åkersberga IBF (A)",1
+"352","Jonas Edström","Storvretens Sporthall",1,11,"Balrog B/S IK",1
+"353","Jonas Edström","Åkersberga Sporthall A",3,11,"Nacka Wallenstam IBK",1
+"354","Jonas Edström","Åkersberga Sporthall A",3,11,"Åkersberga IBF (A)",3
+"355","Jonas Edström","Åkersberga Sporthall A",3,11,"Runby IBK",1
+"356","Jonas Edström","Åkersberga Sporthall A",3,11,"Ingarö IF (A)",1
+"357","Jonas Holm","Idrottshuset Tumba",1,2,"Grimsta AIK",1
+"358","Jonas Holm","Idrottshuset Tumba",1,2,"Tumba GOIF",1
+"359","Jonas Holm","Värmdö sporthall",1,2,"Runby IBK",1
+"360","Jonas Holm","Värmdö sporthall",1,2,"Värmdö IF (B)",1
+"361","Jonas Håmark","Fleminghallen",1,5,"Huddinge IBS ",1
+"362","Jonas Håmark","Fleminghallen",1,5,"Balrog B/S IK",1
+"363","Jonas Håmark","Ormingehallen",1,5,"Råsunda IS",1
+"364","Jonas Håmark","Ormingehallen",1,5,"Nacka Wallenstam IBK",1
+"365","Jonas Håmark","Värmdö sporthall",1,5,"Ingarö IF (A)",1
+"366","Jonas Håmark","Värmdö sporthall",1,5,"Värmdö IF (B)",1
+"367","Jonas Håmark","Väsby skolan",2,5,"Ingarö IF (A)",1
+"368","Jonas Håmark","Väsby skolan",2,5,"Åkersberga IBF (A)",1
+"369","Jonas Håmark","Väsby skolan",2,5,"Runby IBK",2
+"370","Jonathan Varli","Bodals Bollhall",2,17,"Nacka Wallenstam IBK",1
+"371","Jonathan Varli","Bodals Bollhall",2,17,"Ingarö IF (A)",1
+"372","Jonathan Varli","Bodals Bollhall",2,17,"IBF Offensiv Lidingö (A)",2
+"373","Jonathan Varli","Botkyrkahallen",1,17,"IBF Offensiv Lidingö (A)",1
+"374","Jonathan Varli","Botkyrkahallen",1,17,"Balrog B/S IK",1
+"375","Jonathan Varli","Idrottshuset Tumba",2,17,"Ingarö IF (A)",1
+"376","Jonathan Varli","Idrottshuset Tumba",2,17,"Tumba GOIF",2
+"377","Jonathan Varli","Idrottshuset Tumba",2,17,"Hammarbyhöjden IBK",1
+"378","Jonathan Varli","Ingarö Sporthall",2,17,"IBF Offensiv Lidingö (A)",1
+"379","Jonathan Varli","Ingarö Sporthall",2,17,"Ingarö IF (A)",2
+"380","Jonathan Varli","Ingarö Sporthall",2,17,"Åkersberga IBF (A)",1
+"381","Jonathan Varli","Mälaröhallen",1,17,"Grimsta AIK",1
+"382","Jonathan Varli","Mälaröhallen",1,17,"Ekerö IK ",1
+"383","Jonathan Varli","Råstaparkhallen",2,17,"Ingarö IF (A)",1
+"384","Jonathan Varli","Råstaparkhallen",2,17,"Råsunda IS",2
+"385","Jonathan Varli","Råstaparkhallen",2,17,"Runby IBK",1
+"386","Jonathan Varli","Värmdö sporthall",2,17,"Grimsta AIK",1
+"387","Jonathan Varli","Värmdö sporthall",2,17,"Hammarbyhöjden IBK",1
+"388","Jonathan Varli","Värmdö sporthall",2,17,"Värmdö IF (B)",2
+"389","Jonathan Varli","Väsby skolan",1,17,"Runby IBK",1
+"390","Jonathan Varli","Väsby skolan",1,17,"Ekerö IK",1
+"391","Jonathan Varli","Västertorpshallen",2,17,"Huddinge IBS",1
+"392","Jonathan Varli","Västertorpshallen",2,17,"Hammarbyhöjden IBK",2
+"393","Jonathan Varli","Västertorpshallen",2,17,"Nacka Wallenstam IBK",1
+"394","Jonathan Varli","Åkersberga Sporthall A",2,17,"Balrog B/S IK",1
+"395","Jonathan Varli","Åkersberga Sporthall A",2,17,"Åkersberga IBF (A)",2
+"396","Jonathan Varli","Åkersberga Sporthall A",2,17,"Råsunda IS",1
+"397","Kari Karke","Botkyrkahallen",1,7,"Balrog B/S IK",1
+"398","Kari Karke","Botkyrkahallen",1,7,"Ingarö IF (A)",1
+"399","Kari Karke","Fleminghallen",2,7,"Värmdö IF (B)",1
+"400","Kari Karke","Fleminghallen",2,7,"Huddinge IBS ",2
+"401","Kari Karke","Fleminghallen",2,7,"Grimsta AIK",1
+"402","Kari Karke","Ormingehallen",1,7,"Nacka Wallenstam IBK",1
+"403","Kari Karke","Ormingehallen",1,7,"Hammarbyhöjden IBK",1
+"404","Kari Karke","Smedsgärdshallen",2,7,"Nacka Wallenstam IBK",1
+"405","Kari Karke","Smedsgärdshallen",2,7,"Grimsta AIK",1
+"406","Kari Karke","Smedsgärdshallen",2,7,"Ingarö IF (A)",1
+"407","Kari Karke","Smedsgärdshallen",2,7,"Runby IBK",1
+"408","Kari Karke","Västertorpshallen",1,7,"Hammarbyhöjden IBK",1
+"409","Kari Karke","Västertorpshallen",1,7,"IBF Offensiv Lidingö (A)",1
+"410","Kari Malmros","Väsby skolan",1,1,"IBF Offensiv Lidingö (A)",1
+"411","Kari Malmros","Väsby skolan",1,1,"Runby IBK",1
+"412","Linus Löfstedt","Smedsgärdshallen",1,2,"Grimsta AIK",1
+"413","Linus Löfstedt","Smedsgärdshallen",1,2,"Värmdö IF (B)",1
+"414","Linus Löfstedt","Åkersberga Sporthall A",1,2,"Åkersberga IBF (A)",1
+"415","Linus Löfstedt","Åkersberga Sporthall A",1,2,"Tumba GOIF",1
+"416","Linus Warrenstein","Bodals Bollhall",1,1,"Råsunda IS",1
+"417","Linus Warrenstein","Bodals Bollhall",1,1,"IBF Offensiv Lidingö (A)",1
+"418","Magnus Johansson","Botkyrkahallen",1,5,"Balrog B/S IK",1
+"419","Magnus Johansson","Botkyrkahallen",1,5,"Tumba GOIF",1
+"420","Magnus Johansson","Mälaröhallen",1,5,"Tumba GOIF",1
+"421","Magnus Johansson","Mälaröhallen",1,5,"Ekerö IK ",1
+"422","Magnus Johansson","Storvretens Sporthall",1,5,"IBF Offensiv Lidingö (A)",1
+"423","Magnus Johansson","Storvretens Sporthall",1,5,"Tumba GOIF",1
+"424","Magnus Johansson","Väsby skolan",1,5,"Råsunda IS",1
+"425","Magnus Johansson","Väsby skolan",1,5,"Runby IBK",1
+"426","Magnus Johansson","Åkersberga Sporthall A",1,5,"Åkersberga IBF (A)",1
+"427","Magnus Johansson","Åkersberga Sporthall A",1,5,"Värmdö IF (B)",1
+"428","Martin Johansson","Ingarö Sporthall",2,20,"Ingarö IF (A)",2
+"429","Martin Johansson","Ingarö Sporthall",2,20,"Värmdö IF (B)",1
+"430","Martin Johansson","Ingarö Sporthall",2,20,"Grimsta AIK",1
+"431","Martin Johansson","Mälaröhallen",4,20,"Ekerö IK ",1
+"432","Martin Johansson","Mälaröhallen",4,20,"Ekerö IK ",3
+"433","Martin Johansson","Mälaröhallen",4,20,"Runby IBK",1
+"434","Martin Johansson","Mälaröhallen",4,20,"Balrog B/S IK",1
+"435","Martin Johansson","Mälaröhallen",4,20,"Ingarö IF (A)",1
+"436","Martin Johansson","Mälaröhallen",4,20,"Råsunda IS",1
+"437","Martin Johansson","Ormingehallen",4,20,"Balrog B/S IK",1
+"438","Martin Johansson","Ormingehallen",4,20,"Nacka Wallenstam IBK",4
+"439","Martin Johansson","Ormingehallen",4,20,"Värmdö IF (B)",1
+"440","Martin Johansson","Ormingehallen",4,20,"Runby IBK",1
+"441","Martin Johansson","Ormingehallen",4,20,"Åkersberga IBF (A)",1
+"442","Martin Johansson","Råstaparkhallen",2,20,"Råsunda IS",2
+"443","Martin Johansson","Råstaparkhallen",2,20,"Nacka Wallenstam IBK",1
+"444","Martin Johansson","Råstaparkhallen",2,20,"Hammarbyhöjden IBK",1
+"445","Martin Johansson","Smedsgärdshallen",2,20,"Grimsta AIK",2
+"446","Martin Johansson","Smedsgärdshallen",2,20,"Tumba GOIF",1
+"447","Martin Johansson","Smedsgärdshallen",2,20,"Huddinge IBS",1
+"448","Martin Johansson","Värmdö sporthall",2,20,"Balrog B/S IK",1
+"449","Martin Johansson","Värmdö sporthall",2,20,"Värmdö IF (B)",1
+"450","Martin Johansson","Värmdö sporthall",2,20,"Tumba GOIF",1
+"451","Martin Johansson","Värmdö sporthall",2,20,"Värmdö IF (B)",1
+"452","Martin Johansson","Västertorpshallen",2,20,"Åkersberga IBF (A)",1
+"453","Martin Johansson","Västertorpshallen",2,20,"Hammarbyhöjden IBK",2
+"454","Martin Johansson","Västertorpshallen",2,20,"Tumba GOIF",1
+"455","Martin Johansson","Åkersberga Sporthall A",2,20,"IBF Offensiv Lidingö (A)",1
+"456","Martin Johansson","Åkersberga Sporthall A",2,20,"Grimsta AIK",1
+"457","Martin Johansson","Åkersberga Sporthall A",2,20,"Åkersberga IBF (A)",2
+"458","Mattias Lönnborg","Fleminghallen",1,2,"Tumba GOIF",1
+"459","Mattias Lönnborg","Fleminghallen",1,2,"Huddinge IBS ",1
+"460","Mattias Lönnborg","Idrottshuset Tumba",1,2,"Värmdö IF (B)",1
+"461","Mattias Lönnborg","Idrottshuset Tumba",1,2,"Tumba GOIF",1
+"462","Mikael Andersson","Idrottshuset Tumba",1,1,"Tumba GOIF",1
+"463","Mikael Andersson","Idrottshuset Tumba",1,1,"Balrog B/S IK",1
+"464","Nicklas Sundgren","Fleminghallen",1,2,"Huddinge IBS ",1
+"465","Nicklas Sundgren","Fleminghallen",1,2,"Hammarbyhöjden IBK",1
+"466","Nicklas Sundgren","Väsby skolan",1,2,"IBF Offensiv Lidingö (A)",1
+"467","Nicklas Sundgren","Väsby skolan",1,2,"Runby IBK",1
+"468","Nihada Cenanovic","Råstaparkhallen",1,2,"Ekerö IK",1
+"469","Nihada Cenanovic","Råstaparkhallen",1,2,"Råsunda IS",1
+"470","Nihada Cenanovic","Storvretens Sporthall",1,2,"Ekerö IK",1
+"471","Nihada Cenanovic","Storvretens Sporthall",1,2,"Tumba GOIF",1
+"472","Patric Terelius","Fleminghallen",1,3,"Huddinge IBS ",1
+"473","Patric Terelius","Fleminghallen",1,3,"Grimsta AIK",1
+"474","Patric Terelius","Ingarö Sporthall",1,3,"Nacka Wallenstam IBK",1
+"475","Patric Terelius","Ingarö Sporthall",1,3,"Ingarö IF (A)",1
+"476","Patric Terelius","Ormingehallen",1,3,"Hammarbyhöjden IBK",1
+"477","Patric Terelius","Ormingehallen",1,3,"Nacka Wallenstam IBK",1
+"478","Roland Nester","Bodals Bollhall",1,5,"IBF Offensiv Lidingö (A)",1
+"479","Roland Nester","Bodals Bollhall",1,5,"Åkersberga IBF (A)",1
+"480","Roland Nester","Mälaröhallen",2,5,"Huddinge IBS",1
+"481","Roland Nester","Mälaröhallen",2,5,"Värmdö IF (B)",1
+"482","Roland Nester","Mälaröhallen",2,5,"Ekerö IK ",2
+"483","Roland Nester","Smedsgärdshallen",1,5,"Grimsta AIK",1
+"484","Roland Nester","Smedsgärdshallen",1,5,"Ekerö IK",1
+"485","Roland Nester","Åkersberga Sporthall A",1,5,"Huddinge IBS",1
+"486","Roland Nester","Åkersberga Sporthall A",1,5,"Åkersberga IBF (A)",1
+"487","Sebastian Öhman","Botkyrkahallen",1,2,"Balrog B/S IK",1
+"488","Sebastian Öhman","Botkyrkahallen",1,2,"Grimsta AIK",1
+"489","Sebastian Öhman","Mälaröhallen",1,2,"Åkersberga IBF (A)",1
+"490","Sebastian Öhman","Mälaröhallen",1,2,"Ekerö IK ",1
+"491","Shari Tingman","Botkyrkahallen",1,4,"Runby IBK",1
+"492","Shari Tingman","Botkyrkahallen",1,4,"Balrog B/S IK",1
+"493","Shari Tingman","Eriksdalshallen",1,4,"Råsunda IS",1
+"494","Shari Tingman","Eriksdalshallen",1,4,"Hammarbyhöjden IBK",1
+"495","Shari Tingman","Idrottshuset Tumba",1,4,"Tumba GOIF",1
+"496","Shari Tingman","Idrottshuset Tumba",1,4,"Balrog B/S IK",1
+"497","Shari Tingman","Väsby skolan",1,4,"Runby IBK",1
+"498","Shari Tingman","Väsby skolan",1,4,"Balrog B/S IK",1
+"499","Stefano Bianque","Bodals Bollhall",3,8,"Hammarbyhöjden IBK",1
+"500","Stefano Bianque","Bodals Bollhall",3,8,"Råsunda IS",1
+"501","Stefano Bianque","Bodals Bollhall",3,8,"Huddinge IBS",1
+"502","Stefano Bianque","Bodals Bollhall",3,8,"IBF Offensiv Lidingö (A)",3
+"503","Stefano Bianque","Fleminghallen",1,8,"Huddinge IBS ",1
+"504","Stefano Bianque","Fleminghallen",1,8,"Ekerö IK",1
+"505","Stefano Bianque","Ingarö Sporthall",1,8,"Ingarö IF (A)",1
+"506","Stefano Bianque","Ingarö Sporthall",1,8,"Hammarbyhöjden IBK",1
+"507","Stefano Bianque","Ormingehallen",1,8,"Nacka Wallenstam IBK",1
+"508","Stefano Bianque","Ormingehallen",1,8,"Tumba GOIF",1
+"509","Stefano Bianque","Värmdö sporthall",2,8,"Ekerö IK",1
+"510","Stefano Bianque","Värmdö sporthall",2,8,"Värmdö IF (B)",2
+"511","Stefano Bianque","Värmdö sporthall",2,8,"Runby IBK",1
+"512","Therese Jensen","Botkyrkahallen",1,3,"Balrog B/S IK",1
+"513","Therese Jensen","Botkyrkahallen",1,3,"Huddinge IBS",1
+"514","Therese Jensen","Fleminghallen",1,3,"Hammarbyhöjden IBK",1
+"515","Therese Jensen","Fleminghallen",1,3,"Huddinge IBS ",1
+"516","Therese Jensen","Åkersberga Sporthall A",1,3,"Åkersberga IBF (A)",1
+"517","Therese Jensen","Åkersberga Sporthall A",1,3,"Nacka Wallenstam IBK",1
+"518","Tim Sandström","Botkyrkahallen",1,5,"Balrog B/S IK",1
+"519","Tim Sandström","Botkyrkahallen",1,5,"Tumba GOIF",1
+"520","Tim Sandström","Mälaröhallen",1,5,"Ekerö IK ",1
+"521","Tim Sandström","Mälaröhallen",1,5,"Tumba GOIF",1
+"522","Tim Sandström","Storvretens Sporthall",1,5,"Tumba GOIF",1
+"523","Tim Sandström","Storvretens Sporthall",1,5,"IBF Offensiv Lidingö (A)",1
+"524","Tim Sandström","Väsby skolan",1,5,"Råsunda IS",1
+"525","Tim Sandström","Väsby skolan",1,5,"Runby IBK",1
+"526","Tim Sandström","Åkersberga Sporthall A",1,5,"Värmdö IF (B)",1
+"527","Tim Sandström","Åkersberga Sporthall A",1,5,"Åkersberga IBF (A)",1
+"528","Tobias Berger","Idrottshuset Tumba",1,4,"Åkersberga IBF (A)",1
+"529","Tobias Berger","Idrottshuset Tumba",1,4,"Tumba GOIF",1
+"530","Tobias Berger","Ingarö Sporthall",1,4,"Tumba GOIF",1
+"531","Tobias Berger","Ingarö Sporthall",1,4,"Ingarö IF (A)",1
+"532","Tobias Berger","Ormingehallen",1,4,"Ekerö IK",1
+"533","Tobias Berger","Ormingehallen",1,4,"Nacka Wallenstam IBK",1
+"534","Tobias Berger","Västertorpshallen",1,4,"Hammarbyhöjden IBK",1
+"535","Tobias Berger","Västertorpshallen",1,4,"IBF Offensiv Lidingö (A)",1
+"536","Tobias Ekmark","Åkersberga Sporthall A",1,1,"Ekerö IK",1
+"537","Tobias Ekmark","Åkersberga Sporthall A",1,1,"Åkersberga IBF (A)",1

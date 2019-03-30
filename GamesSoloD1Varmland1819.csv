@@ -1,570 +1,589 @@
 "","Referee","Arena","CountPerArena","TotalCount","Lag","AntalMatchPerLag"
 "1","Adam Haglund","Brogårdshallen",2,6,"Kristinehamns IBF",1
-"2","Adam Haglund","Brogårdshallen",2,6,"Kristinehamns IBF",1
-"3","Adam Haglund","Brogårdshallen",2,6,"IFK Arboga IBK",1
+"2","Adam Haglund","Brogårdshallen",2,6,"IFK Arboga IBK",1
+"3","Adam Haglund","Brogårdshallen",2,6,"Kristinehamns IBF",1
 "4","Adam Haglund","Brogårdshallen",2,6,"Sala Silverstaden IBK",1
-"5","Adam Haglund","Colorama Arena",3,6,"IBK Sala",1
-"6","Adam Haglund","Colorama Arena",3,6,"Karlstad IBF Ungdom",1
-"7","Adam Haglund","Colorama Arena",3,6,"Kristinehamns IBF",1
-"8","Adam Haglund","Colorama Arena",3,6,"Skattkärrs IK",1
-"9","Adam Haglund","Colorama Arena",3,6,"Karlstad IBF Ungdom",1
-"10","Adam Haglund","Colorama Arena",3,6,"Per-Ols IBF",1
+"5","Adam Haglund","Colorama Arena",3,6,"Kristinehamns IBF",1
+"6","Adam Haglund","Colorama Arena",3,6,"IBK Sala",1
+"7","Adam Haglund","Colorama Arena",3,6,"Karlstad IBF Ungdom",1
+"8","Adam Haglund","Colorama Arena",3,6,"Per-Ols IBF",1
+"9","Adam Haglund","Colorama Arena",3,6,"Skattkärrs IK",1
+"10","Adam Haglund","Colorama Arena",3,6,"Karlstad IBF Ungdom",1
 "11","Adam Haglund","Spångbergshallen",1,6,"Filipstad IBK ",1
 "12","Adam Haglund","Spångbergshallen",1,6,"Lillån IBK",1
 "13","Albin Jakobsson","Brogårdshallen",1,4,"Kristinehamns IBF",1
 "14","Albin Jakobsson","Brogårdshallen",1,4,"IBF Örebro Ungdom",1
-"15","Albin Jakobsson","Colorama Arena",2,4,"Skattkärrs IK",2
-"16","Albin Jakobsson","Colorama Arena",2,4,"Karlstad IBF Ungdom",2
+"15","Albin Jakobsson","Colorama Arena",2,4,"Karlstad IBF Ungdom",2
+"16","Albin Jakobsson","Colorama Arena",2,4,"Skattkärrs IK",2
 "17","Albin Jakobsson","Spångbergshallen",1,4,"Filipstad IBK ",1
 "18","Albin Jakobsson","Spångbergshallen",1,4,"Karlstad IBF Ungdom",1
-"19","Anders Leander","Colorama Arena",1,1,"IFK Arboga IBK",1
-"20","Anders Leander","Colorama Arena",1,1,"Skattkärrs IK",1
+"19","Anders Leander","Colorama Arena",1,1,"Skattkärrs IK",1
+"20","Anders Leander","Colorama Arena",1,1,"IFK Arboga IBK",1
 "21","Anna Palmqvist","Idrottshuset, Örebro Plan 1",1,2,"Hagfors IF Uddeholm",1
 "22","Anna Palmqvist","Idrottshuset, Örebro Plan 1",1,2,"Lillån IBK",1
-"23","Anna Palmqvist","Kumlahallen",1,2,"Per-Ols IBF",1
-"24","Anna Palmqvist","Kumlahallen",1,2,"Kumla IBK",1
-"25","Berndt Swärd","Idrottshuset, Örebro Plan 1",2,4,"Lillån IBK",2
-"26","Berndt Swärd","Idrottshuset, Örebro Plan 1",2,4,"Skattkärrs IK",1
-"27","Berndt Swärd","Idrottshuset, Örebro Plan 1",2,4,"Kristinehamns IBF",1
-"28","Berndt Swärd","Kumlahallen",1,4,"Kumla IBK",1
-"29","Berndt Swärd","Kumlahallen",1,4,"Skattkärrs IK",1
-"30","Berndt Swärd","Mellringehallen - Örebro",1,4,"Karlstad IBF Ungdom",1
-"31","Berndt Swärd","Mellringehallen - Örebro",1,4,"IBF Örebro Ungdom",1
-"32","Camilla Eriksson","Fagerstahallen",1,8,"Filipstad IBK",1
-"33","Camilla Eriksson","Fagerstahallen",1,8,"Per-Ols IBF",1
-"34","Camilla Eriksson","Nibblehallen",3,8,"IBK Sala",1
-"35","Camilla Eriksson","Nibblehallen",3,8,"Kristinehamns IBF",1
-"36","Camilla Eriksson","Nibblehallen",3,8,"IBK Hallsta",3
-"37","Camilla Eriksson","Nibblehallen",3,8,"IFK Arboga IBK",1
-"38","Camilla Eriksson","Sala Idrottshall",3,8,"Hagfors IF Uddeholm",1
-"39","Camilla Eriksson","Sala Idrottshall",3,8,"IBF Örebro Ungdom",1
-"40","Camilla Eriksson","Sala Idrottshall",3,8,"Skälby IBK",1
-"41","Camilla Eriksson","Sala Idrottshall",3,8,"Sala Silverstaden IBK",3
-"42","Camilla Eriksson","Vasahallen",1,8,"IFK Arboga IBK",1
-"43","Camilla Eriksson","Vasahallen",1,8,"Filipstad IBK",1
-"44","Carl Wikgren","Fagerstahallen",3,7,"IBK Hallsta",1
-"45","Carl Wikgren","Fagerstahallen",3,7,"Kumla IBK",1
+"23","Anna Palmqvist","Kumlahallen",1,2,"Kumla IBK",1
+"24","Anna Palmqvist","Kumlahallen",1,2,"Per-Ols IBF",1
+"25","Berndt Swärd","Idrottshuset, Örebro Plan 1",2,5,"Skattkärrs IK",1
+"26","Berndt Swärd","Idrottshuset, Örebro Plan 1",2,5,"Kristinehamns IBF",1
+"27","Berndt Swärd","Idrottshuset, Örebro Plan 1",2,5,"Lillån IBK",2
+"28","Berndt Swärd","Kumlahallen",1,5,"Kumla IBK",1
+"29","Berndt Swärd","Kumlahallen",1,5,"Skattkärrs IK",1
+"30","Berndt Swärd","Mellringehallen - Örebro",2,5,"IBF Örebro Ungdom",1
+"31","Berndt Swärd","Mellringehallen - Örebro",2,5,"Sala Silverstaden IBK",1
+"32","Berndt Swärd","Mellringehallen - Örebro",2,5,"Lillån IBK",1
+"33","Berndt Swärd","Mellringehallen - Örebro",2,5,"Karlstad IBF Ungdom",1
+"34","Camilla Eriksson","Fagerstahallen",1,8,"Per-Ols IBF",1
+"35","Camilla Eriksson","Fagerstahallen",1,8,"Filipstad IBK",1
+"36","Camilla Eriksson","Nibblehallen",3,8,"Kristinehamns IBF",1
+"37","Camilla Eriksson","Nibblehallen",3,8,"IBK Hallsta",3
+"38","Camilla Eriksson","Nibblehallen",3,8,"IFK Arboga IBK",1
+"39","Camilla Eriksson","Nibblehallen",3,8,"IBK Sala",1
+"40","Camilla Eriksson","Sala Idrottshall",3,8,"Hagfors IF Uddeholm",1
+"41","Camilla Eriksson","Sala Idrottshall",3,8,"Skälby IBK",1
+"42","Camilla Eriksson","Sala Idrottshall",3,8,"IBF Örebro Ungdom",1
+"43","Camilla Eriksson","Sala Idrottshall",3,8,"Sala Silverstaden IBK",3
+"44","Camilla Eriksson","Vasahallen",1,8,"Filipstad IBK",1
+"45","Camilla Eriksson","Vasahallen",1,8,"IFK Arboga IBK",1
 "46","Carl Wikgren","Fagerstahallen",3,7,"Per-Ols IBF",3
-"47","Carl Wikgren","Fagerstahallen",3,7,"IBK Sala",1
-"48","Carl Wikgren","Sala Idrottshall",3,7,"IFK Arboga IBK",1
-"49","Carl Wikgren","Sala Idrottshall",3,7,"Sala Silverstaden IBK",1
-"50","Carl Wikgren","Sala Idrottshall",3,7,"IBK Hallsta",1
+"47","Carl Wikgren","Fagerstahallen",3,7,"Kumla IBK",1
+"48","Carl Wikgren","Fagerstahallen",3,7,"IBK Hallsta",1
+"49","Carl Wikgren","Fagerstahallen",3,7,"IBK Sala",1
+"50","Carl Wikgren","Sala Idrottshall",3,7,"IFK Arboga IBK",1
 "51","Carl Wikgren","Sala Idrottshall",3,7,"Lillån IBK",1
-"52","Carl Wikgren","Sala Idrottshall",3,7,"IBK Sala",2
-"53","Carl Wikgren","Vasahallen",1,7,"IFK Arboga IBK",1
-"54","Carl Wikgren","Vasahallen",1,7,"Filipstad IBK",1
-"55","Christher Johansson","Idrottshuset, Örebro Plan 1",2,6,"Lillån IBK",2
-"56","Christher Johansson","Idrottshuset, Örebro Plan 1",2,6,"IBK Sala",1
-"57","Christher Johansson","Idrottshuset, Örebro Plan 1",2,6,"IFK Arboga IBK",1
-"58","Christher Johansson","Kumlahallen",2,6,"Kumla IBK",2
-"59","Christher Johansson","Kumlahallen",2,6,"IBK Hallsta",1
-"60","Christher Johansson","Kumlahallen",2,6,"Lillån IBK",1
-"61","Christher Johansson","Mellringehallen - Örebro",2,6,"IBK Hallsta",1
-"62","Christher Johansson","Mellringehallen - Örebro",2,6,"IBF Örebro Ungdom",2
+"52","Carl Wikgren","Sala Idrottshall",3,7,"Sala Silverstaden IBK",1
+"53","Carl Wikgren","Sala Idrottshall",3,7,"IBK Hallsta",1
+"54","Carl Wikgren","Sala Idrottshall",3,7,"IBK Sala",2
+"55","Carl Wikgren","Vasahallen",1,7,"IFK Arboga IBK",1
+"56","Carl Wikgren","Vasahallen",1,7,"Filipstad IBK",1
+"57","Christher Johansson","Idrottshuset, Örebro Plan 1",2,6,"IBK Sala",1
+"58","Christher Johansson","Idrottshuset, Örebro Plan 1",2,6,"Lillån IBK",2
+"59","Christher Johansson","Idrottshuset, Örebro Plan 1",2,6,"IFK Arboga IBK",1
+"60","Christher Johansson","Kumlahallen",2,6,"Kumla IBK",2
+"61","Christher Johansson","Kumlahallen",2,6,"Lillån IBK",1
+"62","Christher Johansson","Kumlahallen",2,6,"IBK Hallsta",1
 "63","Christher Johansson","Mellringehallen - Örebro",2,6,"Kumla IBK",1
-"64","Christoffer Frykestam","Colorama Arena",1,5,"Karlstad IBF Ungdom",1
-"65","Christoffer Frykestam","Colorama Arena",1,5,"Skälby IBK",1
-"66","Christoffer Frykestam","Spångbergshallen",1,5,"Kumla IBK",1
-"67","Christoffer Frykestam","Spångbergshallen",1,5,"Filipstad IBK ",1
-"68","Christoffer Frykestam","Stavdal Arena",1,5,"Kumla IBK",1
-"69","Christoffer Frykestam","Stavdal Arena",1,5,"Skattkärrs IK",1
-"70","Christoffer Frykestam","Uddeholm Arena",2,5,"IBK Hallsta",1
-"71","Christoffer Frykestam","Uddeholm Arena",2,5,"Skälby IBK",1
+"64","Christher Johansson","Mellringehallen - Örebro",2,6,"IBK Hallsta",1
+"65","Christher Johansson","Mellringehallen - Örebro",2,6,"IBF Örebro Ungdom",2
+"66","Christoffer Frykestam","Colorama Arena",1,5,"Skälby IBK",1
+"67","Christoffer Frykestam","Colorama Arena",1,5,"Karlstad IBF Ungdom",1
+"68","Christoffer Frykestam","Spångbergshallen",1,5,"Filipstad IBK ",1
+"69","Christoffer Frykestam","Spångbergshallen",1,5,"Kumla IBK",1
+"70","Christoffer Frykestam","Stavdal Arena",1,5,"Kumla IBK",1
+"71","Christoffer Frykestam","Stavdal Arena",1,5,"Skattkärrs IK",1
 "72","Christoffer Frykestam","Uddeholm Arena",2,5,"Hagfors IF Uddeholm",2
-"73","Christoffer Risberg","Colorama Arena",1,1,"Skälby IBK",1
-"74","Christoffer Risberg","Colorama Arena",1,1,"Skattkärrs IK",1
-"75","Claes Knutsson","Brogårdshallen",1,6,"Kumla IBK",1
-"76","Claes Knutsson","Brogårdshallen",1,6,"Kristinehamns IBF",1
-"77","Claes Knutsson","Colorama Arena",2,6,"Skattkärrs IK",2
-"78","Claes Knutsson","Colorama Arena",2,6,"Hagfors IF Uddeholm",1
-"79","Claes Knutsson","Colorama Arena",2,6,"Kristinehamns IBF",1
-"80","Claes Knutsson","Spångbergshallen",2,6,"Skattkärrs IK",1
-"81","Claes Knutsson","Spångbergshallen",2,6,"Filipstad IBK ",2
-"82","Claes Knutsson","Spångbergshallen",2,6,"Sala Silverstaden IBK",1
-"83","Claes Knutsson","Stavdal Arena",1,6,"IBF Örebro Ungdom",1
-"84","Claes Knutsson","Stavdal Arena",1,6,"Karlstad IBF Ungdom",1
-"85","Dan Barthlen","Pettersbergsskolan (S:T Ilian Skolan)",1,3,"Skälby IBK",1
-"86","Dan Barthlen","Pettersbergsskolan (S:T Ilian Skolan)",1,3,"IBK Sala",1
-"87","Dan Barthlen","Sala Idrottshall",1,3,"Karlstad IBF Ungdom",1
-"88","Dan Barthlen","Sala Idrottshall",1,3,"Sala Silverstaden IBK",1
-"89","Dan Barthlen","Vasahallen",1,3,"IFK Arboga IBK",1
-"90","Dan Barthlen","Vasahallen",1,3,"Skattkärrs IK",1
-"91","Daniel Östling","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Skälby IBK",1
-"92","Daniel Östling","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Skattkärrs IK",1
-"93","Daniel Östling","Sala Idrottshall",3,5,"Per-Ols IBF",1
-"94","Daniel Östling","Sala Idrottshall",3,5,"IBK Sala",3
-"95","Daniel Östling","Sala Idrottshall",3,5,"Sala Silverstaden IBK",1
+"73","Christoffer Frykestam","Uddeholm Arena",2,5,"IBK Hallsta",1
+"74","Christoffer Frykestam","Uddeholm Arena",2,5,"Skälby IBK",1
+"75","Christoffer Risberg","Colorama Arena",1,1,"Skattkärrs IK",1
+"76","Christoffer Risberg","Colorama Arena",1,1,"Skälby IBK",1
+"77","Claes Knutsson","Brogårdshallen",1,6,"Kumla IBK",1
+"78","Claes Knutsson","Brogårdshallen",1,6,"Kristinehamns IBF",1
+"79","Claes Knutsson","Colorama Arena",2,6,"Skattkärrs IK",2
+"80","Claes Knutsson","Colorama Arena",2,6,"Hagfors IF Uddeholm",1
+"81","Claes Knutsson","Colorama Arena",2,6,"Kristinehamns IBF",1
+"82","Claes Knutsson","Spångbergshallen",2,6,"Filipstad IBK ",2
+"83","Claes Knutsson","Spångbergshallen",2,6,"Skattkärrs IK",1
+"84","Claes Knutsson","Spångbergshallen",2,6,"Sala Silverstaden IBK",1
+"85","Claes Knutsson","Stavdal Arena",1,6,"IBF Örebro Ungdom",1
+"86","Claes Knutsson","Stavdal Arena",1,6,"Karlstad IBF Ungdom",1
+"87","Dan Barthlen","Pettersbergsskolan (S:T Ilian Skolan)",1,3,"Skälby IBK",1
+"88","Dan Barthlen","Pettersbergsskolan (S:T Ilian Skolan)",1,3,"IBK Sala",1
+"89","Dan Barthlen","Sala Idrottshall",1,3,"Karlstad IBF Ungdom",1
+"90","Dan Barthlen","Sala Idrottshall",1,3,"Sala Silverstaden IBK",1
+"91","Dan Barthlen","Vasahallen",1,3,"IFK Arboga IBK",1
+"92","Dan Barthlen","Vasahallen",1,3,"Skattkärrs IK",1
+"93","Daniel Östling","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Skälby IBK",1
+"94","Daniel Östling","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Skattkärrs IK",1
+"95","Daniel Östling","Sala Idrottshall",3,5,"Per-Ols IBF",1
 "96","Daniel Östling","Sala Idrottshall",3,5,"Hagfors IF Uddeholm",1
-"97","Daniel Östling","Vasahallen",1,5,"IFK Arboga IBK",1
-"98","Daniel Östling","Vasahallen",1,5,"IBF Örebro Ungdom",1
-"99","David Granström","Spångbergshallen",1,2,"Kumla IBK",1
-"100","David Granström","Spångbergshallen",1,2,"Filipstad IBK ",1
-"101","David Granström","Uddeholm Arena",1,2,"IFK Arboga IBK",1
-"102","David Granström","Uddeholm Arena",1,2,"Hagfors IF Uddeholm",1
-"103","Edvin Lindelöf","Fagerstahallen",1,6,"IBK Hallsta",1
-"104","Edvin Lindelöf","Fagerstahallen",1,6,"Per-Ols IBF",1
-"105","Edvin Lindelöf","Sala Idrottshall",3,6,"IFK Arboga IBK",1
-"106","Edvin Lindelöf","Sala Idrottshall",3,6,"IBK Sala",2
-"107","Edvin Lindelöf","Sala Idrottshall",3,6,"Sala Silverstaden IBK",1
-"108","Edvin Lindelöf","Sala Idrottshall",3,6,"IBK Hallsta",1
-"109","Edvin Lindelöf","Sala Idrottshall",3,6,"Lillån IBK",1
-"110","Edvin Lindelöf","Vasahallen",2,6,"IFK Arboga IBK",2
-"111","Edvin Lindelöf","Vasahallen",2,6,"Kristinehamns IBF",1
+"97","Daniel Östling","Sala Idrottshall",3,5,"Sala Silverstaden IBK",1
+"98","Daniel Östling","Sala Idrottshall",3,5,"IBK Sala",3
+"99","Daniel Östling","Vasahallen",1,5,"IBF Örebro Ungdom",1
+"100","Daniel Östling","Vasahallen",1,5,"IFK Arboga IBK",1
+"101","David Granström","Spångbergshallen",1,2,"Filipstad IBK ",1
+"102","David Granström","Spångbergshallen",1,2,"Kumla IBK",1
+"103","David Granström","Uddeholm Arena",1,2,"IFK Arboga IBK",1
+"104","David Granström","Uddeholm Arena",1,2,"Hagfors IF Uddeholm",1
+"105","Edvin Lindelöf","Fagerstahallen",1,6,"Per-Ols IBF",1
+"106","Edvin Lindelöf","Fagerstahallen",1,6,"IBK Hallsta",1
+"107","Edvin Lindelöf","Sala Idrottshall",3,6,"IFK Arboga IBK",1
+"108","Edvin Lindelöf","Sala Idrottshall",3,6,"Sala Silverstaden IBK",1
+"109","Edvin Lindelöf","Sala Idrottshall",3,6,"IBK Sala",2
+"110","Edvin Lindelöf","Sala Idrottshall",3,6,"Lillån IBK",1
+"111","Edvin Lindelöf","Sala Idrottshall",3,6,"IBK Hallsta",1
 "112","Edvin Lindelöf","Vasahallen",2,6,"Kumla IBK",1
-"113","Emil Wass","Mellringehallen - Örebro",1,1,"Skattkärrs IK",1
-"114","Emil Wass","Mellringehallen - Örebro",1,1,"IBF Örebro Ungdom",1
-"115","Erik Bergström","Stavdal Arena",1,2,"Skattkärrs IK",1
-"116","Erik Bergström","Stavdal Arena",1,2,"Kumla IBK",1
-"117","Erik Bergström","Uddeholm Arena",1,2,"Hagfors IF Uddeholm",1
-"118","Erik Bergström","Uddeholm Arena",1,2,"Skälby IBK",1
-"119","Erik Ejerfeldt","Brogårdshallen",1,2,"IFK Arboga IBK",1
-"120","Erik Ejerfeldt","Brogårdshallen",1,2,"Kristinehamns IBF",1
-"121","Erik Ejerfeldt","Colorama Arena",1,2,"IBK Sala",1
-"122","Erik Ejerfeldt","Colorama Arena",1,2,"Skattkärrs IK",1
-"123","Erik Flink","Fagerstahallen",1,5,"Kristinehamns IBF",1
-"124","Erik Flink","Fagerstahallen",1,5,"Per-Ols IBF",1
-"125","Erik Flink","Nibblehallen",1,5,"Kumla IBK",1
-"126","Erik Flink","Nibblehallen",1,5,"IBK Hallsta",1
-"127","Erik Flink","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Hagfors IF Uddeholm",1
-"128","Erik Flink","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Skälby IBK",1
-"129","Erik Flink","Sala Idrottshall",2,5,"IBK Sala",1
-"130","Erik Flink","Sala Idrottshall",2,5,"Sala Silverstaden IBK",1
-"131","Erik Flink","Sala Idrottshall",2,5,"IBF Örebro Ungdom",1
+"113","Edvin Lindelöf","Vasahallen",2,6,"IFK Arboga IBK",2
+"114","Edvin Lindelöf","Vasahallen",2,6,"Kristinehamns IBF",1
+"115","Emil Wass","Mellringehallen - Örebro",1,1,"IBF Örebro Ungdom",1
+"116","Emil Wass","Mellringehallen - Örebro",1,1,"Skattkärrs IK",1
+"117","Erik Bergström","Stavdal Arena",1,2,"Kumla IBK",1
+"118","Erik Bergström","Stavdal Arena",1,2,"Skattkärrs IK",1
+"119","Erik Bergström","Uddeholm Arena",1,2,"Skälby IBK",1
+"120","Erik Bergström","Uddeholm Arena",1,2,"Hagfors IF Uddeholm",1
+"121","Erik Ejerfeldt","Brogårdshallen",1,2,"IFK Arboga IBK",1
+"122","Erik Ejerfeldt","Brogårdshallen",1,2,"Kristinehamns IBF",1
+"123","Erik Ejerfeldt","Colorama Arena",1,2,"IBK Sala",1
+"124","Erik Ejerfeldt","Colorama Arena",1,2,"Skattkärrs IK",1
+"125","Erik Flink","Fagerstahallen",1,5,"Per-Ols IBF",1
+"126","Erik Flink","Fagerstahallen",1,5,"Kristinehamns IBF",1
+"127","Erik Flink","Nibblehallen",1,5,"Kumla IBK",1
+"128","Erik Flink","Nibblehallen",1,5,"IBK Hallsta",1
+"129","Erik Flink","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Hagfors IF Uddeholm",1
+"130","Erik Flink","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Skälby IBK",1
+"131","Erik Flink","Sala Idrottshall",2,5,"IBK Sala",1
 "132","Erik Flink","Sala Idrottshall",2,5,"Filipstad IBK",1
-"133","Fernando Rocabado","Fagerstahallen",1,12,"Per-Ols IBF",1
-"134","Fernando Rocabado","Fagerstahallen",1,12,"IBK Sala",1
-"135","Fernando Rocabado","Idrottshuset, Örebro Plan 1",1,12,"Lillån IBK",1
-"136","Fernando Rocabado","Idrottshuset, Örebro Plan 1",1,12,"Kumla IBK",1
-"137","Fernando Rocabado","Mellringehallen - Örebro",2,12,"IFK Arboga IBK",1
-"138","Fernando Rocabado","Mellringehallen - Örebro",2,12,"IBF Örebro Ungdom",2
-"139","Fernando Rocabado","Mellringehallen - Örebro",2,12,"Skälby IBK",1
-"140","Fernando Rocabado","Nibblehallen",1,12,"Skattkärrs IK",1
-"141","Fernando Rocabado","Nibblehallen",1,12,"IBK Hallsta",1
-"142","Fernando Rocabado","Pettersbergsskolan (S:T Ilian Skolan)",2,12,"Lillån IBK",1
-"143","Fernando Rocabado","Pettersbergsskolan (S:T Ilian Skolan)",2,12,"Skälby IBK",2
-"144","Fernando Rocabado","Pettersbergsskolan (S:T Ilian Skolan)",2,12,"Kristinehamns IBF",1
-"145","Fernando Rocabado","Vasahallen",5,12,"Kumla IBK",1
-"146","Fernando Rocabado","Vasahallen",5,12,"Lillån IBK",1
+"133","Erik Flink","Sala Idrottshall",2,5,"Sala Silverstaden IBK",1
+"134","Erik Flink","Sala Idrottshall",2,5,"IBF Örebro Ungdom",1
+"135","Fernando Rocabado","Fagerstahallen",1,12,"Per-Ols IBF",1
+"136","Fernando Rocabado","Fagerstahallen",1,12,"IBK Sala",1
+"137","Fernando Rocabado","Idrottshuset, Örebro Plan 1",1,12,"Kumla IBK",1
+"138","Fernando Rocabado","Idrottshuset, Örebro Plan 1",1,12,"Lillån IBK",1
+"139","Fernando Rocabado","Mellringehallen - Örebro",2,12,"IFK Arboga IBK",1
+"140","Fernando Rocabado","Mellringehallen - Örebro",2,12,"Skälby IBK",1
+"141","Fernando Rocabado","Mellringehallen - Örebro",2,12,"IBF Örebro Ungdom",2
+"142","Fernando Rocabado","Nibblehallen",1,12,"IBK Hallsta",1
+"143","Fernando Rocabado","Nibblehallen",1,12,"Skattkärrs IK",1
+"144","Fernando Rocabado","Pettersbergsskolan (S:T Ilian Skolan)",2,12,"Lillån IBK",1
+"145","Fernando Rocabado","Pettersbergsskolan (S:T Ilian Skolan)",2,12,"Kristinehamns IBF",1
+"146","Fernando Rocabado","Pettersbergsskolan (S:T Ilian Skolan)",2,12,"Skälby IBK",2
 "147","Fernando Rocabado","Vasahallen",5,12,"IFK Arboga IBK",2
-"148","Fernando Rocabado","Vasahallen",5,12,"IBK Hallsta",1
-"149","Fernando Rocabado","Vasahallen",5,12,"Kristinehamns IBF",1
-"150","Fernando Rocabado","Vasahallen",5,12,"IFK Arboga IBK",3
-"151","Fernando Rocabado","Vasahallen",5,12,"Skälby IBK",1
-"152","Fredrik Knutsson","Idrottshuset, Örebro Plan 1",3,15,"Filipstad IBK",1
-"153","Fredrik Knutsson","Idrottshuset, Örebro Plan 1",3,15,"Karlstad IBF Ungdom",1
+"148","Fernando Rocabado","Vasahallen",5,12,"IFK Arboga IBK",3
+"149","Fernando Rocabado","Vasahallen",5,12,"Skälby IBK",1
+"150","Fernando Rocabado","Vasahallen",5,12,"Lillån IBK",1
+"151","Fernando Rocabado","Vasahallen",5,12,"IBK Hallsta",1
+"152","Fernando Rocabado","Vasahallen",5,12,"Kumla IBK",1
+"153","Fernando Rocabado","Vasahallen",5,12,"Kristinehamns IBF",1
 "154","Fredrik Knutsson","Idrottshuset, Örebro Plan 1",3,15,"Lillån IBK",3
-"155","Fredrik Knutsson","Idrottshuset, Örebro Plan 1",3,15,"IBF Örebro Ungdom",1
-"156","Fredrik Knutsson","Kumlahallen",7,15,"Filipstad IBK",1
-"157","Fredrik Knutsson","Kumlahallen",7,15,"Hagfors IF Uddeholm",1
-"158","Fredrik Knutsson","Kumlahallen",7,15,"Kristinehamns IBF",1
-"159","Fredrik Knutsson","Kumlahallen",7,15,"IFK Arboga IBK",1
-"160","Fredrik Knutsson","Kumlahallen",7,15,"Kumla IBK",1
-"161","Fredrik Knutsson","Kumlahallen",7,15,"Skälby IBK",1
-"162","Fredrik Knutsson","Kumlahallen",7,15,"IBF Örebro Ungdom",1
-"163","Fredrik Knutsson","Kumlahallen",7,15,"Kumla IBK",6
-"164","Fredrik Knutsson","Kumlahallen",7,15,"IBK Sala",1
-"165","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"Lillån IBK",1
-"166","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"IBF Örebro Ungdom",5
-"167","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"Hagfors IF Uddeholm",1
-"168","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"IBK Sala",1
-"169","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"Sala Silverstaden IBK",1
-"170","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"Kristinehamns IBF",1
-"171","Gabriel Brandberg","Sala Idrottshall",1,1,"Sala Silverstaden IBK",1
-"172","Gabriel Brandberg","Sala Idrottshall",1,1,"Skattkärrs IK",1
-"173","Gabriel Gunnarsson","Colorama Arena",1,1,"Karlstad IBF Ungdom",1
-"174","Gabriel Gunnarsson","Colorama Arena",1,1,"Per-Ols IBF",1
-"175","Gerry Törnqvist","Nibblehallen",1,2,"Lillån IBK",1
-"176","Gerry Törnqvist","Nibblehallen",1,2,"IBK Hallsta",1
-"177","Gerry Törnqvist","Sala Idrottshall",1,2,"Sala Silverstaden IBK",1
-"178","Gerry Törnqvist","Sala Idrottshall",1,2,"IBK Sala",1
-"179","Henrik Brehmer","Fagerstahallen",2,13,"Per-Ols IBF",2
-"180","Henrik Brehmer","Fagerstahallen",2,13,"Skattkärrs IK",1
-"181","Henrik Brehmer","Fagerstahallen",2,13,"IBF Örebro Ungdom",1
-"182","Henrik Brehmer","Nibblehallen",2,13,"Hagfors IF Uddeholm",1
-"183","Henrik Brehmer","Nibblehallen",2,13,"Sala Silverstaden IBK",1
-"184","Henrik Brehmer","Nibblehallen",2,13,"IBK Hallsta",2
-"185","Henrik Brehmer","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"IBF Örebro Ungdom",1
-"186","Henrik Brehmer","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"IFK Arboga IBK",1
-"187","Henrik Brehmer","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"Skälby IBK",3
-"188","Henrik Brehmer","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"Karlstad IBF Ungdom",1
-"189","Henrik Brehmer","Sala Idrottshall",2,13,"Filipstad IBK",1
-"190","Henrik Brehmer","Sala Idrottshall",2,13,"IBK Sala",2
-"191","Henrik Brehmer","Sala Idrottshall",2,13,"Kristinehamns IBF",1
-"192","Henrik Brehmer","Vasahallen",4,13,"Hagfors IF Uddeholm",1
-"193","Henrik Brehmer","Vasahallen",4,13,"Per-Ols IBF",1
-"194","Henrik Brehmer","Vasahallen",4,13,"Sala Silverstaden IBK",1
-"195","Henrik Brehmer","Vasahallen",4,13,"IBK Sala",1
-"196","Henrik Brehmer","Vasahallen",4,13,"IFK Arboga IBK",4
-"197","Henrik Jansson","Brogårdshallen",1,9,"Kristinehamns IBF",1
-"198","Henrik Jansson","Brogårdshallen",1,9,"Karlstad IBF Ungdom",1
-"199","Henrik Jansson","Colorama Arena",3,9,"Skattkärrs IK",1
-"200","Henrik Jansson","Colorama Arena",3,9,"Hagfors IF Uddeholm",1
-"201","Henrik Jansson","Colorama Arena",3,9,"Karlstad IBF Ungdom",1
-"202","Henrik Jansson","Colorama Arena",3,9,"Lillån IBK",1
-"203","Henrik Jansson","Colorama Arena",3,9,"IBK Hallsta",1
-"204","Henrik Jansson","Colorama Arena",3,9,"Karlstad IBF Ungdom",1
-"205","Henrik Jansson","Spångbergshallen",2,9,"IBK Hallsta",1
-"206","Henrik Jansson","Spångbergshallen",2,9,"Filipstad IBK ",2
-"207","Henrik Jansson","Spångbergshallen",2,9,"IBK Sala",1
-"208","Henrik Jansson","Uddeholm Arena",3,9,"Lillån IBK",1
-"209","Henrik Jansson","Uddeholm Arena",3,9,"Karlstad IBF Ungdom",1
-"210","Henrik Jansson","Uddeholm Arena",3,9,"Skattkärrs IK",1
-"211","Henrik Jansson","Uddeholm Arena",3,9,"Hagfors IF Uddeholm",3
-"212","Henrik Zegelsson","Idrottshuset, Örebro Plan 1",1,4,"Lillån IBK",1
-"213","Henrik Zegelsson","Idrottshuset, Örebro Plan 1",1,4,"Skälby IBK",1
-"214","Henrik Zegelsson","Kumlahallen",1,4,"Hagfors IF Uddeholm",1
-"215","Henrik Zegelsson","Kumlahallen",1,4,"Kumla IBK",1
-"216","Henrik Zegelsson","Mellringehallen - Örebro",2,4,"Per-Ols IBF",1
-"217","Henrik Zegelsson","Mellringehallen - Örebro",2,4,"Filipstad IBK",1
-"218","Henrik Zegelsson","Mellringehallen - Örebro",2,4,"IBF Örebro Ungdom",2
-"219","Jerry Nilsson","Fagerstahallen",1,1,"Per-Ols IBF",1
-"220","Jerry Nilsson","Fagerstahallen",1,1,"Karlstad IBF Ungdom",1
-"221","Jimmie Nilsson","Fagerstahallen",1,1,"Karlstad IBF Ungdom",1
-"222","Jimmie Nilsson","Fagerstahallen",1,1,"Per-Ols IBF",1
-"223","Johan Friman","Brogårdshallen",1,11,"Filipstad IBK",1
-"224","Johan Friman","Brogårdshallen",1,11,"Kristinehamns IBF",1
-"225","Johan Friman","Colorama Arena",6,11,"IBK Hallsta",1
-"226","Johan Friman","Colorama Arena",6,11,"Filipstad IBK",1
-"227","Johan Friman","Colorama Arena",6,11,"Sala Silverstaden IBK",1
-"228","Johan Friman","Colorama Arena",6,11,"Karlstad IBF Ungdom",4
-"229","Johan Friman","Colorama Arena",6,11,"IBK Sala",1
-"230","Johan Friman","Colorama Arena",6,11,"IFK Arboga IBK",1
-"231","Johan Friman","Colorama Arena",6,11,"Skattkärrs IK",2
-"232","Johan Friman","Colorama Arena",6,11,"Lillån IBK",1
-"233","Johan Friman","Spångbergshallen",1,11,"Filipstad IBK ",1
-"234","Johan Friman","Spångbergshallen",1,11,"Kristinehamns IBF",1
-"235","Johan Friman","Uddeholm Arena",3,11,"Kumla IBK",1
-"236","Johan Friman","Uddeholm Arena",3,11,"Hagfors IF Uddeholm",3
-"237","Johan Friman","Uddeholm Arena",3,11,"Kristinehamns IBF",1
-"238","Johan Friman","Uddeholm Arena",3,11,"Filipstad IBK",1
-"239","Johan Palmér","Idrottshuset, Örebro Plan 1",1,3,"Lillån IBK",1
-"240","Johan Palmér","Idrottshuset, Örebro Plan 1",1,3,"Karlstad IBF Ungdom",1
-"241","Johan Palmér","Kumlahallen",1,3,"Karlstad IBF Ungdom",1
-"242","Johan Palmér","Kumlahallen",1,3,"Kumla IBK",1
-"243","Johan Palmér","Mellringehallen - Örebro",1,3,"IBF Örebro Ungdom",1
-"244","Johan Palmér","Mellringehallen - Örebro",1,3,"IBK Sala",1
-"245","Jonas Ahlin","Sala Idrottshall",1,1,"IBK Sala",1
-"246","Jonas Ahlin","Sala Idrottshall",1,1,"IFK Arboga IBK",1
-"247","Jonas Snäll","Colorama Arena",4,6,"Skattkärrs IK",2
-"248","Jonas Snäll","Colorama Arena",4,6,"Karlstad IBF Ungdom",2
-"249","Jonas Snäll","Colorama Arena",4,6,"IFK Arboga IBK",1
-"250","Jonas Snäll","Colorama Arena",4,6,"Sala Silverstaden IBK",1
-"251","Jonas Snäll","Colorama Arena",4,6,"IBK Sala",1
-"252","Jonas Snäll","Colorama Arena",4,6,"Filipstad IBK",1
-"253","Jonas Snäll","Uddeholm Arena",2,6,"Filipstad IBK",1
-"254","Jonas Snäll","Uddeholm Arena",2,6,"Hagfors IF Uddeholm",2
-"255","Jonas Snäll","Uddeholm Arena",2,6,"Kristinehamns IBF",1
-"256","Jonathan Morén","Fagerstahallen",2,12,"Per-Ols IBF",2
-"257","Jonathan Morén","Fagerstahallen",2,12,"Skattkärrs IK",1
-"258","Jonathan Morén","Fagerstahallen",2,12,"IBF Örebro Ungdom",1
-"259","Jonathan Morén","Nibblehallen",2,12,"Sala Silverstaden IBK",1
-"260","Jonathan Morén","Nibblehallen",2,12,"IBK Hallsta",2
-"261","Jonathan Morén","Nibblehallen",2,12,"Hagfors IF Uddeholm",1
-"262","Jonathan Morén","Pettersbergsskolan (S:T Ilian Skolan)",2,12,"Skälby IBK",2
-"263","Jonathan Morén","Pettersbergsskolan (S:T Ilian Skolan)",2,12,"IBF Örebro Ungdom",1
-"264","Jonathan Morén","Pettersbergsskolan (S:T Ilian Skolan)",2,12,"IFK Arboga IBK",1
-"265","Jonathan Morén","Sala Idrottshall",2,12,"Kristinehamns IBF",1
-"266","Jonathan Morén","Sala Idrottshall",2,12,"Filipstad IBK",1
-"267","Jonathan Morén","Sala Idrottshall",2,12,"IBK Sala",2
-"268","Jonathan Morén","Vasahallen",4,12,"Hagfors IF Uddeholm",1
-"269","Jonathan Morén","Vasahallen",4,12,"Sala Silverstaden IBK",1
-"270","Jonathan Morén","Vasahallen",4,12,"Per-Ols IBF",1
-"271","Jonathan Morén","Vasahallen",4,12,"IBK Sala",1
-"272","Jonathan Morén","Vasahallen",4,12,"IFK Arboga IBK",4
-"273","Juha Vanninen","Nibblehallen",1,5,"IBK Hallsta",1
-"274","Juha Vanninen","Nibblehallen",1,5,"Karlstad IBF Ungdom",1
-"275","Juha Vanninen","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Skälby IBK",1
-"276","Juha Vanninen","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Sala Silverstaden IBK",1
-"277","Juha Vanninen","Sala Idrottshall",2,5,"Hagfors IF Uddeholm",1
-"278","Juha Vanninen","Sala Idrottshall",2,5,"Per-Ols IBF",1
-"279","Juha Vanninen","Sala Idrottshall",2,5,"IBK Sala",2
-"280","Juha Vanninen","Vasahallen",1,5,"IFK Arboga IBK",1
-"281","Juha Vanninen","Vasahallen",1,5,"IBF Örebro Ungdom",1
-"282","Jörgen Dahlström","Mellringehallen - Örebro",1,1,"Skattkärrs IK",1
-"283","Jörgen Dahlström","Mellringehallen - Örebro",1,1,"IBF Örebro Ungdom",1
-"284","Kai Kinnari","Fagerstahallen",1,4,"Per-Ols IBF",1
-"285","Kai Kinnari","Fagerstahallen",1,4,"Filipstad IBK",1
-"286","Kai Kinnari","Nibblehallen",1,4,"IBK Sala",1
-"287","Kai Kinnari","Nibblehallen",1,4,"IBK Hallsta",1
-"288","Kai Kinnari","Sala Idrottshall",2,4,"IBF Örebro Ungdom",1
-"289","Kai Kinnari","Sala Idrottshall",2,4,"Skälby IBK",1
-"290","Kai Kinnari","Sala Idrottshall",2,4,"Sala Silverstaden IBK",2
-"291","Kim Palmroth","Kumlahallen",1,1,"Kumla IBK",1
-"292","Kim Palmroth","Kumlahallen",1,1,"Filipstad IBK",1
-"293","Lars Flink","Fagerstahallen",3,12,"Kumla IBK",1
-"294","Lars Flink","Fagerstahallen",3,12,"Per-Ols IBF",1
-"295","Lars Flink","Fagerstahallen",3,12,"Per-Ols IBF",2
-"296","Lars Flink","Fagerstahallen",3,12,"Hagfors IF Uddeholm",1
-"297","Lars Flink","Fagerstahallen",3,12,"Kristinehamns IBF",1
-"298","Lars Flink","Nibblehallen",1,12,"IBK Hallsta",1
-"299","Lars Flink","Nibblehallen",1,12,"Kumla IBK",1
-"300","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,12,"Skälby IBK",2
-"301","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,12,"Karlstad IBF Ungdom",1
-"302","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,12,"Skälby IBK",1
-"303","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,12,"Per-Ols IBF",1
-"304","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,12,"Hagfors IF Uddeholm",1
-"305","Lars Flink","Sala Idrottshall",5,12,"Kumla IBK",1
-"306","Lars Flink","Sala Idrottshall",5,12,"Sala Silverstaden IBK",1
-"307","Lars Flink","Sala Idrottshall",5,12,"IBK Sala",2
-"308","Lars Flink","Sala Idrottshall",5,12,"Filipstad IBK",1
-"309","Lars Flink","Sala Idrottshall",5,12,"Kristinehamns IBF",1
-"310","Lars Flink","Sala Idrottshall",5,12,"IBF Örebro Ungdom",1
-"311","Lars Flink","Sala Idrottshall",5,12,"IFK Arboga IBK",1
-"312","Lars Flink","Sala Idrottshall",5,12,"Sala Silverstaden IBK",1
-"313","Lars Flink","Sala Idrottshall",5,12,"IBK Sala",1
-"314","Lars Larsson","Brogårdshallen",2,5,"Skälby IBK",1
-"315","Lars Larsson","Brogårdshallen",2,5,"Kristinehamns IBF",2
-"316","Lars Larsson","Brogårdshallen",2,5,"IBF Örebro Ungdom",1
-"317","Lars Larsson","Colorama Arena",2,5,"Skattkärrs IK",2
-"318","Lars Larsson","Colorama Arena",2,5,"Karlstad IBF Ungdom",2
-"319","Lars Larsson","Spångbergshallen",1,5,"Karlstad IBF Ungdom",1
-"320","Lars Larsson","Spångbergshallen",1,5,"Filipstad IBK ",1
-"321","Linus Larsson","Brogårdshallen",1,6,"Lillån IBK",1
-"322","Linus Larsson","Brogårdshallen",1,6,"Kristinehamns IBF",1
-"323","Linus Larsson","Colorama Arena",2,6,"Sala Silverstaden IBK",1
-"324","Linus Larsson","Colorama Arena",2,6,"Karlstad IBF Ungdom",1
-"325","Linus Larsson","Colorama Arena",2,6,"Skattkärrs IK",1
-"326","Linus Larsson","Colorama Arena",2,6,"Kumla IBK",1
-"327","Linus Larsson","Spångbergshallen",2,6,"Skälby IBK",1
-"328","Linus Larsson","Spångbergshallen",2,6,"Hagfors IF Uddeholm",1
-"329","Linus Larsson","Spångbergshallen",2,6,"Filipstad IBK ",2
-"330","Linus Larsson","Uddeholm Arena",1,6,"Hagfors IF Uddeholm",1
-"331","Linus Larsson","Uddeholm Arena",1,6,"IBK Sala",1
-"332","Marco Mustonen","Mellringehallen - Örebro",1,1,"Lillån IBK",1
-"333","Marco Mustonen","Mellringehallen - Örebro",1,1,"IBK Hallsta",1
-"334","Marcus Karppinen","Fagerstahallen",2,10,"Per-Ols IBF",2
-"335","Marcus Karppinen","Fagerstahallen",2,10,"Sala Silverstaden IBK",1
-"336","Marcus Karppinen","Fagerstahallen",2,10,"IFK Arboga IBK",1
-"337","Marcus Karppinen","Nibblehallen",3,10,"IBK Hallsta",2
-"338","Marcus Karppinen","Nibblehallen",3,10,"IBF Örebro Ungdom",1
-"339","Marcus Karppinen","Nibblehallen",3,10,"IFK Arboga IBK",1
-"340","Marcus Karppinen","Nibblehallen",3,10,"Per-Ols IBF",1
-"341","Marcus Karppinen","Nibblehallen",3,10,"IBK Hallsta",1
-"342","Marcus Karppinen","Pettersbergsskolan (S:T Ilian Skolan)",1,10,"Skälby IBK",1
-"343","Marcus Karppinen","Pettersbergsskolan (S:T Ilian Skolan)",1,10,"IBK Sala",1
-"344","Marcus Karppinen","Sala Idrottshall",4,10,"IBK Hallsta",1
-"345","Marcus Karppinen","Sala Idrottshall",4,10,"Skälby IBK",1
-"346","Marcus Karppinen","Sala Idrottshall",4,10,"Sala Silverstaden IBK",2
-"347","Marcus Karppinen","Sala Idrottshall",4,10,"Karlstad IBF Ungdom",1
-"348","Marcus Karppinen","Sala Idrottshall",4,10,"IBK Sala",2
-"349","Marcus Karppinen","Sala Idrottshall",4,10,"Per-Ols IBF",1
-"350","Mattias Pettersson","Brogårdshallen",1,12,"Kristinehamns IBF",1
-"351","Mattias Pettersson","Brogårdshallen",1,12,"Hagfors IF Uddeholm",1
-"352","Mattias Pettersson","Colorama Arena",5,12,"Skattkärrs IK",2
-"353","Mattias Pettersson","Colorama Arena",5,12,"Karlstad IBF Ungdom",3
-"354","Mattias Pettersson","Colorama Arena",5,12,"Filipstad IBK",1
-"355","Mattias Pettersson","Colorama Arena",5,12,"IBK Hallsta",1
-"356","Mattias Pettersson","Colorama Arena",5,12,"Lillån IBK",1
-"357","Mattias Pettersson","Colorama Arena",5,12,"Kristinehamns IBF",1
-"358","Mattias Pettersson","Colorama Arena",5,12,"IBF Örebro Ungdom",1
-"359","Mattias Pettersson","Spångbergshallen",3,12,"IFK Arboga IBK",1
-"360","Mattias Pettersson","Spångbergshallen",3,12,"Per-Ols IBF",1
-"361","Mattias Pettersson","Spångbergshallen",3,12,"IBF Örebro Ungdom",1
-"362","Mattias Pettersson","Spångbergshallen",3,12,"Filipstad IBK ",3
-"363","Mattias Pettersson","Uddeholm Arena",3,12,"Hagfors IF Uddeholm",3
-"364","Mattias Pettersson","Uddeholm Arena",3,12,"Sala Silverstaden IBK",1
-"365","Mattias Pettersson","Uddeholm Arena",3,12,"Lillån IBK",1
-"366","Mattias Pettersson","Uddeholm Arena",3,12,"Per-Ols IBF",1
-"367","Micael Svensson","Idrottshuset, Örebro Plan 1",1,6,"Lillån IBK",1
-"368","Micael Svensson","Idrottshuset, Örebro Plan 1",1,6,"Hagfors IF Uddeholm",1
-"369","Micael Svensson","Kumlahallen",4,6,"Karlstad IBF Ungdom",1
-"370","Micael Svensson","Kumlahallen",4,6,"IBK Sala",1
-"371","Micael Svensson","Kumlahallen",4,6,"IFK Arboga IBK",1
-"372","Micael Svensson","Kumlahallen",4,6,"IBK Hallsta",1
-"373","Micael Svensson","Kumlahallen",4,6,"Kumla IBK",4
-"374","Micael Svensson","Mellringehallen - Örebro",1,6,"Kristinehamns IBF",1
-"375","Micael Svensson","Mellringehallen - Örebro",1,6,"IBF Örebro Ungdom",1
-"376","Michael Nilsson","Idrottshuset, Örebro Plan 1",1,2,"Skälby IBK",1
-"377","Michael Nilsson","Idrottshuset, Örebro Plan 1",1,2,"Lillån IBK",1
-"378","Michael Nilsson","Mellringehallen - Örebro",1,2,"IBF Örebro Ungdom",1
-"379","Michael Nilsson","Mellringehallen - Örebro",1,2,"Per-Ols IBF",1
-"380","Michael Rosenlönn","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"Skattkärrs IK",1
-"381","Michael Rosenlönn","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"Skälby IBK",1
-"382","Michael Rosenlönn","Sala Idrottshall",1,2,"Sala Silverstaden IBK",1
-"383","Michael Rosenlönn","Sala Idrottshall",1,2,"Hagfors IF Uddeholm",1
-"384","Mikael Jansson","Fagerstahallen",1,4,"Per-Ols IBF",1
-"385","Mikael Jansson","Fagerstahallen",1,4,"Lillån IBK",1
-"386","Mikael Jansson","Nibblehallen",1,4,"Skälby IBK",1
-"387","Mikael Jansson","Nibblehallen",1,4,"IBK Hallsta",1
-"388","Mikael Jansson","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Skälby IBK",1
-"389","Mikael Jansson","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Filipstad IBK",1
-"390","Mikael Jansson","Sala Idrottshall",1,4,"Lillån IBK",1
-"391","Mikael Jansson","Sala Idrottshall",1,4,"Sala Silverstaden IBK",1
-"392","Mårten Hanold","Nibblehallen",1,4,"Karlstad IBF Ungdom",1
-"393","Mårten Hanold","Nibblehallen",1,4,"IBK Hallsta",1
-"394","Mårten Hanold","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Skälby IBK",1
-"395","Mårten Hanold","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Sala Silverstaden IBK",1
-"396","Mårten Hanold","Sala Idrottshall",2,4,"Kristinehamns IBF",1
-"397","Mårten Hanold","Sala Idrottshall",2,4,"Skattkärrs IK",1
-"398","Mårten Hanold","Sala Idrottshall",2,4,"Sala Silverstaden IBK",2
-"399","Nicklas Johansson","Brogårdshallen",5,12,"Skälby IBK",1
-"400","Nicklas Johansson","Brogårdshallen",5,12,"Karlstad IBF Ungdom",1
-"401","Nicklas Johansson","Brogårdshallen",5,12,"Filipstad IBK",1
-"402","Nicklas Johansson","Brogårdshallen",5,12,"Kristinehamns IBF",1
-"403","Nicklas Johansson","Brogårdshallen",5,12,"IBK Hallsta",1
-"404","Nicklas Johansson","Brogårdshallen",5,12,"Kristinehamns IBF",4
-"405","Nicklas Johansson","Brogårdshallen",5,12,"Skattkärrs IK",1
-"406","Nicklas Johansson","Colorama Arena",3,12,"Hagfors IF Uddeholm",1
-"407","Nicklas Johansson","Colorama Arena",3,12,"IFK Arboga IBK",1
-"408","Nicklas Johansson","Colorama Arena",3,12,"Skälby IBK",1
-"409","Nicklas Johansson","Colorama Arena",3,12,"Karlstad IBF Ungdom",3
-"410","Nicklas Johansson","Spångbergshallen",2,12,"Kristinehamns IBF",1
-"411","Nicklas Johansson","Spångbergshallen",2,12,"IBK Hallsta",1
-"412","Nicklas Johansson","Spångbergshallen",2,12,"Filipstad IBK ",2
-"413","Nicklas Johansson","Uddeholm Arena",2,12,"Hagfors IF Uddeholm",2
-"414","Nicklas Johansson","Uddeholm Arena",2,12,"Kumla IBK",1
-"415","Nicklas Johansson","Uddeholm Arena",2,12,"Karlstad IBF Ungdom",1
-"416","Oscar Söljén","Kumlahallen",2,4,"Sala Silverstaden IBK",1
-"417","Oscar Söljén","Kumlahallen",2,4,"Kumla IBK",2
-"418","Oscar Söljén","Kumlahallen",2,4,"Lillån IBK",1
-"419","Oscar Söljén","Mellringehallen - Örebro",2,4,"Kumla IBK",1
-"420","Oscar Söljén","Mellringehallen - Örebro",2,4,"IBF Örebro Ungdom",2
-"421","Oscar Söljén","Mellringehallen - Örebro",2,4,"Sala Silverstaden IBK",1
-"422","Oskar Sundin","Brogårdshallen",1,8,"Lillån IBK",1
-"423","Oskar Sundin","Brogårdshallen",1,8,"Kristinehamns IBF",1
-"424","Oskar Sundin","Colorama Arena",2,8,"Skattkärrs IK",1
-"425","Oskar Sundin","Colorama Arena",2,8,"Karlstad IBF Ungdom",1
-"426","Oskar Sundin","Colorama Arena",2,8,"Kumla IBK",1
-"427","Oskar Sundin","Colorama Arena",2,8,"Sala Silverstaden IBK",1
-"428","Oskar Sundin","Spångbergshallen",3,8,"Hagfors IF Uddeholm",1
-"429","Oskar Sundin","Spångbergshallen",3,8,"Skälby IBK",1
-"430","Oskar Sundin","Spångbergshallen",3,8,"Filipstad IBK ",3
-"431","Oskar Sundin","Spångbergshallen",3,8,"IBK Sala",1
-"432","Oskar Sundin","Uddeholm Arena",2,8,"IFK Arboga IBK",1
-"433","Oskar Sundin","Uddeholm Arena",2,8,"Skattkärrs IK",1
-"434","Oskar Sundin","Uddeholm Arena",2,8,"Hagfors IF Uddeholm",2
-"435","Patrik Ådemark","Sala Idrottshall",1,1,"Karlstad IBF Ungdom",1
-"436","Patrik Ådemark","Sala Idrottshall",1,1,"Sala Silverstaden IBK",1
-"437","Peter Hofer","Fagerstahallen",1,3,"Hagfors IF Uddeholm",1
-"438","Peter Hofer","Fagerstahallen",1,3,"Per-Ols IBF",1
-"439","Peter Hofer","Pettersbergsskolan (S:T Ilian Skolan)",1,3,"Skälby IBK",1
-"440","Peter Hofer","Pettersbergsskolan (S:T Ilian Skolan)",1,3,"Per-Ols IBF",1
-"441","Peter Hofer","Sala Idrottshall",1,3,"IBK Sala",1
-"442","Peter Hofer","Sala Idrottshall",1,3,"Kumla IBK",1
-"443","Philip Aronsson-Elffors","Brogårdshallen",3,10,"Skattkärrs IK",1
-"444","Philip Aronsson-Elffors","Brogårdshallen",3,10,"Kumla IBK",1
-"445","Philip Aronsson-Elffors","Brogårdshallen",3,10,"IBK Hallsta",1
-"446","Philip Aronsson-Elffors","Brogårdshallen",3,10,"Kristinehamns IBF",3
-"447","Philip Aronsson-Elffors","Colorama Arena",3,10,"Skälby IBK",1
-"448","Philip Aronsson-Elffors","Colorama Arena",3,10,"Kristinehamns IBF",1
-"449","Philip Aronsson-Elffors","Colorama Arena",3,10,"Skattkärrs IK",3
-"450","Philip Aronsson-Elffors","Colorama Arena",3,10,"Hagfors IF Uddeholm",1
-"451","Philip Aronsson-Elffors","Spångbergshallen",2,10,"Sala Silverstaden IBK",1
-"452","Philip Aronsson-Elffors","Spångbergshallen",2,10,"Filipstad IBK ",2
-"453","Philip Aronsson-Elffors","Spångbergshallen",2,10,"Skattkärrs IK",1
-"454","Philip Aronsson-Elffors","Stavdal Arena",1,10,"IBF Örebro Ungdom",1
-"455","Philip Aronsson-Elffors","Stavdal Arena",1,10,"Karlstad IBF Ungdom",1
-"456","Philip Aronsson-Elffors","Uddeholm Arena",1,10,"IBK Hallsta",1
-"457","Philip Aronsson-Elffors","Uddeholm Arena",1,10,"Hagfors IF Uddeholm",1
-"458","Rasmus Zarins","Fagerstahallen",1,2,"Per-Ols IBF",1
-"459","Rasmus Zarins","Fagerstahallen",1,2,"Skälby IBK",1
-"460","Rasmus Zarins","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"IBK Hallsta",1
-"461","Rasmus Zarins","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"Skälby IBK",1
-"462","Robert Forslind Lovrencic","Kumlahallen",1,1,"Kumla IBK",1
-"463","Robert Forslind Lovrencic","Kumlahallen",1,1,"Skälby IBK",1
-"464","Robert Kuylenstjerna","Uddeholm Arena",1,1,"IBK Sala",1
-"465","Robert Kuylenstjerna","Uddeholm Arena",1,1,"Hagfors IF Uddeholm",1
-"466","Robin Särén","Brogårdshallen",1,1,"Kristinehamns IBF",1
-"467","Robin Särén","Brogårdshallen",1,1,"Per-Ols IBF",1
-"468","Sebastian Falk-Asplund","Brogårdshallen",1,10,"Kristinehamns IBF",1
-"469","Sebastian Falk-Asplund","Brogårdshallen",1,10,"Hagfors IF Uddeholm",1
-"470","Sebastian Falk-Asplund","Colorama Arena",4,10,"IBF Örebro Ungdom",1
-"471","Sebastian Falk-Asplund","Colorama Arena",4,10,"Karlstad IBF Ungdom",2
-"472","Sebastian Falk-Asplund","Colorama Arena",4,10,"Filipstad IBK",1
-"473","Sebastian Falk-Asplund","Colorama Arena",4,10,"IBK Hallsta",1
-"474","Sebastian Falk-Asplund","Colorama Arena",4,10,"Skattkärrs IK",2
-"475","Sebastian Falk-Asplund","Colorama Arena",4,10,"Lillån IBK",1
-"476","Sebastian Falk-Asplund","Spångbergshallen",3,10,"IFK Arboga IBK",1
-"477","Sebastian Falk-Asplund","Spångbergshallen",3,10,"Filipstad IBK ",3
-"478","Sebastian Falk-Asplund","Spångbergshallen",3,10,"IBF Örebro Ungdom",1
-"479","Sebastian Falk-Asplund","Spångbergshallen",3,10,"Per-Ols IBF",1
-"480","Sebastian Falk-Asplund","Uddeholm Arena",2,10,"Sala Silverstaden IBK",1
-"481","Sebastian Falk-Asplund","Uddeholm Arena",2,10,"Hagfors IF Uddeholm",2
-"482","Sebastian Falk-Asplund","Uddeholm Arena",2,10,"Per-Ols IBF",1
-"483","Thomas Kallin","Nibblehallen",1,4,"Kristinehamns IBF",1
-"484","Thomas Kallin","Nibblehallen",1,4,"IBK Hallsta",1
-"485","Thomas Kallin","Sala Idrottshall",3,4,"Skattkärrs IK",1
-"486","Thomas Kallin","Sala Idrottshall",3,4,"Kumla IBK",1
-"487","Thomas Kallin","Sala Idrottshall",3,4,"IBK Sala",2
-"488","Thomas Kallin","Sala Idrottshall",3,4,"Sala Silverstaden IBK",2
-"489","Tim Solig","Fagerstahallen",1,2,"Per-Ols IBF",1
-"490","Tim Solig","Fagerstahallen",1,2,"Skälby IBK",1
-"491","Tim Solig","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"Skälby IBK",1
-"492","Tim Solig","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"IBK Hallsta",1
-"493","Timmy Samuelsson","Brogårdshallen",1,1,"Per-Ols IBF",1
-"494","Timmy Samuelsson","Brogårdshallen",1,1,"Kristinehamns IBF",1
-"495","Tobias Jäderqvist","Brogårdshallen",1,2,"Sala Silverstaden IBK",1
-"496","Tobias Jäderqvist","Brogårdshallen",1,2,"Kristinehamns IBF",1
-"497","Tobias Jäderqvist","Spångbergshallen",1,2,"Lillån IBK",1
-"498","Tobias Jäderqvist","Spångbergshallen",1,2,"Filipstad IBK ",1
-"499","Tobias Söderberg","Sala Idrottshall",3,4,"Kumla IBK",1
-"500","Tobias Söderberg","Sala Idrottshall",3,4,"IBK Sala",2
-"501","Tobias Söderberg","Sala Idrottshall",3,4,"Sala Silverstaden IBK",2
-"502","Tobias Söderberg","Sala Idrottshall",3,4,"Skattkärrs IK",1
-"503","Tobias Söderberg","Vasahallen",1,4,"IFK Arboga IBK",1
-"504","Tobias Söderberg","Vasahallen",1,4,"Skattkärrs IK",1
-"505","Tomas Karlsson","Fagerstahallen",1,4,"Lillån IBK",1
-"506","Tomas Karlsson","Fagerstahallen",1,4,"Per-Ols IBF",1
-"507","Tomas Karlsson","Nibblehallen",1,4,"Skälby IBK",1
-"508","Tomas Karlsson","Nibblehallen",1,4,"IBK Hallsta",1
-"509","Tomas Karlsson","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Skälby IBK",1
-"510","Tomas Karlsson","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Filipstad IBK",1
-"511","Tomas Karlsson","Sala Idrottshall",1,4,"Sala Silverstaden IBK",1
-"512","Tomas Karlsson","Sala Idrottshall",1,4,"Lillån IBK",1
-"513","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Skattkärrs IK",1
-"514","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"IBK Sala",1
-"515","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Per-Ols IBF",1
-"516","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Kristinehamns IBF",1
-"517","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Lillån IBK",3
-"518","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Lillån IBK",1
-"519","Tomas Persson","Kumlahallen",3,8,"Kumla IBK",1
-"520","Tomas Persson","Kumlahallen",3,8,"Kristinehamns IBF",1
-"521","Tomas Persson","Kumlahallen",3,8,"Sala Silverstaden IBK",1
-"522","Tomas Persson","Kumlahallen",3,8,"Kumla IBK",2
-"523","Tomas Persson","Kumlahallen",3,8,"Skattkärrs IK",1
-"524","Tomas Persson","Mellringehallen - Örebro",1,8,"IBF Örebro Ungdom",1
-"525","Tomas Persson","Mellringehallen - Örebro",1,8,"Karlstad IBF Ungdom",1
-"526","Tommy Nordin","Idrottshuset, Örebro Plan 1",1,5,"Filipstad IBK",1
-"527","Tommy Nordin","Idrottshuset, Örebro Plan 1",1,5,"Lillån IBK",1
-"528","Tommy Nordin","Kumlahallen",1,5,"Kumla IBK",1
-"529","Tommy Nordin","Kumlahallen",1,5,"Per-Ols IBF",1
-"530","Tommy Nordin","Mellringehallen - Örebro",3,5,"Filipstad IBK",1
-"531","Tommy Nordin","Mellringehallen - Örebro",3,5,"Hagfors IF Uddeholm",1
-"532","Tommy Nordin","Mellringehallen - Örebro",3,5,"IBF Örebro Ungdom",2
-"533","Tommy Nordin","Mellringehallen - Örebro",3,5,"IBF Örebro Ungdom",1
-"534","Tommy Nordin","Mellringehallen - Örebro",3,5,"Lillån IBK",1
-"535","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"Kumla IBK",1
-"536","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"Per-Ols IBF",1
-"537","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"Lillån IBK",4
-"538","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"IFK Arboga IBK",1
-"539","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"IBF Örebro Ungdom",1
-"540","Tony Wennberg","Kumlahallen",1,15,"Kumla IBK",1
-"541","Tony Wennberg","Kumlahallen",1,15,"IBF Örebro Ungdom",1
-"542","Tony Wennberg","Mellringehallen - Örebro",4,15,"IBF Örebro Ungdom",3
-"543","Tony Wennberg","Mellringehallen - Örebro",4,15,"Lillån IBK",1
-"544","Tony Wennberg","Mellringehallen - Örebro",4,15,"IBK Hallsta",2
-"545","Tony Wennberg","Mellringehallen - Örebro",4,15,"Skälby IBK",1
-"546","Tony Wennberg","Mellringehallen - Örebro",4,15,"IFK Arboga IBK",1
-"547","Tony Wennberg","Nibblehallen",1,15,"Skattkärrs IK",1
-"548","Tony Wennberg","Nibblehallen",1,15,"IBK Hallsta",1
-"549","Tony Wennberg","Pettersbergsskolan (S:T Ilian Skolan)",2,15,"Skälby IBK",2
-"550","Tony Wennberg","Pettersbergsskolan (S:T Ilian Skolan)",2,15,"Lillån IBK",1
-"551","Tony Wennberg","Pettersbergsskolan (S:T Ilian Skolan)",2,15,"Kristinehamns IBF",1
-"552","Tony Wennberg","Vasahallen",3,15,"Lillån IBK",1
-"553","Tony Wennberg","Vasahallen",3,15,"IBK Hallsta",1
-"554","Tony Wennberg","Vasahallen",3,15,"Skälby IBK",1
-"555","Tony Wennberg","Vasahallen",3,15,"IFK Arboga IBK",3
-"556","William Ringkvist","Fagerstahallen",2,9,"Per-Ols IBF",2
-"557","William Ringkvist","Fagerstahallen",2,9,"Sala Silverstaden IBK",1
-"558","William Ringkvist","Fagerstahallen",2,9,"IFK Arboga IBK",1
-"559","William Ringkvist","Nibblehallen",3,9,"Lillån IBK",1
-"560","William Ringkvist","Nibblehallen",3,9,"IBF Örebro Ungdom",1
-"561","William Ringkvist","Nibblehallen",3,9,"IBK Hallsta",2
-"562","William Ringkvist","Nibblehallen",3,9,"IBK Hallsta",1
-"563","William Ringkvist","Nibblehallen",3,9,"Per-Ols IBF",1
-"564","William Ringkvist","Sala Idrottshall",4,9,"Sala Silverstaden IBK",2
-"565","William Ringkvist","Sala Idrottshall",4,9,"Skälby IBK",1
-"566","William Ringkvist","Sala Idrottshall",4,9,"IBK Hallsta",1
-"567","William Ringkvist","Sala Idrottshall",4,9,"Per-Ols IBF",1
-"568","William Ringkvist","Sala Idrottshall",4,9,"IBK Sala",2
-"569","William Ringkvist","Sala Idrottshall",4,9,"Karlstad IBF Ungdom",1
+"155","Fredrik Knutsson","Idrottshuset, Örebro Plan 1",3,15,"Karlstad IBF Ungdom",1
+"156","Fredrik Knutsson","Idrottshuset, Örebro Plan 1",3,15,"IBF Örebro Ungdom",1
+"157","Fredrik Knutsson","Idrottshuset, Örebro Plan 1",3,15,"Filipstad IBK",1
+"158","Fredrik Knutsson","Kumlahallen",7,15,"IFK Arboga IBK",1
+"159","Fredrik Knutsson","Kumlahallen",7,15,"IBF Örebro Ungdom",1
+"160","Fredrik Knutsson","Kumlahallen",7,15,"Kumla IBK",6
+"161","Fredrik Knutsson","Kumlahallen",7,15,"Kumla IBK",1
+"162","Fredrik Knutsson","Kumlahallen",7,15,"IBK Sala",1
+"163","Fredrik Knutsson","Kumlahallen",7,15,"Hagfors IF Uddeholm",1
+"164","Fredrik Knutsson","Kumlahallen",7,15,"Kristinehamns IBF",1
+"165","Fredrik Knutsson","Kumlahallen",7,15,"Skälby IBK",1
+"166","Fredrik Knutsson","Kumlahallen",7,15,"Filipstad IBK",1
+"167","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"Lillån IBK",1
+"168","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"Kristinehamns IBF",1
+"169","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"IBF Örebro Ungdom",5
+"170","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"Sala Silverstaden IBK",1
+"171","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"IBK Sala",1
+"172","Fredrik Knutsson","Mellringehallen - Örebro",5,15,"Hagfors IF Uddeholm",1
+"173","Gabriel Brandberg","Sala Idrottshall",1,1,"Skattkärrs IK",1
+"174","Gabriel Brandberg","Sala Idrottshall",1,1,"Sala Silverstaden IBK",1
+"175","Gabriel Gunnarsson","Colorama Arena",1,1,"Per-Ols IBF",1
+"176","Gabriel Gunnarsson","Colorama Arena",1,1,"Karlstad IBF Ungdom",1
+"177","Gerry Törnqvist","Nibblehallen",1,2,"Lillån IBK",1
+"178","Gerry Törnqvist","Nibblehallen",1,2,"IBK Hallsta",1
+"179","Gerry Törnqvist","Sala Idrottshall",1,2,"Sala Silverstaden IBK",1
+"180","Gerry Törnqvist","Sala Idrottshall",1,2,"IBK Sala",1
+"181","Henrik Brehmer","Fagerstahallen",2,14,"Per-Ols IBF",2
+"182","Henrik Brehmer","Fagerstahallen",2,14,"IBF Örebro Ungdom",1
+"183","Henrik Brehmer","Fagerstahallen",2,14,"Skattkärrs IK",1
+"184","Henrik Brehmer","Nibblehallen",2,14,"IBK Hallsta",2
+"185","Henrik Brehmer","Nibblehallen",2,14,"Sala Silverstaden IBK",1
+"186","Henrik Brehmer","Nibblehallen",2,14,"Hagfors IF Uddeholm",1
+"187","Henrik Brehmer","Pettersbergsskolan (S:T Ilian Skolan)",4,14,"Karlstad IBF Ungdom",1
+"188","Henrik Brehmer","Pettersbergsskolan (S:T Ilian Skolan)",4,14,"IFK Arboga IBK",1
+"189","Henrik Brehmer","Pettersbergsskolan (S:T Ilian Skolan)",4,14,"Kumla IBK",1
+"190","Henrik Brehmer","Pettersbergsskolan (S:T Ilian Skolan)",4,14,"Skälby IBK",4
+"191","Henrik Brehmer","Pettersbergsskolan (S:T Ilian Skolan)",4,14,"IBF Örebro Ungdom",1
+"192","Henrik Brehmer","Sala Idrottshall",2,14,"IBK Sala",2
+"193","Henrik Brehmer","Sala Idrottshall",2,14,"Kristinehamns IBF",1
+"194","Henrik Brehmer","Sala Idrottshall",2,14,"Filipstad IBK",1
+"195","Henrik Brehmer","Vasahallen",4,14,"Sala Silverstaden IBK",1
+"196","Henrik Brehmer","Vasahallen",4,14,"IBK Sala",1
+"197","Henrik Brehmer","Vasahallen",4,14,"Per-Ols IBF",1
+"198","Henrik Brehmer","Vasahallen",4,14,"IFK Arboga IBK",4
+"199","Henrik Brehmer","Vasahallen",4,14,"Hagfors IF Uddeholm",1
+"200","Henrik Jansson","Brogårdshallen",2,10,"Karlstad IBF Ungdom",1
+"201","Henrik Jansson","Brogårdshallen",2,10,"IBK Sala",1
+"202","Henrik Jansson","Brogårdshallen",2,10,"Kristinehamns IBF",2
+"203","Henrik Jansson","Colorama Arena",3,10,"Lillån IBK",1
+"204","Henrik Jansson","Colorama Arena",3,10,"IBK Hallsta",1
+"205","Henrik Jansson","Colorama Arena",3,10,"Karlstad IBF Ungdom",1
+"206","Henrik Jansson","Colorama Arena",3,10,"Skattkärrs IK",1
+"207","Henrik Jansson","Colorama Arena",3,10,"Karlstad IBF Ungdom",1
+"208","Henrik Jansson","Colorama Arena",3,10,"Hagfors IF Uddeholm",1
+"209","Henrik Jansson","Spångbergshallen",2,10,"Filipstad IBK ",2
+"210","Henrik Jansson","Spångbergshallen",2,10,"IBK Hallsta",1
+"211","Henrik Jansson","Spångbergshallen",2,10,"IBK Sala",1
+"212","Henrik Jansson","Uddeholm Arena",3,10,"Skattkärrs IK",1
+"213","Henrik Jansson","Uddeholm Arena",3,10,"Karlstad IBF Ungdom",1
+"214","Henrik Jansson","Uddeholm Arena",3,10,"Lillån IBK",1
+"215","Henrik Jansson","Uddeholm Arena",3,10,"Hagfors IF Uddeholm",3
+"216","Henrik Zegelsson","Idrottshuset, Örebro Plan 1",1,4,"Skälby IBK",1
+"217","Henrik Zegelsson","Idrottshuset, Örebro Plan 1",1,4,"Lillån IBK",1
+"218","Henrik Zegelsson","Kumlahallen",1,4,"Hagfors IF Uddeholm",1
+"219","Henrik Zegelsson","Kumlahallen",1,4,"Kumla IBK",1
+"220","Henrik Zegelsson","Mellringehallen - Örebro",2,4,"IBF Örebro Ungdom",2
+"221","Henrik Zegelsson","Mellringehallen - Örebro",2,4,"Per-Ols IBF",1
+"222","Henrik Zegelsson","Mellringehallen - Örebro",2,4,"Filipstad IBK",1
+"223","Jerry Nilsson","Fagerstahallen",1,1,"Karlstad IBF Ungdom",1
+"224","Jerry Nilsson","Fagerstahallen",1,1,"Per-Ols IBF",1
+"225","Jimmie Nilsson","Fagerstahallen",1,1,"Karlstad IBF Ungdom",1
+"226","Jimmie Nilsson","Fagerstahallen",1,1,"Per-Ols IBF",1
+"227","Johan Friman","Brogårdshallen",1,12,"Kristinehamns IBF",1
+"228","Johan Friman","Brogårdshallen",1,12,"Filipstad IBK",1
+"229","Johan Friman","Colorama Arena",6,12,"Filipstad IBK",1
+"230","Johan Friman","Colorama Arena",6,12,"Lillån IBK",1
+"231","Johan Friman","Colorama Arena",6,12,"Skattkärrs IK",2
+"232","Johan Friman","Colorama Arena",6,12,"Sala Silverstaden IBK",1
+"233","Johan Friman","Colorama Arena",6,12,"IBK Sala",1
+"234","Johan Friman","Colorama Arena",6,12,"Karlstad IBF Ungdom",4
+"235","Johan Friman","Colorama Arena",6,12,"IBK Hallsta",1
+"236","Johan Friman","Colorama Arena",6,12,"IFK Arboga IBK",1
+"237","Johan Friman","Spångbergshallen",1,12,"Kristinehamns IBF",1
+"238","Johan Friman","Spångbergshallen",1,12,"Filipstad IBK ",1
+"239","Johan Friman","Uddeholm Arena",4,12,"Kumla IBK",1
+"240","Johan Friman","Uddeholm Arena",4,12,"Filipstad IBK",1
+"241","Johan Friman","Uddeholm Arena",4,12,"IBF Örebro Ungdom",1
+"242","Johan Friman","Uddeholm Arena",4,12,"Hagfors IF Uddeholm",4
+"243","Johan Friman","Uddeholm Arena",4,12,"Kristinehamns IBF",1
+"244","Johan Palmér","Idrottshuset, Örebro Plan 1",1,3,"Lillån IBK",1
+"245","Johan Palmér","Idrottshuset, Örebro Plan 1",1,3,"Karlstad IBF Ungdom",1
+"246","Johan Palmér","Kumlahallen",1,3,"Kumla IBK",1
+"247","Johan Palmér","Kumlahallen",1,3,"Karlstad IBF Ungdom",1
+"248","Johan Palmér","Mellringehallen - Örebro",1,3,"IBK Sala",1
+"249","Johan Palmér","Mellringehallen - Örebro",1,3,"IBF Örebro Ungdom",1
+"250","Jonas Ahlin","Sala Idrottshall",1,1,"IBK Sala",1
+"251","Jonas Ahlin","Sala Idrottshall",1,1,"IFK Arboga IBK",1
+"252","Jonas Snäll","Colorama Arena",4,7,"IBK Sala",1
+"253","Jonas Snäll","Colorama Arena",4,7,"Sala Silverstaden IBK",1
+"254","Jonas Snäll","Colorama Arena",4,7,"IFK Arboga IBK",1
+"255","Jonas Snäll","Colorama Arena",4,7,"Filipstad IBK",1
+"256","Jonas Snäll","Colorama Arena",4,7,"Skattkärrs IK",2
+"257","Jonas Snäll","Colorama Arena",4,7,"Karlstad IBF Ungdom",2
+"258","Jonas Snäll","Uddeholm Arena",3,7,"IBF Örebro Ungdom",1
+"259","Jonas Snäll","Uddeholm Arena",3,7,"Kristinehamns IBF",1
+"260","Jonas Snäll","Uddeholm Arena",3,7,"Filipstad IBK",1
+"261","Jonas Snäll","Uddeholm Arena",3,7,"Hagfors IF Uddeholm",3
+"262","Jonathan Morén","Fagerstahallen",2,13,"IBF Örebro Ungdom",1
+"263","Jonathan Morén","Fagerstahallen",2,13,"Per-Ols IBF",2
+"264","Jonathan Morén","Fagerstahallen",2,13,"Skattkärrs IK",1
+"265","Jonathan Morén","Nibblehallen",2,13,"IBK Hallsta",2
+"266","Jonathan Morén","Nibblehallen",2,13,"Hagfors IF Uddeholm",1
+"267","Jonathan Morén","Nibblehallen",2,13,"Sala Silverstaden IBK",1
+"268","Jonathan Morén","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"Kumla IBK",1
+"269","Jonathan Morén","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"IFK Arboga IBK",1
+"270","Jonathan Morén","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"Skälby IBK",3
+"271","Jonathan Morén","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"IBF Örebro Ungdom",1
+"272","Jonathan Morén","Sala Idrottshall",2,13,"Filipstad IBK",1
+"273","Jonathan Morén","Sala Idrottshall",2,13,"Kristinehamns IBF",1
+"274","Jonathan Morén","Sala Idrottshall",2,13,"IBK Sala",2
+"275","Jonathan Morén","Vasahallen",4,13,"Hagfors IF Uddeholm",1
+"276","Jonathan Morén","Vasahallen",4,13,"Sala Silverstaden IBK",1
+"277","Jonathan Morén","Vasahallen",4,13,"Per-Ols IBF",1
+"278","Jonathan Morén","Vasahallen",4,13,"IBK Sala",1
+"279","Jonathan Morén","Vasahallen",4,13,"IFK Arboga IBK",4
+"280","Juha Vanninen","Nibblehallen",1,5,"Karlstad IBF Ungdom",1
+"281","Juha Vanninen","Nibblehallen",1,5,"IBK Hallsta",1
+"282","Juha Vanninen","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Skälby IBK",1
+"283","Juha Vanninen","Pettersbergsskolan (S:T Ilian Skolan)",1,5,"Sala Silverstaden IBK",1
+"284","Juha Vanninen","Sala Idrottshall",2,5,"Hagfors IF Uddeholm",1
+"285","Juha Vanninen","Sala Idrottshall",2,5,"IBK Sala",2
+"286","Juha Vanninen","Sala Idrottshall",2,5,"Per-Ols IBF",1
+"287","Juha Vanninen","Vasahallen",1,5,"IBF Örebro Ungdom",1
+"288","Juha Vanninen","Vasahallen",1,5,"IFK Arboga IBK",1
+"289","Jörgen Dahlström","Mellringehallen - Örebro",1,1,"Skattkärrs IK",1
+"290","Jörgen Dahlström","Mellringehallen - Örebro",1,1,"IBF Örebro Ungdom",1
+"291","Kai Kinnari","Fagerstahallen",1,4,"Per-Ols IBF",1
+"292","Kai Kinnari","Fagerstahallen",1,4,"Filipstad IBK",1
+"293","Kai Kinnari","Nibblehallen",1,4,"IBK Sala",1
+"294","Kai Kinnari","Nibblehallen",1,4,"IBK Hallsta",1
+"295","Kai Kinnari","Sala Idrottshall",2,4,"IBF Örebro Ungdom",1
+"296","Kai Kinnari","Sala Idrottshall",2,4,"Sala Silverstaden IBK",2
+"297","Kai Kinnari","Sala Idrottshall",2,4,"Skälby IBK",1
+"298","Kim Palmroth","Kumlahallen",1,1,"Filipstad IBK",1
+"299","Kim Palmroth","Kumlahallen",1,1,"Kumla IBK",1
+"300","Lars Flink","Fagerstahallen",3,13,"Kumla IBK",1
+"301","Lars Flink","Fagerstahallen",3,13,"Per-Ols IBF",2
+"302","Lars Flink","Fagerstahallen",3,13,"Per-Ols IBF",1
+"303","Lars Flink","Fagerstahallen",3,13,"Kristinehamns IBF",1
+"304","Lars Flink","Fagerstahallen",3,13,"Hagfors IF Uddeholm",1
+"305","Lars Flink","Nibblehallen",2,13,"IBK Hallsta",1
+"306","Lars Flink","Nibblehallen",2,13,"IBK Hallsta",1
+"307","Lars Flink","Nibblehallen",2,13,"Filipstad IBK",1
+"308","Lars Flink","Nibblehallen",2,13,"Kumla IBK",1
+"309","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"Karlstad IBF Ungdom",1
+"310","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"Skälby IBK",1
+"311","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"Per-Ols IBF",1
+"312","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"Hagfors IF Uddeholm",1
+"313","Lars Flink","Pettersbergsskolan (S:T Ilian Skolan)",3,13,"Skälby IBK",2
+"314","Lars Flink","Sala Idrottshall",5,13,"Sala Silverstaden IBK",1
+"315","Lars Flink","Sala Idrottshall",5,13,"Kumla IBK",1
+"316","Lars Flink","Sala Idrottshall",5,13,"IBF Örebro Ungdom",1
+"317","Lars Flink","Sala Idrottshall",5,13,"Filipstad IBK",1
+"318","Lars Flink","Sala Idrottshall",5,13,"IFK Arboga IBK",1
+"319","Lars Flink","Sala Idrottshall",5,13,"IBK Sala",1
+"320","Lars Flink","Sala Idrottshall",5,13,"Kristinehamns IBF",1
+"321","Lars Flink","Sala Idrottshall",5,13,"Sala Silverstaden IBK",1
+"322","Lars Flink","Sala Idrottshall",5,13,"IBK Sala",2
+"323","Lars Larsson","Brogårdshallen",2,5,"Kristinehamns IBF",2
+"324","Lars Larsson","Brogårdshallen",2,5,"Skälby IBK",1
+"325","Lars Larsson","Brogårdshallen",2,5,"IBF Örebro Ungdom",1
+"326","Lars Larsson","Colorama Arena",2,5,"Karlstad IBF Ungdom",2
+"327","Lars Larsson","Colorama Arena",2,5,"Skattkärrs IK",2
+"328","Lars Larsson","Spångbergshallen",1,5,"Filipstad IBK ",1
+"329","Lars Larsson","Spångbergshallen",1,5,"Karlstad IBF Ungdom",1
+"330","Linus Larsson","Brogårdshallen",1,6,"Kristinehamns IBF",1
+"331","Linus Larsson","Brogårdshallen",1,6,"Lillån IBK",1
+"332","Linus Larsson","Colorama Arena",2,6,"Skattkärrs IK",1
+"333","Linus Larsson","Colorama Arena",2,6,"Karlstad IBF Ungdom",1
+"334","Linus Larsson","Colorama Arena",2,6,"Kumla IBK",1
+"335","Linus Larsson","Colorama Arena",2,6,"Sala Silverstaden IBK",1
+"336","Linus Larsson","Spångbergshallen",2,6,"Filipstad IBK ",2
+"337","Linus Larsson","Spångbergshallen",2,6,"Skälby IBK",1
+"338","Linus Larsson","Spångbergshallen",2,6,"Hagfors IF Uddeholm",1
+"339","Linus Larsson","Uddeholm Arena",1,6,"IBK Sala",1
+"340","Linus Larsson","Uddeholm Arena",1,6,"Hagfors IF Uddeholm",1
+"341","Marco Mustonen","Mellringehallen - Örebro",1,1,"IBK Hallsta",1
+"342","Marco Mustonen","Mellringehallen - Örebro",1,1,"Lillån IBK",1
+"343","Marcus Karppinen","Fagerstahallen",2,11,"Sala Silverstaden IBK",1
+"344","Marcus Karppinen","Fagerstahallen",2,11,"Per-Ols IBF",2
+"345","Marcus Karppinen","Fagerstahallen",2,11,"IFK Arboga IBK",1
+"346","Marcus Karppinen","Nibblehallen",3,11,"IBF Örebro Ungdom",1
+"347","Marcus Karppinen","Nibblehallen",3,11,"Per-Ols IBF",1
+"348","Marcus Karppinen","Nibblehallen",3,11,"IBK Hallsta",1
+"349","Marcus Karppinen","Nibblehallen",3,11,"IBK Hallsta",2
+"350","Marcus Karppinen","Nibblehallen",3,11,"IFK Arboga IBK",1
+"351","Marcus Karppinen","Pettersbergsskolan (S:T Ilian Skolan)",1,11,"Skälby IBK",1
+"352","Marcus Karppinen","Pettersbergsskolan (S:T Ilian Skolan)",1,11,"IBK Sala",1
+"353","Marcus Karppinen","Sala Idrottshall",4,11,"Sala Silverstaden IBK",2
+"354","Marcus Karppinen","Sala Idrottshall",4,11,"Skälby IBK",1
+"355","Marcus Karppinen","Sala Idrottshall",4,11,"Karlstad IBF Ungdom",1
+"356","Marcus Karppinen","Sala Idrottshall",4,11,"IBK Hallsta",1
+"357","Marcus Karppinen","Sala Idrottshall",4,11,"Per-Ols IBF",1
+"358","Marcus Karppinen","Sala Idrottshall",4,11,"IBK Sala",2
+"359","Marcus Karppinen","Vasahallen",1,11,"IFK Arboga IBK",1
+"360","Marcus Karppinen","Vasahallen",1,11,"Karlstad IBF Ungdom",1
+"361","Mattias Pettersson","Brogårdshallen",1,13,"Kristinehamns IBF",1
+"362","Mattias Pettersson","Brogårdshallen",1,13,"Hagfors IF Uddeholm",1
+"363","Mattias Pettersson","Colorama Arena",6,13,"Lillån IBK",1
+"364","Mattias Pettersson","Colorama Arena",6,13,"Per-Ols IBF",1
+"365","Mattias Pettersson","Colorama Arena",6,13,"IBF Örebro Ungdom",1
+"366","Mattias Pettersson","Colorama Arena",6,13,"Karlstad IBF Ungdom",3
+"367","Mattias Pettersson","Colorama Arena",6,13,"Skattkärrs IK",3
+"368","Mattias Pettersson","Colorama Arena",6,13,"Filipstad IBK",1
+"369","Mattias Pettersson","Colorama Arena",6,13,"IBK Hallsta",1
+"370","Mattias Pettersson","Colorama Arena",6,13,"Kristinehamns IBF",1
+"371","Mattias Pettersson","Spångbergshallen",3,13,"IBF Örebro Ungdom",1
+"372","Mattias Pettersson","Spångbergshallen",3,13,"Per-Ols IBF",1
+"373","Mattias Pettersson","Spångbergshallen",3,13,"IFK Arboga IBK",1
+"374","Mattias Pettersson","Spångbergshallen",3,13,"Filipstad IBK ",3
+"375","Mattias Pettersson","Uddeholm Arena",3,13,"Per-Ols IBF",1
+"376","Mattias Pettersson","Uddeholm Arena",3,13,"Sala Silverstaden IBK",1
+"377","Mattias Pettersson","Uddeholm Arena",3,13,"Hagfors IF Uddeholm",3
+"378","Mattias Pettersson","Uddeholm Arena",3,13,"Lillån IBK",1
+"379","Micael Svensson","Idrottshuset, Örebro Plan 1",1,6,"Hagfors IF Uddeholm",1
+"380","Micael Svensson","Idrottshuset, Örebro Plan 1",1,6,"Lillån IBK",1
+"381","Micael Svensson","Kumlahallen",4,6,"IBK Hallsta",1
+"382","Micael Svensson","Kumlahallen",4,6,"IBK Sala",1
+"383","Micael Svensson","Kumlahallen",4,6,"Kumla IBK",4
+"384","Micael Svensson","Kumlahallen",4,6,"Karlstad IBF Ungdom",1
+"385","Micael Svensson","Kumlahallen",4,6,"IFK Arboga IBK",1
+"386","Micael Svensson","Mellringehallen - Örebro",1,6,"IBF Örebro Ungdom",1
+"387","Micael Svensson","Mellringehallen - Örebro",1,6,"Kristinehamns IBF",1
+"388","Michael Nilsson","Idrottshuset, Örebro Plan 1",1,2,"Lillån IBK",1
+"389","Michael Nilsson","Idrottshuset, Örebro Plan 1",1,2,"Skälby IBK",1
+"390","Michael Nilsson","Mellringehallen - Örebro",1,2,"IBF Örebro Ungdom",1
+"391","Michael Nilsson","Mellringehallen - Örebro",1,2,"Per-Ols IBF",1
+"392","Michael Rosenlönn","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"Skälby IBK",1
+"393","Michael Rosenlönn","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"Skattkärrs IK",1
+"394","Michael Rosenlönn","Sala Idrottshall",1,2,"Hagfors IF Uddeholm",1
+"395","Michael Rosenlönn","Sala Idrottshall",1,2,"Sala Silverstaden IBK",1
+"396","Mikael Jansson","Fagerstahallen",1,4,"Per-Ols IBF",1
+"397","Mikael Jansson","Fagerstahallen",1,4,"Lillån IBK",1
+"398","Mikael Jansson","Nibblehallen",1,4,"Skälby IBK",1
+"399","Mikael Jansson","Nibblehallen",1,4,"IBK Hallsta",1
+"400","Mikael Jansson","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Filipstad IBK",1
+"401","Mikael Jansson","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Skälby IBK",1
+"402","Mikael Jansson","Sala Idrottshall",1,4,"Sala Silverstaden IBK",1
+"403","Mikael Jansson","Sala Idrottshall",1,4,"Lillån IBK",1
+"404","Mårten Hanold","Nibblehallen",1,4,"IBK Hallsta",1
+"405","Mårten Hanold","Nibblehallen",1,4,"Karlstad IBF Ungdom",1
+"406","Mårten Hanold","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Sala Silverstaden IBK",1
+"407","Mårten Hanold","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Skälby IBK",1
+"408","Mårten Hanold","Sala Idrottshall",2,4,"Sala Silverstaden IBK",2
+"409","Mårten Hanold","Sala Idrottshall",2,4,"Kristinehamns IBF",1
+"410","Mårten Hanold","Sala Idrottshall",2,4,"Skattkärrs IK",1
+"411","Nicklas Johansson","Brogårdshallen",6,13,"Karlstad IBF Ungdom",1
+"412","Nicklas Johansson","Brogårdshallen",6,13,"Kristinehamns IBF",1
+"413","Nicklas Johansson","Brogårdshallen",6,13,"Kristinehamns IBF",5
+"414","Nicklas Johansson","Brogårdshallen",6,13,"IBK Sala",1
+"415","Nicklas Johansson","Brogårdshallen",6,13,"Skälby IBK",1
+"416","Nicklas Johansson","Brogårdshallen",6,13,"Filipstad IBK",1
+"417","Nicklas Johansson","Brogårdshallen",6,13,"Skattkärrs IK",1
+"418","Nicklas Johansson","Brogårdshallen",6,13,"IBK Hallsta",1
+"419","Nicklas Johansson","Colorama Arena",3,13,"Skälby IBK",1
+"420","Nicklas Johansson","Colorama Arena",3,13,"Hagfors IF Uddeholm",1
+"421","Nicklas Johansson","Colorama Arena",3,13,"IFK Arboga IBK",1
+"422","Nicklas Johansson","Colorama Arena",3,13,"Karlstad IBF Ungdom",3
+"423","Nicklas Johansson","Spångbergshallen",2,13,"IBK Hallsta",1
+"424","Nicklas Johansson","Spångbergshallen",2,13,"Filipstad IBK ",2
+"425","Nicklas Johansson","Spångbergshallen",2,13,"Kristinehamns IBF",1
+"426","Nicklas Johansson","Uddeholm Arena",2,13,"Karlstad IBF Ungdom",1
+"427","Nicklas Johansson","Uddeholm Arena",2,13,"Kumla IBK",1
+"428","Nicklas Johansson","Uddeholm Arena",2,13,"Hagfors IF Uddeholm",2
+"429","Oscar Söljén","Kumlahallen",2,5,"Kumla IBK",2
+"430","Oscar Söljén","Kumlahallen",2,5,"Sala Silverstaden IBK",1
+"431","Oscar Söljén","Kumlahallen",2,5,"Lillån IBK",1
+"432","Oscar Söljén","Mellringehallen - Örebro",3,5,"Kumla IBK",1
+"433","Oscar Söljén","Mellringehallen - Örebro",3,5,"IBF Örebro Ungdom",2
+"434","Oscar Söljén","Mellringehallen - Örebro",3,5,"Lillån IBK",1
+"435","Oscar Söljén","Mellringehallen - Örebro",3,5,"Sala Silverstaden IBK",2
+"436","Oskar Sundin","Brogårdshallen",1,8,"Kristinehamns IBF",1
+"437","Oskar Sundin","Brogårdshallen",1,8,"Lillån IBK",1
+"438","Oskar Sundin","Colorama Arena",2,8,"Sala Silverstaden IBK",1
+"439","Oskar Sundin","Colorama Arena",2,8,"Karlstad IBF Ungdom",1
+"440","Oskar Sundin","Colorama Arena",2,8,"Kumla IBK",1
+"441","Oskar Sundin","Colorama Arena",2,8,"Skattkärrs IK",1
+"442","Oskar Sundin","Spångbergshallen",3,8,"Skälby IBK",1
+"443","Oskar Sundin","Spångbergshallen",3,8,"Hagfors IF Uddeholm",1
+"444","Oskar Sundin","Spångbergshallen",3,8,"Filipstad IBK ",3
+"445","Oskar Sundin","Spångbergshallen",3,8,"IBK Sala",1
+"446","Oskar Sundin","Uddeholm Arena",2,8,"IFK Arboga IBK",1
+"447","Oskar Sundin","Uddeholm Arena",2,8,"Hagfors IF Uddeholm",2
+"448","Oskar Sundin","Uddeholm Arena",2,8,"Skattkärrs IK",1
+"449","Patrik Ådemark","Sala Idrottshall",1,1,"Sala Silverstaden IBK",1
+"450","Patrik Ådemark","Sala Idrottshall",1,1,"Karlstad IBF Ungdom",1
+"451","Peter Hofer","Fagerstahallen",1,3,"Per-Ols IBF",1
+"452","Peter Hofer","Fagerstahallen",1,3,"Hagfors IF Uddeholm",1
+"453","Peter Hofer","Pettersbergsskolan (S:T Ilian Skolan)",1,3,"Per-Ols IBF",1
+"454","Peter Hofer","Pettersbergsskolan (S:T Ilian Skolan)",1,3,"Skälby IBK",1
+"455","Peter Hofer","Sala Idrottshall",1,3,"Kumla IBK",1
+"456","Peter Hofer","Sala Idrottshall",1,3,"IBK Sala",1
+"457","Philip Aronsson-Elffors","Brogårdshallen",3,10,"IBK Hallsta",1
+"458","Philip Aronsson-Elffors","Brogårdshallen",3,10,"Skattkärrs IK",1
+"459","Philip Aronsson-Elffors","Brogårdshallen",3,10,"Kristinehamns IBF",3
+"460","Philip Aronsson-Elffors","Brogårdshallen",3,10,"Kumla IBK",1
+"461","Philip Aronsson-Elffors","Colorama Arena",3,10,"Hagfors IF Uddeholm",1
+"462","Philip Aronsson-Elffors","Colorama Arena",3,10,"Kristinehamns IBF",1
+"463","Philip Aronsson-Elffors","Colorama Arena",3,10,"Skattkärrs IK",3
+"464","Philip Aronsson-Elffors","Colorama Arena",3,10,"Skälby IBK",1
+"465","Philip Aronsson-Elffors","Spångbergshallen",2,10,"Skattkärrs IK",1
+"466","Philip Aronsson-Elffors","Spångbergshallen",2,10,"Sala Silverstaden IBK",1
+"467","Philip Aronsson-Elffors","Spångbergshallen",2,10,"Filipstad IBK ",2
+"468","Philip Aronsson-Elffors","Stavdal Arena",1,10,"Karlstad IBF Ungdom",1
+"469","Philip Aronsson-Elffors","Stavdal Arena",1,10,"IBF Örebro Ungdom",1
+"470","Philip Aronsson-Elffors","Uddeholm Arena",1,10,"IBK Hallsta",1
+"471","Philip Aronsson-Elffors","Uddeholm Arena",1,10,"Hagfors IF Uddeholm",1
+"472","Rasmus Zarins","Fagerstahallen",1,2,"Skälby IBK",1
+"473","Rasmus Zarins","Fagerstahallen",1,2,"Per-Ols IBF",1
+"474","Rasmus Zarins","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"IBK Hallsta",1
+"475","Rasmus Zarins","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"Skälby IBK",1
+"476","Robert Forslind Lovrencic","Kumlahallen",1,1,"Skälby IBK",1
+"477","Robert Forslind Lovrencic","Kumlahallen",1,1,"Kumla IBK",1
+"478","Robert Kuylenstjerna","Uddeholm Arena",1,1,"Hagfors IF Uddeholm",1
+"479","Robert Kuylenstjerna","Uddeholm Arena",1,1,"IBK Sala",1
+"480","Robin Särén","Brogårdshallen",1,1,"Kristinehamns IBF",1
+"481","Robin Särén","Brogårdshallen",1,1,"Per-Ols IBF",1
+"482","Sebastian Falk-Asplund","Brogårdshallen",1,11,"Hagfors IF Uddeholm",1
+"483","Sebastian Falk-Asplund","Brogårdshallen",1,11,"Kristinehamns IBF",1
+"484","Sebastian Falk-Asplund","Colorama Arena",5,11,"Karlstad IBF Ungdom",2
+"485","Sebastian Falk-Asplund","Colorama Arena",5,11,"IBF Örebro Ungdom",1
+"486","Sebastian Falk-Asplund","Colorama Arena",5,11,"Skattkärrs IK",3
+"487","Sebastian Falk-Asplund","Colorama Arena",5,11,"Lillån IBK",1
+"488","Sebastian Falk-Asplund","Colorama Arena",5,11,"Per-Ols IBF",1
+"489","Sebastian Falk-Asplund","Colorama Arena",5,11,"Filipstad IBK",1
+"490","Sebastian Falk-Asplund","Colorama Arena",5,11,"IBK Hallsta",1
+"491","Sebastian Falk-Asplund","Spångbergshallen",3,11,"IFK Arboga IBK",1
+"492","Sebastian Falk-Asplund","Spångbergshallen",3,11,"Per-Ols IBF",1
+"493","Sebastian Falk-Asplund","Spångbergshallen",3,11,"IBF Örebro Ungdom",1
+"494","Sebastian Falk-Asplund","Spångbergshallen",3,11,"Filipstad IBK ",3
+"495","Sebastian Falk-Asplund","Uddeholm Arena",2,11,"Sala Silverstaden IBK",1
+"496","Sebastian Falk-Asplund","Uddeholm Arena",2,11,"Hagfors IF Uddeholm",2
+"497","Sebastian Falk-Asplund","Uddeholm Arena",2,11,"Per-Ols IBF",1
+"498","Thomas Kallin","Nibblehallen",1,4,"IBK Hallsta",1
+"499","Thomas Kallin","Nibblehallen",1,4,"Kristinehamns IBF",1
+"500","Thomas Kallin","Sala Idrottshall",3,4,"Skattkärrs IK",1
+"501","Thomas Kallin","Sala Idrottshall",3,4,"IBK Sala",2
+"502","Thomas Kallin","Sala Idrottshall",3,4,"Kumla IBK",1
+"503","Thomas Kallin","Sala Idrottshall",3,4,"Sala Silverstaden IBK",2
+"504","Tim Solig","Fagerstahallen",1,2,"Skälby IBK",1
+"505","Tim Solig","Fagerstahallen",1,2,"Per-Ols IBF",1
+"506","Tim Solig","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"IBK Hallsta",1
+"507","Tim Solig","Pettersbergsskolan (S:T Ilian Skolan)",1,2,"Skälby IBK",1
+"508","Timmy Samuelsson","Brogårdshallen",1,1,"Per-Ols IBF",1
+"509","Timmy Samuelsson","Brogårdshallen",1,1,"Kristinehamns IBF",1
+"510","Tobias Jäderqvist","Brogårdshallen",1,2,"Sala Silverstaden IBK",1
+"511","Tobias Jäderqvist","Brogårdshallen",1,2,"Kristinehamns IBF",1
+"512","Tobias Jäderqvist","Spångbergshallen",1,2,"Filipstad IBK ",1
+"513","Tobias Jäderqvist","Spångbergshallen",1,2,"Lillån IBK",1
+"514","Tobias Söderberg","Nibblehallen",1,5,"IBK Hallsta",1
+"515","Tobias Söderberg","Nibblehallen",1,5,"Filipstad IBK",1
+"516","Tobias Söderberg","Sala Idrottshall",3,5,"Skattkärrs IK",1
+"517","Tobias Söderberg","Sala Idrottshall",3,5,"Sala Silverstaden IBK",2
+"518","Tobias Söderberg","Sala Idrottshall",3,5,"Kumla IBK",1
+"519","Tobias Söderberg","Sala Idrottshall",3,5,"IBK Sala",2
+"520","Tobias Söderberg","Vasahallen",1,5,"Skattkärrs IK",1
+"521","Tobias Söderberg","Vasahallen",1,5,"IFK Arboga IBK",1
+"522","Tomas Karlsson","Fagerstahallen",1,4,"Per-Ols IBF",1
+"523","Tomas Karlsson","Fagerstahallen",1,4,"Lillån IBK",1
+"524","Tomas Karlsson","Nibblehallen",1,4,"IBK Hallsta",1
+"525","Tomas Karlsson","Nibblehallen",1,4,"Skälby IBK",1
+"526","Tomas Karlsson","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Skälby IBK",1
+"527","Tomas Karlsson","Pettersbergsskolan (S:T Ilian Skolan)",1,4,"Filipstad IBK",1
+"528","Tomas Karlsson","Sala Idrottshall",1,4,"Lillån IBK",1
+"529","Tomas Karlsson","Sala Idrottshall",1,4,"Sala Silverstaden IBK",1
+"530","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Lillån IBK",1
+"531","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Lillån IBK",3
+"532","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Kristinehamns IBF",1
+"533","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Skattkärrs IK",1
+"534","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"IBK Sala",1
+"535","Tomas Persson","Idrottshuset, Örebro Plan 1",4,8,"Per-Ols IBF",1
+"536","Tomas Persson","Kumlahallen",3,8,"Kumla IBK",1
+"537","Tomas Persson","Kumlahallen",3,8,"Kristinehamns IBF",1
+"538","Tomas Persson","Kumlahallen",3,8,"Sala Silverstaden IBK",1
+"539","Tomas Persson","Kumlahallen",3,8,"Kumla IBK",2
+"540","Tomas Persson","Kumlahallen",3,8,"Skattkärrs IK",1
+"541","Tomas Persson","Mellringehallen - Örebro",1,8,"IBF Örebro Ungdom",1
+"542","Tomas Persson","Mellringehallen - Örebro",1,8,"Karlstad IBF Ungdom",1
+"543","Tommy Nordin","Idrottshuset, Örebro Plan 1",1,5,"Lillån IBK",1
+"544","Tommy Nordin","Idrottshuset, Örebro Plan 1",1,5,"Filipstad IBK",1
+"545","Tommy Nordin","Kumlahallen",1,5,"Per-Ols IBF",1
+"546","Tommy Nordin","Kumlahallen",1,5,"Kumla IBK",1
+"547","Tommy Nordin","Mellringehallen - Örebro",3,5,"Hagfors IF Uddeholm",1
+"548","Tommy Nordin","Mellringehallen - Örebro",3,5,"IBF Örebro Ungdom",1
+"549","Tommy Nordin","Mellringehallen - Örebro",3,5,"IBF Örebro Ungdom",2
+"550","Tommy Nordin","Mellringehallen - Örebro",3,5,"Filipstad IBK",1
+"551","Tommy Nordin","Mellringehallen - Örebro",3,5,"Lillån IBK",1
+"552","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"Per-Ols IBF",1
+"553","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"IFK Arboga IBK",1
+"554","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"IBF Örebro Ungdom",1
+"555","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"Lillån IBK",4
+"556","Tony Wennberg","Idrottshuset, Örebro Plan 1",4,15,"Kumla IBK",1
+"557","Tony Wennberg","Kumlahallen",1,15,"Kumla IBK",1
+"558","Tony Wennberg","Kumlahallen",1,15,"IBF Örebro Ungdom",1
+"559","Tony Wennberg","Mellringehallen - Örebro",4,15,"Skälby IBK",1
+"560","Tony Wennberg","Mellringehallen - Örebro",4,15,"IBF Örebro Ungdom",3
+"561","Tony Wennberg","Mellringehallen - Örebro",4,15,"Lillån IBK",1
+"562","Tony Wennberg","Mellringehallen - Örebro",4,15,"IFK Arboga IBK",1
+"563","Tony Wennberg","Mellringehallen - Örebro",4,15,"IBK Hallsta",2
+"564","Tony Wennberg","Nibblehallen",1,15,"IBK Hallsta",1
+"565","Tony Wennberg","Nibblehallen",1,15,"Skattkärrs IK",1
+"566","Tony Wennberg","Pettersbergsskolan (S:T Ilian Skolan)",2,15,"Skälby IBK",2
+"567","Tony Wennberg","Pettersbergsskolan (S:T Ilian Skolan)",2,15,"Lillån IBK",1
+"568","Tony Wennberg","Pettersbergsskolan (S:T Ilian Skolan)",2,15,"Kristinehamns IBF",1
+"569","Tony Wennberg","Vasahallen",3,15,"IFK Arboga IBK",3
+"570","Tony Wennberg","Vasahallen",3,15,"Lillån IBK",1
+"571","Tony Wennberg","Vasahallen",3,15,"IBK Hallsta",1
+"572","Tony Wennberg","Vasahallen",3,15,"Skälby IBK",1
+"573","William Ringkvist","Fagerstahallen",2,10,"IFK Arboga IBK",1
+"574","William Ringkvist","Fagerstahallen",2,10,"Per-Ols IBF",2
+"575","William Ringkvist","Fagerstahallen",2,10,"Sala Silverstaden IBK",1
+"576","William Ringkvist","Nibblehallen",3,10,"Per-Ols IBF",1
+"577","William Ringkvist","Nibblehallen",3,10,"IBK Hallsta",1
+"578","William Ringkvist","Nibblehallen",3,10,"Lillån IBK",1
+"579","William Ringkvist","Nibblehallen",3,10,"IBK Hallsta",2
+"580","William Ringkvist","Nibblehallen",3,10,"IBF Örebro Ungdom",1
+"581","William Ringkvist","Sala Idrottshall",4,10,"Per-Ols IBF",1
+"582","William Ringkvist","Sala Idrottshall",4,10,"IBK Sala",2
+"583","William Ringkvist","Sala Idrottshall",4,10,"IBK Hallsta",1
+"584","William Ringkvist","Sala Idrottshall",4,10,"Skälby IBK",1
+"585","William Ringkvist","Sala Idrottshall",4,10,"Karlstad IBF Ungdom",1
+"586","William Ringkvist","Sala Idrottshall",4,10,"Sala Silverstaden IBK",2
+"587","William Ringkvist","Vasahallen",1,10,"IFK Arboga IBK",1
+"588","William Ringkvist","Vasahallen",1,10,"Karlstad IBF Ungdom",1
